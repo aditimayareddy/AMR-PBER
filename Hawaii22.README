@@ -1,0 +1,313 @@
+Hawaii 2022 General Election Precinct-Level Results and Boundaries
+
+## RDH Date Retrieval
+07/14/23
+
+## Sources
+[Hawaii Election results file](https://github.com/MEDSL/2022-elections-official/blob/main/individual_states/2022-hi-local-precinct-general.zip) and [Hawaii Precinct boundaries](https://geoportal.hawaii.gov/datasets/HiStateGIS::election-precincts/about)
+
+## Notes on Field Names (adapted from VEST):
+Columns reporting votes generally follow the pattern: 
+One example is:
+G16PREDCLI
+The first character is G for a general election, P for a primary, S for a special, and R for a runoff.
+Characters 2 and 3 are the year of the election.*
+Characters 4-6 represent the office type (see list below).
+Character 7 represents the party of the candidate.
+Characters 8-10 are the first three letters of the candidate's last name.
+
+*To fit within the GIS 10 character limit for field names, the naming convention is slightly different for contests with districts. All fields are listed below with definitions.
+
+Office Codes Used:
+CD# - U.S. Congress District #
+GOV - Governor/Lieutenant Governor
+SL##  - State Legislative Lower District ##
+SSC# - State Supreme Court/Alaska Superior Court Justice Seat #
+SUX  - State Legislative Upper District X
+USS - U.S. Senate
+
+
+Party Codes Used:
+A - Aloha Aina Party
+C - Constitution Party
+D - Democratic
+G - Green Party
+L - Libertarian
+N - Non-partisan
+R - Republican
+U - Undeclared
+
+
+## Fields:
+Field Name Description                                                  
+PRECINCT   County precinct identifier
+SLDL_DIST  State House District                                         
+SLDU_DIST  State Senate District                                    
+G22BMQNO   Ballot Measure question no response                          
+G22BMQYES  Ballot Measure question yes response                         
+G22CONDPEL Peltola, Mary S. - DEM                                       
+G22CONLBYE Bye, Chris - LIB                                             
+G22CONOWRI Write-in                                                     
+G22CONRBEG Begich, Nick - REP                                           
+G22CONRPAL Palin, Sarah - REP                                           
+G22GOVDGAR Gara/Cook - DEM                                              
+G22GOVNWAL Walker/Drygas - NON                                          
+G22GOVOWRI Write-in                                                     
+G22GOVRDUN Dunleavy/Dahlstrom - REP                                     
+G22GOVRPIE Pierce/Grunwald - REP                                        
+G22SACNHAR Harbison for SAC no vote                                     
+G22SACYHAR Harbison for SAC yes vote                                    
+G22USSDCHE Chesbro, Patricia R. - DEM                                   
+G22USSOWRI Write-in                                                     
+G22USSRKEL Kelley, Buzz A. - REP                                        
+G22USSRMUR Murkowski, Lisa - REP                                        
+G22USSRTSH Tshibaka, Kelly C. - REP                                     
+GSL01NORT  Ortiz, Daniel H. "Dan" - NON                                 
+GSL01OWRI  Write-in                                                     
+GSL01RBYN  Bynum, Jeremy T. - REP                                       
+GSL02NHIM  Himschoot, Rebecca - NON                                     
+GSL02OWRI  Write-in                                                     
+GSL02RSKA  Skaflestad, Kenny - REP                                      
+GSL03DSTO  Story, Andrea "Andi" - DEM                                   
+GSL03OWRI  Write-in                                                     
+GSL04DHAN  Hannan, Sara - DEM                                           
+GSL04OWRI  Write-in                                                     
+GSL04UHAR  Harmon, Darrell J. - UND                                     
+GSL05OWRI  Write-in                                                     
+GSL05RSTU  Stutes, Louise B. - REP                                      
+GSL05RVIN  Vincent, Benjamin T. - REP                                   
+GSL06NBRY  Bryant, Ginger - NON                                         
+GSL06NFLO  Flora, Louis A. "Louie" - NON                                
+GSL06OWRI  Write-in                                                     
+GSL06RVAN  Vance, Sarah L. - REP                                        
+GSL07OWRI  Write-in                                                     
+GSL07RGIL  Gillham, Ronald D. "Ron" - REP                               
+GSL07RRUF  Ruffridge, Justin - REP                                      
+GSL08OWRI  Write-in                                                     
+GSL08RCAR  Carpenter, Ben - REP                                         
+GSL09DSCH  Schaff, David L. - DEM                                       
+GSL09OWRI  Write-in                                                     
+GSL09RSHA  Shaw, Laddie H. - REP                                        
+GSL10DSTO  Storm, Caroline - DEM                                        
+GSL10LINS  Insalaco, Mikel E. - LIB                                     
+GSL10OWRI  Write-in                                                     
+GSL10RJOH  Johnson, Craig W. - REP                                      
+GSL11NFEA  Featherly, Walter T. - NON                                   
+GSL11OWRI  Write-in                                                     
+GSL11RBIE  Bieling, Ross P. - REP                                       
+GSL11RCOU  Coulombe, Julie - REP                                        
+GSL12NSCH  Schrage, Calvin R. - NON                                     
+GSL12OWRI  Write-in                                                     
+GSL12RMCD  McDonald, Jay - REP                                          
+GSL13DJOS  Josephson, Andy - DEM                                        
+GSL13OWRI  Write-in                                                     
+GSL13RHEN  Henslee, Katherine J. "Kathy" - REP                          
+GSL14NGAL  Galvin, Alyse S. - NON                                       
+GSL14OWRI  Write-in                                                     
+GSL14RDAN  Danger, Nicholas - REP                                       
+GSL15DWEL  Wells, Denny - DEM                                           
+GSL15OWRI  Write-in                                                     
+GSL15REIB  Eibeck, David - REP                                          
+GSL15RMCK  McKay, Thomas W. "Tom" - REP                                 
+GSL16DARM  Armstrong, Jennifer "Jennie" - DEM                           
+GSL16OWRI  Write-in                                                     
+GSL16RVAZ  Vazquez, Liz - REP                                           
+GSL17DDRU  Drummond, Harriet A. - DEM                                   
+GSL17DFIE  Fields, William Z. "Zack" - DEM                              
+GSL17OWRI  Write-in                                                     
+GSL18DFRA  Franks, Lyn D. - DEM                                         
+GSL18DGRO  Groh, Cliff - DEM                                            
+GSL18OWRI  Write-in                                                     
+GSL18RNEL  Nelson, David - REP                                          
+GSL19DMIN  Mina, Genevieve G. - DEM                                     
+GSL19DWYA  Wyatt, Russell O. - DEM                                      
+GSL19OWRI  Write-in                                                     
+GSL20DGRA  Gray, Andrew T. - DEM                                        
+GSL20LKOH  Kohlhaas, Scott A. - LIB                                     
+GSL20OWRI  Write-in                                                     
+GSL20RBAU  Bauer, Paul A. - REP                                         
+GSL20RHAR  Harary, Jordan I. - REP                                      
+GSL21DMEA  Mears, Donna C. - DEM                                        
+GSL21OWRI  Write-in                                                     
+GSL21RWOL  Wolfe, Forrest M. - REP                                      
+GSL22DEIS  Eischeid, Ted J. - DEM                                       
+GSL22OWRI  Write-in                                                     
+GSL22RWRI  Wright, Stanley A. - REP                                     
+GSL23OWRI  Write-in                                                     
+GSL23RALL  Allard, Jamie - REP                                          
+GSL23RBRA  Branson, Roger L. - REP                                      
+GSL24DNEL  Nelson, Daryl W. - DEM                                       
+GSL24OWRI  Write-in                                                     
+GSL24RJAC  Jackson, Sharon - REP                                        
+GSL24RSAD  Saddler, Dan - REP                                           
+GSL25OWRI  Write-in                                                     
+GSL25RJOH  Johnson, DeLena M. - REP                                     
+GSL25RWOO  Wood, Lawrence D. - REP                                      
+GSL26LSTO  Stokes, Daniel L. - LIB                                      
+GSL26OWRI  Write-in                                                     
+GSL26RTIL  Tilton, Cathy L. - REP                                       
+GSL27OWRI  Write-in                                                     
+GSL27RCAR  Carpenter, Brendan R. - REP                                  
+GSL27REAS  Eastman, David - REP                                         
+GSL27RGRA  Graham, Stuart R. "Stu" - REP                                
+GSL28OWRI  Write-in                                                     
+GSL28RALL  Allen, Rachel M. - REP                                       
+GSL28RMEN  Menard, Steve - REP                                          
+GSL28RSUM  Sumner, Jesse M. - REP                                       
+GSL28RWRI  Wright, Jessica - REP                                        
+GSL29NHAA  Haase, Elijah D. - NON                                       
+GSL29OWRI  Write-in                                                     
+GSL29RRAU  Rauscher, George - REP                                       
+GSL30DMIN  Mindiola, L. Joy - DEM                                       
+GSL30OWRI  Write-in                                                     
+GSL30RHOL  Holmes, Doyle E. - REP                                       
+GSL30RMCC  McCabe, Kevin J. - REP                                       
+GSL31DDIB  Dibert, Maxine L. - DEM                                      
+GSL31OWRI  Write-in                                                     
+GSL31RLEB  LeBon, Barton S. - REP                                       
+GSL31RNAS  Nash, Kelly - REP                                            
+GSL32DLAW  Lawrence, Van - DEM                                          
+GSL32OWRI  Write-in                                                     
+GSL32RGIV  Givens, Timothy W. - REP                                     
+GSL32RSTA  Stapp, Will B. - REP                                         
+GSL33OWRI  Write-in                                                     
+GSL33RPRA  Prax, Glenn M. "Mike" - REP                                  
+GSL34DHOP  Hopkins, Grier H. - DEM                                      
+GSL34OWRI  Write-in                                                     
+GSL34RDEM  DeMars, Nate - REP                                           
+GSL34RTOM  Tomaszewski, Frank J. - REP                                  
+GSL35CBRO  Brown, Kieran C. - CON                                       
+GSL35DCAR  Carrick, Ashley E. - DEM                                     
+GSL35OWRI  Write-in                                                     
+GSL35RMCK  McKinley, Kevin - REP                                        
+GSL35RMCN  McNeill, Ruben A. Jr. - REP                                  
+GSL36DFOW  Fowler, Angela K. "Fitch" - DEM                              
+GSL36OWRI  Write-in                                                     
+GSL36RCRO  Cronk, Mike - REP                                            
+GSL37OWRI  Write-in                                                     
+GSL37UEDG  Edgmon, Bryce - UND                                          
+GSL38DMCC  McCormick, Conrad J. "C.J." - DEM                            
+GSL38OWRI  Write-in                                                     
+GSL39AIVA  Ivanoff, Tyler L. - AIP                                      
+GSL39DFOS  Foster, Neal W. - DEM                                        
+GSL39OWRI  Write-in                                                     
+GSL40NPAT  Patkotak, Josiah B. "Aullaqsruaq" - NON                      
+GSL40OWRI  Write-in                                                     
+GSSC1NMEA  Superior Court JD1 - Mead (Vote for 1) - NO                  
+GSSC1NPAT  Superior Court JD1 - Pate (Vote for 1) - NO                  
+GSSC1NSCH  Superior Court JD1 - Schally (Vote for 1) - NO               
+GSSC1YMEA  Superior Court JD1 - Mead (Vote for 1) - YES                 
+GSSC1YPAT  Superior Court JD1 - Pate (Vote for 1) - YES                 
+GSSC1YSCH  Superior Court JD1 - Schally (Vote for 1) - YES              
+GSSC3NCAG  Superior Court JD3 - Cagle (Vote for 1) - NO                 
+GSSC3NEAS  Superior Court JD3 - Easter (Vote for 1) - NO                
+GSSC3NGAN  Superior Court JD3 - Gandbhir (Vote for 1) - NO              
+GSSC3NGAR  Superior Court JD3 - Garton (Vote for 1) - NO                
+GSSC3NGIS  Superior Court JD3 - Gist (Vote for 1) - NO                  
+GSSC3NJOA  Superior Court JD3 - Joanis (Vote for 1) - NO                
+GSSC3NKRI  Superior Court JD3 - Kristiansen (Vote for 1) - NO           
+GSSC3NMAT  Superior Court JD3 - Matthews (Vote for 1) - NO              
+GSSC3NPET  Superior Court JD3 - Peterson (Vote for 1) - NO              
+GSSC3NRAM  Superior Court JD3 - Ramgren (Vote for 1) - NO               
+GSSC3NSAX  Superior Court JD3 - Saxby (Vote for 1) - NO                 
+GSSC3NSTO  Superior Court JD3 - Stohler (Vote for 1) - NO               
+GSSC3NWAL  Superior Court JD3 - Wallace (Vote for 1) - NO               
+GSSC3YCAG  Superior Court JD3 - Cagle (Vote for 1) - YES                
+GSSC3YEAS  Superior Court JD3 - Easter (Vote for 1) - YES               
+GSSC3YGAN  Superior Court JD3 - Gandbhir (Vote for 1) - YES             
+GSSC3YGAR  Superior Court JD3 - Garton (Vote for 1) - YES               
+GSSC3YGIS  Superior Court JD3 - Gist (Vote for 1) - YES                 
+GSSC3YJOA  Superior Court JD3 - Joanis (Vote for 1) - YES               
+GSSC3YKRI  Superior Court JD3 - Kristiansen (Vote for 1) - YES          
+GSSC3YMAT  Superior Court JD3 - Matthews (Vote for 1) - YES             
+GSSC3YPET  Superior Court JD3 - Peterson (Vote for 1) - YES             
+GSSC3YRAM  Superior Court JD3 - Ramgren (Vote for 1) - YES              
+GSSC3YSAX  Superior Court JD3 - Saxby (Vote for 1) - YES                
+GSSC3YSTO  Superior Court JD3 - Stohler (Vote for 1) - YES              
+GSSC3YWAL  Superior Court JD3 - Wallace (Vote for 1) - YES              
+GSSC4NBEN  Superior Court JD4 - Bennett (Vote for 1) - NO               
+GSSC4NHAA  Superior Court JD4 - Haas (Vote for 1) - NO                  
+GSSC4NPET  Superior Court JD4 - Peterson (Vote for 1) - NO              
+GSSC4YBEN  Superior Court JD4 - Bennett (Vote for 1) - YES              
+GSSC4YHAA  Superior Court JD4 - Haas (Vote for 1) - YES                 
+GSSC4YPET  Superior Court JD4 - Peterson (Vote for 1) - YES             
+GSUAOWRI   Write-in                                                     
+GSUARSHE   Sheldon, Mike - REP                                          
+GSUARSTE   Stedman, Bert K. - REP                                       
+GSUBDKIE   Kiehl, Jesse - DEM                                           
+GSUBOWRI   Write-in                                                     
+GSUCOWRI   Write-in                                                     
+GSUCRJON   Jones, Walter H. - REP                                       
+GSUCRSMI   Smith, Heath - REP                                           
+GSUCRSTE   Stevens, Gary - REP                                          
+GSUDNCIZ   Cizek, Andy - NON                                            
+GSUDOWRI   Write-in                                                     
+GSUDRBAB   Babcock, Tuckerman - REP                                     
+GSUDRBJO   Bjorkman, Jesse J. - REP                                     
+GSUEDCAC   Cacy, Roselynn - DEM                                         
+GSUEOWRI   Write-in                                                     
+GSUERGIE   Giessel, Cathy - REP                                         
+GSUERHOL   Holland, Roger - REP                                         
+GSUFDPAR   Park, Janice L. - DEM                                        
+GSUFOWRI   Write-in                                                     
+GSUFRKAU   Kaufman, James D. - REP                                      
+GSUGDGRA   Gray-Jackson, Elvi - DEM                                     
+GSUGOWRI   Write-in                                                     
+GSUGRSAN   Sanders, Marcus D. - REP                                     
+GSUHDCLA   Claman, Matt - DEM                                           
+GSUHOWRI   Write-in                                                     
+GSUHRCOS   Costello, Mia - REP                                          
+GSUIDTOB   Tobin, Loki G. - DEM                                         
+GSUIOWRI   Write-in                                                     
+GSUIUHER   Herndon, Heather - UND                                       
+GSUJDDUN   Dunbar, Forrest - DEM                                        
+GSUJDTAR   Tarr, Geran - DEM                                            
+GSUJOWRI   Write-in                                                     
+GSUJRSAT   Satterfield, Andrew E. - REP                                 
+GSUKDWIE   Wielechowski, Bill - DEM                                     
+GSUKOWRI   Write-in                                                     
+GSUKRCUN   Cunningham, John W. - REP                                    
+GSULOWRI   Write-in                                                     
+GSULRMCC   McCarty, Ken - REP                                           
+GSULRMER   Merrick, Kelly R. - REP                                      
+GSUMDCOO   Cooper, Jim - DEM                                            
+GSUMOWRI   Write-in                                                     
+GSUMRHUG   Hughes, Shelley - REP                                        
+GSUNOWRI   Write-in                                                     
+GSUNRCLA   Clayton, Scott D. - REP                                      
+GSUNRWIL   Wilson, David S. - REP                                       
+GSUNRWRI   Wright, Stephen - REP                                        
+GSUOOWRI   Write-in                                                     
+GSUORMAS   Massie, Doug A. - REP                                        
+GSUORSHO   Shower, Michael K. - REP                                     
+GSUPDKAW   Kawasaki, Scott - DEM                                        
+GSUPOWRI   Write-in                                                     
+GSUPRJAF   Jafre, Alex N. - REP                                         
+GSUPRMAT   Matherly, Jim - REP                                          
+GSUQASER   Serkov, Arthur P. - AIP                                      
+GSUQNBEN   Bennett, John D. - NON                                       
+GSUQOWRI   Write-in                                                     
+GSUQRMYE   Myers, Robert H. Jr. - REP                                   
+GSURAWIL   Williams, Robert "Bert" - AIP                                
+GSUROWRI   Write-in                                                     
+GSURRBIS   Bishop, Click - REP                                          
+GSURRVER   Verhagen, Elijah M. - REP                                    
+GSUSDHOF   Hoffman, Lyman F. - DEM                                      
+GSUSOWRI   Write-in                                                     
+GSUSVKEP   Keppel, Willy - VET                                          
+                                      
+## Processing Steps
+Visit the RDH GitHub and the processing script for this code [here](https://github.com/nonpartisan-redistricting-datahub/pber_collection)
+
+Early, absentee, and questioned votes are reported at the state house district level. Overseas federal absentee ballots are reported at the statewide level. These votes are apportioned by candidate to precincts based on the precinct-level reported vote.
+
+## Additional Notes
+Since Alaska has portions of the state with no lower level of government, House Districts serve a similar purpose as counties do in other states for the purpose of reporting votes. As such, the "District" column in this file serves a similar purpose to that of a "County" column in other states.
+
+The tabular precinct-level data available which was used to create this file was labeled "Unofficial". The RDH carefully checked state total results for each contest against the totals labeled "Official" in PDF form (https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf) and all totals matched. The RDH cannot guarantee the accuracy of any of the information within. 
+
+There was no race in State Senate District T, assignments for these precincts were added using precinct and district overlap information.
+
+The precinct shapefiles contain a House and Senate District assignments. These assignments matched the assignment of precincts to districts based off of election results for all House Districts and for all but two precincts for Senate Districts. The spatial information of these precincts was compared against that of the District shapes themselves and it appears that the precinct shapefile had these precincts assigned inaccurately.
+
+Please direct questions related to processing this dataset to info@redistrictingdatahub.org.
