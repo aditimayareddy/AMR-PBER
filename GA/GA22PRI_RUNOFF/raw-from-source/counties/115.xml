@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 10:44:42 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Polk</Region>
+    <VoterTurnout totalVoters="23426" ballotsCast="194" voterTurnout="0.83">
+        <Precincts>
+            <Precinct name="Aragon" totalVoters="3256" ballotsCast="21" voterTurnout="0.64" percentReporting="4" />
+            <Precinct name="Blooming Grove" totalVoters="1699" ballotsCast="13" voterTurnout="0.77" percentReporting="4" />
+            <Precinct name="Cedartown" totalVoters="6222" ballotsCast="68" voterTurnout="1.09" percentReporting="4" />
+            <Precinct name="Fish Creek" totalVoters="1625" ballotsCast="7" voterTurnout="0.43" percentReporting="4" />
+            <Precinct name="Lake Creek" totalVoters="2803" ballotsCast="14" voterTurnout="0.50" percentReporting="4" />
+            <Precinct name="Rockmart" totalVoters="5841" ballotsCast="62" voterTurnout="1.06" percentReporting="4" />
+            <Precinct name="Youngs Grove" totalVoters="1980" ballotsCast="9" voterTurnout="0.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="0" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="1" />
+            <Precinct name="Rockmart" votes="1" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="0" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="0" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="115">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Aragon" votes="3" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="4" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="4" />
+                <Precinct name="Youngs Grove" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="37">
+                <Precinct name="Aragon" votes="3" />
+                <Precinct name="Blooming Grove" votes="5" />
+                <Precinct name="Cedartown" votes="12" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="4" />
+                <Precinct name="Rockmart" votes="12" />
+                <Precinct name="Youngs Grove" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Aragon" votes="5" />
+                <Precinct name="Blooming Grove" votes="4" />
+                <Precinct name="Cedartown" votes="23" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="21" />
+                <Precinct name="Youngs Grove" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="0" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="77">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="7" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Aragon" votes="5" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="11" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="3" />
+                <Precinct name="Rockmart" votes="11" />
+                <Precinct name="Youngs Grove" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Aragon" votes="4" />
+                <Precinct name="Blooming Grove" votes="2" />
+                <Precinct name="Cedartown" votes="10" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="13" />
+                <Precinct name="Youngs Grove" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="1" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="2" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="1" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="0" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="0" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="36">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="1" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Aragon" votes="2" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="3" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="4" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="8" />
+                <Precinct name="Fish Creek" votes="3" />
+                <Precinct name="Lake Creek" votes="1" />
+                <Precinct name="Rockmart" votes="7" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="0" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="155">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Aragon" votes="2" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="10" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="4" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="56">
+                <Precinct name="Aragon" votes="6" />
+                <Precinct name="Blooming Grove" votes="5" />
+                <Precinct name="Cedartown" votes="18" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="5" />
+                <Precinct name="Rockmart" votes="19" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="75">
+                <Precinct name="Aragon" votes="8" />
+                <Precinct name="Blooming Grove" votes="5" />
+                <Precinct name="Cedartown" votes="25" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="4" />
+                <Precinct name="Rockmart" votes="27" />
+                <Precinct name="Youngs Grove" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="1" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="1" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="1" />
+            <Precinct name="Rockmart" votes="2" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="0" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="0" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="96">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Aragon" votes="2" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="5" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="1" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="Aragon" votes="6" />
+                <Precinct name="Blooming Grove" votes="4" />
+                <Precinct name="Cedartown" votes="10" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="3" />
+                <Precinct name="Rockmart" votes="10" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Aragon" votes="3" />
+                <Precinct name="Blooming Grove" votes="6" />
+                <Precinct name="Cedartown" votes="16" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="20" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="1" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="94">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="6" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="3" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="35">
+                <Precinct name="Aragon" votes="2" />
+                <Precinct name="Blooming Grove" votes="2" />
+                <Precinct name="Cedartown" votes="12" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="4" />
+                <Precinct name="Rockmart" votes="13" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Aragon" votes="6" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="17" />
+                <Precinct name="Fish Creek" votes="2" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="13" />
+                <Precinct name="Youngs Grove" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="0" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="2" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="1" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Aragon" votes="0" />
+            <Precinct name="Blooming Grove" votes="0" />
+            <Precinct name="Cedartown" votes="0" />
+            <Precinct name="Fish Creek" votes="0" />
+            <Precinct name="Lake Creek" votes="0" />
+            <Precinct name="Rockmart" votes="0" />
+            <Precinct name="Youngs Grove" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="127">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Aragon" votes="3" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="8" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="4" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Aragon" votes="6" />
+                <Precinct name="Blooming Grove" votes="4" />
+                <Precinct name="Cedartown" votes="17" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="4" />
+                <Precinct name="Rockmart" votes="16" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Aragon" votes="3" />
+                <Precinct name="Blooming Grove" votes="5" />
+                <Precinct name="Cedartown" votes="26" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="3" />
+                <Precinct name="Rockmart" votes="16" />
+                <Precinct name="Youngs Grove" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="0" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="64">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Aragon" votes="0" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="3" />
+                <Precinct name="Fish Creek" votes="1" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Aragon" votes="2" />
+                <Precinct name="Blooming Grove" votes="2" />
+                <Precinct name="Cedartown" votes="5" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="3" />
+                <Precinct name="Rockmart" votes="7" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Aragon" votes="6" />
+                <Precinct name="Blooming Grove" votes="1" />
+                <Precinct name="Cedartown" votes="6" />
+                <Precinct name="Fish Creek" votes="3" />
+                <Precinct name="Lake Creek" votes="2" />
+                <Precinct name="Rockmart" votes="18" />
+                <Precinct name="Youngs Grove" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Aragon" votes="1" />
+                <Precinct name="Blooming Grove" votes="0" />
+                <Precinct name="Cedartown" votes="1" />
+                <Precinct name="Fish Creek" votes="0" />
+                <Precinct name="Lake Creek" votes="0" />
+                <Precinct name="Rockmart" votes="0" />
+                <Precinct name="Youngs Grove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

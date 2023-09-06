@@ -1,0 +1,2074 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/27/2022 5:28:41 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Warren</Region>
+    <VoterTurnout totalVoters="3723" ballotsCast="673" voterTurnout="18.08">
+        <Precincts>
+            <Precinct name="Warrenton" totalVoters="3723" ballotsCast="673" voterTurnout="18.08" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Warrenton" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="71">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Warrenton" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Warrenton" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Warrenton" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="547">
+            <VoteType name="Election Day Votes" votes="321">
+                <Precinct name="Warrenton" votes="321" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="205">
+                <Precinct name="Warrenton" votes="205" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Warrenton" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="419">
+            <VoteType name="Election Day Votes" votes="189">
+                <Precinct name="Warrenton" votes="189" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="192">
+                <Precinct name="Warrenton" votes="192" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Warrenton" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Warrenton" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="473">
+            <VoteType name="Election Day Votes" votes="255">
+                <Precinct name="Warrenton" votes="255" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="198">
+                <Precinct name="Warrenton" votes="198" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="167">
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Warrenton" votes="103" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Warrenton" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="0">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Warrenton" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="448">
+            <VoteType name="Election Day Votes" votes="209">
+                <Precinct name="Warrenton" votes="209" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="201">
+                <Precinct name="Warrenton" votes="201" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Warrenton" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="Warrenton" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="361">
+            <VoteType name="Election Day Votes" votes="216">
+                <Precinct name="Warrenton" votes="216" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="129">
+                <Precinct name="Warrenton" votes="129" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="75">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Warrenton" votes="45" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Warrenton" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="145">
+            <VoteType name="Election Day Votes" votes="77">
+                <Precinct name="Warrenton" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Warrenton" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Warrenton" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Warrenton" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Warrenton" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="236">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Warrenton" votes="111" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Warrenton" votes="104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Warrenton" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Warrenton" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Warrenton" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Warrenton" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Warrenton" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="460">
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Warrenton" votes="272" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="172">
+                <Precinct name="Warrenton" votes="172" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Warrenton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="177">
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Warrenton" votes="96" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="73">
+                <Precinct name="Warrenton" votes="73" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="56">
+            <Precinct name="Warrenton" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="101">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Warrenton" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Warrenton" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Warrenton" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Warrenton" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Warrenton" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Warrenton" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Warrenton" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="98">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Warrenton" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Warrenton" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Warrenton" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="474">
+            <VoteType name="Election Day Votes" votes="252">
+                <Precinct name="Warrenton" votes="252" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="202">
+                <Precinct name="Warrenton" votes="202" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="150">
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="Warrenton" votes="105" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Warrenton" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Warrenton" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="311">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Warrenton" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="136">
+                <Precinct name="Warrenton" votes="136" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="88">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Warrenton" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Warrenton" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Warrenton" votes="118" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="555">
+            <VoteType name="Election Day Votes" votes="317">
+                <Precinct name="Warrenton" votes="317" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="217">
+                <Precinct name="Warrenton" votes="217" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="76">
+            <Precinct name="Warrenton" votes="76" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="127">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Warrenton" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Warrenton" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="182">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Warrenton" votes="93" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Warrenton" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Warrenton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="79">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Warrenton" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Warrenton" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="67">
+            <Precinct name="Warrenton" votes="67" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Warrenton" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="40">
+                <Precinct name="Warrenton" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="418">
+            <VoteType name="Election Day Votes" votes="224">
+                <Precinct name="Warrenton" votes="224" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Warrenton" votes="174" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="84">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Warrenton" votes="60" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Warrenton" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="69">
+            <Precinct name="Warrenton" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="152">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Warrenton" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Warrenton" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="195">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Warrenton" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="98">
+                <Precinct name="Warrenton" votes="98" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Warrenton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="70">
+            <Precinct name="Warrenton" votes="70" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="124">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Warrenton" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Warrenton" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="479">
+            <VoteType name="Election Day Votes" votes="271">
+                <Precinct name="Warrenton" votes="271" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="186">
+                <Precinct name="Warrenton" votes="186" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Warrenton" votes="62" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Warrenton" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Warrenton" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="65">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Warrenton" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Warrenton" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="64">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Warrenton" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Warrenton" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="213">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Warrenton" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Warrenton" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Warrenton" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="112">
+            <Precinct name="Warrenton" votes="112" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Warrenton" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="126">
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Warrenton" votes="70" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Warrenton" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Warrenton" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="411">
+            <VoteType name="Election Day Votes" votes="234">
+                <Precinct name="Warrenton" votes="234" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="162">
+                <Precinct name="Warrenton" votes="162" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Warrenton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Warrenton" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="94">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Warrenton" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Warrenton" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="61">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Warrenton" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="94">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Warrenton" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="40">
+                <Precinct name="Warrenton" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="98">
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Warrenton" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="127">
+            <Precinct name="Warrenton" votes="127" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="546">
+            <VoteType name="Election Day Votes" votes="313">
+                <Precinct name="Warrenton" votes="313" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="212">
+                <Precinct name="Warrenton" votes="212" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Warrenton" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="196">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Warrenton" votes="93" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="84">
+                <Precinct name="Warrenton" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Warrenton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="181">
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="Warrenton" votes="90" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="Warrenton" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="Warrenton" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="540">
+            <VoteType name="Election Day Votes" votes="306">
+                <Precinct name="Warrenton" votes="306" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="213">
+                <Precinct name="Warrenton" votes="213" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Warrenton" votes="83" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="207">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Warrenton" votes="100" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="94">
+                <Precinct name="Warrenton" votes="94" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Warrenton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="118">
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Warrenton" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Warrenton" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Warrenton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Warrenton" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 12 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Warrenton" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Rick W. Allen(I)" party="REP" totalVotes="576">
+            <VoteType name="Election Day Votes" votes="325">
+                <Precinct name="Warrenton" votes="325" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="227">
+                <Precinct name="Warrenton" votes="227" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Warrenton" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="95">
+            <Precinct name="Warrenton" votes="95" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Elizabeth 'Liz' Johnson" party="DEM" totalVotes="369">
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Warrenton" votes="181" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="163">
+                <Precinct name="Warrenton" votes="163" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 23 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="93">
+            <Precinct name="Warrenton" votes="93" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Max Burns(I)" party="REP" totalVotes="580">
+            <VoteType name="Election Day Votes" votes="333">
+                <Precinct name="Warrenton" votes="333" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="223">
+                <Precinct name="Warrenton" votes="223" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Warrenton" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 128 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="130">
+            <Precinct name="Warrenton" votes="130" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Mack Jackson(I)" party="DEM" totalVotes="334">
+            <VoteType name="Election Day Votes" votes="154">
+                <Precinct name="Warrenton" votes="154" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="151">
+                <Precinct name="Warrenton" votes="151" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Warrenton" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Warrenton" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Yes" party="REP" totalVotes="642">
+            <VoteType name="Election Day Votes" votes="366">
+                <Precinct name="Warrenton" votes="366" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="250">
+                <Precinct name="Warrenton" votes="250" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="No" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Warrenton" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Yes" party="REP" totalVotes="536">
+            <VoteType name="Election Day Votes" votes="318">
+                <Precinct name="Warrenton" votes="318" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="197">
+                <Precinct name="Warrenton" votes="197" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="No" party="REP" totalVotes="122">
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Warrenton" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Warrenton" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Warrenton" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Yes" party="REP" totalVotes="560">
+            <VoteType name="Election Day Votes" votes="327">
+                <Precinct name="Warrenton" votes="327" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="212">
+                <Precinct name="Warrenton" votes="212" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="No" party="REP" totalVotes="78">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Warrenton" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Warrenton" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Warrenton" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="530">
+            <VoteType name="Election Day Votes" votes="302">
+                <Precinct name="Warrenton" votes="302" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="212">
+                <Precinct name="Warrenton" votes="212" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="91">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Warrenton" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Warrenton" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Warrenton" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="654">
+            <VoteType name="Election Day Votes" votes="373">
+                <Precinct name="Warrenton" votes="373" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="256">
+                <Precinct name="Warrenton" votes="256" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Warrenton" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="643">
+            <VoteType name="Election Day Votes" votes="368">
+                <Precinct name="Warrenton" votes="368" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="249">
+                <Precinct name="Warrenton" votes="249" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Warrenton" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="REP" totalVotes="613">
+            <VoteType name="Election Day Votes" votes="351">
+                <Precinct name="Warrenton" votes="351" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="237">
+                <Precinct name="Warrenton" votes="237" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="REP" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Warrenton" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Warrenton" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="REP" totalVotes="495">
+            <VoteType name="Election Day Votes" votes="270">
+                <Precinct name="Warrenton" votes="270" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="204">
+                <Precinct name="Warrenton" votes="204" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="REP" totalVotes="138">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Warrenton" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Warrenton" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Warrenton" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="DEM" totalVotes="377">
+            <VoteType name="Election Day Votes" votes="175">
+                <Precinct name="Warrenton" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Warrenton" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Warrenton" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Warrenton" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Warrenton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Warrenton" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="DEM" totalVotes="392">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Warrenton" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Warrenton" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Warrenton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Warrenton" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Warrenton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Warrenton" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="DEM" totalVotes="410">
+            <VoteType name="Election Day Votes" votes="195">
+                <Precinct name="Warrenton" votes="195" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Warrenton" votes="180" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Warrenton" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Warrenton" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Warrenton" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Warrenton" votes="1" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="344">
+            <VoteType name="Election Day Votes" votes="162">
+                <Precinct name="Warrenton" votes="162" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="157">
+                <Precinct name="Warrenton" votes="157" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Warrenton" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="67">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Warrenton" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Warrenton" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="379">
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="Warrenton" votes="185" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="163">
+                <Precinct name="Warrenton" votes="163" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Warrenton" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Warrenton" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Warrenton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Warrenton" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="418">
+            <VoteType name="Election Day Votes" votes="194">
+                <Precinct name="Warrenton" votes="194" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="187">
+                <Precinct name="Warrenton" votes="187" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Warrenton" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Warrenton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Warrenton" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="395">
+            <VoteType name="Election Day Votes" votes="187">
+                <Precinct name="Warrenton" votes="187" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Warrenton" votes="174" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Warrenton" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Warrenton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Warrenton" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Yes" party="DEM" totalVotes="302">
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Warrenton" votes="152" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="Warrenton" votes="126" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Warrenton" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="No" party="DEM" totalVotes="126">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Warrenton" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="Warrenton" votes="61" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Warrenton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Warrenton" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Yes" party="DEM" totalVotes="396">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Warrenton" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="173">
+                <Precinct name="Warrenton" votes="173" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="No" party="DEM" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Warrenton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Warrenton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="197">
+            <Precinct name="Warrenton" votes="197" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Veronica Brinson" totalVotes="299">
+            <VoteType name="Election Day Votes" votes="162">
+                <Precinct name="Warrenton" votes="162" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="116">
+                <Precinct name="Warrenton" votes="116" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Warrenton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="Verda M. Colvin (I)" totalVotes="641">
+            <VoteType name="Election Day Votes" votes="336">
+                <Precinct name="Warrenton" votes="336" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="269">
+                <Precinct name="Warrenton" votes="269" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Warrenton" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="261">
+            <Precinct name="Warrenton" votes="261" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Shawn Ellen LaGrua (I)" totalVotes="877">
+            <VoteType name="Election Day Votes" votes="467">
+                <Precinct name="Warrenton" votes="467" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="360">
+                <Precinct name="Warrenton" votes="360" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Warrenton" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="255">
+            <Precinct name="Warrenton" votes="255" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Carla McMillian (I)" totalVotes="882">
+            <VoteType name="Election Day Votes" votes="468">
+                <Precinct name="Warrenton" votes="468" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="364">
+                <Precinct name="Warrenton" votes="364" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Warrenton" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="249">
+            <Precinct name="Warrenton" votes="249" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="114" text="Anne Elizabeth Barnes (I)" totalVotes="889">
+            <VoteType name="Election Day Votes" votes="470">
+                <Precinct name="Warrenton" votes="470" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="369">
+                <Precinct name="Warrenton" votes="369" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Warrenton" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="247">
+            <Precinct name="Warrenton" votes="247" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Chris McFadden (I)" totalVotes="888">
+            <VoteType name="Election Day Votes" votes="476">
+                <Precinct name="Warrenton" votes="476" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="362">
+                <Precinct name="Warrenton" votes="362" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Warrenton" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="271">
+            <Precinct name="Warrenton" votes="271" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Trea Pipkin (I)" totalVotes="865">
+            <VoteType name="Election Day Votes" votes="464">
+                <Precinct name="Warrenton" votes="464" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="355">
+                <Precinct name="Warrenton" votes="355" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Warrenton" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Warrenton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="County BOE Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Warrenton" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Sandra Langham Yelton (I)" totalVotes="168">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Warrenton" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="74">
+                <Precinct name="Warrenton" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Warrenton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="County BOE Dist 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Warrenton" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Kay Langham" totalVotes="205">
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Warrenton" votes="123" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="70">
+                <Precinct name="Warrenton" votes="70" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Warrenton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 4:44:44 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Baldwin</Region>
+    <VoterTurnout totalVoters="27249" ballotsCast="1174" voterTurnout="4.31">
+        <Precincts>
+            <Precinct name="Scottboro" totalVoters="1123" ballotsCast="37" voterTurnout="3.29" percentReporting="4" />
+            <Precinct name="North Baldwin" totalVoters="3600" ballotsCast="105" voterTurnout="2.92" percentReporting="4" />
+            <Precinct name="West Baldwin" totalVoters="1929" ballotsCast="84" voterTurnout="4.35" percentReporting="4" />
+            <Precinct name="East Hardwick" totalVoters="1310" ballotsCast="62" voterTurnout="4.73" percentReporting="4" />
+            <Precinct name="West Hardwick" totalVoters="2966" ballotsCast="227" voterTurnout="7.65" percentReporting="4" />
+            <Precinct name="Coopers" totalVoters="1574" ballotsCast="40" voterTurnout="2.54" percentReporting="4" />
+            <Precinct name="South Milledgeville" totalVoters="1269" ballotsCast="84" voterTurnout="6.62" percentReporting="4" />
+            <Precinct name="City Hall Annex" totalVoters="940" ballotsCast="33" voterTurnout="3.51" percentReporting="4" />
+            <Precinct name="Boddie" totalVoters="1395" ballotsCast="31" voterTurnout="2.22" percentReporting="4" />
+            <Precinct name="Courthouse" totalVoters="498" ballotsCast="20" voterTurnout="4.02" percentReporting="4" />
+            <Precinct name="West Thomas" totalVoters="1485" ballotsCast="116" voterTurnout="7.81" percentReporting="4" />
+            <Precinct name="North Milledgeville" totalVoters="2264" ballotsCast="92" voterTurnout="4.06" percentReporting="4" />
+            <Precinct name="Meriwether" totalVoters="2960" ballotsCast="109" voterTurnout="3.68" percentReporting="4" />
+            <Precinct name="East Baldwin" totalVoters="3936" ballotsCast="134" voterTurnout="3.40" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="2" />
+            <Precinct name="East Hardwick" votes="2" />
+            <Precinct name="West Hardwick" votes="1" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="2" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="1" />
+            <Precinct name="North Milledgeville" votes="1" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="0" />
+            <Precinct name="West Hardwick" votes="0" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="0" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="0" />
+            <Precinct name="North Milledgeville" votes="0" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="646">
+            <VoteType name="Absentee by Mail Votes" votes="84">
+                <Precinct name="Scottboro" votes="1" />
+                <Precinct name="North Baldwin" votes="5" />
+                <Precinct name="West Baldwin" votes="4" />
+                <Precinct name="East Hardwick" votes="3" />
+                <Precinct name="West Hardwick" votes="22" />
+                <Precinct name="Coopers" votes="2" />
+                <Precinct name="South Milledgeville" votes="5" />
+                <Precinct name="City Hall Annex" votes="2" />
+                <Precinct name="Boddie" votes="2" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="11" />
+                <Precinct name="North Milledgeville" votes="15" />
+                <Precinct name="Meriwether" votes="1" />
+                <Precinct name="East Baldwin" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="190">
+                <Precinct name="Scottboro" votes="2" />
+                <Precinct name="North Baldwin" votes="24" />
+                <Precinct name="West Baldwin" votes="15" />
+                <Precinct name="East Hardwick" votes="11" />
+                <Precinct name="West Hardwick" votes="32" />
+                <Precinct name="Coopers" votes="3" />
+                <Precinct name="South Milledgeville" votes="18" />
+                <Precinct name="City Hall Annex" votes="9" />
+                <Precinct name="Boddie" votes="4" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="18" />
+                <Precinct name="North Milledgeville" votes="18" />
+                <Precinct name="Meriwether" votes="10" />
+                <Precinct name="East Baldwin" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="372">
+                <Precinct name="Scottboro" votes="15" />
+                <Precinct name="North Baldwin" votes="31" />
+                <Precinct name="West Baldwin" votes="28" />
+                <Precinct name="East Hardwick" votes="14" />
+                <Precinct name="West Hardwick" votes="77" />
+                <Precinct name="Coopers" votes="20" />
+                <Precinct name="South Milledgeville" votes="18" />
+                <Precinct name="City Hall Annex" votes="9" />
+                <Precinct name="Boddie" votes="5" />
+                <Precinct name="Courthouse" votes="6" />
+                <Precinct name="West Thomas" votes="38" />
+                <Precinct name="North Milledgeville" votes="24" />
+                <Precinct name="Meriwether" votes="48" />
+                <Precinct name="East Baldwin" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="517">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Scottboro" votes="7" />
+                <Precinct name="North Baldwin" votes="11" />
+                <Precinct name="West Baldwin" votes="5" />
+                <Precinct name="East Hardwick" votes="3" />
+                <Precinct name="West Hardwick" votes="20" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="5" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="4" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="West Thomas" votes="13" />
+                <Precinct name="North Milledgeville" votes="5" />
+                <Precinct name="Meriwether" votes="7" />
+                <Precinct name="East Baldwin" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="191">
+                <Precinct name="Scottboro" votes="8" />
+                <Precinct name="North Baldwin" votes="20" />
+                <Precinct name="West Baldwin" votes="14" />
+                <Precinct name="East Hardwick" votes="8" />
+                <Precinct name="West Hardwick" votes="33" />
+                <Precinct name="Coopers" votes="6" />
+                <Precinct name="South Milledgeville" votes="17" />
+                <Precinct name="City Hall Annex" votes="4" />
+                <Precinct name="Boddie" votes="8" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="West Thomas" votes="14" />
+                <Precinct name="North Milledgeville" votes="14" />
+                <Precinct name="Meriwether" votes="24" />
+                <Precinct name="East Baldwin" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="234">
+                <Precinct name="Scottboro" votes="4" />
+                <Precinct name="North Baldwin" votes="14" />
+                <Precinct name="West Baldwin" votes="16" />
+                <Precinct name="East Hardwick" votes="21" />
+                <Precinct name="West Hardwick" votes="42" />
+                <Precinct name="Coopers" votes="9" />
+                <Precinct name="South Milledgeville" votes="19" />
+                <Precinct name="City Hall Annex" votes="9" />
+                <Precinct name="Boddie" votes="8" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="21" />
+                <Precinct name="North Milledgeville" votes="15" />
+                <Precinct name="Meriwether" votes="19" />
+                <Precinct name="East Baldwin" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Scottboro" votes="1" />
+            <Precinct name="North Baldwin" votes="1" />
+            <Precinct name="West Baldwin" votes="1" />
+            <Precinct name="East Hardwick" votes="1" />
+            <Precinct name="West Hardwick" votes="2" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="2" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="1" />
+            <Precinct name="North Milledgeville" votes="1" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="0" />
+            <Precinct name="West Hardwick" votes="0" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="0" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="0" />
+            <Precinct name="North Milledgeville" votes="0" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="379">
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Scottboro" votes="5" />
+                <Precinct name="North Baldwin" votes="7" />
+                <Precinct name="West Baldwin" votes="5" />
+                <Precinct name="East Hardwick" votes="4" />
+                <Precinct name="West Hardwick" votes="22" />
+                <Precinct name="Coopers" votes="2" />
+                <Precinct name="South Milledgeville" votes="5" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="3" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="West Thomas" votes="11" />
+                <Precinct name="North Milledgeville" votes="8" />
+                <Precinct name="Meriwether" votes="7" />
+                <Precinct name="East Baldwin" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="113">
+                <Precinct name="Scottboro" votes="1" />
+                <Precinct name="North Baldwin" votes="12" />
+                <Precinct name="West Baldwin" votes="10" />
+                <Precinct name="East Hardwick" votes="3" />
+                <Precinct name="West Hardwick" votes="25" />
+                <Precinct name="Coopers" votes="2" />
+                <Precinct name="South Milledgeville" votes="15" />
+                <Precinct name="City Hall Annex" votes="6" />
+                <Precinct name="Boddie" votes="1" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="6" />
+                <Precinct name="North Milledgeville" votes="10" />
+                <Precinct name="Meriwether" votes="13" />
+                <Precinct name="East Baldwin" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="177">
+                <Precinct name="Scottboro" votes="2" />
+                <Precinct name="North Baldwin" votes="10" />
+                <Precinct name="West Baldwin" votes="12" />
+                <Precinct name="East Hardwick" votes="19" />
+                <Precinct name="West Hardwick" votes="32" />
+                <Precinct name="Coopers" votes="8" />
+                <Precinct name="South Milledgeville" votes="16" />
+                <Precinct name="City Hall Annex" votes="7" />
+                <Precinct name="Boddie" votes="9" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="16" />
+                <Precinct name="North Milledgeville" votes="15" />
+                <Precinct name="Meriwether" votes="15" />
+                <Precinct name="East Baldwin" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="783">
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Scottboro" votes="3" />
+                <Precinct name="North Baldwin" votes="9" />
+                <Precinct name="West Baldwin" votes="4" />
+                <Precinct name="East Hardwick" votes="2" />
+                <Precinct name="West Hardwick" votes="19" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="5" />
+                <Precinct name="City Hall Annex" votes="2" />
+                <Precinct name="Boddie" votes="3" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="13" />
+                <Precinct name="North Milledgeville" votes="12" />
+                <Precinct name="Meriwether" votes="1" />
+                <Precinct name="East Baldwin" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="269">
+                <Precinct name="Scottboro" votes="9" />
+                <Precinct name="North Baldwin" votes="31" />
+                <Precinct name="West Baldwin" votes="19" />
+                <Precinct name="East Hardwick" votes="16" />
+                <Precinct name="West Hardwick" votes="40" />
+                <Precinct name="Coopers" votes="7" />
+                <Precinct name="South Milledgeville" votes="21" />
+                <Precinct name="City Hall Annex" votes="7" />
+                <Precinct name="Boddie" votes="11" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="West Thomas" votes="26" />
+                <Precinct name="North Milledgeville" votes="23" />
+                <Precinct name="Meriwether" votes="21" />
+                <Precinct name="East Baldwin" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="428">
+                <Precinct name="Scottboro" votes="16" />
+                <Precinct name="North Baldwin" votes="35" />
+                <Precinct name="West Baldwin" votes="33" />
+                <Precinct name="East Hardwick" votes="17" />
+                <Precinct name="West Hardwick" votes="87" />
+                <Precinct name="Coopers" votes="21" />
+                <Precinct name="South Milledgeville" votes="20" />
+                <Precinct name="City Hall Annex" votes="11" />
+                <Precinct name="Boddie" votes="4" />
+                <Precinct name="Courthouse" votes="8" />
+                <Precinct name="West Thomas" votes="43" />
+                <Precinct name="North Milledgeville" votes="23" />
+                <Precinct name="Meriwether" votes="52" />
+                <Precinct name="East Baldwin" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="1" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="1" />
+            <Precinct name="West Hardwick" votes="8" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="3" />
+            <Precinct name="City Hall Annex" votes="2" />
+            <Precinct name="Boddie" votes="2" />
+            <Precinct name="Courthouse" votes="1" />
+            <Precinct name="West Thomas" votes="2" />
+            <Precinct name="North Milledgeville" votes="4" />
+            <Precinct name="Meriwether" votes="2" />
+            <Precinct name="East Baldwin" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="0" />
+            <Precinct name="West Hardwick" votes="0" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="0" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="0" />
+            <Precinct name="North Milledgeville" votes="0" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="474">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Scottboro" votes="3" />
+                <Precinct name="North Baldwin" votes="3" />
+                <Precinct name="West Baldwin" votes="4" />
+                <Precinct name="East Hardwick" votes="2" />
+                <Precinct name="West Hardwick" votes="15" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="4" />
+                <Precinct name="City Hall Annex" votes="1" />
+                <Precinct name="Boddie" votes="2" />
+                <Precinct name="Courthouse" votes="4" />
+                <Precinct name="West Thomas" votes="9" />
+                <Precinct name="North Milledgeville" votes="4" />
+                <Precinct name="Meriwether" votes="2" />
+                <Precinct name="East Baldwin" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="144">
+                <Precinct name="Scottboro" votes="8" />
+                <Precinct name="North Baldwin" votes="13" />
+                <Precinct name="West Baldwin" votes="13" />
+                <Precinct name="East Hardwick" votes="10" />
+                <Precinct name="West Hardwick" votes="21" />
+                <Precinct name="Coopers" votes="6" />
+                <Precinct name="South Milledgeville" votes="13" />
+                <Precinct name="City Hall Annex" votes="3" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="14" />
+                <Precinct name="North Milledgeville" votes="11" />
+                <Precinct name="Meriwether" votes="12" />
+                <Precinct name="East Baldwin" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Scottboro" votes="7" />
+                <Precinct name="North Baldwin" votes="19" />
+                <Precinct name="West Baldwin" votes="24" />
+                <Precinct name="East Hardwick" votes="13" />
+                <Precinct name="West Hardwick" votes="54" />
+                <Precinct name="Coopers" votes="14" />
+                <Precinct name="South Milledgeville" votes="14" />
+                <Precinct name="City Hall Annex" votes="8" />
+                <Precinct name="Boddie" votes="4" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="West Thomas" votes="32" />
+                <Precinct name="North Milledgeville" votes="18" />
+                <Precinct name="Meriwether" votes="32" />
+                <Precinct name="East Baldwin" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="668">
+            <VoteType name="Absentee by Mail Votes" votes="115">
+                <Precinct name="Scottboro" votes="5" />
+                <Precinct name="North Baldwin" votes="12" />
+                <Precinct name="West Baldwin" votes="5" />
+                <Precinct name="East Hardwick" votes="4" />
+                <Precinct name="West Hardwick" votes="26" />
+                <Precinct name="Coopers" votes="2" />
+                <Precinct name="South Milledgeville" votes="6" />
+                <Precinct name="City Hall Annex" votes="1" />
+                <Precinct name="Boddie" votes="4" />
+                <Precinct name="Courthouse" votes="1" />
+                <Precinct name="West Thomas" votes="15" />
+                <Precinct name="North Milledgeville" votes="16" />
+                <Precinct name="Meriwether" votes="6" />
+                <Precinct name="East Baldwin" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="228">
+                <Precinct name="Scottboro" votes="2" />
+                <Precinct name="North Baldwin" votes="31" />
+                <Precinct name="West Baldwin" votes="16" />
+                <Precinct name="East Hardwick" votes="9" />
+                <Precinct name="West Hardwick" votes="42" />
+                <Precinct name="Coopers" votes="3" />
+                <Precinct name="South Milledgeville" votes="22" />
+                <Precinct name="City Hall Annex" votes="8" />
+                <Precinct name="Boddie" votes="10" />
+                <Precinct name="Courthouse" votes="4" />
+                <Precinct name="West Thomas" votes="18" />
+                <Precinct name="North Milledgeville" votes="19" />
+                <Precinct name="Meriwether" votes="22" />
+                <Precinct name="East Baldwin" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="325">
+                <Precinct name="Scottboro" votes="12" />
+                <Precinct name="North Baldwin" votes="26" />
+                <Precinct name="West Baldwin" votes="22" />
+                <Precinct name="East Hardwick" votes="23" />
+                <Precinct name="West Hardwick" votes="61" />
+                <Precinct name="Coopers" votes="15" />
+                <Precinct name="South Milledgeville" votes="22" />
+                <Precinct name="City Hall Annex" votes="10" />
+                <Precinct name="Boddie" votes="9" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="West Thomas" votes="26" />
+                <Precinct name="North Milledgeville" votes="20" />
+                <Precinct name="Meriwether" votes="33" />
+                <Precinct name="East Baldwin" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="1" />
+            <Precinct name="West Hardwick" votes="1" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="2" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="1" />
+            <Precinct name="North Milledgeville" votes="3" />
+            <Precinct name="Meriwether" votes="1" />
+            <Precinct name="East Baldwin" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Scottboro" votes="0" />
+            <Precinct name="North Baldwin" votes="0" />
+            <Precinct name="West Baldwin" votes="0" />
+            <Precinct name="East Hardwick" votes="0" />
+            <Precinct name="West Hardwick" votes="0" />
+            <Precinct name="Coopers" votes="0" />
+            <Precinct name="South Milledgeville" votes="0" />
+            <Precinct name="City Hall Annex" votes="0" />
+            <Precinct name="Boddie" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="West Thomas" votes="0" />
+            <Precinct name="North Milledgeville" votes="0" />
+            <Precinct name="Meriwether" votes="0" />
+            <Precinct name="East Baldwin" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="907">
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="Scottboro" votes="8" />
+                <Precinct name="North Baldwin" votes="10" />
+                <Precinct name="West Baldwin" votes="6" />
+                <Precinct name="East Hardwick" votes="6" />
+                <Precinct name="West Hardwick" votes="34" />
+                <Precinct name="Coopers" votes="1" />
+                <Precinct name="South Milledgeville" votes="8" />
+                <Precinct name="City Hall Annex" votes="2" />
+                <Precinct name="Boddie" votes="3" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="West Thomas" votes="21" />
+                <Precinct name="North Milledgeville" votes="11" />
+                <Precinct name="Meriwether" votes="6" />
+                <Precinct name="East Baldwin" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="308">
+                <Precinct name="Scottboro" votes="6" />
+                <Precinct name="North Baldwin" votes="39" />
+                <Precinct name="West Baldwin" votes="27" />
+                <Precinct name="East Hardwick" votes="18" />
+                <Precinct name="West Hardwick" votes="45" />
+                <Precinct name="Coopers" votes="9" />
+                <Precinct name="South Milledgeville" votes="35" />
+                <Precinct name="City Hall Annex" votes="10" />
+                <Precinct name="Boddie" votes="6" />
+                <Precinct name="Courthouse" votes="4" />
+                <Precinct name="West Thomas" votes="26" />
+                <Precinct name="North Milledgeville" votes="27" />
+                <Precinct name="Meriwether" votes="24" />
+                <Precinct name="East Baldwin" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="465">
+                <Precinct name="Scottboro" votes="15" />
+                <Precinct name="North Baldwin" votes="32" />
+                <Precinct name="West Baldwin" votes="38" />
+                <Precinct name="East Hardwick" votes="30" />
+                <Precinct name="West Hardwick" votes="93" />
+                <Precinct name="Coopers" votes="25" />
+                <Precinct name="South Milledgeville" votes="29" />
+                <Precinct name="City Hall Annex" votes="15" />
+                <Precinct name="Boddie" votes="13" />
+                <Precinct name="Courthouse" votes="6" />
+                <Precinct name="West Thomas" votes="49" />
+                <Precinct name="North Milledgeville" votes="28" />
+                <Precinct name="Meriwether" votes="40" />
+                <Precinct name="East Baldwin" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="252">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="6" />
+                <Precinct name="West Baldwin" votes="3" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="8" />
+                <Precinct name="Coopers" votes="1" />
+                <Precinct name="South Milledgeville" votes="2" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="3" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="3" />
+                <Precinct name="North Milledgeville" votes="9" />
+                <Precinct name="Meriwether" votes="2" />
+                <Precinct name="East Baldwin" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="71">
+                <Precinct name="Scottboro" votes="4" />
+                <Precinct name="North Baldwin" votes="5" />
+                <Precinct name="West Baldwin" votes="2" />
+                <Precinct name="East Hardwick" votes="1" />
+                <Precinct name="West Hardwick" votes="20" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="3" />
+                <Precinct name="Boddie" votes="6" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="West Thomas" votes="6" />
+                <Precinct name="North Milledgeville" votes="4" />
+                <Precinct name="Meriwether" votes="10" />
+                <Precinct name="East Baldwin" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="140">
+                <Precinct name="Scottboro" votes="4" />
+                <Precinct name="North Baldwin" votes="13" />
+                <Precinct name="West Baldwin" votes="8" />
+                <Precinct name="East Hardwick" votes="6" />
+                <Precinct name="West Hardwick" votes="26" />
+                <Precinct name="Coopers" votes="4" />
+                <Precinct name="South Milledgeville" votes="8" />
+                <Precinct name="City Hall Annex" votes="3" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="West Thomas" votes="10" />
+                <Precinct name="North Milledgeville" votes="10" />
+                <Precinct name="Meriwether" votes="26" />
+                <Precinct name="East Baldwin" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Scottboro" votes="0" />
+                <Precinct name="North Baldwin" votes="0" />
+                <Precinct name="West Baldwin" votes="0" />
+                <Precinct name="East Hardwick" votes="0" />
+                <Precinct name="West Hardwick" votes="0" />
+                <Precinct name="Coopers" votes="0" />
+                <Precinct name="South Milledgeville" votes="0" />
+                <Precinct name="City Hall Annex" votes="0" />
+                <Precinct name="Boddie" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="West Thomas" votes="0" />
+                <Precinct name="North Milledgeville" votes="0" />
+                <Precinct name="Meriwether" votes="0" />
+                <Precinct name="East Baldwin" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

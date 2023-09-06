@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 11:36:00 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Murray</Region>
+    <VoterTurnout totalVoters="22398" ballotsCast="55" voterTurnout="0.25">
+        <Precincts>
+            <Precinct name="McDonald" totalVoters="2586" ballotsCast="4" voterTurnout="0.15" percentReporting="4" />
+            <Precinct name="Shuck Pen" totalVoters="2937" ballotsCast="10" voterTurnout="0.34" percentReporting="4" />
+            <Precinct name="Southwest" totalVoters="3212" ballotsCast="2" voterTurnout="0.06" percentReporting="4" />
+            <Precinct name="Spring Place" totalVoters="3621" ballotsCast="7" voterTurnout="0.19" percentReporting="4" />
+            <Precinct name="Town" totalVoters="5824" ballotsCast="19" voterTurnout="0.33" percentReporting="4" />
+            <Precinct name="Carters-Doolittle" totalVoters="2082" ballotsCast="11" voterTurnout="0.53" percentReporting="4" />
+            <Precinct name="North" totalVoters="2136" ballotsCast="2" voterTurnout="0.09" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="1" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="0" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="43">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="4" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="2" />
+                <Precinct name="Town" votes="4" />
+                <Precinct name="Carters-Doolittle" votes="4" />
+                <Precinct name="North" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="3" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="5" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="2" />
+                <Precinct name="Town" votes="8" />
+                <Precinct name="Carters-Doolittle" votes="6" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="10">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="1" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="McDonald" votes="2" />
+                <Precinct name="Shuck Pen" votes="1" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="2" />
+                <Precinct name="Town" votes="3" />
+                <Precinct name="Carters-Doolittle" votes="1" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="2" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="0" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="13">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="1" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="1" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="1" />
+                <Precinct name="Town" votes="5" />
+                <Precinct name="Carters-Doolittle" votes="2" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="39">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="4" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="3" />
+                <Precinct name="Town" votes="3" />
+                <Precinct name="Carters-Doolittle" votes="3" />
+                <Precinct name="North" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="3" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="McDonald" votes="3" />
+                <Precinct name="Shuck Pen" votes="5" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="3" />
+                <Precinct name="Town" votes="6" />
+                <Precinct name="Carters-Doolittle" votes="5" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="2" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="0" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="3" />
+                <Precinct name="Town" votes="1" />
+                <Precinct name="Carters-Doolittle" votes="3" />
+                <Precinct name="North" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="1" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="5" />
+                <Precinct name="Carters-Doolittle" votes="4" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="30">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="4" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="2" />
+                <Precinct name="Carters-Doolittle" votes="1" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="2" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="McDonald" votes="2" />
+                <Precinct name="Shuck Pen" votes="4" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="4" />
+                <Precinct name="Town" votes="6" />
+                <Precinct name="Carters-Doolittle" votes="3" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="2" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="0" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="34">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="2" />
+                <Precinct name="Town" votes="2" />
+                <Precinct name="Carters-Doolittle" votes="3" />
+                <Precinct name="North" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="2" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="McDonald" votes="1" />
+                <Precinct name="Shuck Pen" votes="4" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="4" />
+                <Precinct name="Town" votes="8" />
+                <Precinct name="Carters-Doolittle" votes="4" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="18">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="2" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="1" />
+                <Precinct name="Town" votes="1" />
+                <Precinct name="Carters-Doolittle" votes="1" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="1" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="McDonald" votes="2" />
+                <Precinct name="Shuck Pen" votes="2" />
+                <Precinct name="Southwest" votes="1" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="3" />
+                <Precinct name="Carters-Doolittle" votes="3" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

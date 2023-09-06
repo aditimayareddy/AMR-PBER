@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 12:03:39 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Dade</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="53" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="South Dade" totalVoters="0" ballotsCast="8" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="New Salem" totalVoters="0" ballotsCast="16" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Davis" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="New Home" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="West Brow" totalVoters="0" ballotsCast="10" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Trenton" totalVoters="0" ballotsCast="8" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="North Dade" totalVoters="0" ballotsCast="10" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="0" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="0" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="39">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="5" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="1" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="4" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="South Dade" votes="3" />
+                <Precinct name="New Salem" votes="6" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="5" />
+                <Precinct name="Trenton" votes="5" />
+                <Precinct name="North Dade" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="13">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="2" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="South Dade" votes="3" />
+                <Precinct name="New Salem" votes="1" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="1" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="1" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="0" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="10">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="South Dade" votes="2" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="1" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="1" />
+                <Precinct name="Trenton" votes="2" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="41">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="6" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="4" />
+                <Precinct name="Trenton" votes="2" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="South Dade" votes="5" />
+                <Precinct name="New Salem" votes="7" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="5" />
+                <Precinct name="Trenton" votes="3" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="1" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="0" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="17">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="1" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="South Dade" votes="2" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="5" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="34">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="4" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="1" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="3" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="South Dade" votes="4" />
+                <Precinct name="New Salem" votes="7" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="1" />
+                <Precinct name="Trenton" votes="4" />
+                <Precinct name="North Dade" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="1" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Dade" votes="0" />
+            <Precinct name="New Salem" votes="0" />
+            <Precinct name="Davis" votes="0" />
+            <Precinct name="New Home" votes="0" />
+            <Precinct name="West Brow" votes="0" />
+            <Precinct name="Trenton" votes="0" />
+            <Precinct name="North Dade" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="23">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="South Dade" votes="2" />
+                <Precinct name="New Salem" votes="3" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="1" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="South Dade" votes="1" />
+                <Precinct name="New Salem" votes="4" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="2" />
+                <Precinct name="Trenton" votes="4" />
+                <Precinct name="North Dade" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="28">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="3" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="2" />
+                <Precinct name="Davis" votes="1" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="3" />
+                <Precinct name="Trenton" votes="2" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="South Dade" votes="5" />
+                <Precinct name="New Salem" votes="3" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="4" />
+                <Precinct name="Trenton" votes="1" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Dade" votes="0" />
+                <Precinct name="New Salem" votes="0" />
+                <Precinct name="Davis" votes="0" />
+                <Precinct name="New Home" votes="0" />
+                <Precinct name="West Brow" votes="0" />
+                <Precinct name="Trenton" votes="0" />
+                <Precinct name="North Dade" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

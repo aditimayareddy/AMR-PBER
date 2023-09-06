@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 8:31:10 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Lamar</Region>
+    <VoterTurnout totalVoters="12877" ballotsCast="267" voterTurnout="2.07">
+        <Precincts>
+            <Precinct name="Barnesville" totalVoters="2478" ballotsCast="93" voterTurnout="3.75" percentReporting="4" />
+            <Precinct name="Chappell Mill V. FD" totalVoters="1659" ballotsCast="30" voterTurnout="1.81" percentReporting="4" />
+            <Precinct name="Senior Citzen Bldg" totalVoters="1112" ballotsCast="27" voterTurnout="2.43" percentReporting="4" />
+            <Precinct name="Redbone" totalVoters="728" ballotsCast="10" voterTurnout="1.37" percentReporting="4" />
+            <Precinct name="L C S C" totalVoters="3222" ballotsCast="38" voterTurnout="1.18" percentReporting="4" />
+            <Precinct name="Milner" totalVoters="3678" ballotsCast="69" voterTurnout="1.88" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Barnesville" votes="0" />
+            <Precinct name="Chappell Mill V. FD" votes="1" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="L C S C" votes="1" />
+            <Precinct name="Milner" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barnesville" votes="0" />
+            <Precinct name="Chappell Mill V. FD" votes="0" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="L C S C" votes="0" />
+            <Precinct name="Milner" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="161">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Barnesville" votes="17" />
+                <Precinct name="Chappell Mill V. FD" votes="8" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="L C S C" votes="4" />
+                <Precinct name="Milner" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="Barnesville" votes="17" />
+                <Precinct name="Chappell Mill V. FD" votes="4" />
+                <Precinct name="Senior Citzen Bldg" votes="4" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="5" />
+                <Precinct name="Milner" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Barnesville" votes="22" />
+                <Precinct name="Chappell Mill V. FD" votes="10" />
+                <Precinct name="Senior Citzen Bldg" votes="12" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="8" />
+                <Precinct name="Milner" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="103">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Barnesville" votes="14" />
+                <Precinct name="Chappell Mill V. FD" votes="2" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Barnesville" votes="13" />
+                <Precinct name="Chappell Mill V. FD" votes="3" />
+                <Precinct name="Senior Citzen Bldg" votes="2" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="5" />
+                <Precinct name="Milner" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Barnesville" votes="10" />
+                <Precinct name="Chappell Mill V. FD" votes="2" />
+                <Precinct name="Senior Citzen Bldg" votes="7" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="8" />
+                <Precinct name="Milner" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Barnesville" votes="1" />
+            <Precinct name="Chappell Mill V. FD" votes="1" />
+            <Precinct name="Senior Citzen Bldg" votes="1" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="L C S C" votes="1" />
+            <Precinct name="Milner" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barnesville" votes="0" />
+            <Precinct name="Chappell Mill V. FD" votes="0" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="L C S C" votes="0" />
+            <Precinct name="Milner" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="56">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Barnesville" votes="2" />
+                <Precinct name="Chappell Mill V. FD" votes="4" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="4" />
+                <Precinct name="Milner" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Barnesville" votes="4" />
+                <Precinct name="Chappell Mill V. FD" votes="1" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="2" />
+                <Precinct name="Milner" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Barnesville" votes="4" />
+                <Precinct name="Chappell Mill V. FD" votes="1" />
+                <Precinct name="Senior Citzen Bldg" votes="5" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="3" />
+                <Precinct name="Milner" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="205">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Barnesville" votes="29" />
+                <Precinct name="Chappell Mill V. FD" votes="6" />
+                <Precinct name="Senior Citzen Bldg" votes="2" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Barnesville" votes="26" />
+                <Precinct name="Chappell Mill V. FD" votes="6" />
+                <Precinct name="Senior Citzen Bldg" votes="5" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="8" />
+                <Precinct name="Milner" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Barnesville" votes="27" />
+                <Precinct name="Chappell Mill V. FD" votes="11" />
+                <Precinct name="Senior Citzen Bldg" votes="13" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="13" />
+                <Precinct name="Milner" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Barnesville" votes="6" />
+            <Precinct name="Chappell Mill V. FD" votes="2" />
+            <Precinct name="Senior Citzen Bldg" votes="1" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="L C S C" votes="1" />
+            <Precinct name="Milner" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barnesville" votes="0" />
+            <Precinct name="Chappell Mill V. FD" votes="0" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="L C S C" votes="0" />
+            <Precinct name="Milner" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="113">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Barnesville" votes="13" />
+                <Precinct name="Chappell Mill V. FD" votes="4" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="1" />
+                <Precinct name="Milner" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Barnesville" votes="9" />
+                <Precinct name="Chappell Mill V. FD" votes="3" />
+                <Precinct name="Senior Citzen Bldg" votes="2" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="3" />
+                <Precinct name="Milner" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Barnesville" votes="17" />
+                <Precinct name="Chappell Mill V. FD" votes="4" />
+                <Precinct name="Senior Citzen Bldg" votes="12" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="L C S C" votes="8" />
+                <Precinct name="Milner" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="141">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Barnesville" votes="16" />
+                <Precinct name="Chappell Mill V. FD" votes="6" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="10" />
+                <Precinct name="Milner" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="Barnesville" votes="19" />
+                <Precinct name="Chappell Mill V. FD" votes="3" />
+                <Precinct name="Senior Citzen Bldg" votes="4" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Barnesville" votes="13" />
+                <Precinct name="Chappell Mill V. FD" votes="8" />
+                <Precinct name="Senior Citzen Bldg" votes="6" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="L C S C" votes="8" />
+                <Precinct name="Milner" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Barnesville" votes="5" />
+            <Precinct name="Chappell Mill V. FD" votes="1" />
+            <Precinct name="Senior Citzen Bldg" votes="1" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="L C S C" votes="1" />
+            <Precinct name="Milner" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barnesville" votes="0" />
+            <Precinct name="Chappell Mill V. FD" votes="0" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="L C S C" votes="0" />
+            <Precinct name="Milner" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="170">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Barnesville" votes="19" />
+                <Precinct name="Chappell Mill V. FD" votes="5" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="4" />
+                <Precinct name="L C S C" votes="4" />
+                <Precinct name="Milner" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Barnesville" votes="21" />
+                <Precinct name="Chappell Mill V. FD" votes="6" />
+                <Precinct name="Senior Citzen Bldg" votes="4" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Barnesville" votes="22" />
+                <Precinct name="Chappell Mill V. FD" votes="7" />
+                <Precinct name="Senior Citzen Bldg" votes="13" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="L C S C" votes="9" />
+                <Precinct name="Milner" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="84">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Barnesville" votes="10" />
+                <Precinct name="Chappell Mill V. FD" votes="5" />
+                <Precinct name="Senior Citzen Bldg" votes="1" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Barnesville" votes="7" />
+                <Precinct name="Chappell Mill V. FD" votes="1" />
+                <Precinct name="Senior Citzen Bldg" votes="2" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="3" />
+                <Precinct name="Milner" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Barnesville" votes="9" />
+                <Precinct name="Chappell Mill V. FD" votes="5" />
+                <Precinct name="Senior Citzen Bldg" votes="5" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="7" />
+                <Precinct name="Milner" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Barnesville" votes="0" />
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="L C S C" votes="0" />
+                <Precinct name="Milner" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="County Commission - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Chappell Mill V. FD" votes="1" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chappell Mill V. FD" votes="0" />
+            <Precinct name="Senior Citzen Bldg" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Don W. Coffey" party="REP" totalVotes="208">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Chappell Mill V. FD" votes="2" />
+                <Precinct name="Senior Citzen Bldg" votes="4" />
+                <Precinct name="Redbone" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Chappell Mill V. FD" votes="12" />
+                <Precinct name="Senior Citzen Bldg" votes="26" />
+                <Precinct name="Redbone" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="160">
+                <Precinct name="Chappell Mill V. FD" votes="60" />
+                <Precinct name="Senior Citzen Bldg" votes="33" />
+                <Precinct name="Redbone" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Jason Lovett" party="REP" totalVotes="242">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Chappell Mill V. FD" votes="9" />
+                <Precinct name="Senior Citzen Bldg" votes="2" />
+                <Precinct name="Redbone" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Chappell Mill V. FD" votes="10" />
+                <Precinct name="Senior Citzen Bldg" votes="12" />
+                <Precinct name="Redbone" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="203">
+                <Precinct name="Chappell Mill V. FD" votes="96" />
+                <Precinct name="Senior Citzen Bldg" votes="47" />
+                <Precinct name="Redbone" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chappell Mill V. FD" votes="0" />
+                <Precinct name="Senior Citzen Bldg" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

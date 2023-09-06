@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 11:10:51 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Upson</Region>
+    <VoterTurnout totalVoters="17944" ballotsCast="362" voterTurnout="2.02">
+        <Precincts>
+            <Precinct name="Yatesville" totalVoters="1376" ballotsCast="38" voterTurnout="2.76" percentReporting="4" />
+            <Precinct name="Salem" totalVoters="365" ballotsCast="72" voterTurnout="19.73" percentReporting="4" />
+            <Precinct name="Redbone" totalVoters="8113" ballotsCast="95" voterTurnout="1.17" percentReporting="4" />
+            <Precinct name="Town" totalVoters="8090" ballotsCast="157" voterTurnout="1.94" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Yatesville" votes="2" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yatesville" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Charlie Bailey" party="DEM" totalVotes="208">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Yatesville" votes="3" />
+                <Precinct name="Salem" votes="1" />
+                <Precinct name="Redbone" votes="14" />
+                <Precinct name="Town" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="57">
+                <Precinct name="Yatesville" votes="4" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Redbone" votes="22" />
+                <Precinct name="Town" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Yatesville" votes="14" />
+                <Precinct name="Salem" votes="39" />
+                <Precinct name="Redbone" votes="24" />
+                <Precinct name="Town" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Kwanza Hall" party="DEM" totalVotes="150">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="7" />
+                <Precinct name="Redbone" votes="7" />
+                <Precinct name="Town" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Yatesville" votes="5" />
+                <Precinct name="Salem" votes="5" />
+                <Precinct name="Redbone" votes="17" />
+                <Precinct name="Town" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Yatesville" votes="10" />
+                <Precinct name="Salem" votes="17" />
+                <Precinct name="Redbone" votes="11" />
+                <Precinct name="Town" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Yatesville" votes="1" />
+            <Precinct name="Salem" votes="1" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yatesville" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Dee Dawkins-Haigler" party="DEM" totalVotes="87">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="6" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="Town" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Yatesville" votes="1" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="10" />
+                <Precinct name="Town" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Yatesville" votes="8" />
+                <Precinct name="Salem" votes="8" />
+                <Precinct name="Redbone" votes="6" />
+                <Precinct name="Town" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Bee Nguyen" party="DEM" totalVotes="272">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Yatesville" votes="4" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Redbone" votes="18" />
+                <Precinct name="Town" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="81">
+                <Precinct name="Yatesville" votes="8" />
+                <Precinct name="Salem" votes="8" />
+                <Precinct name="Redbone" votes="29" />
+                <Precinct name="Town" votes="36" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="145">
+                <Precinct name="Yatesville" votes="16" />
+                <Precinct name="Salem" votes="47" />
+                <Precinct name="Redbone" votes="29" />
+                <Precinct name="Town" votes="53" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Yatesville" votes="3" />
+            <Precinct name="Salem" votes="4" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="Town" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yatesville" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Raphael Baker" party="DEM" totalVotes="165">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Yatesville" votes="2" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Redbone" votes="6" />
+                <Precinct name="Town" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Yatesville" votes="2" />
+                <Precinct name="Salem" votes="4" />
+                <Precinct name="Redbone" votes="18" />
+                <Precinct name="Town" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Yatesville" votes="12" />
+                <Precinct name="Salem" votes="36" />
+                <Precinct name="Redbone" votes="15" />
+                <Precinct name="Town" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Janice Laws Robinson" party="DEM" totalVotes="183">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Yatesville" votes="1" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Redbone" votes="15" />
+                <Precinct name="Town" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Yatesville" votes="6" />
+                <Precinct name="Salem" votes="4" />
+                <Precinct name="Redbone" votes="20" />
+                <Precinct name="Town" votes="25" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Yatesville" votes="12" />
+                <Precinct name="Salem" votes="18" />
+                <Precinct name="Redbone" votes="20" />
+                <Precinct name="Town" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Yatesville" votes="2" />
+            <Precinct name="Salem" votes="3" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="Town" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yatesville" votes="0" />
+            <Precinct name="Salem" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Town" votes="0" />
+        </VoteType>
+        <Choice key="77" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="250">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Yatesville" votes="2" />
+                <Precinct name="Salem" votes="4" />
+                <Precinct name="Redbone" votes="17" />
+                <Precinct name="Town" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="76">
+                <Precinct name="Yatesville" votes="7" />
+                <Precinct name="Salem" votes="6" />
+                <Precinct name="Redbone" votes="24" />
+                <Precinct name="Town" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Yatesville" votes="15" />
+                <Precinct name="Salem" votes="45" />
+                <Precinct name="Redbone" votes="25" />
+                <Precinct name="Town" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Nicole Horn" party="DEM" totalVotes="103">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Yatesville" votes="1" />
+                <Precinct name="Salem" votes="3" />
+                <Precinct name="Redbone" votes="4" />
+                <Precinct name="Town" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Yatesville" votes="2" />
+                <Precinct name="Salem" votes="2" />
+                <Precinct name="Redbone" votes="14" />
+                <Precinct name="Town" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Yatesville" votes="9" />
+                <Precinct name="Salem" votes="9" />
+                <Precinct name="Redbone" votes="10" />
+                <Precinct name="Town" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yatesville" votes="0" />
+                <Precinct name="Salem" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Town" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

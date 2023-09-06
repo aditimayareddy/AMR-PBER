@@ -1,0 +1,2310 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/27/2022 2:29:03 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Miller</Region>
+    <VoterTurnout totalVoters="3709" ballotsCast="1113" voterTurnout="30.01">
+        <Precincts>
+            <Precinct name="Colquitt-Miller" totalVoters="3709" ballotsCast="1113" voterTurnout="30.01" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Colquitt-Miller" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="255">
+            <VoteType name="Election Day Votes" votes="161">
+                <Precinct name="Colquitt-Miller" votes="161" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="83">
+                <Precinct name="Colquitt-Miller" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Colquitt-Miller" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Colquitt-Miller" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="754">
+            <VoteType name="Election Day Votes" votes="470">
+                <Precinct name="Colquitt-Miller" votes="470" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="264">
+                <Precinct name="Colquitt-Miller" votes="264" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Colquitt-Miller" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Colquitt-Miller" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Colquitt-Miller" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Colquitt-Miller" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Colquitt-Miller" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="770">
+            <VoteType name="Election Day Votes" votes="499">
+                <Precinct name="Colquitt-Miller" votes="499" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="246">
+                <Precinct name="Colquitt-Miller" votes="246" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Colquitt-Miller" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="258">
+            <VoteType name="Election Day Votes" votes="160">
+                <Precinct name="Colquitt-Miller" votes="160" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Colquitt-Miller" votes="91" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Colquitt-Miller" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Colquitt-Miller" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="161">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Colquitt-Miller" votes="94" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Colquitt-Miller" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="185">
+            <Precinct name="Colquitt-Miller" votes="185" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="441">
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="Colquitt-Miller" votes="285" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Colquitt-Miller" votes="145" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="153">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Colquitt-Miller" votes="100" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Colquitt-Miller" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Colquitt-Miller" votes="168" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Colquitt-Miller" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Colquitt-Miller" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Colquitt-Miller" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Colquitt-Miller" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="129">
+            <Precinct name="Colquitt-Miller" votes="129" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Colquitt-Miller" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Colquitt-Miller" votes="57" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="269">
+            <VoteType name="Election Day Votes" votes="166">
+                <Precinct name="Colquitt-Miller" votes="166" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="90">
+                <Precinct name="Colquitt-Miller" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="101">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Colquitt-Miller" votes="60" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Colquitt-Miller" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="470">
+            <VoteType name="Election Day Votes" votes="306">
+                <Precinct name="Colquitt-Miller" votes="306" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="149">
+                <Precinct name="Colquitt-Miller" votes="149" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Colquitt-Miller" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Colquitt-Miller" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Colquitt-Miller" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Colquitt-Miller" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Colquitt-Miller" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="152">
+            <Precinct name="Colquitt-Miller" votes="152" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="728">
+            <VoteType name="Election Day Votes" votes="449">
+                <Precinct name="Colquitt-Miller" votes="449" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="257">
+                <Precinct name="Colquitt-Miller" votes="257" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Colquitt-Miller" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="233">
+            <VoteType name="Election Day Votes" votes="154">
+                <Precinct name="Colquitt-Miller" votes="154" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Colquitt-Miller" votes="69" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Colquitt-Miller" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="115">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Colquitt-Miller" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Colquitt-Miller" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="211">
+            <Precinct name="Colquitt-Miller" votes="211" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="902">
+            <VoteType name="Election Day Votes" votes="574">
+                <Precinct name="Colquitt-Miller" votes="574" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="297">
+                <Precinct name="Colquitt-Miller" votes="297" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Colquitt-Miller" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Colquitt-Miller" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="109">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Colquitt-Miller" votes="63" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Colquitt-Miller" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="170">
+            <Precinct name="Colquitt-Miller" votes="170" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="153">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Colquitt-Miller" votes="102" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Colquitt-Miller" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="662">
+            <VoteType name="Election Day Votes" votes="391">
+                <Precinct name="Colquitt-Miller" votes="391" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="245">
+                <Precinct name="Colquitt-Miller" votes="245" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="128">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Colquitt-Miller" votes="95" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Colquitt-Miller" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Colquitt-Miller" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="69">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Colquitt-Miller" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Colquitt-Miller" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Colquitt-Miller" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Colquitt-Miller" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="170">
+            <Precinct name="Colquitt-Miller" votes="170" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="219">
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Colquitt-Miller" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Colquitt-Miller" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="724">
+            <VoteType name="Election Day Votes" votes="445">
+                <Precinct name="Colquitt-Miller" votes="445" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="256">
+                <Precinct name="Colquitt-Miller" votes="256" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Colquitt-Miller" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Colquitt-Miller" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Colquitt-Miller" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Colquitt-Miller" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Colquitt-Miller" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Colquitt-Miller" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="266">
+            <Precinct name="Colquitt-Miller" votes="266" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Colquitt-Miller" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Colquitt-Miller" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="293">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Colquitt-Miller" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Colquitt-Miller" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="509">
+            <VoteType name="Election Day Votes" votes="324">
+                <Precinct name="Colquitt-Miller" votes="324" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Colquitt-Miller" votes="170" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Colquitt-Miller" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Colquitt-Miller" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Colquitt-Miller" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Colquitt-Miller" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="257">
+            <Precinct name="Colquitt-Miller" votes="257" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="856">
+            <VoteType name="Election Day Votes" votes="541">
+                <Precinct name="Colquitt-Miller" votes="541" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="290">
+                <Precinct name="Colquitt-Miller" votes="290" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Colquitt-Miller" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Colquitt-Miller" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="79">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Colquitt-Miller" votes="44" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Colquitt-Miller" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Colquitt-Miller" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="280">
+            <Precinct name="Colquitt-Miller" votes="280" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="833">
+            <VoteType name="Election Day Votes" votes="528">
+                <Precinct name="Colquitt-Miller" votes="528" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="281">
+                <Precinct name="Colquitt-Miller" votes="281" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Colquitt-Miller" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="78">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Colquitt-Miller" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Colquitt-Miller" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Colquitt-Miller" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Colquitt-Miller" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="132">
+            <Precinct name="Colquitt-Miller" votes="132" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Vivian L. Childs" party="REP" totalVotes="68">
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Colquitt-Miller" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Colquitt-Miller" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="121" text="Jeremy Hunt" party="REP" totalVotes="383">
+            <VoteType name="Election Day Votes" votes="240">
+                <Precinct name="Colquitt-Miller" votes="240" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="128">
+                <Precinct name="Colquitt-Miller" votes="128" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="Wayne Johnson" party="REP" totalVotes="256">
+            <VoteType name="Election Day Votes" votes="145">
+                <Precinct name="Colquitt-Miller" votes="145" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="102">
+                <Precinct name="Colquitt-Miller" votes="102" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="Rich Robertson" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Colquitt-Miller" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Chris West" party="REP" totalVotes="218">
+            <VoteType name="Election Day Votes" votes="149">
+                <Precinct name="Colquitt-Miller" votes="149" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Colquitt-Miller" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="125" text="Paul Whitehead" party="REP" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Colquitt-Miller" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Sanford Bishop (I)" party="DEM" totalVotes="155">
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Colquitt-Miller" votes="92" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Colquitt-Miller" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="144" text="Joe O'Hara" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Colquitt-Miller" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Freddie Powell Sims (I)" party="DEM" totalVotes="123">
+            <VoteType name="Election Day Votes" votes="71">
+                <Precinct name="Colquitt-Miller" votes="71" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Colquitt-Miller" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 154 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="174">
+            <Precinct name="Colquitt-Miller" votes="174" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Gerald E. Greene (I)" party="REP" totalVotes="939">
+            <VoteType name="Election Day Votes" votes="585">
+                <Precinct name="Colquitt-Miller" votes="585" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="324">
+                <Precinct name="Colquitt-Miller" votes="324" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Colquitt-Miller" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 154 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Colquitt-Miller" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="129" text="John Hayes" party="DEM" totalVotes="124">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Colquitt-Miller" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Colquitt-Miller" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="District Attorney - Pataula Judicial Circuit - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="170">
+            <Precinct name="Colquitt-Miller" votes="170" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Vic McNease (I)" party="REP" totalVotes="943">
+            <VoteType name="Election Day Votes" votes="592">
+                <Precinct name="Colquitt-Miller" votes="592" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="322">
+                <Precinct name="Colquitt-Miller" votes="322" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Colquitt-Miller" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Commission D2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Colquitt-Miller" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="146" text="Jeffrey Cox" party="REP" totalVotes="212">
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Colquitt-Miller" votes="138" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Colquitt-Miller" votes="71" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="145" text="Kreg Freeman (I)" party="REP" totalVotes="95">
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Colquitt-Miller" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Colquitt-Miller" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="County Commission D4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Colquitt-Miller" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="148" text="Sheila P. Freeman" party="REP" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Colquitt-Miller" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Colquitt-Miller" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="147" text="Niki Masters Nixon (I)" party="REP" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Colquitt-Miller" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Colquitt-Miller" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="County BOE D2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Colquitt-Miller" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="149" text="Jason E. Cox" party="REP" totalVotes="237">
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Colquitt-Miller" votes="152" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Colquitt-Miller" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="150" text="Robert T. Eldridge" party="REP" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Colquitt-Miller" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="County BOE D4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Colquitt-Miller" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="151" text="Jason Suggs" party="REP" totalVotes="147">
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Colquitt-Miller" votes="86" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Colquitt-Miller" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Colquitt-Miller" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Yes" party="REP" totalVotes="1038">
+            <VoteType name="Election Day Votes" votes="658">
+                <Precinct name="Colquitt-Miller" votes="658" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="348">
+                <Precinct name="Colquitt-Miller" votes="348" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Colquitt-Miller" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="No" party="REP" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Colquitt-Miller" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="70">
+            <Precinct name="Colquitt-Miller" votes="70" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Yes" party="REP" totalVotes="847">
+            <VoteType name="Election Day Votes" votes="533">
+                <Precinct name="Colquitt-Miller" votes="533" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="287">
+                <Precinct name="Colquitt-Miller" votes="287" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Colquitt-Miller" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="No" party="REP" totalVotes="196">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Colquitt-Miller" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Colquitt-Miller" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="78">
+            <Precinct name="Colquitt-Miller" votes="78" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Yes" party="REP" totalVotes="901">
+            <VoteType name="Election Day Votes" votes="576">
+                <Precinct name="Colquitt-Miller" votes="576" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="299">
+                <Precinct name="Colquitt-Miller" votes="299" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="No" party="REP" totalVotes="134">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Colquitt-Miller" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Colquitt-Miller" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="114">
+            <Precinct name="Colquitt-Miller" votes="114" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Yes" party="REP" totalVotes="869">
+            <VoteType name="Election Day Votes" votes="558">
+                <Precinct name="Colquitt-Miller" votes="558" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="287">
+                <Precinct name="Colquitt-Miller" votes="287" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="No" party="REP" totalVotes="130">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Colquitt-Miller" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Colquitt-Miller" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="44">
+            <Precinct name="Colquitt-Miller" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Yes" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="No" party="REP" totalVotes="1045">
+            <VoteType name="Election Day Votes" votes="671">
+                <Precinct name="Colquitt-Miller" votes="671" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="344">
+                <Precinct name="Colquitt-Miller" votes="344" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Colquitt-Miller" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="63">
+            <Precinct name="Colquitt-Miller" votes="63" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="1026">
+            <VoteType name="Election Day Votes" votes="654">
+                <Precinct name="Colquitt-Miller" votes="654" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="342">
+                <Precinct name="Colquitt-Miller" votes="342" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Colquitt-Miller" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Colquitt-Miller" votes="60" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="970">
+            <VoteType name="Election Day Votes" votes="621">
+                <Precinct name="Colquitt-Miller" votes="621" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="320">
+                <Precinct name="Colquitt-Miller" votes="320" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Colquitt-Miller" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="83">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Colquitt-Miller" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Colquitt-Miller" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="105">
+            <Precinct name="Colquitt-Miller" votes="105" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="724">
+            <VoteType name="Election Day Votes" votes="463">
+                <Precinct name="Colquitt-Miller" votes="463" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="235">
+                <Precinct name="Colquitt-Miller" votes="235" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="284">
+            <VoteType name="Election Day Votes" votes="175">
+                <Precinct name="Colquitt-Miller" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Colquitt-Miller" votes="104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Colquitt-Miller" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Colquitt-Miller" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Colquitt-Miller" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Colquitt-Miller" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Colquitt-Miller" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Colquitt-Miller" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Colquitt-Miller" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Colquitt-Miller" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="DEM" totalVotes="147">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Colquitt-Miller" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Colquitt-Miller" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Colquitt-Miller" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="DEM" totalVotes="129">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Colquitt-Miller" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Colquitt-Miller" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Colquitt-Miller" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Colquitt-Miller" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Colquitt-Miller" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="DEM" totalVotes="139">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Colquitt-Miller" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Colquitt-Miller" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Colquitt-Miller" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Colquitt-Miller" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="145">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Colquitt-Miller" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Colquitt-Miller" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Colquitt-Miller" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Colquitt-Miller" votes="85" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Colquitt-Miller" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Colquitt-Miller" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="100">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Colquitt-Miller" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Colquitt-Miller" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Colquitt-Miller" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Colquitt-Miller" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="145">
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Colquitt-Miller" votes="85" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Colquitt-Miller" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colquitt-Miller" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Colquitt-Miller" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="309">
+            <Precinct name="Colquitt-Miller" votes="309" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Veronica Brinson" totalVotes="281">
+            <VoteType name="Election Day Votes" votes="177">
+                <Precinct name="Colquitt-Miller" votes="177" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Colquitt-Miller" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Colquitt-Miller" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="Verda M. Colvin (I)" totalVotes="689">
+            <VoteType name="Election Day Votes" votes="432">
+                <Precinct name="Colquitt-Miller" votes="432" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="234">
+                <Precinct name="Colquitt-Miller" votes="234" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Colquitt-Miller" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="355">
+            <Precinct name="Colquitt-Miller" votes="355" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Shawn Ellen LaGrua (I)" totalVotes="925">
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Colquitt-Miller" votes="588" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="311">
+                <Precinct name="Colquitt-Miller" votes="311" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="349">
+            <Precinct name="Colquitt-Miller" votes="349" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Carla McMillian (I)" totalVotes="935">
+            <VoteType name="Election Day Votes" votes="597">
+                <Precinct name="Colquitt-Miller" votes="597" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="314">
+                <Precinct name="Colquitt-Miller" votes="314" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="364">
+            <Precinct name="Colquitt-Miller" votes="364" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Anne Elizabeth Barnes (I)" totalVotes="922">
+            <VoteType name="Election Day Votes" votes="589">
+                <Precinct name="Colquitt-Miller" votes="589" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="307">
+                <Precinct name="Colquitt-Miller" votes="307" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="365">
+            <Precinct name="Colquitt-Miller" votes="365" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Chris McFadden (I)" totalVotes="921">
+            <VoteType name="Election Day Votes" votes="592">
+                <Precinct name="Colquitt-Miller" votes="592" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="305">
+                <Precinct name="Colquitt-Miller" votes="305" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Colquitt-Miller" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="377">
+            <Precinct name="Colquitt-Miller" votes="377" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Trea Pipkin (I)" totalVotes="907">
+            <VoteType name="Election Day Votes" votes="586">
+                <Precinct name="Colquitt-Miller" votes="586" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="298">
+                <Precinct name="Colquitt-Miller" votes="298" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Colquitt-Miller" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Judge - Superior Court - Pataula Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="299">
+            <Precinct name="Colquitt-Miller" votes="299" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Henry Balkcom (I)" totalVotes="983">
+            <VoteType name="Election Day Votes" votes="617">
+                <Precinct name="Colquitt-Miller" votes="617" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="340">
+                <Precinct name="Colquitt-Miller" votes="340" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Colquitt-Miller" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

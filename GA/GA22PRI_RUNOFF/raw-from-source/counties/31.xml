@@ -1,0 +1,2782 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 5:41:35 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Clayton</Region>
+    <VoterTurnout totalVoters="174929" ballotsCast="8986" voterTurnout="5.14">
+        <Precincts>
+            <Precinct name="Ellenwood 1" totalVoters="2962" ballotsCast="228" voterTurnout="7.70" percentReporting="4" />
+            <Precinct name="Ellenwood 2" totalVoters="3158" ballotsCast="284" voterTurnout="8.99" percentReporting="4" />
+            <Precinct name="Forest Park 1" totalVoters="3246" ballotsCast="85" voterTurnout="2.62" percentReporting="4" />
+            <Precinct name="Forest Park 2" totalVoters="2625" ballotsCast="93" voterTurnout="3.54" percentReporting="4" />
+            <Precinct name="Forest Park 3" totalVoters="2478" ballotsCast="90" voterTurnout="3.63" percentReporting="4" />
+            <Precinct name="Forest Park 4" totalVoters="1676" ballotsCast="62" voterTurnout="3.70" percentReporting="4" />
+            <Precinct name="Forest Park 5" totalVoters="3472" ballotsCast="77" voterTurnout="2.22" percentReporting="4" />
+            <Precinct name="Forest Park 6" totalVoters="1368" ballotsCast="47" voterTurnout="3.44" percentReporting="4" />
+            <Precinct name="Jonesboro 1" totalVoters="2880" ballotsCast="166" voterTurnout="5.76" percentReporting="4" />
+            <Precinct name="Jonesboro 2" totalVoters="3948" ballotsCast="237" voterTurnout="6.00" percentReporting="4" />
+            <Precinct name="Jonesboro 3" totalVoters="3816" ballotsCast="228" voterTurnout="5.97" percentReporting="4" />
+            <Precinct name="Jonesboro 4" totalVoters="2174" ballotsCast="75" voterTurnout="3.45" percentReporting="4" />
+            <Precinct name="Jonesboro 5" totalVoters="1901" ballotsCast="108" voterTurnout="5.68" percentReporting="4" />
+            <Precinct name="Jonesboro 6" totalVoters="2447" ballotsCast="172" voterTurnout="7.03" percentReporting="4" />
+            <Precinct name="Jonesboro 7" totalVoters="2834" ballotsCast="183" voterTurnout="6.46" percentReporting="4" />
+            <Precinct name="Jonesboro 8" totalVoters="3259" ballotsCast="93" voterTurnout="2.85" percentReporting="4" />
+            <Precinct name="Jonesboro 9" totalVoters="1537" ballotsCast="40" voterTurnout="2.60" percentReporting="4" />
+            <Precinct name="Jonesboro 10" totalVoters="2911" ballotsCast="106" voterTurnout="3.64" percentReporting="4" />
+            <Precinct name="Jonesboro 11" totalVoters="3628" ballotsCast="279" voterTurnout="7.69" percentReporting="4" />
+            <Precinct name="Jonesboro 12" totalVoters="2715" ballotsCast="157" voterTurnout="5.78" percentReporting="4" />
+            <Precinct name="Jonesboro 13" totalVoters="2203" ballotsCast="127" voterTurnout="5.76" percentReporting="4" />
+            <Precinct name="Jonesboro 14" totalVoters="3832" ballotsCast="287" voterTurnout="7.49" percentReporting="4" />
+            <Precinct name="Jonesboro 15" totalVoters="2344" ballotsCast="56" voterTurnout="2.39" percentReporting="4" />
+            <Precinct name="Jonesboro 16" totalVoters="2305" ballotsCast="71" voterTurnout="3.08" percentReporting="4" />
+            <Precinct name="Jonesboro 17" totalVoters="2922" ballotsCast="114" voterTurnout="3.90" percentReporting="4" />
+            <Precinct name="Jonesboro 18" totalVoters="2908" ballotsCast="115" voterTurnout="3.95" percentReporting="4" />
+            <Precinct name="Jonesboro 19" totalVoters="2961" ballotsCast="164" voterTurnout="5.54" percentReporting="4" />
+            <Precinct name="Lake City" totalVoters="2815" ballotsCast="125" voterTurnout="4.44" percentReporting="4" />
+            <Precinct name="Lovejoy 1" totalVoters="3956" ballotsCast="240" voterTurnout="6.07" percentReporting="4" />
+            <Precinct name="Lovejoy 2" totalVoters="3232" ballotsCast="120" voterTurnout="3.71" percentReporting="4" />
+            <Precinct name="Lovejoy 3" totalVoters="1673" ballotsCast="81" voterTurnout="4.84" percentReporting="4" />
+            <Precinct name="Lovejoy 4" totalVoters="3796" ballotsCast="204" voterTurnout="5.37" percentReporting="4" />
+            <Precinct name="Lovejoy 5" totalVoters="3170" ballotsCast="137" voterTurnout="4.32" percentReporting="4" />
+            <Precinct name="Lovejoy 6" totalVoters="3443" ballotsCast="172" voterTurnout="5.00" percentReporting="4" />
+            <Precinct name="Lovejoy 7" totalVoters="2993" ballotsCast="122" voterTurnout="4.08" percentReporting="4" />
+            <Precinct name="Morrow 1" totalVoters="2958" ballotsCast="131" voterTurnout="4.43" percentReporting="4" />
+            <Precinct name="Morrow 2" totalVoters="1920" ballotsCast="102" voterTurnout="5.31" percentReporting="4" />
+            <Precinct name="Morrow 3" totalVoters="2578" ballotsCast="77" voterTurnout="2.99" percentReporting="4" />
+            <Precinct name="Morrow 4" totalVoters="1983" ballotsCast="96" voterTurnout="4.84" percentReporting="4" />
+            <Precinct name="Morrow 5" totalVoters="2847" ballotsCast="191" voterTurnout="6.71" percentReporting="4" />
+            <Precinct name="Morrow 6" totalVoters="2734" ballotsCast="151" voterTurnout="5.52" percentReporting="4" />
+            <Precinct name="Morrow 7" totalVoters="1813" ballotsCast="67" voterTurnout="3.70" percentReporting="4" />
+            <Precinct name="Morrow 8" totalVoters="2930" ballotsCast="176" voterTurnout="6.01" percentReporting="4" />
+            <Precinct name="Morrow 9" totalVoters="1303" ballotsCast="59" voterTurnout="4.53" percentReporting="4" />
+            <Precinct name="Morrow 10" totalVoters="2148" ballotsCast="140" voterTurnout="6.52" percentReporting="4" />
+            <Precinct name="Morrow 11" totalVoters="1746" ballotsCast="120" voterTurnout="6.87" percentReporting="4" />
+            <Precinct name="Oak 1" totalVoters="2330" ballotsCast="102" voterTurnout="4.38" percentReporting="4" />
+            <Precinct name="Oak 2" totalVoters="1688" ballotsCast="48" voterTurnout="2.84" percentReporting="4" />
+            <Precinct name="Oak 3" totalVoters="2527" ballotsCast="109" voterTurnout="4.31" percentReporting="4" />
+            <Precinct name="Oak 4" totalVoters="3784" ballotsCast="117" voterTurnout="3.09" percentReporting="4" />
+            <Precinct name="Oak 5" totalVoters="1317" ballotsCast="41" voterTurnout="3.11" percentReporting="4" />
+            <Precinct name="Panhandle 1" totalVoters="2668" ballotsCast="252" voterTurnout="9.45" percentReporting="4" />
+            <Precinct name="Panhandle 2" totalVoters="3556" ballotsCast="198" voterTurnout="5.57" percentReporting="4" />
+            <Precinct name="Riverdale 1" totalVoters="2146" ballotsCast="234" voterTurnout="10.90" percentReporting="4" />
+            <Precinct name="Riverdale 2" totalVoters="2963" ballotsCast="142" voterTurnout="4.79" percentReporting="4" />
+            <Precinct name="Riverdale 3" totalVoters="3213" ballotsCast="225" voterTurnout="7.00" percentReporting="4" />
+            <Precinct name="Riverdale 4" totalVoters="3810" ballotsCast="177" voterTurnout="4.65" percentReporting="4" />
+            <Precinct name="Riverdale 5" totalVoters="2649" ballotsCast="148" voterTurnout="5.59" percentReporting="4" />
+            <Precinct name="Riverdale 6" totalVoters="3135" ballotsCast="77" voterTurnout="2.46" percentReporting="4" />
+            <Precinct name="Riverdale 7" totalVoters="2601" ballotsCast="45" voterTurnout="1.73" percentReporting="4" />
+            <Precinct name="Riverdale 8" totalVoters="2679" ballotsCast="310" voterTurnout="11.57" percentReporting="4" />
+            <Precinct name="Riverdale 9" totalVoters="2307" ballotsCast="103" voterTurnout="4.46" percentReporting="4" />
+            <Precinct name="Riverdale 10" totalVoters="2484" ballotsCast="62" voterTurnout="2.50" percentReporting="4" />
+            <Precinct name="Riverdale 11" totalVoters="1739" ballotsCast="172" voterTurnout="9.89" percentReporting="4" />
+            <Precinct name="Riverdale 12" totalVoters="2785" ballotsCast="169" voterTurnout="6.07" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="65" precinctsReported="65">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Ellenwood 1" votes="1" />
+            <Precinct name="Ellenwood 2" votes="0" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="1" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="1" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="0" />
+            <Precinct name="Jonesboro 2" votes="1" />
+            <Precinct name="Jonesboro 3" votes="0" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="1" />
+            <Precinct name="Jonesboro 6" votes="0" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="1" />
+            <Precinct name="Jonesboro 11" votes="0" />
+            <Precinct name="Jonesboro 12" votes="0" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="1" />
+            <Precinct name="Jonesboro 15" votes="0" />
+            <Precinct name="Jonesboro 16" votes="0" />
+            <Precinct name="Jonesboro 17" votes="1" />
+            <Precinct name="Jonesboro 18" votes="0" />
+            <Precinct name="Jonesboro 19" votes="1" />
+            <Precinct name="Lake City" votes="2" />
+            <Precinct name="Lovejoy 1" votes="0" />
+            <Precinct name="Lovejoy 2" votes="0" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="1" />
+            <Precinct name="Lovejoy 5" votes="0" />
+            <Precinct name="Lovejoy 6" votes="3" />
+            <Precinct name="Lovejoy 7" votes="1" />
+            <Precinct name="Morrow 1" votes="1" />
+            <Precinct name="Morrow 2" votes="0" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="0" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="0" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="1" />
+            <Precinct name="Morrow 11" votes="1" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="1" />
+            <Precinct name="Oak 4" votes="1" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="1" />
+            <Precinct name="Panhandle 2" votes="1" />
+            <Precinct name="Riverdale 1" votes="1" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="1" />
+            <Precinct name="Riverdale 4" votes="1" />
+            <Precinct name="Riverdale 5" votes="2" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="0" />
+            <Precinct name="Riverdale 11" votes="2" />
+            <Precinct name="Riverdale 12" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellenwood 1" votes="0" />
+            <Precinct name="Ellenwood 2" votes="0" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="0" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="0" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="0" />
+            <Precinct name="Jonesboro 2" votes="0" />
+            <Precinct name="Jonesboro 3" votes="0" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="0" />
+            <Precinct name="Jonesboro 6" votes="0" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="0" />
+            <Precinct name="Jonesboro 12" votes="0" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="0" />
+            <Precinct name="Jonesboro 15" votes="0" />
+            <Precinct name="Jonesboro 16" votes="0" />
+            <Precinct name="Jonesboro 17" votes="0" />
+            <Precinct name="Jonesboro 18" votes="0" />
+            <Precinct name="Jonesboro 19" votes="0" />
+            <Precinct name="Lake City" votes="0" />
+            <Precinct name="Lovejoy 1" votes="0" />
+            <Precinct name="Lovejoy 2" votes="0" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="0" />
+            <Precinct name="Lovejoy 5" votes="0" />
+            <Precinct name="Lovejoy 6" votes="0" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="0" />
+            <Precinct name="Morrow 2" votes="0" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="0" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="0" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="0" />
+            <Precinct name="Morrow 11" votes="0" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="0" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="0" />
+            <Precinct name="Panhandle 2" votes="0" />
+            <Precinct name="Riverdale 1" votes="0" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="0" />
+            <Precinct name="Riverdale 4" votes="0" />
+            <Precinct name="Riverdale 5" votes="0" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="0" />
+            <Precinct name="Riverdale 11" votes="0" />
+            <Precinct name="Riverdale 12" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="5297">
+            <VoteType name="Absentee by Mail Votes" votes="340">
+                <Precinct name="Ellenwood 1" votes="4" />
+                <Precinct name="Ellenwood 2" votes="13" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="3" />
+                <Precinct name="Forest Park 3" votes="3" />
+                <Precinct name="Forest Park 4" votes="4" />
+                <Precinct name="Forest Park 5" votes="5" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="10" />
+                <Precinct name="Jonesboro 2" votes="8" />
+                <Precinct name="Jonesboro 3" votes="10" />
+                <Precinct name="Jonesboro 4" votes="1" />
+                <Precinct name="Jonesboro 5" votes="6" />
+                <Precinct name="Jonesboro 6" votes="8" />
+                <Precinct name="Jonesboro 7" votes="18" />
+                <Precinct name="Jonesboro 8" votes="1" />
+                <Precinct name="Jonesboro 9" votes="3" />
+                <Precinct name="Jonesboro 10" votes="7" />
+                <Precinct name="Jonesboro 11" votes="12" />
+                <Precinct name="Jonesboro 12" votes="4" />
+                <Precinct name="Jonesboro 13" votes="3" />
+                <Precinct name="Jonesboro 14" votes="18" />
+                <Precinct name="Jonesboro 15" votes="4" />
+                <Precinct name="Jonesboro 16" votes="1" />
+                <Precinct name="Jonesboro 17" votes="5" />
+                <Precinct name="Jonesboro 18" votes="5" />
+                <Precinct name="Jonesboro 19" votes="6" />
+                <Precinct name="Lake City" votes="8" />
+                <Precinct name="Lovejoy 1" votes="8" />
+                <Precinct name="Lovejoy 2" votes="6" />
+                <Precinct name="Lovejoy 3" votes="3" />
+                <Precinct name="Lovejoy 4" votes="5" />
+                <Precinct name="Lovejoy 5" votes="2" />
+                <Precinct name="Lovejoy 6" votes="3" />
+                <Precinct name="Lovejoy 7" votes="5" />
+                <Precinct name="Morrow 1" votes="3" />
+                <Precinct name="Morrow 2" votes="5" />
+                <Precinct name="Morrow 3" votes="1" />
+                <Precinct name="Morrow 4" votes="1" />
+                <Precinct name="Morrow 5" votes="6" />
+                <Precinct name="Morrow 6" votes="6" />
+                <Precinct name="Morrow 7" votes="3" />
+                <Precinct name="Morrow 8" votes="7" />
+                <Precinct name="Morrow 9" votes="3" />
+                <Precinct name="Morrow 10" votes="1" />
+                <Precinct name="Morrow 11" votes="2" />
+                <Precinct name="Oak 1" votes="1" />
+                <Precinct name="Oak 2" votes="2" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="1" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="15" />
+                <Precinct name="Panhandle 2" votes="4" />
+                <Precinct name="Riverdale 1" votes="11" />
+                <Precinct name="Riverdale 2" votes="9" />
+                <Precinct name="Riverdale 3" votes="3" />
+                <Precinct name="Riverdale 4" votes="4" />
+                <Precinct name="Riverdale 5" votes="5" />
+                <Precinct name="Riverdale 6" votes="3" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="16" />
+                <Precinct name="Riverdale 9" votes="10" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="8" />
+                <Precinct name="Riverdale 12" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1742">
+                <Precinct name="Ellenwood 1" votes="41" />
+                <Precinct name="Ellenwood 2" votes="54" />
+                <Precinct name="Forest Park 1" votes="11" />
+                <Precinct name="Forest Park 2" votes="8" />
+                <Precinct name="Forest Park 3" votes="7" />
+                <Precinct name="Forest Park 4" votes="5" />
+                <Precinct name="Forest Park 5" votes="11" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="23" />
+                <Precinct name="Jonesboro 2" votes="62" />
+                <Precinct name="Jonesboro 3" votes="40" />
+                <Precinct name="Jonesboro 4" votes="12" />
+                <Precinct name="Jonesboro 5" votes="17" />
+                <Precinct name="Jonesboro 6" votes="37" />
+                <Precinct name="Jonesboro 7" votes="44" />
+                <Precinct name="Jonesboro 8" votes="18" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="18" />
+                <Precinct name="Jonesboro 11" votes="65" />
+                <Precinct name="Jonesboro 12" votes="36" />
+                <Precinct name="Jonesboro 13" votes="11" />
+                <Precinct name="Jonesboro 14" votes="53" />
+                <Precinct name="Jonesboro 15" votes="2" />
+                <Precinct name="Jonesboro 16" votes="9" />
+                <Precinct name="Jonesboro 17" votes="17" />
+                <Precinct name="Jonesboro 18" votes="27" />
+                <Precinct name="Jonesboro 19" votes="39" />
+                <Precinct name="Lake City" votes="25" />
+                <Precinct name="Lovejoy 1" votes="60" />
+                <Precinct name="Lovejoy 2" votes="31" />
+                <Precinct name="Lovejoy 3" votes="14" />
+                <Precinct name="Lovejoy 4" votes="35" />
+                <Precinct name="Lovejoy 5" votes="25" />
+                <Precinct name="Lovejoy 6" votes="37" />
+                <Precinct name="Lovejoy 7" votes="31" />
+                <Precinct name="Morrow 1" votes="14" />
+                <Precinct name="Morrow 2" votes="7" />
+                <Precinct name="Morrow 3" votes="10" />
+                <Precinct name="Morrow 4" votes="13" />
+                <Precinct name="Morrow 5" votes="41" />
+                <Precinct name="Morrow 6" votes="25" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="47" />
+                <Precinct name="Morrow 9" votes="8" />
+                <Precinct name="Morrow 10" votes="37" />
+                <Precinct name="Morrow 11" votes="20" />
+                <Precinct name="Oak 1" votes="19" />
+                <Precinct name="Oak 2" votes="12" />
+                <Precinct name="Oak 3" votes="18" />
+                <Precinct name="Oak 4" votes="21" />
+                <Precinct name="Oak 5" votes="4" />
+                <Precinct name="Panhandle 1" votes="40" />
+                <Precinct name="Panhandle 2" votes="26" />
+                <Precinct name="Riverdale 1" votes="56" />
+                <Precinct name="Riverdale 2" votes="26" />
+                <Precinct name="Riverdale 3" votes="61" />
+                <Precinct name="Riverdale 4" votes="41" />
+                <Precinct name="Riverdale 5" votes="31" />
+                <Precinct name="Riverdale 6" votes="15" />
+                <Precinct name="Riverdale 7" votes="13" />
+                <Precinct name="Riverdale 8" votes="94" />
+                <Precinct name="Riverdale 9" votes="26" />
+                <Precinct name="Riverdale 10" votes="6" />
+                <Precinct name="Riverdale 11" votes="45" />
+                <Precinct name="Riverdale 12" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3213">
+                <Precinct name="Ellenwood 1" votes="71" />
+                <Precinct name="Ellenwood 2" votes="96" />
+                <Precinct name="Forest Park 1" votes="39" />
+                <Precinct name="Forest Park 2" votes="43" />
+                <Precinct name="Forest Park 3" votes="48" />
+                <Precinct name="Forest Park 4" votes="27" />
+                <Precinct name="Forest Park 5" votes="36" />
+                <Precinct name="Forest Park 6" votes="25" />
+                <Precinct name="Jonesboro 1" votes="66" />
+                <Precinct name="Jonesboro 2" votes="80" />
+                <Precinct name="Jonesboro 3" votes="94" />
+                <Precinct name="Jonesboro 4" votes="32" />
+                <Precinct name="Jonesboro 5" votes="34" />
+                <Precinct name="Jonesboro 6" votes="60" />
+                <Precinct name="Jonesboro 7" votes="62" />
+                <Precinct name="Jonesboro 8" votes="34" />
+                <Precinct name="Jonesboro 9" votes="20" />
+                <Precinct name="Jonesboro 10" votes="32" />
+                <Precinct name="Jonesboro 11" votes="100" />
+                <Precinct name="Jonesboro 12" votes="55" />
+                <Precinct name="Jonesboro 13" votes="58" />
+                <Precinct name="Jonesboro 14" votes="118" />
+                <Precinct name="Jonesboro 15" votes="25" />
+                <Precinct name="Jonesboro 16" votes="24" />
+                <Precinct name="Jonesboro 17" votes="42" />
+                <Precinct name="Jonesboro 18" votes="51" />
+                <Precinct name="Jonesboro 19" votes="40" />
+                <Precinct name="Lake City" votes="38" />
+                <Precinct name="Lovejoy 1" votes="80" />
+                <Precinct name="Lovejoy 2" votes="34" />
+                <Precinct name="Lovejoy 3" votes="37" />
+                <Precinct name="Lovejoy 4" votes="66" />
+                <Precinct name="Lovejoy 5" votes="55" />
+                <Precinct name="Lovejoy 6" votes="53" />
+                <Precinct name="Lovejoy 7" votes="35" />
+                <Precinct name="Morrow 1" votes="49" />
+                <Precinct name="Morrow 2" votes="50" />
+                <Precinct name="Morrow 3" votes="30" />
+                <Precinct name="Morrow 4" votes="30" />
+                <Precinct name="Morrow 5" votes="50" />
+                <Precinct name="Morrow 6" votes="56" />
+                <Precinct name="Morrow 7" votes="32" />
+                <Precinct name="Morrow 8" votes="51" />
+                <Precinct name="Morrow 9" votes="19" />
+                <Precinct name="Morrow 10" votes="30" />
+                <Precinct name="Morrow 11" votes="49" />
+                <Precinct name="Oak 1" votes="32" />
+                <Precinct name="Oak 2" votes="17" />
+                <Precinct name="Oak 3" votes="40" />
+                <Precinct name="Oak 4" votes="33" />
+                <Precinct name="Oak 5" votes="13" />
+                <Precinct name="Panhandle 1" votes="102" />
+                <Precinct name="Panhandle 2" votes="90" />
+                <Precinct name="Riverdale 1" votes="80" />
+                <Precinct name="Riverdale 2" votes="42" />
+                <Precinct name="Riverdale 3" votes="80" />
+                <Precinct name="Riverdale 4" votes="55" />
+                <Precinct name="Riverdale 5" votes="52" />
+                <Precinct name="Riverdale 6" votes="25" />
+                <Precinct name="Riverdale 7" votes="19" />
+                <Precinct name="Riverdale 8" votes="101" />
+                <Precinct name="Riverdale 9" votes="29" />
+                <Precinct name="Riverdale 10" votes="24" />
+                <Precinct name="Riverdale 11" votes="53" />
+                <Precinct name="Riverdale 12" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="2" />
+                <Precinct name="Lovejoy 6" votes="0" />
+                <Precinct name="Lovejoy 7" votes="0" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="0" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="3657">
+            <VoteType name="Absentee by Mail Votes" votes="298">
+                <Precinct name="Ellenwood 1" votes="6" />
+                <Precinct name="Ellenwood 2" votes="1" />
+                <Precinct name="Forest Park 1" votes="3" />
+                <Precinct name="Forest Park 2" votes="6" />
+                <Precinct name="Forest Park 3" votes="6" />
+                <Precinct name="Forest Park 4" votes="1" />
+                <Precinct name="Forest Park 5" votes="4" />
+                <Precinct name="Forest Park 6" votes="1" />
+                <Precinct name="Jonesboro 1" votes="6" />
+                <Precinct name="Jonesboro 2" votes="11" />
+                <Precinct name="Jonesboro 3" votes="16" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="1" />
+                <Precinct name="Jonesboro 6" votes="9" />
+                <Precinct name="Jonesboro 7" votes="8" />
+                <Precinct name="Jonesboro 8" votes="2" />
+                <Precinct name="Jonesboro 9" votes="1" />
+                <Precinct name="Jonesboro 10" votes="8" />
+                <Precinct name="Jonesboro 11" votes="15" />
+                <Precinct name="Jonesboro 12" votes="5" />
+                <Precinct name="Jonesboro 13" votes="1" />
+                <Precinct name="Jonesboro 14" votes="12" />
+                <Precinct name="Jonesboro 15" votes="2" />
+                <Precinct name="Jonesboro 16" votes="1" />
+                <Precinct name="Jonesboro 17" votes="10" />
+                <Precinct name="Jonesboro 18" votes="2" />
+                <Precinct name="Jonesboro 19" votes="11" />
+                <Precinct name="Lake City" votes="4" />
+                <Precinct name="Lovejoy 1" votes="13" />
+                <Precinct name="Lovejoy 2" votes="8" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="5" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="4" />
+                <Precinct name="Lovejoy 7" votes="3" />
+                <Precinct name="Morrow 1" votes="4" />
+                <Precinct name="Morrow 2" votes="3" />
+                <Precinct name="Morrow 3" votes="1" />
+                <Precinct name="Morrow 4" votes="6" />
+                <Precinct name="Morrow 5" votes="2" />
+                <Precinct name="Morrow 6" votes="3" />
+                <Precinct name="Morrow 7" votes="1" />
+                <Precinct name="Morrow 8" votes="3" />
+                <Precinct name="Morrow 9" votes="4" />
+                <Precinct name="Morrow 10" votes="2" />
+                <Precinct name="Morrow 11" votes="3" />
+                <Precinct name="Oak 1" votes="4" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="3" />
+                <Precinct name="Oak 4" votes="3" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="10" />
+                <Precinct name="Panhandle 2" votes="2" />
+                <Precinct name="Riverdale 1" votes="8" />
+                <Precinct name="Riverdale 2" votes="5" />
+                <Precinct name="Riverdale 3" votes="5" />
+                <Precinct name="Riverdale 4" votes="13" />
+                <Precinct name="Riverdale 5" votes="2" />
+                <Precinct name="Riverdale 6" votes="4" />
+                <Precinct name="Riverdale 7" votes="1" />
+                <Precinct name="Riverdale 8" votes="3" />
+                <Precinct name="Riverdale 9" votes="3" />
+                <Precinct name="Riverdale 10" votes="2" />
+                <Precinct name="Riverdale 11" votes="6" />
+                <Precinct name="Riverdale 12" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1354">
+                <Precinct name="Ellenwood 1" votes="50" />
+                <Precinct name="Ellenwood 2" votes="56" />
+                <Precinct name="Forest Park 1" votes="4" />
+                <Precinct name="Forest Park 2" votes="3" />
+                <Precinct name="Forest Park 3" votes="6" />
+                <Precinct name="Forest Park 4" votes="2" />
+                <Precinct name="Forest Park 5" votes="8" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="28" />
+                <Precinct name="Jonesboro 2" votes="44" />
+                <Precinct name="Jonesboro 3" votes="29" />
+                <Precinct name="Jonesboro 4" votes="6" />
+                <Precinct name="Jonesboro 5" votes="24" />
+                <Precinct name="Jonesboro 6" votes="25" />
+                <Precinct name="Jonesboro 7" votes="19" />
+                <Precinct name="Jonesboro 8" votes="12" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="13" />
+                <Precinct name="Jonesboro 11" votes="34" />
+                <Precinct name="Jonesboro 12" votes="17" />
+                <Precinct name="Jonesboro 13" votes="20" />
+                <Precinct name="Jonesboro 14" votes="32" />
+                <Precinct name="Jonesboro 15" votes="5" />
+                <Precinct name="Jonesboro 16" votes="11" />
+                <Precinct name="Jonesboro 17" votes="21" />
+                <Precinct name="Jonesboro 18" votes="10" />
+                <Precinct name="Jonesboro 19" votes="24" />
+                <Precinct name="Lake City" votes="18" />
+                <Precinct name="Lovejoy 1" votes="32" />
+                <Precinct name="Lovejoy 2" votes="27" />
+                <Precinct name="Lovejoy 3" votes="11" />
+                <Precinct name="Lovejoy 4" votes="39" />
+                <Precinct name="Lovejoy 5" votes="16" />
+                <Precinct name="Lovejoy 6" votes="30" />
+                <Precinct name="Lovejoy 7" votes="19" />
+                <Precinct name="Morrow 1" votes="18" />
+                <Precinct name="Morrow 2" votes="10" />
+                <Precinct name="Morrow 3" votes="13" />
+                <Precinct name="Morrow 4" votes="16" />
+                <Precinct name="Morrow 5" votes="48" />
+                <Precinct name="Morrow 6" votes="20" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="33" />
+                <Precinct name="Morrow 9" votes="13" />
+                <Precinct name="Morrow 10" votes="44" />
+                <Precinct name="Morrow 11" votes="11" />
+                <Precinct name="Oak 1" votes="20" />
+                <Precinct name="Oak 2" votes="8" />
+                <Precinct name="Oak 3" votes="17" />
+                <Precinct name="Oak 4" votes="29" />
+                <Precinct name="Oak 5" votes="9" />
+                <Precinct name="Panhandle 1" votes="32" />
+                <Precinct name="Panhandle 2" votes="34" />
+                <Precinct name="Riverdale 1" votes="44" />
+                <Precinct name="Riverdale 2" votes="23" />
+                <Precinct name="Riverdale 3" votes="28" />
+                <Precinct name="Riverdale 4" votes="27" />
+                <Precinct name="Riverdale 5" votes="23" />
+                <Precinct name="Riverdale 6" votes="8" />
+                <Precinct name="Riverdale 7" votes="3" />
+                <Precinct name="Riverdale 8" votes="38" />
+                <Precinct name="Riverdale 9" votes="11" />
+                <Precinct name="Riverdale 10" votes="18" />
+                <Precinct name="Riverdale 11" votes="21" />
+                <Precinct name="Riverdale 12" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1998">
+                <Precinct name="Ellenwood 1" votes="55" />
+                <Precinct name="Ellenwood 2" votes="64" />
+                <Precinct name="Forest Park 1" votes="28" />
+                <Precinct name="Forest Park 2" votes="30" />
+                <Precinct name="Forest Park 3" votes="19" />
+                <Precinct name="Forest Park 4" votes="23" />
+                <Precinct name="Forest Park 5" votes="12" />
+                <Precinct name="Forest Park 6" votes="17" />
+                <Precinct name="Jonesboro 1" votes="33" />
+                <Precinct name="Jonesboro 2" votes="31" />
+                <Precinct name="Jonesboro 3" votes="39" />
+                <Precinct name="Jonesboro 4" votes="24" />
+                <Precinct name="Jonesboro 5" votes="25" />
+                <Precinct name="Jonesboro 6" votes="32" />
+                <Precinct name="Jonesboro 7" votes="32" />
+                <Precinct name="Jonesboro 8" votes="26" />
+                <Precinct name="Jonesboro 9" votes="8" />
+                <Precinct name="Jonesboro 10" votes="27" />
+                <Precinct name="Jonesboro 11" votes="53" />
+                <Precinct name="Jonesboro 12" votes="40" />
+                <Precinct name="Jonesboro 13" votes="34" />
+                <Precinct name="Jonesboro 14" votes="53" />
+                <Precinct name="Jonesboro 15" votes="18" />
+                <Precinct name="Jonesboro 16" votes="25" />
+                <Precinct name="Jonesboro 17" votes="18" />
+                <Precinct name="Jonesboro 18" votes="20" />
+                <Precinct name="Jonesboro 19" votes="43" />
+                <Precinct name="Lake City" votes="30" />
+                <Precinct name="Lovejoy 1" votes="47" />
+                <Precinct name="Lovejoy 2" votes="14" />
+                <Precinct name="Lovejoy 3" votes="16" />
+                <Precinct name="Lovejoy 4" votes="53" />
+                <Precinct name="Lovejoy 5" votes="36" />
+                <Precinct name="Lovejoy 6" votes="41" />
+                <Precinct name="Lovejoy 7" votes="27" />
+                <Precinct name="Morrow 1" votes="42" />
+                <Precinct name="Morrow 2" votes="27" />
+                <Precinct name="Morrow 3" votes="22" />
+                <Precinct name="Morrow 4" votes="30" />
+                <Precinct name="Morrow 5" votes="44" />
+                <Precinct name="Morrow 6" votes="41" />
+                <Precinct name="Morrow 7" votes="19" />
+                <Precinct name="Morrow 8" votes="35" />
+                <Precinct name="Morrow 9" votes="12" />
+                <Precinct name="Morrow 10" votes="25" />
+                <Precinct name="Morrow 11" votes="34" />
+                <Precinct name="Oak 1" votes="25" />
+                <Precinct name="Oak 2" votes="9" />
+                <Precinct name="Oak 3" votes="28" />
+                <Precinct name="Oak 4" votes="29" />
+                <Precinct name="Oak 5" votes="15" />
+                <Precinct name="Panhandle 1" votes="52" />
+                <Precinct name="Panhandle 2" votes="41" />
+                <Precinct name="Riverdale 1" votes="34" />
+                <Precinct name="Riverdale 2" votes="37" />
+                <Precinct name="Riverdale 3" votes="47" />
+                <Precinct name="Riverdale 4" votes="35" />
+                <Precinct name="Riverdale 5" votes="33" />
+                <Precinct name="Riverdale 6" votes="22" />
+                <Precinct name="Riverdale 7" votes="9" />
+                <Precinct name="Riverdale 8" votes="58" />
+                <Precinct name="Riverdale 9" votes="24" />
+                <Precinct name="Riverdale 10" votes="12" />
+                <Precinct name="Riverdale 11" votes="37" />
+                <Precinct name="Riverdale 12" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="7">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="1" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="0" />
+                <Precinct name="Lovejoy 6" votes="1" />
+                <Precinct name="Lovejoy 7" votes="1" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="1" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="2" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="1" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="65" precinctsReported="65">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Ellenwood 1" votes="2" />
+            <Precinct name="Ellenwood 2" votes="1" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="0" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="0" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="1" />
+            <Precinct name="Jonesboro 2" votes="1" />
+            <Precinct name="Jonesboro 3" votes="2" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="2" />
+            <Precinct name="Jonesboro 6" votes="2" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="2" />
+            <Precinct name="Jonesboro 12" votes="1" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="3" />
+            <Precinct name="Jonesboro 15" votes="1" />
+            <Precinct name="Jonesboro 16" votes="1" />
+            <Precinct name="Jonesboro 17" votes="1" />
+            <Precinct name="Jonesboro 18" votes="1" />
+            <Precinct name="Jonesboro 19" votes="0" />
+            <Precinct name="Lake City" votes="1" />
+            <Precinct name="Lovejoy 1" votes="1" />
+            <Precinct name="Lovejoy 2" votes="1" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="1" />
+            <Precinct name="Lovejoy 5" votes="2" />
+            <Precinct name="Lovejoy 6" votes="2" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="2" />
+            <Precinct name="Morrow 2" votes="2" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="2" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="1" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="1" />
+            <Precinct name="Morrow 11" votes="2" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="0" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="0" />
+            <Precinct name="Panhandle 2" votes="0" />
+            <Precinct name="Riverdale 1" votes="1" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="1" />
+            <Precinct name="Riverdale 4" votes="0" />
+            <Precinct name="Riverdale 5" votes="2" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="1" />
+            <Precinct name="Riverdale 11" votes="0" />
+            <Precinct name="Riverdale 12" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellenwood 1" votes="0" />
+            <Precinct name="Ellenwood 2" votes="0" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="0" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="0" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="0" />
+            <Precinct name="Jonesboro 2" votes="0" />
+            <Precinct name="Jonesboro 3" votes="0" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="0" />
+            <Precinct name="Jonesboro 6" votes="0" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="0" />
+            <Precinct name="Jonesboro 12" votes="0" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="0" />
+            <Precinct name="Jonesboro 15" votes="0" />
+            <Precinct name="Jonesboro 16" votes="0" />
+            <Precinct name="Jonesboro 17" votes="0" />
+            <Precinct name="Jonesboro 18" votes="0" />
+            <Precinct name="Jonesboro 19" votes="0" />
+            <Precinct name="Lake City" votes="0" />
+            <Precinct name="Lovejoy 1" votes="0" />
+            <Precinct name="Lovejoy 2" votes="0" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="0" />
+            <Precinct name="Lovejoy 5" votes="0" />
+            <Precinct name="Lovejoy 6" votes="0" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="0" />
+            <Precinct name="Morrow 2" votes="0" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="0" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="0" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="0" />
+            <Precinct name="Morrow 11" votes="0" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="0" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="0" />
+            <Precinct name="Panhandle 2" votes="0" />
+            <Precinct name="Riverdale 1" votes="0" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="0" />
+            <Precinct name="Riverdale 4" votes="0" />
+            <Precinct name="Riverdale 5" votes="0" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="0" />
+            <Precinct name="Riverdale 11" votes="0" />
+            <Precinct name="Riverdale 12" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="1997">
+            <VoteType name="Absentee by Mail Votes" votes="99">
+                <Precinct name="Ellenwood 1" votes="2" />
+                <Precinct name="Ellenwood 2" votes="2" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="1" />
+                <Precinct name="Forest Park 3" votes="1" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="1" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="5" />
+                <Precinct name="Jonesboro 3" votes="6" />
+                <Precinct name="Jonesboro 4" votes="1" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="4" />
+                <Precinct name="Jonesboro 8" votes="2" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="5" />
+                <Precinct name="Jonesboro 11" votes="3" />
+                <Precinct name="Jonesboro 12" votes="1" />
+                <Precinct name="Jonesboro 13" votes="1" />
+                <Precinct name="Jonesboro 14" votes="5" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="4" />
+                <Precinct name="Jonesboro 18" votes="2" />
+                <Precinct name="Jonesboro 19" votes="3" />
+                <Precinct name="Lake City" votes="4" />
+                <Precinct name="Lovejoy 1" votes="1" />
+                <Precinct name="Lovejoy 2" votes="4" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="2" />
+                <Precinct name="Lovejoy 5" votes="0" />
+                <Precinct name="Lovejoy 6" votes="4" />
+                <Precinct name="Lovejoy 7" votes="1" />
+                <Precinct name="Morrow 1" votes="1" />
+                <Precinct name="Morrow 2" votes="1" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="2" />
+                <Precinct name="Morrow 5" votes="2" />
+                <Precinct name="Morrow 6" votes="2" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="3" />
+                <Precinct name="Morrow 9" votes="4" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="1" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="1" />
+                <Precinct name="Oak 4" votes="1" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="2" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="4" />
+                <Precinct name="Riverdale 4" votes="2" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="1" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="1" />
+                <Precinct name="Riverdale 10" votes="1" />
+                <Precinct name="Riverdale 11" votes="1" />
+                <Precinct name="Riverdale 12" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="645">
+                <Precinct name="Ellenwood 1" votes="16" />
+                <Precinct name="Ellenwood 2" votes="31" />
+                <Precinct name="Forest Park 1" votes="1" />
+                <Precinct name="Forest Park 2" votes="1" />
+                <Precinct name="Forest Park 3" votes="2" />
+                <Precinct name="Forest Park 4" votes="1" />
+                <Precinct name="Forest Park 5" votes="5" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="12" />
+                <Precinct name="Jonesboro 2" votes="23" />
+                <Precinct name="Jonesboro 3" votes="12" />
+                <Precinct name="Jonesboro 4" votes="3" />
+                <Precinct name="Jonesboro 5" votes="12" />
+                <Precinct name="Jonesboro 6" votes="6" />
+                <Precinct name="Jonesboro 7" votes="8" />
+                <Precinct name="Jonesboro 8" votes="4" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="11" />
+                <Precinct name="Jonesboro 11" votes="19" />
+                <Precinct name="Jonesboro 12" votes="9" />
+                <Precinct name="Jonesboro 13" votes="10" />
+                <Precinct name="Jonesboro 14" votes="14" />
+                <Precinct name="Jonesboro 15" votes="3" />
+                <Precinct name="Jonesboro 16" votes="5" />
+                <Precinct name="Jonesboro 17" votes="9" />
+                <Precinct name="Jonesboro 18" votes="5" />
+                <Precinct name="Jonesboro 19" votes="8" />
+                <Precinct name="Lake City" votes="8" />
+                <Precinct name="Lovejoy 1" votes="16" />
+                <Precinct name="Lovejoy 2" votes="16" />
+                <Precinct name="Lovejoy 3" votes="6" />
+                <Precinct name="Lovejoy 4" votes="19" />
+                <Precinct name="Lovejoy 5" votes="10" />
+                <Precinct name="Lovejoy 6" votes="13" />
+                <Precinct name="Lovejoy 7" votes="9" />
+                <Precinct name="Morrow 1" votes="10" />
+                <Precinct name="Morrow 2" votes="4" />
+                <Precinct name="Morrow 3" votes="6" />
+                <Precinct name="Morrow 4" votes="7" />
+                <Precinct name="Morrow 5" votes="28" />
+                <Precinct name="Morrow 6" votes="13" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="14" />
+                <Precinct name="Morrow 9" votes="6" />
+                <Precinct name="Morrow 10" votes="20" />
+                <Precinct name="Morrow 11" votes="8" />
+                <Precinct name="Oak 1" votes="7" />
+                <Precinct name="Oak 2" votes="2" />
+                <Precinct name="Oak 3" votes="6" />
+                <Precinct name="Oak 4" votes="5" />
+                <Precinct name="Oak 5" votes="3" />
+                <Precinct name="Panhandle 1" votes="13" />
+                <Precinct name="Panhandle 2" votes="16" />
+                <Precinct name="Riverdale 1" votes="19" />
+                <Precinct name="Riverdale 2" votes="10" />
+                <Precinct name="Riverdale 3" votes="12" />
+                <Precinct name="Riverdale 4" votes="8" />
+                <Precinct name="Riverdale 5" votes="11" />
+                <Precinct name="Riverdale 6" votes="6" />
+                <Precinct name="Riverdale 7" votes="2" />
+                <Precinct name="Riverdale 8" votes="23" />
+                <Precinct name="Riverdale 9" votes="14" />
+                <Precinct name="Riverdale 10" votes="9" />
+                <Precinct name="Riverdale 11" votes="13" />
+                <Precinct name="Riverdale 12" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1249">
+                <Precinct name="Ellenwood 1" votes="34" />
+                <Precinct name="Ellenwood 2" votes="47" />
+                <Precinct name="Forest Park 1" votes="14" />
+                <Precinct name="Forest Park 2" votes="14" />
+                <Precinct name="Forest Park 3" votes="16" />
+                <Precinct name="Forest Park 4" votes="12" />
+                <Precinct name="Forest Park 5" votes="11" />
+                <Precinct name="Forest Park 6" votes="16" />
+                <Precinct name="Jonesboro 1" votes="23" />
+                <Precinct name="Jonesboro 2" votes="24" />
+                <Precinct name="Jonesboro 3" votes="33" />
+                <Precinct name="Jonesboro 4" votes="21" />
+                <Precinct name="Jonesboro 5" votes="9" />
+                <Precinct name="Jonesboro 6" votes="17" />
+                <Precinct name="Jonesboro 7" votes="17" />
+                <Precinct name="Jonesboro 8" votes="18" />
+                <Precinct name="Jonesboro 9" votes="6" />
+                <Precinct name="Jonesboro 10" votes="12" />
+                <Precinct name="Jonesboro 11" votes="24" />
+                <Precinct name="Jonesboro 12" votes="22" />
+                <Precinct name="Jonesboro 13" votes="20" />
+                <Precinct name="Jonesboro 14" votes="24" />
+                <Precinct name="Jonesboro 15" votes="10" />
+                <Precinct name="Jonesboro 16" votes="19" />
+                <Precinct name="Jonesboro 17" votes="18" />
+                <Precinct name="Jonesboro 18" votes="14" />
+                <Precinct name="Jonesboro 19" votes="23" />
+                <Precinct name="Lake City" votes="25" />
+                <Precinct name="Lovejoy 1" votes="24" />
+                <Precinct name="Lovejoy 2" votes="5" />
+                <Precinct name="Lovejoy 3" votes="11" />
+                <Precinct name="Lovejoy 4" votes="31" />
+                <Precinct name="Lovejoy 5" votes="20" />
+                <Precinct name="Lovejoy 6" votes="24" />
+                <Precinct name="Lovejoy 7" votes="20" />
+                <Precinct name="Morrow 1" votes="33" />
+                <Precinct name="Morrow 2" votes="24" />
+                <Precinct name="Morrow 3" votes="12" />
+                <Precinct name="Morrow 4" votes="21" />
+                <Precinct name="Morrow 5" votes="29" />
+                <Precinct name="Morrow 6" votes="18" />
+                <Precinct name="Morrow 7" votes="15" />
+                <Precinct name="Morrow 8" votes="20" />
+                <Precinct name="Morrow 9" votes="5" />
+                <Precinct name="Morrow 10" votes="15" />
+                <Precinct name="Morrow 11" votes="24" />
+                <Precinct name="Oak 1" votes="10" />
+                <Precinct name="Oak 2" votes="4" />
+                <Precinct name="Oak 3" votes="15" />
+                <Precinct name="Oak 4" votes="12" />
+                <Precinct name="Oak 5" votes="10" />
+                <Precinct name="Panhandle 1" votes="32" />
+                <Precinct name="Panhandle 2" votes="34" />
+                <Precinct name="Riverdale 1" votes="21" />
+                <Precinct name="Riverdale 2" votes="17" />
+                <Precinct name="Riverdale 3" votes="31" />
+                <Precinct name="Riverdale 4" votes="23" />
+                <Precinct name="Riverdale 5" votes="16" />
+                <Precinct name="Riverdale 6" votes="14" />
+                <Precinct name="Riverdale 7" votes="7" />
+                <Precinct name="Riverdale 8" votes="33" />
+                <Precinct name="Riverdale 9" votes="15" />
+                <Precinct name="Riverdale 10" votes="11" />
+                <Precinct name="Riverdale 11" votes="28" />
+                <Precinct name="Riverdale 12" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="0" />
+                <Precinct name="Lovejoy 6" votes="0" />
+                <Precinct name="Lovejoy 7" votes="0" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="1" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="2" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="1" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="6944">
+            <VoteType name="Absentee by Mail Votes" votes="537">
+                <Precinct name="Ellenwood 1" votes="8" />
+                <Precinct name="Ellenwood 2" votes="12" />
+                <Precinct name="Forest Park 1" votes="3" />
+                <Precinct name="Forest Park 2" votes="8" />
+                <Precinct name="Forest Park 3" votes="8" />
+                <Precinct name="Forest Park 4" votes="5" />
+                <Precinct name="Forest Park 5" votes="9" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="16" />
+                <Precinct name="Jonesboro 2" votes="14" />
+                <Precinct name="Jonesboro 3" votes="20" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="7" />
+                <Precinct name="Jonesboro 6" votes="17" />
+                <Precinct name="Jonesboro 7" votes="22" />
+                <Precinct name="Jonesboro 8" votes="1" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="10" />
+                <Precinct name="Jonesboro 11" votes="24" />
+                <Precinct name="Jonesboro 12" votes="8" />
+                <Precinct name="Jonesboro 13" votes="3" />
+                <Precinct name="Jonesboro 14" votes="23" />
+                <Precinct name="Jonesboro 15" votes="6" />
+                <Precinct name="Jonesboro 16" votes="2" />
+                <Precinct name="Jonesboro 17" votes="11" />
+                <Precinct name="Jonesboro 18" votes="5" />
+                <Precinct name="Jonesboro 19" votes="14" />
+                <Precinct name="Lake City" votes="8" />
+                <Precinct name="Lovejoy 1" votes="20" />
+                <Precinct name="Lovejoy 2" votes="10" />
+                <Precinct name="Lovejoy 3" votes="3" />
+                <Precinct name="Lovejoy 4" votes="8" />
+                <Precinct name="Lovejoy 5" votes="3" />
+                <Precinct name="Lovejoy 6" votes="3" />
+                <Precinct name="Lovejoy 7" votes="7" />
+                <Precinct name="Morrow 1" votes="6" />
+                <Precinct name="Morrow 2" votes="7" />
+                <Precinct name="Morrow 3" votes="2" />
+                <Precinct name="Morrow 4" votes="5" />
+                <Precinct name="Morrow 5" votes="6" />
+                <Precinct name="Morrow 6" votes="7" />
+                <Precinct name="Morrow 7" votes="4" />
+                <Precinct name="Morrow 8" votes="7" />
+                <Precinct name="Morrow 9" votes="3" />
+                <Precinct name="Morrow 10" votes="3" />
+                <Precinct name="Morrow 11" votes="4" />
+                <Precinct name="Oak 1" votes="5" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="2" />
+                <Precinct name="Oak 4" votes="3" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="23" />
+                <Precinct name="Panhandle 2" votes="6" />
+                <Precinct name="Riverdale 1" votes="19" />
+                <Precinct name="Riverdale 2" votes="14" />
+                <Precinct name="Riverdale 3" votes="4" />
+                <Precinct name="Riverdale 4" votes="15" />
+                <Precinct name="Riverdale 5" votes="7" />
+                <Precinct name="Riverdale 6" votes="6" />
+                <Precinct name="Riverdale 7" votes="1" />
+                <Precinct name="Riverdale 8" votes="19" />
+                <Precinct name="Riverdale 9" votes="12" />
+                <Precinct name="Riverdale 10" votes="1" />
+                <Precinct name="Riverdale 11" votes="13" />
+                <Precinct name="Riverdale 12" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2451">
+                <Precinct name="Ellenwood 1" votes="75" />
+                <Precinct name="Ellenwood 2" votes="79" />
+                <Precinct name="Forest Park 1" votes="14" />
+                <Precinct name="Forest Park 2" votes="10" />
+                <Precinct name="Forest Park 3" votes="11" />
+                <Precinct name="Forest Park 4" votes="6" />
+                <Precinct name="Forest Park 5" votes="14" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="39" />
+                <Precinct name="Jonesboro 2" votes="83" />
+                <Precinct name="Jonesboro 3" votes="56" />
+                <Precinct name="Jonesboro 4" votes="15" />
+                <Precinct name="Jonesboro 5" votes="27" />
+                <Precinct name="Jonesboro 6" votes="55" />
+                <Precinct name="Jonesboro 7" votes="55" />
+                <Precinct name="Jonesboro 8" votes="26" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="21" />
+                <Precinct name="Jonesboro 11" votes="78" />
+                <Precinct name="Jonesboro 12" votes="44" />
+                <Precinct name="Jonesboro 13" votes="21" />
+                <Precinct name="Jonesboro 14" votes="71" />
+                <Precinct name="Jonesboro 15" votes="4" />
+                <Precinct name="Jonesboro 16" votes="15" />
+                <Precinct name="Jonesboro 17" votes="29" />
+                <Precinct name="Jonesboro 18" votes="32" />
+                <Precinct name="Jonesboro 19" votes="56" />
+                <Precinct name="Lake City" votes="34" />
+                <Precinct name="Lovejoy 1" votes="76" />
+                <Precinct name="Lovejoy 2" votes="42" />
+                <Precinct name="Lovejoy 3" votes="19" />
+                <Precinct name="Lovejoy 4" votes="55" />
+                <Precinct name="Lovejoy 5" votes="31" />
+                <Precinct name="Lovejoy 6" votes="54" />
+                <Precinct name="Lovejoy 7" votes="42" />
+                <Precinct name="Morrow 1" votes="21" />
+                <Precinct name="Morrow 2" votes="13" />
+                <Precinct name="Morrow 3" votes="17" />
+                <Precinct name="Morrow 4" votes="22" />
+                <Precinct name="Morrow 5" votes="59" />
+                <Precinct name="Morrow 6" votes="32" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="66" />
+                <Precinct name="Morrow 9" votes="15" />
+                <Precinct name="Morrow 10" votes="62" />
+                <Precinct name="Morrow 11" votes="23" />
+                <Precinct name="Oak 1" votes="32" />
+                <Precinct name="Oak 2" votes="18" />
+                <Precinct name="Oak 3" votes="29" />
+                <Precinct name="Oak 4" votes="46" />
+                <Precinct name="Oak 5" votes="10" />
+                <Precinct name="Panhandle 1" votes="60" />
+                <Precinct name="Panhandle 2" votes="45" />
+                <Precinct name="Riverdale 1" votes="81" />
+                <Precinct name="Riverdale 2" votes="39" />
+                <Precinct name="Riverdale 3" votes="78" />
+                <Precinct name="Riverdale 4" votes="61" />
+                <Precinct name="Riverdale 5" votes="43" />
+                <Precinct name="Riverdale 6" votes="17" />
+                <Precinct name="Riverdale 7" votes="14" />
+                <Precinct name="Riverdale 8" votes="109" />
+                <Precinct name="Riverdale 9" votes="23" />
+                <Precinct name="Riverdale 10" votes="15" />
+                <Precinct name="Riverdale 11" votes="54" />
+                <Precinct name="Riverdale 12" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3952">
+                <Precinct name="Ellenwood 1" votes="91" />
+                <Precinct name="Ellenwood 2" votes="112" />
+                <Precinct name="Forest Park 1" votes="53" />
+                <Precinct name="Forest Park 2" votes="59" />
+                <Precinct name="Forest Park 3" votes="52" />
+                <Precinct name="Forest Park 4" votes="38" />
+                <Precinct name="Forest Park 5" votes="38" />
+                <Precinct name="Forest Park 6" votes="26" />
+                <Precinct name="Jonesboro 1" votes="75" />
+                <Precinct name="Jonesboro 2" votes="87" />
+                <Precinct name="Jonesboro 3" votes="99" />
+                <Precinct name="Jonesboro 4" votes="35" />
+                <Precinct name="Jonesboro 5" votes="51" />
+                <Precinct name="Jonesboro 6" votes="75" />
+                <Precinct name="Jonesboro 7" votes="77" />
+                <Precinct name="Jonesboro 8" votes="42" />
+                <Precinct name="Jonesboro 9" votes="22" />
+                <Precinct name="Jonesboro 10" votes="47" />
+                <Precinct name="Jonesboro 11" votes="129" />
+                <Precinct name="Jonesboro 12" votes="72" />
+                <Precinct name="Jonesboro 13" votes="72" />
+                <Precinct name="Jonesboro 14" votes="147" />
+                <Precinct name="Jonesboro 15" votes="32" />
+                <Precinct name="Jonesboro 16" votes="29" />
+                <Precinct name="Jonesboro 17" votes="42" />
+                <Precinct name="Jonesboro 18" votes="56" />
+                <Precinct name="Jonesboro 19" votes="60" />
+                <Precinct name="Lake City" votes="45" />
+                <Precinct name="Lovejoy 1" votes="102" />
+                <Precinct name="Lovejoy 2" votes="42" />
+                <Precinct name="Lovejoy 3" votes="42" />
+                <Precinct name="Lovejoy 4" votes="88" />
+                <Precinct name="Lovejoy 5" votes="69" />
+                <Precinct name="Lovejoy 6" votes="71" />
+                <Precinct name="Lovejoy 7" votes="42" />
+                <Precinct name="Morrow 1" votes="58" />
+                <Precinct name="Morrow 2" votes="51" />
+                <Precinct name="Morrow 3" votes="40" />
+                <Precinct name="Morrow 4" votes="39" />
+                <Precinct name="Morrow 5" votes="65" />
+                <Precinct name="Morrow 6" votes="79" />
+                <Precinct name="Morrow 7" votes="36" />
+                <Precinct name="Morrow 8" votes="65" />
+                <Precinct name="Morrow 9" votes="26" />
+                <Precinct name="Morrow 10" votes="39" />
+                <Precinct name="Morrow 11" votes="58" />
+                <Precinct name="Oak 1" votes="47" />
+                <Precinct name="Oak 2" votes="22" />
+                <Precinct name="Oak 3" votes="54" />
+                <Precinct name="Oak 4" votes="50" />
+                <Precinct name="Oak 5" votes="18" />
+                <Precinct name="Panhandle 1" votes="122" />
+                <Precinct name="Panhandle 2" votes="97" />
+                <Precinct name="Riverdale 1" votes="93" />
+                <Precinct name="Riverdale 2" votes="62" />
+                <Precinct name="Riverdale 3" votes="95" />
+                <Precinct name="Riverdale 4" votes="67" />
+                <Precinct name="Riverdale 5" votes="69" />
+                <Precinct name="Riverdale 6" votes="33" />
+                <Precinct name="Riverdale 7" votes="21" />
+                <Precinct name="Riverdale 8" votes="126" />
+                <Precinct name="Riverdale 9" votes="38" />
+                <Precinct name="Riverdale 10" votes="24" />
+                <Precinct name="Riverdale 11" votes="63" />
+                <Precinct name="Riverdale 12" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="2" />
+                <Precinct name="Lovejoy 6" votes="1" />
+                <Precinct name="Lovejoy 7" votes="1" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="0" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="65" precinctsReported="65">
+        <VoteType name="Undervotes" votes="177">
+            <Precinct name="Ellenwood 1" votes="7" />
+            <Precinct name="Ellenwood 2" votes="1" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="1" />
+            <Precinct name="Forest Park 3" votes="5" />
+            <Precinct name="Forest Park 4" votes="1" />
+            <Precinct name="Forest Park 5" votes="3" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="3" />
+            <Precinct name="Jonesboro 2" votes="4" />
+            <Precinct name="Jonesboro 3" votes="4" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="0" />
+            <Precinct name="Jonesboro 6" votes="3" />
+            <Precinct name="Jonesboro 7" votes="7" />
+            <Precinct name="Jonesboro 8" votes="1" />
+            <Precinct name="Jonesboro 9" votes="1" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="4" />
+            <Precinct name="Jonesboro 12" votes="3" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="7" />
+            <Precinct name="Jonesboro 15" votes="1" />
+            <Precinct name="Jonesboro 16" votes="3" />
+            <Precinct name="Jonesboro 17" votes="1" />
+            <Precinct name="Jonesboro 18" votes="5" />
+            <Precinct name="Jonesboro 19" votes="2" />
+            <Precinct name="Lake City" votes="2" />
+            <Precinct name="Lovejoy 1" votes="2" />
+            <Precinct name="Lovejoy 2" votes="1" />
+            <Precinct name="Lovejoy 3" votes="1" />
+            <Precinct name="Lovejoy 4" votes="4" />
+            <Precinct name="Lovejoy 5" votes="4" />
+            <Precinct name="Lovejoy 6" votes="4" />
+            <Precinct name="Lovejoy 7" votes="1" />
+            <Precinct name="Morrow 1" votes="2" />
+            <Precinct name="Morrow 2" votes="3" />
+            <Precinct name="Morrow 3" votes="1" />
+            <Precinct name="Morrow 4" votes="2" />
+            <Precinct name="Morrow 5" votes="8" />
+            <Precinct name="Morrow 6" votes="2" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="3" />
+            <Precinct name="Morrow 9" votes="1" />
+            <Precinct name="Morrow 10" votes="5" />
+            <Precinct name="Morrow 11" votes="7" />
+            <Precinct name="Oak 1" votes="2" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="1" />
+            <Precinct name="Oak 5" votes="1" />
+            <Precinct name="Panhandle 1" votes="4" />
+            <Precinct name="Panhandle 2" votes="5" />
+            <Precinct name="Riverdale 1" votes="7" />
+            <Precinct name="Riverdale 2" votes="1" />
+            <Precinct name="Riverdale 3" votes="12" />
+            <Precinct name="Riverdale 4" votes="3" />
+            <Precinct name="Riverdale 5" votes="2" />
+            <Precinct name="Riverdale 6" votes="1" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="3" />
+            <Precinct name="Riverdale 9" votes="2" />
+            <Precinct name="Riverdale 10" votes="3" />
+            <Precinct name="Riverdale 11" votes="3" />
+            <Precinct name="Riverdale 12" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellenwood 1" votes="0" />
+            <Precinct name="Ellenwood 2" votes="0" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="0" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="0" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="0" />
+            <Precinct name="Jonesboro 2" votes="0" />
+            <Precinct name="Jonesboro 3" votes="0" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="0" />
+            <Precinct name="Jonesboro 6" votes="0" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="0" />
+            <Precinct name="Jonesboro 12" votes="0" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="0" />
+            <Precinct name="Jonesboro 15" votes="0" />
+            <Precinct name="Jonesboro 16" votes="0" />
+            <Precinct name="Jonesboro 17" votes="0" />
+            <Precinct name="Jonesboro 18" votes="0" />
+            <Precinct name="Jonesboro 19" votes="0" />
+            <Precinct name="Lake City" votes="0" />
+            <Precinct name="Lovejoy 1" votes="0" />
+            <Precinct name="Lovejoy 2" votes="0" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="0" />
+            <Precinct name="Lovejoy 5" votes="0" />
+            <Precinct name="Lovejoy 6" votes="0" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="0" />
+            <Precinct name="Morrow 2" votes="0" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="0" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="0" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="0" />
+            <Precinct name="Morrow 11" votes="0" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="0" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="0" />
+            <Precinct name="Panhandle 2" votes="0" />
+            <Precinct name="Riverdale 1" votes="0" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="0" />
+            <Precinct name="Riverdale 4" votes="0" />
+            <Precinct name="Riverdale 5" votes="0" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="0" />
+            <Precinct name="Riverdale 11" votes="0" />
+            <Precinct name="Riverdale 12" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="3417">
+            <VoteType name="Absentee by Mail Votes" votes="164">
+                <Precinct name="Ellenwood 1" votes="5" />
+                <Precinct name="Ellenwood 2" votes="3" />
+                <Precinct name="Forest Park 1" votes="1" />
+                <Precinct name="Forest Park 2" votes="4" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="1" />
+                <Precinct name="Forest Park 5" votes="3" />
+                <Precinct name="Forest Park 6" votes="1" />
+                <Precinct name="Jonesboro 1" votes="5" />
+                <Precinct name="Jonesboro 2" votes="4" />
+                <Precinct name="Jonesboro 3" votes="7" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="1" />
+                <Precinct name="Jonesboro 6" votes="3" />
+                <Precinct name="Jonesboro 7" votes="5" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="1" />
+                <Precinct name="Jonesboro 10" votes="4" />
+                <Precinct name="Jonesboro 11" votes="7" />
+                <Precinct name="Jonesboro 12" votes="2" />
+                <Precinct name="Jonesboro 13" votes="2" />
+                <Precinct name="Jonesboro 14" votes="6" />
+                <Precinct name="Jonesboro 15" votes="2" />
+                <Precinct name="Jonesboro 16" votes="2" />
+                <Precinct name="Jonesboro 17" votes="3" />
+                <Precinct name="Jonesboro 18" votes="4" />
+                <Precinct name="Jonesboro 19" votes="3" />
+                <Precinct name="Lake City" votes="6" />
+                <Precinct name="Lovejoy 1" votes="5" />
+                <Precinct name="Lovejoy 2" votes="4" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="2" />
+                <Precinct name="Lovejoy 6" votes="2" />
+                <Precinct name="Lovejoy 7" votes="3" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="2" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="3" />
+                <Precinct name="Morrow 5" votes="1" />
+                <Precinct name="Morrow 6" votes="3" />
+                <Precinct name="Morrow 7" votes="2" />
+                <Precinct name="Morrow 8" votes="3" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="3" />
+                <Precinct name="Morrow 11" votes="2" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="4" />
+                <Precinct name="Panhandle 2" votes="2" />
+                <Precinct name="Riverdale 1" votes="2" />
+                <Precinct name="Riverdale 2" votes="4" />
+                <Precinct name="Riverdale 3" votes="2" />
+                <Precinct name="Riverdale 4" votes="6" />
+                <Precinct name="Riverdale 5" votes="4" />
+                <Precinct name="Riverdale 6" votes="3" />
+                <Precinct name="Riverdale 7" votes="1" />
+                <Precinct name="Riverdale 8" votes="1" />
+                <Precinct name="Riverdale 9" votes="4" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="6" />
+                <Precinct name="Riverdale 12" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1229">
+                <Precinct name="Ellenwood 1" votes="43" />
+                <Precinct name="Ellenwood 2" votes="48" />
+                <Precinct name="Forest Park 1" votes="3" />
+                <Precinct name="Forest Park 2" votes="5" />
+                <Precinct name="Forest Park 3" votes="5" />
+                <Precinct name="Forest Park 4" votes="4" />
+                <Precinct name="Forest Park 5" votes="7" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="20" />
+                <Precinct name="Jonesboro 2" votes="40" />
+                <Precinct name="Jonesboro 3" votes="31" />
+                <Precinct name="Jonesboro 4" votes="6" />
+                <Precinct name="Jonesboro 5" votes="12" />
+                <Precinct name="Jonesboro 6" votes="22" />
+                <Precinct name="Jonesboro 7" votes="23" />
+                <Precinct name="Jonesboro 8" votes="16" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="7" />
+                <Precinct name="Jonesboro 11" votes="28" />
+                <Precinct name="Jonesboro 12" votes="19" />
+                <Precinct name="Jonesboro 13" votes="18" />
+                <Precinct name="Jonesboro 14" votes="34" />
+                <Precinct name="Jonesboro 15" votes="6" />
+                <Precinct name="Jonesboro 16" votes="6" />
+                <Precinct name="Jonesboro 17" votes="21" />
+                <Precinct name="Jonesboro 18" votes="14" />
+                <Precinct name="Jonesboro 19" votes="22" />
+                <Precinct name="Lake City" votes="21" />
+                <Precinct name="Lovejoy 1" votes="31" />
+                <Precinct name="Lovejoy 2" votes="20" />
+                <Precinct name="Lovejoy 3" votes="10" />
+                <Precinct name="Lovejoy 4" votes="38" />
+                <Precinct name="Lovejoy 5" votes="18" />
+                <Precinct name="Lovejoy 6" votes="17" />
+                <Precinct name="Lovejoy 7" votes="18" />
+                <Precinct name="Morrow 1" votes="10" />
+                <Precinct name="Morrow 2" votes="6" />
+                <Precinct name="Morrow 3" votes="12" />
+                <Precinct name="Morrow 4" votes="11" />
+                <Precinct name="Morrow 5" votes="32" />
+                <Precinct name="Morrow 6" votes="16" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="32" />
+                <Precinct name="Morrow 9" votes="10" />
+                <Precinct name="Morrow 10" votes="31" />
+                <Precinct name="Morrow 11" votes="15" />
+                <Precinct name="Oak 1" votes="13" />
+                <Precinct name="Oak 2" votes="12" />
+                <Precinct name="Oak 3" votes="19" />
+                <Precinct name="Oak 4" votes="14" />
+                <Precinct name="Oak 5" votes="5" />
+                <Precinct name="Panhandle 1" votes="36" />
+                <Precinct name="Panhandle 2" votes="25" />
+                <Precinct name="Riverdale 1" votes="41" />
+                <Precinct name="Riverdale 2" votes="12" />
+                <Precinct name="Riverdale 3" votes="32" />
+                <Precinct name="Riverdale 4" votes="26" />
+                <Precinct name="Riverdale 5" votes="19" />
+                <Precinct name="Riverdale 6" votes="8" />
+                <Precinct name="Riverdale 7" votes="7" />
+                <Precinct name="Riverdale 8" votes="60" />
+                <Precinct name="Riverdale 9" votes="20" />
+                <Precinct name="Riverdale 10" votes="10" />
+                <Precinct name="Riverdale 11" votes="29" />
+                <Precinct name="Riverdale 12" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2023">
+                <Precinct name="Ellenwood 1" votes="44" />
+                <Precinct name="Ellenwood 2" votes="64" />
+                <Precinct name="Forest Park 1" votes="25" />
+                <Precinct name="Forest Park 2" votes="24" />
+                <Precinct name="Forest Park 3" votes="28" />
+                <Precinct name="Forest Park 4" votes="15" />
+                <Precinct name="Forest Park 5" votes="21" />
+                <Precinct name="Forest Park 6" votes="23" />
+                <Precinct name="Jonesboro 1" votes="27" />
+                <Precinct name="Jonesboro 2" votes="54" />
+                <Precinct name="Jonesboro 3" votes="39" />
+                <Precinct name="Jonesboro 4" votes="20" />
+                <Precinct name="Jonesboro 5" votes="15" />
+                <Precinct name="Jonesboro 6" votes="31" />
+                <Precinct name="Jonesboro 7" votes="30" />
+                <Precinct name="Jonesboro 8" votes="17" />
+                <Precinct name="Jonesboro 9" votes="10" />
+                <Precinct name="Jonesboro 10" votes="21" />
+                <Precinct name="Jonesboro 11" votes="60" />
+                <Precinct name="Jonesboro 12" votes="39" />
+                <Precinct name="Jonesboro 13" votes="36" />
+                <Precinct name="Jonesboro 14" votes="58" />
+                <Precinct name="Jonesboro 15" votes="16" />
+                <Precinct name="Jonesboro 16" votes="17" />
+                <Precinct name="Jonesboro 17" votes="24" />
+                <Precinct name="Jonesboro 18" votes="34" />
+                <Precinct name="Jonesboro 19" votes="36" />
+                <Precinct name="Lake City" votes="25" />
+                <Precinct name="Lovejoy 1" votes="63" />
+                <Precinct name="Lovejoy 2" votes="13" />
+                <Precinct name="Lovejoy 3" votes="18" />
+                <Precinct name="Lovejoy 4" votes="49" />
+                <Precinct name="Lovejoy 5" votes="44" />
+                <Precinct name="Lovejoy 6" votes="33" />
+                <Precinct name="Lovejoy 7" votes="29" />
+                <Precinct name="Morrow 1" votes="41" />
+                <Precinct name="Morrow 2" votes="30" />
+                <Precinct name="Morrow 3" votes="21" />
+                <Precinct name="Morrow 4" votes="24" />
+                <Precinct name="Morrow 5" votes="31" />
+                <Precinct name="Morrow 6" votes="40" />
+                <Precinct name="Morrow 7" votes="23" />
+                <Precinct name="Morrow 8" votes="32" />
+                <Precinct name="Morrow 9" votes="11" />
+                <Precinct name="Morrow 10" votes="18" />
+                <Precinct name="Morrow 11" votes="34" />
+                <Precinct name="Oak 1" votes="21" />
+                <Precinct name="Oak 2" votes="13" />
+                <Precinct name="Oak 3" votes="20" />
+                <Precinct name="Oak 4" votes="35" />
+                <Precinct name="Oak 5" votes="8" />
+                <Precinct name="Panhandle 1" votes="64" />
+                <Precinct name="Panhandle 2" votes="52" />
+                <Precinct name="Riverdale 1" votes="48" />
+                <Precinct name="Riverdale 2" votes="32" />
+                <Precinct name="Riverdale 3" votes="47" />
+                <Precinct name="Riverdale 4" votes="41" />
+                <Precinct name="Riverdale 5" votes="29" />
+                <Precinct name="Riverdale 6" votes="15" />
+                <Precinct name="Riverdale 7" votes="14" />
+                <Precinct name="Riverdale 8" votes="65" />
+                <Precinct name="Riverdale 9" votes="17" />
+                <Precinct name="Riverdale 10" votes="14" />
+                <Precinct name="Riverdale 11" votes="43" />
+                <Precinct name="Riverdale 12" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="0" />
+                <Precinct name="Lovejoy 7" votes="0" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="0" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="5392">
+            <VoteType name="Absentee by Mail Votes" votes="456">
+                <Precinct name="Ellenwood 1" votes="4" />
+                <Precinct name="Ellenwood 2" votes="11" />
+                <Precinct name="Forest Park 1" votes="2" />
+                <Precinct name="Forest Park 2" votes="5" />
+                <Precinct name="Forest Park 3" votes="8" />
+                <Precinct name="Forest Park 4" votes="4" />
+                <Precinct name="Forest Park 5" votes="5" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="11" />
+                <Precinct name="Jonesboro 2" votes="15" />
+                <Precinct name="Jonesboro 3" votes="19" />
+                <Precinct name="Jonesboro 4" votes="1" />
+                <Precinct name="Jonesboro 5" votes="6" />
+                <Precinct name="Jonesboro 6" votes="14" />
+                <Precinct name="Jonesboro 7" votes="17" />
+                <Precinct name="Jonesboro 8" votes="3" />
+                <Precinct name="Jonesboro 9" votes="3" />
+                <Precinct name="Jonesboro 10" votes="11" />
+                <Precinct name="Jonesboro 11" votes="20" />
+                <Precinct name="Jonesboro 12" votes="7" />
+                <Precinct name="Jonesboro 13" votes="2" />
+                <Precinct name="Jonesboro 14" votes="23" />
+                <Precinct name="Jonesboro 15" votes="4" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="12" />
+                <Precinct name="Jonesboro 18" votes="3" />
+                <Precinct name="Jonesboro 19" votes="14" />
+                <Precinct name="Lake City" votes="6" />
+                <Precinct name="Lovejoy 1" votes="16" />
+                <Precinct name="Lovejoy 2" votes="10" />
+                <Precinct name="Lovejoy 3" votes="3" />
+                <Precinct name="Lovejoy 4" votes="10" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="5" />
+                <Precinct name="Lovejoy 7" votes="5" />
+                <Precinct name="Morrow 1" votes="7" />
+                <Precinct name="Morrow 2" votes="6" />
+                <Precinct name="Morrow 3" votes="2" />
+                <Precinct name="Morrow 4" votes="4" />
+                <Precinct name="Morrow 5" votes="7" />
+                <Precinct name="Morrow 6" votes="6" />
+                <Precinct name="Morrow 7" votes="2" />
+                <Precinct name="Morrow 8" votes="7" />
+                <Precinct name="Morrow 9" votes="7" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="3" />
+                <Precinct name="Oak 1" votes="5" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="3" />
+                <Precinct name="Oak 4" votes="4" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="20" />
+                <Precinct name="Panhandle 2" votes="4" />
+                <Precinct name="Riverdale 1" votes="16" />
+                <Precinct name="Riverdale 2" votes="10" />
+                <Precinct name="Riverdale 3" votes="3" />
+                <Precinct name="Riverdale 4" votes="10" />
+                <Precinct name="Riverdale 5" votes="3" />
+                <Precinct name="Riverdale 6" votes="4" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="18" />
+                <Precinct name="Riverdale 9" votes="8" />
+                <Precinct name="Riverdale 10" votes="2" />
+                <Precinct name="Riverdale 11" votes="6" />
+                <Precinct name="Riverdale 12" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1823">
+                <Precinct name="Ellenwood 1" votes="46" />
+                <Precinct name="Ellenwood 2" votes="62" />
+                <Precinct name="Forest Park 1" votes="12" />
+                <Precinct name="Forest Park 2" votes="6" />
+                <Precinct name="Forest Park 3" votes="8" />
+                <Precinct name="Forest Park 4" votes="3" />
+                <Precinct name="Forest Park 5" votes="12" />
+                <Precinct name="Forest Park 6" votes="2" />
+                <Precinct name="Jonesboro 1" votes="30" />
+                <Precinct name="Jonesboro 2" votes="64" />
+                <Precinct name="Jonesboro 3" votes="37" />
+                <Precinct name="Jonesboro 4" votes="12" />
+                <Precinct name="Jonesboro 5" votes="29" />
+                <Precinct name="Jonesboro 6" votes="38" />
+                <Precinct name="Jonesboro 7" votes="39" />
+                <Precinct name="Jonesboro 8" votes="14" />
+                <Precinct name="Jonesboro 9" votes="3" />
+                <Precinct name="Jonesboro 10" votes="25" />
+                <Precinct name="Jonesboro 11" votes="69" />
+                <Precinct name="Jonesboro 12" votes="34" />
+                <Precinct name="Jonesboro 13" votes="13" />
+                <Precinct name="Jonesboro 14" votes="49" />
+                <Precinct name="Jonesboro 15" votes="1" />
+                <Precinct name="Jonesboro 16" votes="14" />
+                <Precinct name="Jonesboro 17" votes="16" />
+                <Precinct name="Jonesboro 18" votes="21" />
+                <Precinct name="Jonesboro 19" votes="40" />
+                <Precinct name="Lake City" votes="21" />
+                <Precinct name="Lovejoy 1" votes="59" />
+                <Precinct name="Lovejoy 2" votes="38" />
+                <Precinct name="Lovejoy 3" votes="15" />
+                <Precinct name="Lovejoy 4" votes="35" />
+                <Precinct name="Lovejoy 5" votes="22" />
+                <Precinct name="Lovejoy 6" votes="48" />
+                <Precinct name="Lovejoy 7" votes="32" />
+                <Precinct name="Morrow 1" votes="21" />
+                <Precinct name="Morrow 2" votes="11" />
+                <Precinct name="Morrow 3" votes="10" />
+                <Precinct name="Morrow 4" votes="18" />
+                <Precinct name="Morrow 5" votes="54" />
+                <Precinct name="Morrow 6" votes="29" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="46" />
+                <Precinct name="Morrow 9" votes="11" />
+                <Precinct name="Morrow 10" votes="49" />
+                <Precinct name="Morrow 11" votes="15" />
+                <Precinct name="Oak 1" votes="24" />
+                <Precinct name="Oak 2" votes="8" />
+                <Precinct name="Oak 3" votes="16" />
+                <Precinct name="Oak 4" votes="37" />
+                <Precinct name="Oak 5" votes="8" />
+                <Precinct name="Panhandle 1" votes="37" />
+                <Precinct name="Panhandle 2" votes="34" />
+                <Precinct name="Riverdale 1" votes="56" />
+                <Precinct name="Riverdale 2" votes="37" />
+                <Precinct name="Riverdale 3" votes="56" />
+                <Precinct name="Riverdale 4" votes="41" />
+                <Precinct name="Riverdale 5" votes="35" />
+                <Precinct name="Riverdale 6" votes="15" />
+                <Precinct name="Riverdale 7" votes="9" />
+                <Precinct name="Riverdale 8" votes="70" />
+                <Precinct name="Riverdale 9" votes="17" />
+                <Precinct name="Riverdale 10" votes="14" />
+                <Precinct name="Riverdale 11" votes="38" />
+                <Precinct name="Riverdale 12" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3105">
+                <Precinct name="Ellenwood 1" votes="79" />
+                <Precinct name="Ellenwood 2" votes="95" />
+                <Precinct name="Forest Park 1" votes="42" />
+                <Precinct name="Forest Park 2" votes="48" />
+                <Precinct name="Forest Park 3" votes="36" />
+                <Precinct name="Forest Park 4" votes="34" />
+                <Precinct name="Forest Park 5" votes="26" />
+                <Precinct name="Forest Park 6" votes="19" />
+                <Precinct name="Jonesboro 1" votes="70" />
+                <Precinct name="Jonesboro 2" votes="56" />
+                <Precinct name="Jonesboro 3" votes="91" />
+                <Precinct name="Jonesboro 4" votes="36" />
+                <Precinct name="Jonesboro 5" votes="45" />
+                <Precinct name="Jonesboro 6" votes="60" />
+                <Precinct name="Jonesboro 7" votes="62" />
+                <Precinct name="Jonesboro 8" votes="42" />
+                <Precinct name="Jonesboro 9" votes="18" />
+                <Precinct name="Jonesboro 10" votes="38" />
+                <Precinct name="Jonesboro 11" votes="91" />
+                <Precinct name="Jonesboro 12" votes="53" />
+                <Precinct name="Jonesboro 13" votes="56" />
+                <Precinct name="Jonesboro 14" votes="110" />
+                <Precinct name="Jonesboro 15" votes="26" />
+                <Precinct name="Jonesboro 16" votes="29" />
+                <Precinct name="Jonesboro 17" votes="37" />
+                <Precinct name="Jonesboro 18" votes="34" />
+                <Precinct name="Jonesboro 19" votes="47" />
+                <Precinct name="Lake City" votes="44" />
+                <Precinct name="Lovejoy 1" votes="64" />
+                <Precinct name="Lovejoy 2" votes="34" />
+                <Precinct name="Lovejoy 3" votes="34" />
+                <Precinct name="Lovejoy 4" votes="68" />
+                <Precinct name="Lovejoy 5" votes="44" />
+                <Precinct name="Lovejoy 6" votes="62" />
+                <Precinct name="Lovejoy 7" votes="33" />
+                <Precinct name="Morrow 1" votes="50" />
+                <Precinct name="Morrow 2" votes="44" />
+                <Precinct name="Morrow 3" votes="31" />
+                <Precinct name="Morrow 4" votes="34" />
+                <Precinct name="Morrow 5" votes="58" />
+                <Precinct name="Morrow 6" votes="55" />
+                <Precinct name="Morrow 7" votes="28" />
+                <Precinct name="Morrow 8" votes="53" />
+                <Precinct name="Morrow 9" votes="19" />
+                <Precinct name="Morrow 10" votes="34" />
+                <Precinct name="Morrow 11" votes="44" />
+                <Precinct name="Oak 1" votes="36" />
+                <Precinct name="Oak 2" votes="13" />
+                <Precinct name="Oak 3" votes="49" />
+                <Precinct name="Oak 4" votes="26" />
+                <Precinct name="Oak 5" votes="19" />
+                <Precinct name="Panhandle 1" votes="87" />
+                <Precinct name="Panhandle 2" votes="76" />
+                <Precinct name="Riverdale 1" votes="64" />
+                <Precinct name="Riverdale 2" votes="46" />
+                <Precinct name="Riverdale 3" votes="73" />
+                <Precinct name="Riverdale 4" votes="49" />
+                <Precinct name="Riverdale 5" votes="56" />
+                <Precinct name="Riverdale 6" votes="31" />
+                <Precinct name="Riverdale 7" votes="14" />
+                <Precinct name="Riverdale 8" votes="93" />
+                <Precinct name="Riverdale 9" votes="35" />
+                <Precinct name="Riverdale 10" votes="19" />
+                <Precinct name="Riverdale 11" votes="47" />
+                <Precinct name="Riverdale 12" votes="59" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="1" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="1" />
+                <Precinct name="Lovejoy 7" votes="1" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="1" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="2" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="1" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="65" precinctsReported="65">
+        <VoteType name="Undervotes" votes="158">
+            <Precinct name="Ellenwood 1" votes="5" />
+            <Precinct name="Ellenwood 2" votes="2" />
+            <Precinct name="Forest Park 1" votes="1" />
+            <Precinct name="Forest Park 2" votes="1" />
+            <Precinct name="Forest Park 3" votes="5" />
+            <Precinct name="Forest Park 4" votes="1" />
+            <Precinct name="Forest Park 5" votes="1" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="1" />
+            <Precinct name="Jonesboro 2" votes="1" />
+            <Precinct name="Jonesboro 3" votes="2" />
+            <Precinct name="Jonesboro 4" votes="1" />
+            <Precinct name="Jonesboro 5" votes="2" />
+            <Precinct name="Jonesboro 6" votes="2" />
+            <Precinct name="Jonesboro 7" votes="2" />
+            <Precinct name="Jonesboro 8" votes="2" />
+            <Precinct name="Jonesboro 9" votes="1" />
+            <Precinct name="Jonesboro 10" votes="2" />
+            <Precinct name="Jonesboro 11" votes="5" />
+            <Precinct name="Jonesboro 12" votes="1" />
+            <Precinct name="Jonesboro 13" votes="1" />
+            <Precinct name="Jonesboro 14" votes="4" />
+            <Precinct name="Jonesboro 15" votes="2" />
+            <Precinct name="Jonesboro 16" votes="4" />
+            <Precinct name="Jonesboro 17" votes="2" />
+            <Precinct name="Jonesboro 18" votes="4" />
+            <Precinct name="Jonesboro 19" votes="3" />
+            <Precinct name="Lake City" votes="1" />
+            <Precinct name="Lovejoy 1" votes="4" />
+            <Precinct name="Lovejoy 2" votes="1" />
+            <Precinct name="Lovejoy 3" votes="2" />
+            <Precinct name="Lovejoy 4" votes="5" />
+            <Precinct name="Lovejoy 5" votes="5" />
+            <Precinct name="Lovejoy 6" votes="3" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="1" />
+            <Precinct name="Morrow 2" votes="2" />
+            <Precinct name="Morrow 3" votes="1" />
+            <Precinct name="Morrow 4" votes="3" />
+            <Precinct name="Morrow 5" votes="6" />
+            <Precinct name="Morrow 6" votes="1" />
+            <Precinct name="Morrow 7" votes="1" />
+            <Precinct name="Morrow 8" votes="3" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="3" />
+            <Precinct name="Morrow 11" votes="6" />
+            <Precinct name="Oak 1" votes="1" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="1" />
+            <Precinct name="Oak 4" votes="2" />
+            <Precinct name="Oak 5" votes="1" />
+            <Precinct name="Panhandle 1" votes="5" />
+            <Precinct name="Panhandle 2" votes="7" />
+            <Precinct name="Riverdale 1" votes="8" />
+            <Precinct name="Riverdale 2" votes="2" />
+            <Precinct name="Riverdale 3" votes="7" />
+            <Precinct name="Riverdale 4" votes="1" />
+            <Precinct name="Riverdale 5" votes="2" />
+            <Precinct name="Riverdale 6" votes="2" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="4" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="3" />
+            <Precinct name="Riverdale 11" votes="4" />
+            <Precinct name="Riverdale 12" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellenwood 1" votes="0" />
+            <Precinct name="Ellenwood 2" votes="0" />
+            <Precinct name="Forest Park 1" votes="0" />
+            <Precinct name="Forest Park 2" votes="0" />
+            <Precinct name="Forest Park 3" votes="0" />
+            <Precinct name="Forest Park 4" votes="0" />
+            <Precinct name="Forest Park 5" votes="0" />
+            <Precinct name="Forest Park 6" votes="0" />
+            <Precinct name="Jonesboro 1" votes="0" />
+            <Precinct name="Jonesboro 2" votes="0" />
+            <Precinct name="Jonesboro 3" votes="0" />
+            <Precinct name="Jonesboro 4" votes="0" />
+            <Precinct name="Jonesboro 5" votes="0" />
+            <Precinct name="Jonesboro 6" votes="0" />
+            <Precinct name="Jonesboro 7" votes="0" />
+            <Precinct name="Jonesboro 8" votes="0" />
+            <Precinct name="Jonesboro 9" votes="0" />
+            <Precinct name="Jonesboro 10" votes="0" />
+            <Precinct name="Jonesboro 11" votes="0" />
+            <Precinct name="Jonesboro 12" votes="0" />
+            <Precinct name="Jonesboro 13" votes="0" />
+            <Precinct name="Jonesboro 14" votes="0" />
+            <Precinct name="Jonesboro 15" votes="0" />
+            <Precinct name="Jonesboro 16" votes="0" />
+            <Precinct name="Jonesboro 17" votes="0" />
+            <Precinct name="Jonesboro 18" votes="0" />
+            <Precinct name="Jonesboro 19" votes="0" />
+            <Precinct name="Lake City" votes="0" />
+            <Precinct name="Lovejoy 1" votes="0" />
+            <Precinct name="Lovejoy 2" votes="0" />
+            <Precinct name="Lovejoy 3" votes="0" />
+            <Precinct name="Lovejoy 4" votes="0" />
+            <Precinct name="Lovejoy 5" votes="0" />
+            <Precinct name="Lovejoy 6" votes="0" />
+            <Precinct name="Lovejoy 7" votes="0" />
+            <Precinct name="Morrow 1" votes="0" />
+            <Precinct name="Morrow 2" votes="0" />
+            <Precinct name="Morrow 3" votes="0" />
+            <Precinct name="Morrow 4" votes="0" />
+            <Precinct name="Morrow 5" votes="0" />
+            <Precinct name="Morrow 6" votes="0" />
+            <Precinct name="Morrow 7" votes="0" />
+            <Precinct name="Morrow 8" votes="0" />
+            <Precinct name="Morrow 9" votes="0" />
+            <Precinct name="Morrow 10" votes="0" />
+            <Precinct name="Morrow 11" votes="0" />
+            <Precinct name="Oak 1" votes="0" />
+            <Precinct name="Oak 2" votes="0" />
+            <Precinct name="Oak 3" votes="0" />
+            <Precinct name="Oak 4" votes="0" />
+            <Precinct name="Oak 5" votes="0" />
+            <Precinct name="Panhandle 1" votes="0" />
+            <Precinct name="Panhandle 2" votes="0" />
+            <Precinct name="Riverdale 1" votes="0" />
+            <Precinct name="Riverdale 2" votes="0" />
+            <Precinct name="Riverdale 3" votes="0" />
+            <Precinct name="Riverdale 4" votes="0" />
+            <Precinct name="Riverdale 5" votes="0" />
+            <Precinct name="Riverdale 6" votes="0" />
+            <Precinct name="Riverdale 7" votes="0" />
+            <Precinct name="Riverdale 8" votes="0" />
+            <Precinct name="Riverdale 9" votes="0" />
+            <Precinct name="Riverdale 10" votes="0" />
+            <Precinct name="Riverdale 11" votes="0" />
+            <Precinct name="Riverdale 12" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="5671">
+            <VoteType name="Absentee by Mail Votes" votes="394">
+                <Precinct name="Ellenwood 1" votes="7" />
+                <Precinct name="Ellenwood 2" votes="10" />
+                <Precinct name="Forest Park 1" votes="3" />
+                <Precinct name="Forest Park 2" votes="6" />
+                <Precinct name="Forest Park 3" votes="4" />
+                <Precinct name="Forest Park 4" votes="3" />
+                <Precinct name="Forest Park 5" votes="6" />
+                <Precinct name="Forest Park 6" votes="1" />
+                <Precinct name="Jonesboro 1" votes="6" />
+                <Precinct name="Jonesboro 2" votes="12" />
+                <Precinct name="Jonesboro 3" votes="13" />
+                <Precinct name="Jonesboro 4" votes="1" />
+                <Precinct name="Jonesboro 5" votes="3" />
+                <Precinct name="Jonesboro 6" votes="13" />
+                <Precinct name="Jonesboro 7" votes="17" />
+                <Precinct name="Jonesboro 8" votes="3" />
+                <Precinct name="Jonesboro 9" votes="4" />
+                <Precinct name="Jonesboro 10" votes="10" />
+                <Precinct name="Jonesboro 11" votes="19" />
+                <Precinct name="Jonesboro 12" votes="6" />
+                <Precinct name="Jonesboro 13" votes="3" />
+                <Precinct name="Jonesboro 14" votes="22" />
+                <Precinct name="Jonesboro 15" votes="5" />
+                <Precinct name="Jonesboro 16" votes="1" />
+                <Precinct name="Jonesboro 17" votes="10" />
+                <Precinct name="Jonesboro 18" votes="6" />
+                <Precinct name="Jonesboro 19" votes="12" />
+                <Precinct name="Lake City" votes="8" />
+                <Precinct name="Lovejoy 1" votes="7" />
+                <Precinct name="Lovejoy 2" votes="10" />
+                <Precinct name="Lovejoy 3" votes="3" />
+                <Precinct name="Lovejoy 4" votes="2" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="4" />
+                <Precinct name="Lovejoy 7" votes="6" />
+                <Precinct name="Morrow 1" votes="4" />
+                <Precinct name="Morrow 2" votes="5" />
+                <Precinct name="Morrow 3" votes="1" />
+                <Precinct name="Morrow 4" votes="4" />
+                <Precinct name="Morrow 5" votes="6" />
+                <Precinct name="Morrow 6" votes="3" />
+                <Precinct name="Morrow 7" votes="4" />
+                <Precinct name="Morrow 8" votes="5" />
+                <Precinct name="Morrow 9" votes="1" />
+                <Precinct name="Morrow 10" votes="3" />
+                <Precinct name="Morrow 11" votes="1" />
+                <Precinct name="Oak 1" votes="2" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="3" />
+                <Precinct name="Oak 4" votes="3" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="16" />
+                <Precinct name="Panhandle 2" votes="4" />
+                <Precinct name="Riverdale 1" votes="11" />
+                <Precinct name="Riverdale 2" votes="7" />
+                <Precinct name="Riverdale 3" votes="5" />
+                <Precinct name="Riverdale 4" votes="6" />
+                <Precinct name="Riverdale 5" votes="5" />
+                <Precinct name="Riverdale 6" votes="4" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="15" />
+                <Precinct name="Riverdale 9" votes="9" />
+                <Precinct name="Riverdale 10" votes="1" />
+                <Precinct name="Riverdale 11" votes="8" />
+                <Precinct name="Riverdale 12" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2103">
+                <Precinct name="Ellenwood 1" votes="55" />
+                <Precinct name="Ellenwood 2" votes="80" />
+                <Precinct name="Forest Park 1" votes="8" />
+                <Precinct name="Forest Park 2" votes="6" />
+                <Precinct name="Forest Park 3" votes="11" />
+                <Precinct name="Forest Park 4" votes="6" />
+                <Precinct name="Forest Park 5" votes="13" />
+                <Precinct name="Forest Park 6" votes="3" />
+                <Precinct name="Jonesboro 1" votes="30" />
+                <Precinct name="Jonesboro 2" votes="70" />
+                <Precinct name="Jonesboro 3" votes="47" />
+                <Precinct name="Jonesboro 4" votes="13" />
+                <Precinct name="Jonesboro 5" votes="30" />
+                <Precinct name="Jonesboro 6" votes="41" />
+                <Precinct name="Jonesboro 7" votes="46" />
+                <Precinct name="Jonesboro 8" votes="23" />
+                <Precinct name="Jonesboro 9" votes="6" />
+                <Precinct name="Jonesboro 10" votes="20" />
+                <Precinct name="Jonesboro 11" votes="77" />
+                <Precinct name="Jonesboro 12" votes="36" />
+                <Precinct name="Jonesboro 13" votes="21" />
+                <Precinct name="Jonesboro 14" votes="59" />
+                <Precinct name="Jonesboro 15" votes="5" />
+                <Precinct name="Jonesboro 16" votes="11" />
+                <Precinct name="Jonesboro 17" votes="27" />
+                <Precinct name="Jonesboro 18" votes="30" />
+                <Precinct name="Jonesboro 19" votes="45" />
+                <Precinct name="Lake City" votes="24" />
+                <Precinct name="Lovejoy 1" votes="51" />
+                <Precinct name="Lovejoy 2" votes="36" />
+                <Precinct name="Lovejoy 3" votes="21" />
+                <Precinct name="Lovejoy 4" votes="52" />
+                <Precinct name="Lovejoy 5" votes="31" />
+                <Precinct name="Lovejoy 6" votes="40" />
+                <Precinct name="Lovejoy 7" votes="31" />
+                <Precinct name="Morrow 1" votes="24" />
+                <Precinct name="Morrow 2" votes="12" />
+                <Precinct name="Morrow 3" votes="16" />
+                <Precinct name="Morrow 4" votes="20" />
+                <Precinct name="Morrow 5" votes="61" />
+                <Precinct name="Morrow 6" votes="36" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="52" />
+                <Precinct name="Morrow 9" votes="11" />
+                <Precinct name="Morrow 10" votes="53" />
+                <Precinct name="Morrow 11" votes="24" />
+                <Precinct name="Oak 1" votes="25" />
+                <Precinct name="Oak 2" votes="14" />
+                <Precinct name="Oak 3" votes="22" />
+                <Precinct name="Oak 4" votes="38" />
+                <Precinct name="Oak 5" votes="7" />
+                <Precinct name="Panhandle 1" votes="48" />
+                <Precinct name="Panhandle 2" votes="35" />
+                <Precinct name="Riverdale 1" votes="74" />
+                <Precinct name="Riverdale 2" votes="32" />
+                <Precinct name="Riverdale 3" votes="55" />
+                <Precinct name="Riverdale 4" votes="46" />
+                <Precinct name="Riverdale 5" votes="42" />
+                <Precinct name="Riverdale 6" votes="16" />
+                <Precinct name="Riverdale 7" votes="11" />
+                <Precinct name="Riverdale 8" votes="91" />
+                <Precinct name="Riverdale 9" votes="27" />
+                <Precinct name="Riverdale 10" votes="12" />
+                <Precinct name="Riverdale 11" votes="50" />
+                <Precinct name="Riverdale 12" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3167">
+                <Precinct name="Ellenwood 1" votes="82" />
+                <Precinct name="Ellenwood 2" votes="89" />
+                <Precinct name="Forest Park 1" votes="39" />
+                <Precinct name="Forest Park 2" votes="41" />
+                <Precinct name="Forest Park 3" votes="40" />
+                <Precinct name="Forest Park 4" votes="26" />
+                <Precinct name="Forest Park 5" votes="35" />
+                <Precinct name="Forest Park 6" votes="22" />
+                <Precinct name="Jonesboro 1" votes="56" />
+                <Precinct name="Jonesboro 2" votes="58" />
+                <Precinct name="Jonesboro 3" votes="74" />
+                <Precinct name="Jonesboro 4" votes="42" />
+                <Precinct name="Jonesboro 5" votes="32" />
+                <Precinct name="Jonesboro 6" votes="61" />
+                <Precinct name="Jonesboro 7" votes="60" />
+                <Precinct name="Jonesboro 8" votes="36" />
+                <Precinct name="Jonesboro 9" votes="18" />
+                <Precinct name="Jonesboro 10" votes="32" />
+                <Precinct name="Jonesboro 11" votes="101" />
+                <Precinct name="Jonesboro 12" votes="52" />
+                <Precinct name="Jonesboro 13" votes="62" />
+                <Precinct name="Jonesboro 14" votes="116" />
+                <Precinct name="Jonesboro 15" votes="20" />
+                <Precinct name="Jonesboro 16" votes="25" />
+                <Precinct name="Jonesboro 17" votes="31" />
+                <Precinct name="Jonesboro 18" votes="48" />
+                <Precinct name="Jonesboro 19" votes="50" />
+                <Precinct name="Lake City" votes="41" />
+                <Precinct name="Lovejoy 1" votes="82" />
+                <Precinct name="Lovejoy 2" votes="27" />
+                <Precinct name="Lovejoy 3" votes="33" />
+                <Precinct name="Lovejoy 4" votes="65" />
+                <Precinct name="Lovejoy 5" votes="61" />
+                <Precinct name="Lovejoy 6" votes="48" />
+                <Precinct name="Lovejoy 7" votes="41" />
+                <Precinct name="Morrow 1" votes="53" />
+                <Precinct name="Morrow 2" votes="44" />
+                <Precinct name="Morrow 3" votes="28" />
+                <Precinct name="Morrow 4" votes="33" />
+                <Precinct name="Morrow 5" votes="53" />
+                <Precinct name="Morrow 6" votes="50" />
+                <Precinct name="Morrow 7" votes="32" />
+                <Precinct name="Morrow 8" votes="58" />
+                <Precinct name="Morrow 9" votes="22" />
+                <Precinct name="Morrow 10" votes="31" />
+                <Precinct name="Morrow 11" votes="51" />
+                <Precinct name="Oak 1" votes="38" />
+                <Precinct name="Oak 2" votes="16" />
+                <Precinct name="Oak 3" votes="37" />
+                <Precinct name="Oak 4" votes="36" />
+                <Precinct name="Oak 5" votes="15" />
+                <Precinct name="Panhandle 1" votes="88" />
+                <Precinct name="Panhandle 2" votes="81" />
+                <Precinct name="Riverdale 1" votes="81" />
+                <Precinct name="Riverdale 2" votes="49" />
+                <Precinct name="Riverdale 3" votes="92" />
+                <Precinct name="Riverdale 4" votes="57" />
+                <Precinct name="Riverdale 5" votes="51" />
+                <Precinct name="Riverdale 6" votes="32" />
+                <Precinct name="Riverdale 7" votes="18" />
+                <Precinct name="Riverdale 8" votes="103" />
+                <Precinct name="Riverdale 9" votes="34" />
+                <Precinct name="Riverdale 10" votes="19" />
+                <Precinct name="Riverdale 11" votes="55" />
+                <Precinct name="Riverdale 12" votes="64" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="7">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="0" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="1" />
+                <Precinct name="Lovejoy 7" votes="1" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="1" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="2" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="1" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="3157">
+            <VoteType name="Absentee by Mail Votes" votes="232">
+                <Precinct name="Ellenwood 1" votes="2" />
+                <Precinct name="Ellenwood 2" votes="4" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="3" />
+                <Precinct name="Forest Park 3" votes="4" />
+                <Precinct name="Forest Park 4" votes="2" />
+                <Precinct name="Forest Park 5" votes="3" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="10" />
+                <Precinct name="Jonesboro 2" votes="7" />
+                <Precinct name="Jonesboro 3" votes="13" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="4" />
+                <Precinct name="Jonesboro 6" votes="4" />
+                <Precinct name="Jonesboro 7" votes="8" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="5" />
+                <Precinct name="Jonesboro 11" votes="8" />
+                <Precinct name="Jonesboro 12" votes="3" />
+                <Precinct name="Jonesboro 13" votes="1" />
+                <Precinct name="Jonesboro 14" votes="7" />
+                <Precinct name="Jonesboro 15" votes="1" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="5" />
+                <Precinct name="Jonesboro 18" votes="1" />
+                <Precinct name="Jonesboro 19" votes="5" />
+                <Precinct name="Lake City" votes="4" />
+                <Precinct name="Lovejoy 1" votes="14" />
+                <Precinct name="Lovejoy 2" votes="4" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="8" />
+                <Precinct name="Lovejoy 5" votes="2" />
+                <Precinct name="Lovejoy 6" votes="3" />
+                <Precinct name="Lovejoy 7" votes="2" />
+                <Precinct name="Morrow 1" votes="3" />
+                <Precinct name="Morrow 2" votes="3" />
+                <Precinct name="Morrow 3" votes="1" />
+                <Precinct name="Morrow 4" votes="3" />
+                <Precinct name="Morrow 5" votes="2" />
+                <Precinct name="Morrow 6" votes="6" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="5" />
+                <Precinct name="Morrow 9" votes="6" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="4" />
+                <Precinct name="Oak 1" votes="3" />
+                <Precinct name="Oak 2" votes="1" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="1" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="8" />
+                <Precinct name="Panhandle 2" votes="2" />
+                <Precinct name="Riverdale 1" votes="8" />
+                <Precinct name="Riverdale 2" votes="7" />
+                <Precinct name="Riverdale 3" votes="2" />
+                <Precinct name="Riverdale 4" votes="10" />
+                <Precinct name="Riverdale 5" votes="2" />
+                <Precinct name="Riverdale 6" votes="3" />
+                <Precinct name="Riverdale 7" votes="1" />
+                <Precinct name="Riverdale 8" votes="4" />
+                <Precinct name="Riverdale 9" votes="4" />
+                <Precinct name="Riverdale 10" votes="1" />
+                <Precinct name="Riverdale 11" votes="3" />
+                <Precinct name="Riverdale 12" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="959">
+                <Precinct name="Ellenwood 1" votes="34" />
+                <Precinct name="Ellenwood 2" votes="29" />
+                <Precinct name="Forest Park 1" votes="7" />
+                <Precinct name="Forest Park 2" votes="5" />
+                <Precinct name="Forest Park 3" votes="2" />
+                <Precinct name="Forest Park 4" votes="1" />
+                <Precinct name="Forest Park 5" votes="6" />
+                <Precinct name="Forest Park 6" votes="1" />
+                <Precinct name="Jonesboro 1" votes="21" />
+                <Precinct name="Jonesboro 2" votes="36" />
+                <Precinct name="Jonesboro 3" votes="21" />
+                <Precinct name="Jonesboro 4" votes="5" />
+                <Precinct name="Jonesboro 5" votes="9" />
+                <Precinct name="Jonesboro 6" votes="20" />
+                <Precinct name="Jonesboro 7" votes="16" />
+                <Precinct name="Jonesboro 8" votes="7" />
+                <Precinct name="Jonesboro 9" votes="1" />
+                <Precinct name="Jonesboro 10" votes="11" />
+                <Precinct name="Jonesboro 11" votes="19" />
+                <Precinct name="Jonesboro 12" votes="17" />
+                <Precinct name="Jonesboro 13" votes="9" />
+                <Precinct name="Jonesboro 14" votes="26" />
+                <Precinct name="Jonesboro 15" votes="2" />
+                <Precinct name="Jonesboro 16" votes="8" />
+                <Precinct name="Jonesboro 17" votes="10" />
+                <Precinct name="Jonesboro 18" votes="6" />
+                <Precinct name="Jonesboro 19" votes="18" />
+                <Precinct name="Lake City" votes="18" />
+                <Precinct name="Lovejoy 1" votes="40" />
+                <Precinct name="Lovejoy 2" votes="22" />
+                <Precinct name="Lovejoy 3" votes="4" />
+                <Precinct name="Lovejoy 4" votes="20" />
+                <Precinct name="Lovejoy 5" votes="10" />
+                <Precinct name="Lovejoy 6" votes="27" />
+                <Precinct name="Lovejoy 7" votes="20" />
+                <Precinct name="Morrow 1" votes="8" />
+                <Precinct name="Morrow 2" votes="5" />
+                <Precinct name="Morrow 3" votes="6" />
+                <Precinct name="Morrow 4" votes="9" />
+                <Precinct name="Morrow 5" votes="26" />
+                <Precinct name="Morrow 6" votes="9" />
+                <Precinct name="Morrow 7" votes="6" />
+                <Precinct name="Morrow 8" votes="26" />
+                <Precinct name="Morrow 9" votes="10" />
+                <Precinct name="Morrow 10" votes="29" />
+                <Precinct name="Morrow 11" votes="6" />
+                <Precinct name="Oak 1" votes="13" />
+                <Precinct name="Oak 2" votes="6" />
+                <Precinct name="Oak 3" votes="13" />
+                <Precinct name="Oak 4" votes="13" />
+                <Precinct name="Oak 5" votes="6" />
+                <Precinct name="Panhandle 1" votes="24" />
+                <Precinct name="Panhandle 2" votes="22" />
+                <Precinct name="Riverdale 1" votes="22" />
+                <Precinct name="Riverdale 2" votes="17" />
+                <Precinct name="Riverdale 3" votes="32" />
+                <Precinct name="Riverdale 4" votes="23" />
+                <Precinct name="Riverdale 5" votes="11" />
+                <Precinct name="Riverdale 6" votes="7" />
+                <Precinct name="Riverdale 7" votes="5" />
+                <Precinct name="Riverdale 8" votes="40" />
+                <Precinct name="Riverdale 9" votes="10" />
+                <Precinct name="Riverdale 10" votes="12" />
+                <Precinct name="Riverdale 11" votes="16" />
+                <Precinct name="Riverdale 12" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1964">
+                <Precinct name="Ellenwood 1" votes="43" />
+                <Precinct name="Ellenwood 2" votes="70" />
+                <Precinct name="Forest Park 1" votes="27" />
+                <Precinct name="Forest Park 2" votes="31" />
+                <Precinct name="Forest Park 3" votes="24" />
+                <Precinct name="Forest Park 4" votes="23" />
+                <Precinct name="Forest Park 5" votes="13" />
+                <Precinct name="Forest Park 6" votes="20" />
+                <Precinct name="Jonesboro 1" votes="42" />
+                <Precinct name="Jonesboro 2" votes="53" />
+                <Precinct name="Jonesboro 3" votes="58" />
+                <Precinct name="Jonesboro 4" votes="13" />
+                <Precinct name="Jonesboro 5" votes="28" />
+                <Precinct name="Jonesboro 6" votes="30" />
+                <Precinct name="Jonesboro 7" votes="34" />
+                <Precinct name="Jonesboro 8" votes="22" />
+                <Precinct name="Jonesboro 9" votes="10" />
+                <Precinct name="Jonesboro 10" votes="26" />
+                <Precinct name="Jonesboro 11" votes="50" />
+                <Precinct name="Jonesboro 12" votes="42" />
+                <Precinct name="Jonesboro 13" votes="30" />
+                <Precinct name="Jonesboro 14" votes="53" />
+                <Precinct name="Jonesboro 15" votes="21" />
+                <Precinct name="Jonesboro 16" votes="22" />
+                <Precinct name="Jonesboro 17" votes="29" />
+                <Precinct name="Jonesboro 18" votes="20" />
+                <Precinct name="Jonesboro 19" votes="31" />
+                <Precinct name="Lake City" votes="29" />
+                <Precinct name="Lovejoy 1" votes="42" />
+                <Precinct name="Lovejoy 2" votes="20" />
+                <Precinct name="Lovejoy 3" votes="18" />
+                <Precinct name="Lovejoy 4" votes="52" />
+                <Precinct name="Lovejoy 5" votes="25" />
+                <Precinct name="Lovejoy 6" votes="46" />
+                <Precinct name="Lovejoy 7" votes="21" />
+                <Precinct name="Morrow 1" votes="38" />
+                <Precinct name="Morrow 2" votes="31" />
+                <Precinct name="Morrow 3" votes="24" />
+                <Precinct name="Morrow 4" votes="24" />
+                <Precinct name="Morrow 5" votes="37" />
+                <Precinct name="Morrow 6" votes="46" />
+                <Precinct name="Morrow 7" votes="18" />
+                <Precinct name="Morrow 8" votes="27" />
+                <Precinct name="Morrow 9" votes="9" />
+                <Precinct name="Morrow 10" votes="21" />
+                <Precinct name="Morrow 11" votes="28" />
+                <Precinct name="Oak 1" votes="19" />
+                <Precinct name="Oak 2" votes="10" />
+                <Precinct name="Oak 3" votes="31" />
+                <Precinct name="Oak 4" votes="24" />
+                <Precinct name="Oak 5" votes="12" />
+                <Precinct name="Panhandle 1" votes="63" />
+                <Precinct name="Panhandle 2" votes="47" />
+                <Precinct name="Riverdale 1" votes="30" />
+                <Precinct name="Riverdale 2" votes="28" />
+                <Precinct name="Riverdale 3" votes="32" />
+                <Precinct name="Riverdale 4" votes="33" />
+                <Precinct name="Riverdale 5" votes="35" />
+                <Precinct name="Riverdale 6" votes="13" />
+                <Precinct name="Riverdale 7" votes="10" />
+                <Precinct name="Riverdale 8" votes="53" />
+                <Precinct name="Riverdale 9" votes="19" />
+                <Precinct name="Riverdale 10" votes="14" />
+                <Precinct name="Riverdale 11" votes="36" />
+                <Precinct name="Riverdale 12" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Ellenwood 1" votes="0" />
+                <Precinct name="Ellenwood 2" votes="0" />
+                <Precinct name="Forest Park 1" votes="0" />
+                <Precinct name="Forest Park 2" votes="0" />
+                <Precinct name="Forest Park 3" votes="0" />
+                <Precinct name="Forest Park 4" votes="0" />
+                <Precinct name="Forest Park 5" votes="0" />
+                <Precinct name="Forest Park 6" votes="0" />
+                <Precinct name="Jonesboro 1" votes="0" />
+                <Precinct name="Jonesboro 2" votes="0" />
+                <Precinct name="Jonesboro 3" votes="0" />
+                <Precinct name="Jonesboro 4" votes="0" />
+                <Precinct name="Jonesboro 5" votes="0" />
+                <Precinct name="Jonesboro 6" votes="1" />
+                <Precinct name="Jonesboro 7" votes="0" />
+                <Precinct name="Jonesboro 8" votes="0" />
+                <Precinct name="Jonesboro 9" votes="0" />
+                <Precinct name="Jonesboro 10" votes="0" />
+                <Precinct name="Jonesboro 11" votes="0" />
+                <Precinct name="Jonesboro 12" votes="0" />
+                <Precinct name="Jonesboro 13" votes="0" />
+                <Precinct name="Jonesboro 14" votes="0" />
+                <Precinct name="Jonesboro 15" votes="0" />
+                <Precinct name="Jonesboro 16" votes="0" />
+                <Precinct name="Jonesboro 17" votes="0" />
+                <Precinct name="Jonesboro 18" votes="0" />
+                <Precinct name="Jonesboro 19" votes="0" />
+                <Precinct name="Lake City" votes="0" />
+                <Precinct name="Lovejoy 1" votes="0" />
+                <Precinct name="Lovejoy 2" votes="0" />
+                <Precinct name="Lovejoy 3" votes="0" />
+                <Precinct name="Lovejoy 4" votes="0" />
+                <Precinct name="Lovejoy 5" votes="1" />
+                <Precinct name="Lovejoy 6" votes="0" />
+                <Precinct name="Lovejoy 7" votes="0" />
+                <Precinct name="Morrow 1" votes="0" />
+                <Precinct name="Morrow 2" votes="0" />
+                <Precinct name="Morrow 3" votes="0" />
+                <Precinct name="Morrow 4" votes="0" />
+                <Precinct name="Morrow 5" votes="0" />
+                <Precinct name="Morrow 6" votes="0" />
+                <Precinct name="Morrow 7" votes="0" />
+                <Precinct name="Morrow 8" votes="0" />
+                <Precinct name="Morrow 9" votes="0" />
+                <Precinct name="Morrow 10" votes="0" />
+                <Precinct name="Morrow 11" votes="0" />
+                <Precinct name="Oak 1" votes="0" />
+                <Precinct name="Oak 2" votes="0" />
+                <Precinct name="Oak 3" votes="0" />
+                <Precinct name="Oak 4" votes="0" />
+                <Precinct name="Oak 5" votes="0" />
+                <Precinct name="Panhandle 1" votes="0" />
+                <Precinct name="Panhandle 2" votes="0" />
+                <Precinct name="Riverdale 1" votes="0" />
+                <Precinct name="Riverdale 2" votes="0" />
+                <Precinct name="Riverdale 3" votes="0" />
+                <Precinct name="Riverdale 4" votes="0" />
+                <Precinct name="Riverdale 5" votes="0" />
+                <Precinct name="Riverdale 6" votes="0" />
+                <Precinct name="Riverdale 7" votes="0" />
+                <Precinct name="Riverdale 8" votes="0" />
+                <Precinct name="Riverdale 9" votes="0" />
+                <Precinct name="Riverdale 10" votes="0" />
+                <Precinct name="Riverdale 11" votes="0" />
+                <Precinct name="Riverdale 12" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

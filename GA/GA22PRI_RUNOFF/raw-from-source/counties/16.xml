@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 5:28:18 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Bulloch</Region>
+    <VoterTurnout totalVoters="44094" ballotsCast="706" voterTurnout="1.60">
+        <Precincts>
+            <Precinct name="Lockhart" totalVoters="725" ballotsCast="16" voterTurnout="2.21" percentReporting="4" />
+            <Precinct name="Emit" totalVoters="3438" ballotsCast="43" voterTurnout="1.25" percentReporting="4" />
+            <Precinct name="Statesboro" totalVoters="6194" ballotsCast="154" voterTurnout="2.49" percentReporting="4" />
+            <Precinct name="Portal" totalVoters="1745" ballotsCast="23" voterTurnout="1.32" percentReporting="4" />
+            <Precinct name="Fair" totalVoters="6085" ballotsCast="81" voterTurnout="1.33" percentReporting="4" />
+            <Precinct name="Church" totalVoters="5664" ballotsCast="128" voterTurnout="2.26" percentReporting="4" />
+            <Precinct name="Pittman Park" totalVoters="4888" ballotsCast="58" voterTurnout="1.19" percentReporting="4" />
+            <Precinct name="Leefield" totalVoters="1032" ballotsCast="13" voterTurnout="1.26" percentReporting="4" />
+            <Precinct name="Blitch" totalVoters="1953" ballotsCast="39" voterTurnout="2.00" percentReporting="4" />
+            <Precinct name="Hagin" totalVoters="2433" ballotsCast="43" voterTurnout="1.77" percentReporting="4" />
+            <Precinct name="Brooklet" totalVoters="3418" ballotsCast="26" voterTurnout="0.76" percentReporting="4" />
+            <Precinct name="Stilson" totalVoters="2150" ballotsCast="20" voterTurnout="0.93" percentReporting="4" />
+            <Precinct name="Bay" totalVoters="1636" ballotsCast="20" voterTurnout="1.22" percentReporting="4" />
+            <Precinct name="Nevils" totalVoters="1311" ballotsCast="9" voterTurnout="0.69" percentReporting="4" />
+            <Precinct name="Sinkhole" totalVoters="467" ballotsCast="11" voterTurnout="2.36" percentReporting="4" />
+            <Precinct name="Register" totalVoters="955" ballotsCast="22" voterTurnout="2.30" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="5" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="2" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="1" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="3" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="0" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="405">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Lockhart" votes="2" />
+                <Precinct name="Emit" votes="11" />
+                <Precinct name="Statesboro" votes="7" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="10" />
+                <Precinct name="Church" votes="13" />
+                <Precinct name="Pittman Park" votes="4" />
+                <Precinct name="Leefield" votes="3" />
+                <Precinct name="Blitch" votes="3" />
+                <Precinct name="Hagin" votes="4" />
+                <Precinct name="Brooklet" votes="3" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="2" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="132">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="7" />
+                <Precinct name="Statesboro" votes="41" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="19" />
+                <Precinct name="Church" votes="18" />
+                <Precinct name="Pittman Park" votes="8" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="8" />
+                <Precinct name="Hagin" votes="2" />
+                <Precinct name="Brooklet" votes="9" />
+                <Precinct name="Stilson" votes="5" />
+                <Precinct name="Bay" votes="5" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="201">
+                <Precinct name="Lockhart" votes="6" />
+                <Precinct name="Emit" votes="14" />
+                <Precinct name="Statesboro" votes="32" />
+                <Precinct name="Portal" votes="8" />
+                <Precinct name="Fair" votes="28" />
+                <Precinct name="Church" votes="33" />
+                <Precinct name="Pittman Park" votes="18" />
+                <Precinct name="Leefield" votes="4" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="16" />
+                <Precinct name="Brooklet" votes="5" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="12" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="1" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="290">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Lockhart" votes="3" />
+                <Precinct name="Emit" votes="2" />
+                <Precinct name="Statesboro" votes="15" />
+                <Precinct name="Portal" votes="4" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="17" />
+                <Precinct name="Pittman Park" votes="2" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="5" />
+                <Precinct name="Brooklet" votes="2" />
+                <Precinct name="Stilson" votes="1" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="77">
+                <Precinct name="Lockhart" votes="2" />
+                <Precinct name="Emit" votes="2" />
+                <Precinct name="Statesboro" votes="22" />
+                <Precinct name="Portal" votes="3" />
+                <Precinct name="Fair" votes="11" />
+                <Precinct name="Church" votes="17" />
+                <Precinct name="Pittman Park" votes="3" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="1" />
+                <Precinct name="Hagin" votes="7" />
+                <Precinct name="Brooklet" votes="2" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Lockhart" votes="3" />
+                <Precinct name="Emit" votes="7" />
+                <Precinct name="Statesboro" votes="31" />
+                <Precinct name="Portal" votes="6" />
+                <Precinct name="Fair" votes="12" />
+                <Precinct name="Church" votes="28" />
+                <Precinct name="Pittman Park" votes="23" />
+                <Precinct name="Leefield" votes="5" />
+                <Precinct name="Blitch" votes="13" />
+                <Precinct name="Hagin" votes="6" />
+                <Precinct name="Brooklet" votes="5" />
+                <Precinct name="Stilson" votes="8" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="1" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="2" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="1" />
+            <Precinct name="Church" votes="1" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="1" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="2" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="0" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="266">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="4" />
+                <Precinct name="Statesboro" votes="11" />
+                <Precinct name="Portal" votes="3" />
+                <Precinct name="Fair" votes="5" />
+                <Precinct name="Church" votes="7" />
+                <Precinct name="Pittman Park" votes="1" />
+                <Precinct name="Leefield" votes="1" />
+                <Precinct name="Blitch" votes="8" />
+                <Precinct name="Hagin" votes="5" />
+                <Precinct name="Brooklet" votes="4" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="63">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="6" />
+                <Precinct name="Statesboro" votes="13" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="10" />
+                <Precinct name="Church" votes="15" />
+                <Precinct name="Pittman Park" votes="3" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="2" />
+                <Precinct name="Hagin" votes="1" />
+                <Precinct name="Brooklet" votes="1" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="143">
+                <Precinct name="Lockhart" votes="4" />
+                <Precinct name="Emit" votes="8" />
+                <Precinct name="Statesboro" votes="25" />
+                <Precinct name="Portal" votes="11" />
+                <Precinct name="Fair" votes="11" />
+                <Precinct name="Church" votes="25" />
+                <Precinct name="Pittman Park" votes="15" />
+                <Precinct name="Leefield" votes="6" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="11" />
+                <Precinct name="Brooklet" votes="3" />
+                <Precinct name="Stilson" votes="6" />
+                <Precinct name="Bay" votes="3" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="1" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="433">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Lockhart" votes="5" />
+                <Precinct name="Emit" votes="9" />
+                <Precinct name="Statesboro" votes="10" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="4" />
+                <Precinct name="Church" votes="25" />
+                <Precinct name="Pittman Park" votes="5" />
+                <Precinct name="Leefield" votes="2" />
+                <Precinct name="Blitch" votes="2" />
+                <Precinct name="Hagin" votes="4" />
+                <Precinct name="Brooklet" votes="1" />
+                <Precinct name="Stilson" votes="1" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="148">
+                <Precinct name="Lockhart" votes="2" />
+                <Precinct name="Emit" votes="3" />
+                <Precinct name="Statesboro" votes="52" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="20" />
+                <Precinct name="Church" votes="19" />
+                <Precinct name="Pittman Park" votes="8" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="9" />
+                <Precinct name="Brooklet" votes="10" />
+                <Precinct name="Stilson" votes="2" />
+                <Precinct name="Bay" votes="5" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="212">
+                <Precinct name="Lockhart" votes="5" />
+                <Precinct name="Emit" votes="13" />
+                <Precinct name="Statesboro" votes="40" />
+                <Precinct name="Portal" votes="3" />
+                <Precinct name="Fair" votes="29" />
+                <Precinct name="Church" votes="36" />
+                <Precinct name="Pittman Park" votes="26" />
+                <Precinct name="Leefield" votes="3" />
+                <Precinct name="Blitch" votes="13" />
+                <Precinct name="Hagin" votes="11" />
+                <Precinct name="Brooklet" votes="7" />
+                <Precinct name="Stilson" votes="5" />
+                <Precinct name="Bay" votes="9" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="1" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="5" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="3" />
+            <Precinct name="Church" votes="5" />
+            <Precinct name="Pittman Park" votes="1" />
+            <Precinct name="Leefield" votes="1" />
+            <Precinct name="Blitch" votes="1" />
+            <Precinct name="Hagin" votes="1" />
+            <Precinct name="Brooklet" votes="2" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="0" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="235">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="9" />
+                <Precinct name="Statesboro" votes="6" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="5" />
+                <Precinct name="Church" votes="16" />
+                <Precinct name="Pittman Park" votes="2" />
+                <Precinct name="Leefield" votes="1" />
+                <Precinct name="Blitch" votes="3" />
+                <Precinct name="Hagin" votes="4" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="1" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="60">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="2" />
+                <Precinct name="Statesboro" votes="14" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="17" />
+                <Precinct name="Church" votes="12" />
+                <Precinct name="Pittman Park" votes="2" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="3" />
+                <Precinct name="Brooklet" votes="3" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Lockhart" votes="1" />
+                <Precinct name="Emit" votes="4" />
+                <Precinct name="Statesboro" votes="30" />
+                <Precinct name="Portal" votes="4" />
+                <Precinct name="Fair" votes="13" />
+                <Precinct name="Church" votes="18" />
+                <Precinct name="Pittman Park" votes="10" />
+                <Precinct name="Leefield" votes="5" />
+                <Precinct name="Blitch" votes="6" />
+                <Precinct name="Hagin" votes="6" />
+                <Precinct name="Brooklet" votes="4" />
+                <Precinct name="Stilson" votes="4" />
+                <Precinct name="Bay" votes="5" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="1" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="452">
+            <VoteType name="Absentee by Mail Votes" votes="76">
+                <Precinct name="Lockhart" votes="5" />
+                <Precinct name="Emit" votes="4" />
+                <Precinct name="Statesboro" votes="16" />
+                <Precinct name="Portal" votes="3" />
+                <Precinct name="Fair" votes="5" />
+                <Precinct name="Church" votes="14" />
+                <Precinct name="Pittman Park" votes="4" />
+                <Precinct name="Leefield" votes="2" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="5" />
+                <Precinct name="Brooklet" votes="4" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="Lockhart" votes="2" />
+                <Precinct name="Emit" votes="7" />
+                <Precinct name="Statesboro" votes="47" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="12" />
+                <Precinct name="Church" votes="23" />
+                <Precinct name="Pittman Park" votes="9" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="8" />
+                <Precinct name="Hagin" votes="7" />
+                <Precinct name="Brooklet" votes="8" />
+                <Precinct name="Stilson" votes="5" />
+                <Precinct name="Bay" votes="6" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="228">
+                <Precinct name="Lockhart" votes="8" />
+                <Precinct name="Emit" votes="17" />
+                <Precinct name="Statesboro" votes="35" />
+                <Precinct name="Portal" votes="10" />
+                <Precinct name="Fair" votes="25" />
+                <Precinct name="Church" votes="40" />
+                <Precinct name="Pittman Park" votes="30" />
+                <Precinct name="Leefield" votes="4" />
+                <Precinct name="Blitch" votes="14" />
+                <Precinct name="Hagin" votes="17" />
+                <Precinct name="Brooklet" votes="5" />
+                <Precinct name="Stilson" votes="7" />
+                <Precinct name="Bay" votes="7" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="2" />
+                <Precinct name="Register" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="1" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="4" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="3" />
+            <Precinct name="Church" votes="6" />
+            <Precinct name="Pittman Park" votes="1" />
+            <Precinct name="Leefield" votes="1" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="1" />
+            <Precinct name="Stilson" votes="2" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="0" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="428">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="Lockhart" votes="2" />
+                <Precinct name="Emit" votes="11" />
+                <Precinct name="Statesboro" votes="14" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="8" />
+                <Precinct name="Church" votes="17" />
+                <Precinct name="Pittman Park" votes="4" />
+                <Precinct name="Leefield" votes="1" />
+                <Precinct name="Blitch" votes="4" />
+                <Precinct name="Hagin" votes="7" />
+                <Precinct name="Brooklet" votes="2" />
+                <Precinct name="Stilson" votes="1" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="4" />
+                <Precinct name="Register" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="Lockhart" votes="1" />
+                <Precinct name="Emit" votes="7" />
+                <Precinct name="Statesboro" votes="44" />
+                <Precinct name="Portal" votes="2" />
+                <Precinct name="Fair" votes="24" />
+                <Precinct name="Church" votes="23" />
+                <Precinct name="Pittman Park" votes="6" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="9" />
+                <Precinct name="Hagin" votes="6" />
+                <Precinct name="Brooklet" votes="8" />
+                <Precinct name="Stilson" votes="2" />
+                <Precinct name="Bay" votes="6" />
+                <Precinct name="Nevils" votes="3" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="201">
+                <Precinct name="Lockhart" votes="9" />
+                <Precinct name="Emit" votes="11" />
+                <Precinct name="Statesboro" votes="33" />
+                <Precinct name="Portal" votes="7" />
+                <Precinct name="Fair" votes="24" />
+                <Precinct name="Church" votes="34" />
+                <Precinct name="Pittman Park" votes="22" />
+                <Precinct name="Leefield" votes="3" />
+                <Precinct name="Blitch" votes="8" />
+                <Precinct name="Hagin" votes="15" />
+                <Precinct name="Brooklet" votes="7" />
+                <Precinct name="Stilson" votes="7" />
+                <Precinct name="Bay" votes="8" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="1" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="260">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Lockhart" votes="3" />
+                <Precinct name="Emit" votes="2" />
+                <Precinct name="Statesboro" votes="8" />
+                <Precinct name="Portal" votes="3" />
+                <Precinct name="Fair" votes="2" />
+                <Precinct name="Church" votes="15" />
+                <Precinct name="Pittman Park" votes="2" />
+                <Precinct name="Leefield" votes="2" />
+                <Precinct name="Blitch" votes="6" />
+                <Precinct name="Hagin" votes="2" />
+                <Precinct name="Brooklet" votes="2" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="61">
+                <Precinct name="Lockhart" votes="1" />
+                <Precinct name="Emit" votes="2" />
+                <Precinct name="Statesboro" votes="20" />
+                <Precinct name="Portal" votes="1" />
+                <Precinct name="Fair" votes="6" />
+                <Precinct name="Church" votes="9" />
+                <Precinct name="Pittman Park" votes="5" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="4" />
+                <Precinct name="Brooklet" votes="3" />
+                <Precinct name="Stilson" votes="2" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="3" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="10" />
+                <Precinct name="Statesboro" votes="30" />
+                <Precinct name="Portal" votes="7" />
+                <Precinct name="Fair" votes="13" />
+                <Precinct name="Church" votes="24" />
+                <Precinct name="Pittman Park" votes="18" />
+                <Precinct name="Leefield" votes="6" />
+                <Precinct name="Blitch" votes="12" />
+                <Precinct name="Hagin" votes="9" />
+                <Precinct name="Brooklet" votes="3" />
+                <Precinct name="Stilson" votes="3" />
+                <Precinct name="Bay" votes="4" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="1" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="101" text="County Commissioner - Dist 2B - Rep" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="1" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="1" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="1" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lockhart" votes="0" />
+            <Precinct name="Emit" votes="0" />
+            <Precinct name="Statesboro" votes="0" />
+            <Precinct name="Portal" votes="0" />
+            <Precinct name="Fair" votes="0" />
+            <Precinct name="Church" votes="0" />
+            <Precinct name="Pittman Park" votes="0" />
+            <Precinct name="Leefield" votes="0" />
+            <Precinct name="Blitch" votes="0" />
+            <Precinct name="Hagin" votes="0" />
+            <Precinct name="Brooklet" votes="0" />
+            <Precinct name="Stilson" votes="0" />
+            <Precinct name="Bay" votes="0" />
+            <Precinct name="Nevils" votes="0" />
+            <Precinct name="Sinkhole" votes="0" />
+            <Precinct name="Register" votes="0" />
+        </VoteType>
+        <Choice key="201" text="Travis Chance" party="REP" totalVotes="579">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="6" />
+                <Precinct name="Statesboro" votes="9" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="16" />
+                <Precinct name="Church" votes="15" />
+                <Precinct name="Pittman Park" votes="6" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="4" />
+                <Precinct name="Hagin" votes="2" />
+                <Precinct name="Brooklet" votes="2" />
+                <Precinct name="Stilson" votes="1" />
+                <Precinct name="Bay" votes="1" />
+                <Precinct name="Nevils" votes="1" />
+                <Precinct name="Sinkhole" votes="1" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="179">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="7" />
+                <Precinct name="Statesboro" votes="32" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="48" />
+                <Precinct name="Church" votes="22" />
+                <Precinct name="Pittman Park" votes="20" />
+                <Precinct name="Leefield" votes="1" />
+                <Precinct name="Blitch" votes="12" />
+                <Precinct name="Hagin" votes="13" />
+                <Precinct name="Brooklet" votes="13" />
+                <Precinct name="Stilson" votes="2" />
+                <Precinct name="Bay" votes="4" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="336">
+                <Precinct name="Lockhart" votes="8" />
+                <Precinct name="Emit" votes="31" />
+                <Precinct name="Statesboro" votes="35" />
+                <Precinct name="Portal" votes="5" />
+                <Precinct name="Fair" votes="75" />
+                <Precinct name="Church" votes="18" />
+                <Precinct name="Pittman Park" votes="20" />
+                <Precinct name="Leefield" votes="7" />
+                <Precinct name="Blitch" votes="25" />
+                <Precinct name="Hagin" votes="22" />
+                <Precinct name="Brooklet" votes="35" />
+                <Precinct name="Stilson" votes="12" />
+                <Precinct name="Bay" votes="13" />
+                <Precinct name="Nevils" votes="21" />
+                <Precinct name="Sinkhole" votes="5" />
+                <Precinct name="Register" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="202" text="Toby Conner" party="REP" totalVotes="1531">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="5" />
+                <Precinct name="Statesboro" votes="6" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="10" />
+                <Precinct name="Church" votes="6" />
+                <Precinct name="Pittman Park" votes="4" />
+                <Precinct name="Leefield" votes="4" />
+                <Precinct name="Blitch" votes="7" />
+                <Precinct name="Hagin" votes="3" />
+                <Precinct name="Brooklet" votes="4" />
+                <Precinct name="Stilson" votes="5" />
+                <Precinct name="Bay" votes="6" />
+                <Precinct name="Nevils" votes="2" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="321">
+                <Precinct name="Lockhart" votes="5" />
+                <Precinct name="Emit" votes="16" />
+                <Precinct name="Statesboro" votes="46" />
+                <Precinct name="Portal" votes="4" />
+                <Precinct name="Fair" votes="49" />
+                <Precinct name="Church" votes="39" />
+                <Precinct name="Pittman Park" votes="20" />
+                <Precinct name="Leefield" votes="21" />
+                <Precinct name="Blitch" votes="29" />
+                <Precinct name="Hagin" votes="9" />
+                <Precinct name="Brooklet" votes="34" />
+                <Precinct name="Stilson" votes="19" />
+                <Precinct name="Bay" votes="13" />
+                <Precinct name="Nevils" votes="6" />
+                <Precinct name="Sinkhole" votes="5" />
+                <Precinct name="Register" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1147">
+                <Precinct name="Lockhart" votes="23" />
+                <Precinct name="Emit" votes="79" />
+                <Precinct name="Statesboro" votes="58" />
+                <Precinct name="Portal" votes="15" />
+                <Precinct name="Fair" votes="84" />
+                <Precinct name="Church" votes="66" />
+                <Precinct name="Pittman Park" votes="25" />
+                <Precinct name="Leefield" votes="138" />
+                <Precinct name="Blitch" votes="108" />
+                <Precinct name="Hagin" votes="77" />
+                <Precinct name="Brooklet" votes="135" />
+                <Precinct name="Stilson" votes="151" />
+                <Precinct name="Bay" votes="76" />
+                <Precinct name="Nevils" votes="58" />
+                <Precinct name="Sinkhole" votes="31" />
+                <Precinct name="Register" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lockhart" votes="0" />
+                <Precinct name="Emit" votes="0" />
+                <Precinct name="Statesboro" votes="0" />
+                <Precinct name="Portal" votes="0" />
+                <Precinct name="Fair" votes="0" />
+                <Precinct name="Church" votes="0" />
+                <Precinct name="Pittman Park" votes="0" />
+                <Precinct name="Leefield" votes="0" />
+                <Precinct name="Blitch" votes="0" />
+                <Precinct name="Hagin" votes="0" />
+                <Precinct name="Brooklet" votes="0" />
+                <Precinct name="Stilson" votes="0" />
+                <Precinct name="Bay" votes="0" />
+                <Precinct name="Nevils" votes="0" />
+                <Precinct name="Sinkhole" votes="0" />
+                <Precinct name="Register" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

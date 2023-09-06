@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 11:54:27 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Wilkinson</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="424" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Bloodworth" totalVoters="0" ballotsCast="4" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Griffin" totalVoters="0" ballotsCast="11" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="High Hill" totalVoters="0" ballotsCast="6" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Irwinton" totalVoters="0" ballotsCast="84" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Ivey" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Lord" totalVoters="0" ballotsCast="56" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Midway" totalVoters="0" ballotsCast="112" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Ramah" totalVoters="0" ballotsCast="137" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Turkey Creek" totalVoters="0" ballotsCast="14" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="2" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="1" />
+            <Precinct name="Midway" votes="1" />
+            <Precinct name="Ramah" votes="2" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="0" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="0" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="0" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="266">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="1" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="10" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="6" />
+                <Precinct name="Midway" votes="16" />
+                <Precinct name="Ramah" votes="10" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="6" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="6" />
+                <Precinct name="Midway" votes="10" />
+                <Precinct name="Ramah" votes="14" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="7" />
+                <Precinct name="High Hill" votes="5" />
+                <Precinct name="Irwinton" votes="31" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="21" />
+                <Precinct name="Midway" votes="48" />
+                <Precinct name="Ramah" votes="62" />
+                <Precinct name="Turkey Creek" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="152">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="8" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="1" />
+                <Precinct name="Midway" votes="8" />
+                <Precinct name="Ramah" votes="8" />
+                <Precinct name="Turkey Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="7" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="4" />
+                <Precinct name="Midway" votes="3" />
+                <Precinct name="Ramah" votes="4" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="3" />
+                <Precinct name="High Hill" votes="1" />
+                <Precinct name="Irwinton" votes="20" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="17" />
+                <Precinct name="Midway" votes="26" />
+                <Precinct name="Ramah" votes="37" />
+                <Precinct name="Turkey Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="3" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="2" />
+            <Precinct name="Midway" votes="3" />
+            <Precinct name="Ramah" votes="5" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="0" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="0" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="0" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="125">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="6" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="2" />
+                <Precinct name="Midway" votes="9" />
+                <Precinct name="Ramah" votes="7" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="4" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="1" />
+                <Precinct name="Midway" votes="8" />
+                <Precinct name="Ramah" votes="6" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="3" />
+                <Precinct name="High Hill" votes="2" />
+                <Precinct name="Irwinton" votes="15" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="12" />
+                <Precinct name="Midway" votes="23" />
+                <Precinct name="Ramah" votes="24" />
+                <Precinct name="Turkey Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="286">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="1" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="12" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="5" />
+                <Precinct name="Midway" votes="15" />
+                <Precinct name="Ramah" votes="11" />
+                <Precinct name="Turkey Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="9" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="9" />
+                <Precinct name="Midway" votes="5" />
+                <Precinct name="Ramah" votes="11" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="204">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="7" />
+                <Precinct name="High Hill" votes="4" />
+                <Precinct name="Irwinton" votes="35" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="25" />
+                <Precinct name="Midway" votes="49" />
+                <Precinct name="Ramah" votes="73" />
+                <Precinct name="Turkey Creek" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="1" />
+            <Precinct name="High Hill" votes="1" />
+            <Precinct name="Irwinton" votes="2" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="4" />
+            <Precinct name="Midway" votes="3" />
+            <Precinct name="Ramah" votes="7" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="0" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="0" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="0" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="160">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="5" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="1" />
+                <Precinct name="Midway" votes="9" />
+                <Precinct name="Ramah" votes="4" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="Bloodworth" votes="1" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="10" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="2" />
+                <Precinct name="Midway" votes="9" />
+                <Precinct name="Ramah" votes="5" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="4" />
+                <Precinct name="High Hill" votes="1" />
+                <Precinct name="Irwinton" votes="20" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="18" />
+                <Precinct name="Midway" votes="28" />
+                <Precinct name="Ramah" votes="37" />
+                <Precinct name="Turkey Creek" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="246">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="1" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="13" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="5" />
+                <Precinct name="Midway" votes="14" />
+                <Precinct name="Ramah" votes="13" />
+                <Precinct name="Turkey Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Bloodworth" votes="1" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="4" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="8" />
+                <Precinct name="Midway" votes="4" />
+                <Precinct name="Ramah" votes="13" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="5" />
+                <Precinct name="High Hill" votes="4" />
+                <Precinct name="Irwinton" votes="30" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="18" />
+                <Precinct name="Midway" votes="45" />
+                <Precinct name="Ramah" votes="58" />
+                <Precinct name="Turkey Creek" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="1" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="4" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="1" />
+            <Precinct name="Midway" votes="4" />
+            <Precinct name="Ramah" votes="4" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="0" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="0" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="0" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="299">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="1" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="17" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="6" />
+                <Precinct name="Midway" votes="23" />
+                <Precinct name="Ramah" votes="17" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Bloodworth" votes="2" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="11" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="6" />
+                <Precinct name="Midway" votes="9" />
+                <Precinct name="Ramah" votes="14" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="193">
+                <Precinct name="Bloodworth" votes="1" />
+                <Precinct name="Griffin" votes="7" />
+                <Precinct name="High Hill" votes="6" />
+                <Precinct name="Irwinton" votes="31" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="26" />
+                <Precinct name="Midway" votes="49" />
+                <Precinct name="Ramah" votes="68" />
+                <Precinct name="Turkey Creek" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="111">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="1" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="1" />
+                <Precinct name="Midway" votes="1" />
+                <Precinct name="Ramah" votes="1" />
+                <Precinct name="Turkey Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="2" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="4" />
+                <Precinct name="Midway" votes="4" />
+                <Precinct name="Ramah" votes="3" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Bloodworth" votes="1" />
+                <Precinct name="Griffin" votes="2" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="18" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="12" />
+                <Precinct name="Midway" votes="22" />
+                <Precinct name="Ramah" votes="30" />
+                <Precinct name="Turkey Creek" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

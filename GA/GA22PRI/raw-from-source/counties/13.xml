@@ -1,0 +1,3614 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/31/2022 4:16:46 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Brantley</Region>
+    <VoterTurnout totalVoters="12031" ballotsCast="3181" voterTurnout="26.44">
+        <Precincts>
+            <Precinct name="Hoboken" totalVoters="3174" ballotsCast="1054" voterTurnout="33.21" percentReporting="4" />
+            <Precinct name="Nahunta" totalVoters="4018" ballotsCast="1261" voterTurnout="31.38" percentReporting="4" />
+            <Precinct name="Waynesville" totalVoters="4839" ballotsCast="866" voterTurnout="17.90" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Hoboken" votes="25" />
+            <Precinct name="Nahunta" votes="50" />
+            <Precinct name="Waynesville" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="227">
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Hoboken" votes="53" />
+                <Precinct name="Nahunta" votes="53" />
+                <Precinct name="Waynesville" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Hoboken" votes="22" />
+                <Precinct name="Nahunta" votes="39" />
+                <Precinct name="Waynesville" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="93">
+            <VoteType name="Election Day Votes" votes="65">
+                <Precinct name="Hoboken" votes="14" />
+                <Precinct name="Nahunta" votes="29" />
+                <Precinct name="Waynesville" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="58">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Hoboken" votes="10" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="2607">
+            <VoteType name="Election Day Votes" votes="1645">
+                <Precinct name="Hoboken" votes="645" />
+                <Precinct name="Nahunta" votes="530" />
+                <Precinct name="Waynesville" votes="470" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="933">
+                <Precinct name="Hoboken" votes="240" />
+                <Precinct name="Nahunta" votes="463" />
+                <Precinct name="Waynesville" votes="230" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="18" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Hoboken" votes="4" />
+            <Precinct name="Nahunta" votes="11" />
+            <Precinct name="Waynesville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="150">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Hoboken" votes="16" />
+                <Precinct name="Nahunta" votes="29" />
+                <Precinct name="Waynesville" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Hoboken" votes="12" />
+                <Precinct name="Nahunta" votes="28" />
+                <Precinct name="Waynesville" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Hoboken" votes="6" />
+            <Precinct name="Nahunta" votes="14" />
+            <Precinct name="Waynesville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="1535">
+            <VoteType name="Election Day Votes" votes="989">
+                <Precinct name="Hoboken" votes="382" />
+                <Precinct name="Nahunta" votes="337" />
+                <Precinct name="Waynesville" votes="270" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="526">
+                <Precinct name="Hoboken" votes="126" />
+                <Precinct name="Nahunta" votes="260" />
+                <Precinct name="Waynesville" votes="140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="979">
+            <VoteType name="Election Day Votes" votes="596">
+                <Precinct name="Hoboken" votes="218" />
+                <Precinct name="Nahunta" votes="181" />
+                <Precinct name="Waynesville" votes="197" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="376">
+                <Precinct name="Hoboken" votes="116" />
+                <Precinct name="Nahunta" votes="170" />
+                <Precinct name="Waynesville" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="610">
+            <VoteType name="Election Day Votes" votes="401">
+                <Precinct name="Hoboken" votes="156" />
+                <Precinct name="Nahunta" votes="151" />
+                <Precinct name="Waynesville" votes="94" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="205">
+                <Precinct name="Hoboken" votes="33" />
+                <Precinct name="Nahunta" votes="119" />
+                <Precinct name="Waynesville" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Hoboken" votes="4" />
+            <Precinct name="Nahunta" votes="19" />
+            <Precinct name="Waynesville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="167">
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Hoboken" votes="21" />
+                <Precinct name="Nahunta" votes="32" />
+                <Precinct name="Waynesville" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="73">
+                <Precinct name="Hoboken" votes="15" />
+                <Precinct name="Nahunta" votes="30" />
+                <Precinct name="Waynesville" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="348">
+            <Precinct name="Hoboken" votes="124" />
+            <Precinct name="Nahunta" votes="176" />
+            <Precinct name="Waynesville" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="1590">
+            <VoteType name="Election Day Votes" votes="993">
+                <Precinct name="Hoboken" votes="377" />
+                <Precinct name="Nahunta" votes="321" />
+                <Precinct name="Waynesville" votes="295" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="582">
+                <Precinct name="Hoboken" votes="133" />
+                <Precinct name="Nahunta" votes="292" />
+                <Precinct name="Waynesville" votes="157" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="435">
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="Hoboken" votes="96" />
+                <Precinct name="Nahunta" votes="80" />
+                <Precinct name="Waynesville" votes="109" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="147">
+                <Precinct name="Hoboken" votes="33" />
+                <Precinct name="Nahunta" votes="74" />
+                <Precinct name="Waynesville" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="619">
+            <VoteType name="Election Day Votes" votes="377">
+                <Precinct name="Hoboken" votes="163" />
+                <Precinct name="Nahunta" votes="114" />
+                <Precinct name="Waynesville" votes="100" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="232">
+                <Precinct name="Hoboken" votes="67" />
+                <Precinct name="Nahunta" votes="110" />
+                <Precinct name="Waynesville" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Hoboken" votes="40" />
+                <Precinct name="Nahunta" votes="49" />
+                <Precinct name="Waynesville" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Hoboken" votes="14" />
+                <Precinct name="Nahunta" votes="27" />
+                <Precinct name="Waynesville" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Hoboken" votes="9" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="260">
+            <Precinct name="Hoboken" votes="93" />
+            <Precinct name="Nahunta" votes="129" />
+            <Precinct name="Waynesville" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="295">
+            <VoteType name="Election Day Votes" votes="183">
+                <Precinct name="Hoboken" votes="55" />
+                <Precinct name="Nahunta" votes="57" />
+                <Precinct name="Waynesville" votes="71" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="110">
+                <Precinct name="Hoboken" votes="34" />
+                <Precinct name="Nahunta" votes="46" />
+                <Precinct name="Waynesville" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="1088">
+            <VoteType name="Election Day Votes" votes="658">
+                <Precinct name="Hoboken" votes="239" />
+                <Precinct name="Nahunta" votes="219" />
+                <Precinct name="Waynesville" votes="200" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="418">
+                <Precinct name="Hoboken" votes="93" />
+                <Precinct name="Nahunta" votes="211" />
+                <Precinct name="Waynesville" votes="114" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="305">
+            <VoteType name="Election Day Votes" votes="208">
+                <Precinct name="Hoboken" votes="99" />
+                <Precinct name="Nahunta" votes="58" />
+                <Precinct name="Waynesville" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Hoboken" votes="33" />
+                <Precinct name="Nahunta" votes="37" />
+                <Precinct name="Waynesville" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="1233">
+            <VoteType name="Election Day Votes" votes="793">
+                <Precinct name="Hoboken" votes="305" />
+                <Precinct name="Nahunta" votes="261" />
+                <Precinct name="Waynesville" votes="227" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="425">
+                <Precinct name="Hoboken" votes="95" />
+                <Precinct name="Nahunta" votes="224" />
+                <Precinct name="Waynesville" votes="106" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Hoboken" votes="6" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="314">
+            <Precinct name="Hoboken" votes="100" />
+            <Precinct name="Nahunta" votes="167" />
+            <Precinct name="Waynesville" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="1673">
+            <VoteType name="Election Day Votes" votes="1034">
+                <Precinct name="Hoboken" votes="406" />
+                <Precinct name="Nahunta" votes="334" />
+                <Precinct name="Waynesville" votes="294" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="616">
+                <Precinct name="Hoboken" votes="169" />
+                <Precinct name="Nahunta" votes="299" />
+                <Precinct name="Waynesville" votes="148" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="1194">
+            <VoteType name="Election Day Votes" votes="777">
+                <Precinct name="Hoboken" votes="286" />
+                <Precinct name="Nahunta" votes="246" />
+                <Precinct name="Waynesville" votes="245" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="410">
+                <Precinct name="Hoboken" votes="85" />
+                <Precinct name="Nahunta" votes="197" />
+                <Precinct name="Waynesville" votes="128" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Hoboken" votes="6" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="114">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Hoboken" votes="14" />
+                <Precinct name="Nahunta" votes="20" />
+                <Precinct name="Waynesville" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Hoboken" votes="11" />
+                <Precinct name="Nahunta" votes="21" />
+                <Precinct name="Waynesville" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="495">
+            <Precinct name="Hoboken" votes="153" />
+            <Precinct name="Nahunta" votes="256" />
+            <Precinct name="Waynesville" votes="86" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="2686">
+            <VoteType name="Election Day Votes" votes="1712">
+                <Precinct name="Hoboken" votes="654" />
+                <Precinct name="Nahunta" votes="538" />
+                <Precinct name="Waynesville" votes="520" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="949">
+                <Precinct name="Hoboken" votes="239" />
+                <Precinct name="Nahunta" votes="454" />
+                <Precinct name="Waynesville" votes="256" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Hoboken" votes="8" />
+            <Precinct name="Nahunta" votes="21" />
+            <Precinct name="Waynesville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="67">
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="327">
+            <Precinct name="Hoboken" votes="109" />
+            <Precinct name="Nahunta" votes="172" />
+            <Precinct name="Waynesville" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="446">
+            <VoteType name="Election Day Votes" votes="273">
+                <Precinct name="Hoboken" votes="88" />
+                <Precinct name="Nahunta" votes="101" />
+                <Precinct name="Waynesville" votes="84" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="167">
+                <Precinct name="Hoboken" votes="29" />
+                <Precinct name="Nahunta" votes="91" />
+                <Precinct name="Waynesville" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="1682">
+            <VoteType name="Election Day Votes" votes="1028">
+                <Precinct name="Hoboken" votes="409" />
+                <Precinct name="Nahunta" votes="323" />
+                <Precinct name="Waynesville" votes="296" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="634">
+                <Precinct name="Hoboken" votes="176" />
+                <Precinct name="Nahunta" votes="301" />
+                <Precinct name="Waynesville" votes="157" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="726">
+            <VoteType name="Election Day Votes" votes="495">
+                <Precinct name="Hoboken" votes="191" />
+                <Precinct name="Nahunta" votes="146" />
+                <Precinct name="Waynesville" votes="158" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="227">
+                <Precinct name="Hoboken" votes="44" />
+                <Precinct name="Nahunta" votes="109" />
+                <Precinct name="Waynesville" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Hoboken" votes="8" />
+            <Precinct name="Nahunta" votes="23" />
+            <Precinct name="Waynesville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="256">
+            <Precinct name="Hoboken" votes="87" />
+            <Precinct name="Nahunta" votes="124" />
+            <Precinct name="Waynesville" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="913">
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Hoboken" votes="213" />
+                <Precinct name="Nahunta" votes="186" />
+                <Precinct name="Waynesville" votes="189" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="319">
+                <Precinct name="Hoboken" votes="70" />
+                <Precinct name="Nahunta" votes="154" />
+                <Precinct name="Waynesville" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="2012">
+            <VoteType name="Election Day Votes" votes="1255">
+                <Precinct name="Hoboken" votes="489" />
+                <Precinct name="Nahunta" votes="416" />
+                <Precinct name="Waynesville" votes="350" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="733">
+                <Precinct name="Hoboken" votes="187" />
+                <Precinct name="Nahunta" votes="363" />
+                <Precinct name="Waynesville" votes="183" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Hoboken" votes="8" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="81">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Hoboken" votes="12" />
+                <Precinct name="Nahunta" votes="17" />
+                <Precinct name="Waynesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="534">
+            <Precinct name="Hoboken" votes="182" />
+            <Precinct name="Nahunta" votes="263" />
+            <Precinct name="Waynesville" votes="89" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="132">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Hoboken" votes="27" />
+                <Precinct name="Nahunta" votes="26" />
+                <Precinct name="Waynesville" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Hoboken" votes="10" />
+                <Precinct name="Nahunta" votes="27" />
+                <Precinct name="Waynesville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="750">
+            <VoteType name="Election Day Votes" votes="467">
+                <Precinct name="Hoboken" votes="186" />
+                <Precinct name="Nahunta" votes="128" />
+                <Precinct name="Waynesville" votes="153" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="274">
+                <Precinct name="Hoboken" votes="68" />
+                <Precinct name="Nahunta" votes="123" />
+                <Precinct name="Waynesville" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="1765">
+            <VoteType name="Election Day Votes" votes="1127">
+                <Precinct name="Hoboken" votes="428" />
+                <Precinct name="Nahunta" votes="368" />
+                <Precinct name="Waynesville" votes="331" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="621">
+                <Precinct name="Hoboken" votes="148" />
+                <Precinct name="Nahunta" votes="308" />
+                <Precinct name="Waynesville" votes="165" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Hoboken" votes="6" />
+            <Precinct name="Nahunta" votes="21" />
+            <Precinct name="Waynesville" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="553">
+            <Precinct name="Hoboken" votes="172" />
+            <Precinct name="Nahunta" votes="293" />
+            <Precinct name="Waynesville" votes="88" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="2628">
+            <VoteType name="Election Day Votes" votes="1674">
+                <Precinct name="Hoboken" votes="634" />
+                <Precinct name="Nahunta" votes="521" />
+                <Precinct name="Waynesville" votes="519" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="930">
+                <Precinct name="Hoboken" votes="241" />
+                <Precinct name="Nahunta" votes="433" />
+                <Precinct name="Waynesville" votes="256" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Hoboken" votes="9" />
+            <Precinct name="Nahunta" votes="24" />
+            <Precinct name="Waynesville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="97">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="608">
+            <Precinct name="Hoboken" votes="208" />
+            <Precinct name="Nahunta" votes="303" />
+            <Precinct name="Waynesville" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="2573">
+            <VoteType name="Election Day Votes" votes="1644">
+                <Precinct name="Hoboken" votes="613" />
+                <Precinct name="Nahunta" votes="520" />
+                <Precinct name="Waynesville" votes="511" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="904">
+                <Precinct name="Hoboken" votes="225" />
+                <Precinct name="Nahunta" votes="425" />
+                <Precinct name="Waynesville" votes="254" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Hoboken" votes="7" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="80">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="18" />
+                <Precinct name="Waynesville" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="41">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="407">
+            <Precinct name="Hoboken" votes="122" />
+            <Precinct name="Nahunta" votes="218" />
+            <Precinct name="Waynesville" votes="67" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Earl L. &quot;&quot;Buddy&quot;&quot; Carter (I)" party="REP" totalVotes="2774">
+            <VoteType name="Election Day Votes" votes="1774">
+                <Precinct name="Hoboken" votes="676" />
+                <Precinct name="Nahunta" votes="565" />
+                <Precinct name="Waynesville" votes="533" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="975">
+                <Precinct name="Hoboken" votes="248" />
+                <Precinct name="Nahunta" votes="465" />
+                <Precinct name="Waynesville" votes="262" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Hoboken" votes="6" />
+            <Precinct name="Nahunta" votes="22" />
+            <Precinct name="Waynesville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Joyce Marie Griggs" party="DEM" totalVotes="61">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Wade Herring" party="DEM" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="15" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Michelle L. Munroe" party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="314">
+            <Precinct name="Hoboken" votes="117" />
+            <Precinct name="Nahunta" votes="151" />
+            <Precinct name="Waynesville" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Nora Lott Haynes" party="REP" totalVotes="657">
+            <VoteType name="Election Day Votes" votes="401">
+                <Precinct name="Hoboken" votes="185" />
+                <Precinct name="Nahunta" votes="117" />
+                <Precinct name="Waynesville" votes="99" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="244">
+                <Precinct name="Hoboken" votes="74" />
+                <Precinct name="Nahunta" votes="115" />
+                <Precinct name="Waynesville" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="Mike Hodges" party="REP" totalVotes="1153">
+            <VoteType name="Election Day Votes" votes="714">
+                <Precinct name="Hoboken" votes="269" />
+                <Precinct name="Nahunta" votes="223" />
+                <Precinct name="Waynesville" votes="222" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="426">
+                <Precinct name="Hoboken" votes="104" />
+                <Precinct name="Nahunta" votes="195" />
+                <Precinct name="Waynesville" votes="127" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Jeff Jones" party="REP" totalVotes="1057">
+            <VoteType name="Election Day Votes" votes="690">
+                <Precinct name="Hoboken" votes="224" />
+                <Precinct name="Nahunta" votes="244" />
+                <Precinct name="Waynesville" votes="222" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="362">
+                <Precinct name="Hoboken" votes="73" />
+                <Precinct name="Nahunta" votes="198" />
+                <Precinct name="Waynesville" votes="91" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="4" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 174 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="599">
+            <Precinct name="Hoboken" votes="205" />
+            <Precinct name="Nahunta" votes="299" />
+            <Precinct name="Waynesville" votes="95" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="79" text="John L. Corbett (I)" party="REP" totalVotes="2582">
+            <VoteType name="Election Day Votes" votes="1654">
+                <Precinct name="Hoboken" votes="617" />
+                <Precinct name="Nahunta" votes="524" />
+                <Precinct name="Waynesville" votes="513" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="903">
+                <Precinct name="Hoboken" votes="224" />
+                <Precinct name="Nahunta" votes="425" />
+                <Precinct name="Waynesville" votes="254" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="District Attorney - Waycross Judicial Circuit - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="373">
+            <Precinct name="Hoboken" votes="113" />
+            <Precinct name="Nahunta" votes="179" />
+            <Precinct name="Waynesville" votes="81" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Marilyn Bennett" party="REP" totalVotes="2234">
+            <VoteType name="Election Day Votes" votes="1409">
+                <Precinct name="Hoboken" votes="561" />
+                <Precinct name="Nahunta" votes="438" />
+                <Precinct name="Waynesville" votes="410" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="803">
+                <Precinct name="Hoboken" votes="204" />
+                <Precinct name="Nahunta" votes="389" />
+                <Precinct name="Waynesville" votes="210" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Ian Sansot" party="REP" totalVotes="574">
+            <VoteType name="Election Day Votes" votes="365">
+                <Precinct name="Hoboken" votes="123" />
+                <Precinct name="Nahunta" votes="131" />
+                <Precinct name="Waynesville" votes="111" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="201">
+                <Precinct name="Hoboken" votes="45" />
+                <Precinct name="Nahunta" votes="105" />
+                <Precinct name="Waynesville" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="County Commissioner, Post 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="162">
+            <Precinct name="Hoboken" votes="64" />
+            <Precinct name="Nahunta" votes="64" />
+            <Precinct name="Waynesville" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="132" text="David Heiman" party="REP" totalVotes="1390">
+            <VoteType name="Election Day Votes" votes="877">
+                <Precinct name="Hoboken" votes="277" />
+                <Precinct name="Nahunta" votes="326" />
+                <Precinct name="Waynesville" votes="274" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="501">
+                <Precinct name="Hoboken" votes="93" />
+                <Precinct name="Nahunta" votes="266" />
+                <Precinct name="Waynesville" votes="142" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="133" text="Brian Hendrix (I)" party="REP" totalVotes="1629">
+            <VoteType name="Election Day Votes" votes="1023">
+                <Precinct name="Hoboken" votes="438" />
+                <Precinct name="Nahunta" votes="308" />
+                <Precinct name="Waynesville" votes="277" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="588">
+                <Precinct name="Hoboken" votes="174" />
+                <Precinct name="Nahunta" votes="279" />
+                <Precinct name="Waynesville" votes="135" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Commissioner, Post 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="207">
+            <Precinct name="Hoboken" votes="91" />
+            <Precinct name="Nahunta" votes="61" />
+            <Precinct name="Waynesville" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Michael Moody" party="REP" totalVotes="991">
+            <VoteType name="Election Day Votes" votes="664">
+                <Precinct name="Hoboken" votes="287" />
+                <Precinct name="Nahunta" votes="143" />
+                <Precinct name="Waynesville" votes="234" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="318">
+                <Precinct name="Hoboken" votes="102" />
+                <Precinct name="Nahunta" votes="106" />
+                <Precinct name="Waynesville" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="135" text="Andy Riggins" party="REP" totalVotes="1983">
+            <VoteType name="Election Day Votes" votes="1203">
+                <Precinct name="Hoboken" votes="415" />
+                <Precinct name="Nahunta" votes="490" />
+                <Precinct name="Waynesville" votes="298" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="762">
+                <Precinct name="Hoboken" votes="153" />
+                <Precinct name="Nahunta" votes="443" />
+                <Precinct name="Waynesville" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Hoboken" votes="13" />
+            <Precinct name="Nahunta" votes="26" />
+            <Precinct name="Waynesville" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="3056">
+            <VoteType name="Election Day Votes" votes="1931">
+                <Precinct name="Hoboken" votes="737" />
+                <Precinct name="Nahunta" votes="639" />
+                <Precinct name="Waynesville" votes="555" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1094">
+                <Precinct name="Hoboken" votes="275" />
+                <Precinct name="Nahunta" votes="536" />
+                <Precinct name="Waynesville" votes="283" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="19" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="78">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Hoboken" votes="18" />
+                <Precinct name="Nahunta" votes="24" />
+                <Precinct name="Waynesville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="17" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="Hoboken" votes="37" />
+            <Precinct name="Nahunta" votes="61" />
+            <Precinct name="Waynesville" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="2152">
+            <VoteType name="Election Day Votes" votes="1351">
+                <Precinct name="Hoboken" votes="512" />
+                <Precinct name="Nahunta" votes="387" />
+                <Precinct name="Waynesville" votes="452" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="781">
+                <Precinct name="Hoboken" votes="197" />
+                <Precinct name="Nahunta" votes="370" />
+                <Precinct name="Waynesville" votes="214" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="916">
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Hoboken" votes="224" />
+                <Precinct name="Nahunta" votes="256" />
+                <Precinct name="Waynesville" votes="108" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="319">
+                <Precinct name="Hoboken" votes="76" />
+                <Precinct name="Nahunta" votes="170" />
+                <Precinct name="Waynesville" votes="73" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="141">
+            <Precinct name="Hoboken" votes="50" />
+            <Precinct name="Nahunta" votes="73" />
+            <Precinct name="Waynesville" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="2629">
+            <VoteType name="Election Day Votes" votes="1650">
+                <Precinct name="Hoboken" votes="638" />
+                <Precinct name="Nahunta" votes="536" />
+                <Precinct name="Waynesville" votes="476" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="950">
+                <Precinct name="Hoboken" votes="245" />
+                <Precinct name="Nahunta" votes="451" />
+                <Precinct name="Waynesville" votes="254" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="17" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="411">
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Hoboken" votes="86" />
+                <Precinct name="Nahunta" votes="98" />
+                <Precinct name="Waynesville" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Hoboken" votes="27" />
+                <Precinct name="Nahunta" votes="85" />
+                <Precinct name="Waynesville" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="232">
+            <Precinct name="Hoboken" votes="78" />
+            <Precinct name="Nahunta" votes="131" />
+            <Precinct name="Waynesville" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="REP" totalVotes="2518">
+            <VoteType name="Election Day Votes" votes="1603">
+                <Precinct name="Hoboken" votes="603" />
+                <Precinct name="Nahunta" votes="506" />
+                <Precinct name="Waynesville" votes="494" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="891">
+                <Precinct name="Hoboken" votes="216" />
+                <Precinct name="Nahunta" votes="434" />
+                <Precinct name="Waynesville" votes="241" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="13" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="REP" totalVotes="431">
+            <VoteType name="Election Day Votes" votes="260">
+                <Precinct name="Hoboken" votes="105" />
+                <Precinct name="Nahunta" votes="93" />
+                <Precinct name="Waynesville" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Hoboken" votes="44" />
+                <Precinct name="Nahunta" votes="83" />
+                <Precinct name="Waynesville" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Hoboken" votes="16" />
+            <Precinct name="Nahunta" votes="23" />
+            <Precinct name="Waynesville" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="REP" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Hoboken" votes="12" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="REP" totalVotes="3079">
+            <VoteType name="Election Day Votes" votes="1955">
+                <Precinct name="Hoboken" votes="741" />
+                <Precinct name="Nahunta" votes="661" />
+                <Precinct name="Waynesville" votes="553" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1093">
+                <Precinct name="Hoboken" votes="273" />
+                <Precinct name="Nahunta" votes="537" />
+                <Precinct name="Waynesville" votes="283" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="19" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="86">
+            <Precinct name="Hoboken" votes="23" />
+            <Precinct name="Nahunta" votes="54" />
+            <Precinct name="Waynesville" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="REP" totalVotes="3043">
+            <VoteType name="Election Day Votes" votes="1941">
+                <Precinct name="Hoboken" votes="738" />
+                <Precinct name="Nahunta" votes="642" />
+                <Precinct name="Waynesville" votes="561" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1072">
+                <Precinct name="Hoboken" votes="266" />
+                <Precinct name="Nahunta" votes="520" />
+                <Precinct name="Waynesville" votes="286" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="18" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="REP" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Hoboken" votes="10" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="15" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="Hoboken" votes="28" />
+            <Precinct name="Nahunta" votes="55" />
+            <Precinct name="Waynesville" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="REP" totalVotes="2906">
+            <VoteType name="Election Day Votes" votes="1843">
+                <Precinct name="Hoboken" votes="709" />
+                <Precinct name="Nahunta" votes="604" />
+                <Precinct name="Waynesville" votes="530" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1036">
+                <Precinct name="Hoboken" votes="262" />
+                <Precinct name="Nahunta" votes="502" />
+                <Precinct name="Waynesville" votes="272" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="REP" totalVotes="181">
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="Hoboken" votes="34" />
+                <Precinct name="Nahunta" votes="45" />
+                <Precinct name="Waynesville" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="37" />
+                <Precinct name="Waynesville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="238">
+            <Precinct name="Hoboken" votes="79" />
+            <Precinct name="Nahunta" votes="126" />
+            <Precinct name="Waynesville" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="REP" totalVotes="1868">
+            <VoteType name="Election Day Votes" votes="1173">
+                <Precinct name="Hoboken" votes="457" />
+                <Precinct name="Nahunta" votes="365" />
+                <Precinct name="Waynesville" votes="351" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="676">
+                <Precinct name="Hoboken" votes="158" />
+                <Precinct name="Nahunta" votes="319" />
+                <Precinct name="Waynesville" votes="199" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="REP" totalVotes="1075">
+            <VoteType name="Election Day Votes" votes="688">
+                <Precinct name="Hoboken" votes="247" />
+                <Precinct name="Nahunta" votes="243" />
+                <Precinct name="Waynesville" votes="198" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="379">
+                <Precinct name="Hoboken" votes="105" />
+                <Precinct name="Nahunta" votes="192" />
+                <Precinct name="Waynesville" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Hoboken" votes="3" />
+            <Precinct name="Nahunta" votes="7" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="135">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="28" />
+                <Precinct name="Waynesville" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Hoboken" votes="10" />
+                <Precinct name="Nahunta" votes="27" />
+                <Precinct name="Waynesville" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Hoboken" votes="10" />
+                <Precinct name="Nahunta" votes="11" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Hoboken" votes="4" />
+            <Precinct name="Nahunta" votes="5" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="162">
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Hoboken" votes="22" />
+                <Precinct name="Nahunta" votes="35" />
+                <Precinct name="Waynesville" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="66">
+                <Precinct name="Hoboken" votes="11" />
+                <Precinct name="Nahunta" votes="29" />
+                <Precinct name="Waynesville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="5" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Hoboken" votes="2" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Hoboken" votes="3" />
+            <Precinct name="Nahunta" votes="8" />
+            <Precinct name="Waynesville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="172">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Hoboken" votes="23" />
+                <Precinct name="Nahunta" votes="35" />
+                <Precinct name="Waynesville" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Hoboken" votes="14" />
+                <Precinct name="Nahunta" votes="31" />
+                <Precinct name="Waynesville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Hoboken" votes="3" />
+            <Precinct name="Nahunta" votes="9" />
+            <Precinct name="Waynesville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="147">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Hoboken" votes="23" />
+                <Precinct name="Nahunta" votes="29" />
+                <Precinct name="Waynesville" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="25" />
+                <Precinct name="Waynesville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="7" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Hoboken" votes="4" />
+            <Precinct name="Nahunta" votes="6" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Yes" party="DEM" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Hoboken" votes="18" />
+                <Precinct name="Nahunta" votes="32" />
+                <Precinct name="Waynesville" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="26" />
+                <Precinct name="Waynesville" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="No" party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Hoboken" votes="6" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Hoboken" votes="5" />
+            <Precinct name="Nahunta" votes="9" />
+            <Precinct name="Waynesville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Yes" party="DEM" totalVotes="168">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Hoboken" votes="20" />
+                <Precinct name="Nahunta" votes="38" />
+                <Precinct name="Waynesville" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Hoboken" votes="14" />
+                <Precinct name="Nahunta" votes="28" />
+                <Precinct name="Waynesville" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="No" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Hoboken" votes="4" />
+            <Precinct name="Nahunta" votes="9" />
+            <Precinct name="Waynesville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Yes" party="DEM" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Hoboken" votes="20" />
+                <Precinct name="Nahunta" votes="27" />
+                <Precinct name="Waynesville" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Hoboken" votes="12" />
+                <Precinct name="Nahunta" votes="23" />
+                <Precinct name="Waynesville" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Hoboken" votes="5" />
+            <Precinct name="Nahunta" votes="6" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Yes" party="DEM" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Hoboken" votes="17" />
+                <Precinct name="Nahunta" votes="30" />
+                <Precinct name="Waynesville" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Hoboken" votes="9" />
+                <Precinct name="Nahunta" votes="25" />
+                <Precinct name="Waynesville" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="113" text="No" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="10" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="9" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="1" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Hoboken" votes="5" />
+            <Precinct name="Nahunta" votes="10" />
+            <Precinct name="Waynesville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="114" text="Yes" party="DEM" totalVotes="166">
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Hoboken" votes="21" />
+                <Precinct name="Nahunta" votes="32" />
+                <Precinct name="Waynesville" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Hoboken" votes="13" />
+                <Precinct name="Nahunta" votes="29" />
+                <Precinct name="Waynesville" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="115" text="No" party="DEM" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="3" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="529">
+            <Precinct name="Hoboken" votes="176" />
+            <Precinct name="Nahunta" votes="269" />
+            <Precinct name="Waynesville" votes="84" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Veronica Brinson" totalVotes="1054">
+            <VoteType name="Election Day Votes" votes="655">
+                <Precinct name="Hoboken" votes="221" />
+                <Precinct name="Nahunta" votes="192" />
+                <Precinct name="Waynesville" votes="242" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="388">
+                <Precinct name="Hoboken" votes="87" />
+                <Precinct name="Nahunta" votes="182" />
+                <Precinct name="Waynesville" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Hoboken" votes="1" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="117" text="Verda M. Colvin (I)" totalVotes="1796">
+            <VoteType name="Election Day Votes" votes="1135">
+                <Precinct name="Hoboken" votes="439" />
+                <Precinct name="Nahunta" votes="385" />
+                <Precinct name="Waynesville" votes="311" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="640">
+                <Precinct name="Hoboken" votes="160" />
+                <Precinct name="Nahunta" votes="310" />
+                <Precinct name="Waynesville" votes="170" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="12" />
+                <Precinct name="Waynesville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="735">
+            <Precinct name="Hoboken" votes="246" />
+            <Precinct name="Nahunta" votes="368" />
+            <Precinct name="Waynesville" votes="121" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Shawn Ellen LaGrua (I)" totalVotes="2637">
+            <VoteType name="Election Day Votes" votes="1685">
+                <Precinct name="Hoboken" votes="603" />
+                <Precinct name="Nahunta" votes="543" />
+                <Precinct name="Waynesville" votes="539" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="925">
+                <Precinct name="Hoboken" votes="234" />
+                <Precinct name="Nahunta" votes="427" />
+                <Precinct name="Waynesville" votes="264" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="761">
+            <Precinct name="Hoboken" votes="255" />
+            <Precinct name="Nahunta" votes="376" />
+            <Precinct name="Waynesville" votes="130" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Carla McMillian (I)" totalVotes="2623">
+            <VoteType name="Election Day Votes" votes="1669">
+                <Precinct name="Hoboken" votes="604" />
+                <Precinct name="Nahunta" votes="532" />
+                <Precinct name="Waynesville" votes="533" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="924">
+                <Precinct name="Hoboken" votes="226" />
+                <Precinct name="Nahunta" votes="432" />
+                <Precinct name="Waynesville" votes="266" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="752">
+            <Precinct name="Hoboken" votes="250" />
+            <Precinct name="Nahunta" votes="377" />
+            <Precinct name="Waynesville" votes="125" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Anne Elizabeth Barnes (I)" totalVotes="2634">
+            <VoteType name="Election Day Votes" votes="1673">
+                <Precinct name="Hoboken" votes="606" />
+                <Precinct name="Nahunta" votes="533" />
+                <Precinct name="Waynesville" votes="534" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="931">
+                <Precinct name="Hoboken" votes="230" />
+                <Precinct name="Nahunta" votes="431" />
+                <Precinct name="Waynesville" votes="270" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="16" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="761">
+            <Precinct name="Hoboken" votes="254" />
+            <Precinct name="Nahunta" votes="381" />
+            <Precinct name="Waynesville" votes="126" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Chris McFadden (I)" totalVotes="2620">
+            <VoteType name="Election Day Votes" votes="1666">
+                <Precinct name="Hoboken" votes="602" />
+                <Precinct name="Nahunta" votes="532" />
+                <Precinct name="Waynesville" votes="532" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="926">
+                <Precinct name="Hoboken" votes="228" />
+                <Precinct name="Nahunta" votes="429" />
+                <Precinct name="Waynesville" votes="269" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="770">
+            <Precinct name="Hoboken" votes="258" />
+            <Precinct name="Nahunta" votes="386" />
+            <Precinct name="Waynesville" votes="126" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Trea Pipkin (I)" totalVotes="2612">
+            <VoteType name="Election Day Votes" votes="1661">
+                <Precinct name="Hoboken" votes="602" />
+                <Precinct name="Nahunta" votes="527" />
+                <Precinct name="Waynesville" votes="532" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="922">
+                <Precinct name="Hoboken" votes="226" />
+                <Precinct name="Nahunta" votes="428" />
+                <Precinct name="Waynesville" votes="268" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="15" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Superior Court - Waycross Judicial Circuit (Gillis)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="669">
+            <Precinct name="Hoboken" votes="214" />
+            <Precinct name="Nahunta" votes="338" />
+            <Precinct name="Waynesville" votes="117" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Dwayne H. Gillis (I)" totalVotes="2710">
+            <VoteType name="Election Day Votes" votes="1712">
+                <Precinct name="Hoboken" votes="629" />
+                <Precinct name="Nahunta" votes="551" />
+                <Precinct name="Waynesville" votes="532" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="966">
+                <Precinct name="Hoboken" votes="242" />
+                <Precinct name="Nahunta" votes="449" />
+                <Precinct name="Waynesville" votes="275" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Hoboken" votes="7" />
+                <Precinct name="Nahunta" votes="19" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Judge - Superior Court - Waycross Judicial Circuit (Kight)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="710">
+            <Precinct name="Hoboken" votes="224" />
+            <Precinct name="Nahunta" votes="358" />
+            <Precinct name="Waynesville" votes="128" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Jeffrey H. Kight (I)" totalVotes="2674">
+            <VoteType name="Election Day Votes" votes="1692">
+                <Precinct name="Hoboken" votes="620" />
+                <Precinct name="Nahunta" votes="541" />
+                <Precinct name="Waynesville" votes="531" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="950">
+                <Precinct name="Hoboken" votes="241" />
+                <Precinct name="Nahunta" votes="440" />
+                <Precinct name="Waynesville" votes="269" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Hoboken" votes="8" />
+                <Precinct name="Nahunta" votes="18" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Board of Education, Post 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="140">
+            <Precinct name="Hoboken" votes="53" />
+            <Precinct name="Nahunta" votes="47" />
+            <Precinct name="Waynesville" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="136" text="Kathy Ham Hendrix" totalVotes="1744">
+            <VoteType name="Election Day Votes" votes="1116">
+                <Precinct name="Hoboken" votes="389" />
+                <Precinct name="Nahunta" votes="365" />
+                <Precinct name="Waynesville" votes="362" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="616">
+                <Precinct name="Hoboken" votes="144" />
+                <Precinct name="Nahunta" votes="273" />
+                <Precinct name="Waynesville" votes="199" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hoboken" votes="3" />
+                <Precinct name="Nahunta" votes="8" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="137" text="Kerry Mathie" totalVotes="1498">
+            <VoteType name="Election Day Votes" votes="913">
+                <Precinct name="Hoboken" votes="354" />
+                <Precinct name="Nahunta" votes="344" />
+                <Precinct name="Waynesville" votes="215" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="560">
+                <Precinct name="Hoboken" votes="144" />
+                <Precinct name="Nahunta" votes="306" />
+                <Precinct name="Waynesville" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Hoboken" votes="5" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Board of Education, Post 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="131">
+            <Precinct name="Hoboken" votes="45" />
+            <Precinct name="Nahunta" votes="45" />
+            <Precinct name="Waynesville" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hoboken" votes="0" />
+            <Precinct name="Nahunta" votes="0" />
+            <Precinct name="Waynesville" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Cliff Adams" totalVotes="1155">
+            <VoteType name="Election Day Votes" votes="703">
+                <Precinct name="Hoboken" votes="231" />
+                <Precinct name="Nahunta" votes="294" />
+                <Precinct name="Waynesville" votes="178" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="439">
+                <Precinct name="Hoboken" votes="88" />
+                <Precinct name="Nahunta" votes="255" />
+                <Precinct name="Waynesville" votes="96" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="6" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="139" text="Brenda Sue Johns (I)" totalVotes="1166">
+            <VoteType name="Election Day Votes" votes="712">
+                <Precinct name="Hoboken" votes="264" />
+                <Precinct name="Nahunta" votes="233" />
+                <Precinct name="Waynesville" votes="215" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="433">
+                <Precinct name="Hoboken" votes="123" />
+                <Precinct name="Nahunta" votes="201" />
+                <Precinct name="Waynesville" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Hoboken" votes="4" />
+                <Precinct name="Nahunta" votes="14" />
+                <Precinct name="Waynesville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="Joey Shuman" totalVotes="933">
+            <VoteType name="Election Day Votes" votes="614">
+                <Precinct name="Hoboken" votes="256" />
+                <Precinct name="Nahunta" votes="176" />
+                <Precinct name="Waynesville" votes="182" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="316">
+                <Precinct name="Hoboken" votes="80" />
+                <Precinct name="Nahunta" votes="130" />
+                <Precinct name="Waynesville" votes="106" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="2" />
+                <Precinct name="Waynesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hoboken" votes="0" />
+                <Precinct name="Nahunta" votes="0" />
+                <Precinct name="Waynesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

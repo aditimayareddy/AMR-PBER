@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 5:53:15 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Terrell</Region>
+    <VoterTurnout totalVoters="6452" ballotsCast="280" voterTurnout="4.34">
+        <Precincts>
+            <Precinct name="Dawson " totalVoters="2977" ballotsCast="172" voterTurnout="5.78" percentReporting="4" />
+            <Precinct name="Sasser" totalVoters="1322" ballotsCast="32" voterTurnout="2.42" percentReporting="4" />
+            <Precinct name="Bronwood" totalVoters="851" ballotsCast="37" voterTurnout="4.35" percentReporting="4" />
+            <Precinct name="Parrott" totalVoters="419" ballotsCast="20" voterTurnout="4.77" percentReporting="4" />
+            <Precinct name="Graves" totalVoters="590" ballotsCast="11" voterTurnout="1.86" percentReporting="4" />
+            <Precinct name="Herod-Dover" totalVoters="293" ballotsCast="8" voterTurnout="2.73" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Dawson " votes="1" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="1" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="173">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Dawson " votes="30" />
+                <Precinct name="Sasser" votes="5" />
+                <Precinct name="Bronwood" votes="6" />
+                <Precinct name="Parrott" votes="7" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="Dawson " votes="14" />
+                <Precinct name="Sasser" votes="7" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="2" />
+                <Precinct name="Graves" votes="1" />
+                <Precinct name="Herod-Dover" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Dawson " votes="57" />
+                <Precinct name="Sasser" votes="11" />
+                <Precinct name="Bronwood" votes="16" />
+                <Precinct name="Parrott" votes="5" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="105">
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Dawson " votes="26" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="2" />
+                <Precinct name="Graves" votes="1" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Dawson " votes="20" />
+                <Precinct name="Sasser" votes="3" />
+                <Precinct name="Bronwood" votes="3" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Dawson " votes="24" />
+                <Precinct name="Sasser" votes="6" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Dawson " votes="2" />
+            <Precinct name="Sasser" votes="1" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Dawson " votes="21" />
+                <Precinct name="Sasser" votes="3" />
+                <Precinct name="Bronwood" votes="2" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Dawson " votes="14" />
+                <Precinct name="Sasser" votes="3" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Dawson " votes="20" />
+                <Precinct name="Sasser" votes="4" />
+                <Precinct name="Bronwood" votes="8" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="184">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Dawson " votes="34" />
+                <Precinct name="Sasser" votes="2" />
+                <Precinct name="Bronwood" votes="8" />
+                <Precinct name="Parrott" votes="6" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="Dawson " votes="21" />
+                <Precinct name="Sasser" votes="7" />
+                <Precinct name="Bronwood" votes="3" />
+                <Precinct name="Parrott" votes="2" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Dawson " votes="60" />
+                <Precinct name="Sasser" votes="12" />
+                <Precinct name="Bronwood" votes="12" />
+                <Precinct name="Parrott" votes="6" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Dawson " votes="7" />
+            <Precinct name="Sasser" votes="1" />
+            <Precinct name="Bronwood" votes="1" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="100">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Dawson " votes="15" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="5" />
+                <Precinct name="Parrott" votes="5" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Dawson " votes="14" />
+                <Precinct name="Sasser" votes="5" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="1" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Dawson " votes="29" />
+                <Precinct name="Sasser" votes="4" />
+                <Precinct name="Bronwood" votes="8" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="171">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Dawson " votes="34" />
+                <Precinct name="Sasser" votes="5" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="4" />
+                <Precinct name="Graves" votes="4" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="35">
+                <Precinct name="Dawson " votes="21" />
+                <Precinct name="Sasser" votes="5" />
+                <Precinct name="Bronwood" votes="3" />
+                <Precinct name="Parrott" votes="1" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Dawson " votes="52" />
+                <Precinct name="Sasser" votes="12" />
+                <Precinct name="Bronwood" votes="12" />
+                <Precinct name="Parrott" votes="6" />
+                <Precinct name="Graves" votes="1" />
+                <Precinct name="Herod-Dover" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="1" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="187">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dawson " votes="43" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="8" />
+                <Precinct name="Parrott" votes="6" />
+                <Precinct name="Graves" votes="1" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Dawson " votes="27" />
+                <Precinct name="Sasser" votes="6" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="1" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Dawson " votes="49" />
+                <Precinct name="Sasser" votes="8" />
+                <Precinct name="Bronwood" votes="15" />
+                <Precinct name="Parrott" votes="7" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="92">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Dawson " votes="13" />
+                <Precinct name="Sasser" votes="5" />
+                <Precinct name="Bronwood" votes="2" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="3" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Dawson " votes="8" />
+                <Precinct name="Sasser" votes="4" />
+                <Precinct name="Bronwood" votes="3" />
+                <Precinct name="Parrott" votes="1" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Dawson " votes="32" />
+                <Precinct name="Sasser" votes="8" />
+                <Precinct name="Bronwood" votes="5" />
+                <Precinct name="Parrott" votes="2" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dawson " votes="0" />
+            <Precinct name="Sasser" votes="0" />
+            <Precinct name="Bronwood" votes="0" />
+            <Precinct name="Parrott" votes="0" />
+            <Precinct name="Graves" votes="0" />
+            <Precinct name="Herod-Dover" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Jeremy Hunt" party="REP" totalVotes="258">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Dawson " votes="5" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="2" />
+                <Precinct name="Parrott" votes="3" />
+                <Precinct name="Graves" votes="2" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="Dawson " votes="6" />
+                <Precinct name="Sasser" votes="9" />
+                <Precinct name="Bronwood" votes="7" />
+                <Precinct name="Parrott" votes="2" />
+                <Precinct name="Graves" votes="5" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="217">
+                <Precinct name="Dawson " votes="35" />
+                <Precinct name="Sasser" votes="66" />
+                <Precinct name="Bronwood" votes="32" />
+                <Precinct name="Parrott" votes="44" />
+                <Precinct name="Graves" votes="29" />
+                <Precinct name="Herod-Dover" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Chris West" party="REP" totalVotes="187">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Dawson " votes="7" />
+                <Precinct name="Sasser" votes="4" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="1" />
+                <Precinct name="Graves" votes="4" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="Dawson " votes="10" />
+                <Precinct name="Sasser" votes="9" />
+                <Precinct name="Bronwood" votes="4" />
+                <Precinct name="Parrott" votes="5" />
+                <Precinct name="Graves" votes="5" />
+                <Precinct name="Herod-Dover" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Dawson " votes="26" />
+                <Precinct name="Sasser" votes="40" />
+                <Precinct name="Bronwood" votes="29" />
+                <Precinct name="Parrott" votes="9" />
+                <Precinct name="Graves" votes="18" />
+                <Precinct name="Herod-Dover" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dawson " votes="0" />
+                <Precinct name="Sasser" votes="0" />
+                <Precinct name="Bronwood" votes="0" />
+                <Precinct name="Parrott" votes="0" />
+                <Precinct name="Graves" votes="0" />
+                <Precinct name="Herod-Dover" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

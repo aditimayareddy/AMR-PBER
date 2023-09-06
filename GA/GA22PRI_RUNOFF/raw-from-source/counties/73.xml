@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/30/2022 12:15:18 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Hart</Region>
+    <VoterTurnout totalVoters="16985" ballotsCast="194" voterTurnout="1.14">
+        <Precincts>
+            <Precinct name="Hartwell" totalVoters="6439" ballotsCast="91" voterTurnout="1.41" percentReporting="4" />
+            <Precinct name="Goldmine" totalVoters="1861" ballotsCast="11" voterTurnout="0.59" percentReporting="4" />
+            <Precinct name="Cokesbury" totalVoters="1106" ballotsCast="29" voterTurnout="2.62" percentReporting="4" />
+            <Precinct name="Reed Creek" totalVoters="3081" ballotsCast="31" voterTurnout="1.01" percentReporting="4" />
+            <Precinct name="Bowersville" totalVoters="1439" ballotsCast="7" voterTurnout="0.49" percentReporting="4" />
+            <Precinct name="Shoal Creek" totalVoters="1727" ballotsCast="11" voterTurnout="0.64" percentReporting="4" />
+            <Precinct name="Bio" totalVoters="1332" ballotsCast="14" voterTurnout="1.05" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Hartwell" votes="2" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hartwell" votes="0" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="141">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Hartwell" votes="7" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="2" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="Hartwell" votes="29" />
+                <Precinct name="Goldmine" votes="4" />
+                <Precinct name="Cokesbury" votes="6" />
+                <Precinct name="Reed Creek" votes="4" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Hartwell" votes="27" />
+                <Precinct name="Goldmine" votes="6" />
+                <Precinct name="Cokesbury" votes="13" />
+                <Precinct name="Reed Creek" votes="17" />
+                <Precinct name="Bowersville" votes="5" />
+                <Precinct name="Shoal Creek" votes="6" />
+                <Precinct name="Bio" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="51">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Hartwell" votes="3" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Hartwell" votes="9" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Hartwell" votes="14" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="8" />
+                <Precinct name="Reed Creek" votes="4" />
+                <Precinct name="Bowersville" votes="1" />
+                <Precinct name="Shoal Creek" votes="5" />
+                <Precinct name="Bio" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Hartwell" votes="1" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hartwell" votes="0" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="45">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hartwell" votes="2" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="2" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Hartwell" votes="7" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="1" />
+                <Precinct name="Reed Creek" votes="1" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Hartwell" votes="14" />
+                <Precinct name="Goldmine" votes="2" />
+                <Precinct name="Cokesbury" votes="4" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="2" />
+                <Precinct name="Shoal Creek" votes="4" />
+                <Precinct name="Bio" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="147">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hartwell" votes="8" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Hartwell" votes="32" />
+                <Precinct name="Goldmine" votes="4" />
+                <Precinct name="Cokesbury" votes="5" />
+                <Precinct name="Reed Creek" votes="6" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Hartwell" votes="27" />
+                <Precinct name="Goldmine" votes="4" />
+                <Precinct name="Cokesbury" votes="17" />
+                <Precinct name="Reed Creek" votes="18" />
+                <Precinct name="Bowersville" votes="4" />
+                <Precinct name="Shoal Creek" votes="7" />
+                <Precinct name="Bio" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Hartwell" votes="1" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hartwell" votes="0" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="69">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hartwell" votes="1" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Hartwell" votes="13" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="2" />
+                <Precinct name="Reed Creek" votes="2" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Hartwell" votes="16" />
+                <Precinct name="Goldmine" votes="2" />
+                <Precinct name="Cokesbury" votes="10" />
+                <Precinct name="Reed Creek" votes="5" />
+                <Precinct name="Bowersville" votes="4" />
+                <Precinct name="Shoal Creek" votes="4" />
+                <Precinct name="Bio" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="124">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Hartwell" votes="9" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="2" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Hartwell" votes="26" />
+                <Precinct name="Goldmine" votes="3" />
+                <Precinct name="Cokesbury" votes="4" />
+                <Precinct name="Reed Creek" votes="5" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="Hartwell" votes="25" />
+                <Precinct name="Goldmine" votes="4" />
+                <Precinct name="Cokesbury" votes="11" />
+                <Precinct name="Reed Creek" votes="16" />
+                <Precinct name="Bowersville" votes="2" />
+                <Precinct name="Shoal Creek" votes="7" />
+                <Precinct name="Bio" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Hartwell" votes="3" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="1" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hartwell" votes="0" />
+            <Precinct name="Goldmine" votes="0" />
+            <Precinct name="Cokesbury" votes="0" />
+            <Precinct name="Reed Creek" votes="0" />
+            <Precinct name="Bowersville" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Bio" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="119">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Hartwell" votes="2" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="3" />
+                <Precinct name="Bowersville" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="47">
+                <Precinct name="Hartwell" votes="27" />
+                <Precinct name="Goldmine" votes="4" />
+                <Precinct name="Cokesbury" votes="6" />
+                <Precinct name="Reed Creek" votes="7" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Hartwell" votes="19" />
+                <Precinct name="Goldmine" votes="5" />
+                <Precinct name="Cokesbury" votes="13" />
+                <Precinct name="Reed Creek" votes="11" />
+                <Precinct name="Bowersville" votes="4" />
+                <Precinct name="Shoal Creek" votes="6" />
+                <Precinct name="Bio" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="71">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Hartwell" votes="8" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="2" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Hartwell" votes="11" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Hartwell" votes="21" />
+                <Precinct name="Goldmine" votes="1" />
+                <Precinct name="Cokesbury" votes="7" />
+                <Precinct name="Reed Creek" votes="10" />
+                <Precinct name="Bowersville" votes="2" />
+                <Precinct name="Shoal Creek" votes="5" />
+                <Precinct name="Bio" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hartwell" votes="0" />
+                <Precinct name="Goldmine" votes="0" />
+                <Precinct name="Cokesbury" votes="0" />
+                <Precinct name="Reed Creek" votes="0" />
+                <Precinct name="Bowersville" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Bio" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

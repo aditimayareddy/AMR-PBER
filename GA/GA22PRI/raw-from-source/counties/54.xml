@@ -1,0 +1,2466 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/2/2022 9:28:23 AM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Evans</Region>
+    <VoterTurnout totalVoters="6089" ballotsCast="1435" voterTurnout="23.57">
+        <Precincts>
+            <Precinct name="Veterans Community Center" totalVoters="6089" ballotsCast="1435" voterTurnout="23.57" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Veterans Community Center" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="239">
+            <VoteType name="Election Day Votes" votes="98">
+                <Precinct name="Veterans Community Center" votes="98" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="121">
+                <Precinct name="Veterans Community Center" votes="121" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Veterans Community Center" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Veterans Community Center" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Veterans Community Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="1097">
+            <VoteType name="Election Day Votes" votes="516">
+                <Precinct name="Veterans Community Center" votes="516" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="540">
+                <Precinct name="Veterans Community Center" votes="540" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Veterans Community Center" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Veterans Community Center" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="375">
+            <VoteType name="Election Day Votes" votes="133">
+                <Precinct name="Veterans Community Center" votes="133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="195">
+                <Precinct name="Veterans Community Center" votes="195" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Veterans Community Center" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Veterans Community Center" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="1099">
+            <VoteType name="Election Day Votes" votes="490">
+                <Precinct name="Veterans Community Center" votes="490" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="552">
+                <Precinct name="Veterans Community Center" votes="552" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Veterans Community Center" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="262">
+            <VoteType name="Election Day Votes" votes="140">
+                <Precinct name="Veterans Community Center" votes="140" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="115">
+                <Precinct name="Veterans Community Center" votes="115" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="67">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Veterans Community Center" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Veterans Community Center" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Veterans Community Center" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="379">
+            <VoteType name="Election Day Votes" votes="133">
+                <Precinct name="Veterans Community Center" votes="133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="200">
+                <Precinct name="Veterans Community Center" votes="200" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Veterans Community Center" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Veterans Community Center" votes="79" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="587">
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Veterans Community Center" votes="272" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="283">
+                <Precinct name="Veterans Community Center" votes="283" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Veterans Community Center" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="188">
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Veterans Community Center" votes="117" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Veterans Community Center" votes="69" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="506">
+            <VoteType name="Election Day Votes" votes="205">
+                <Precinct name="Veterans Community Center" votes="205" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="277">
+                <Precinct name="Veterans Community Center" votes="277" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Veterans Community Center" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="75">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Veterans Community Center" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Veterans Community Center" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Veterans Community Center" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Veterans Community Center" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Veterans Community Center" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Veterans Community Center" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Veterans Community Center" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Veterans Community Center" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Veterans Community Center" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Veterans Community Center" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Veterans Community Center" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Veterans Community Center" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Veterans Community Center" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Veterans Community Center" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Veterans Community Center" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Veterans Community Center" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="363">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Veterans Community Center" votes="168" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="179">
+                <Precinct name="Veterans Community Center" votes="179" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="155">
+            <VoteType name="Election Day Votes" votes="75">
+                <Precinct name="Veterans Community Center" votes="75" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Veterans Community Center" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="762">
+            <VoteType name="Election Day Votes" votes="352">
+                <Precinct name="Veterans Community Center" votes="352" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="381">
+                <Precinct name="Veterans Community Center" votes="381" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Veterans Community Center" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Veterans Community Center" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Veterans Community Center" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Veterans Community Center" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Veterans Community Center" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="82">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Veterans Community Center" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Veterans Community Center" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Veterans Community Center" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Veterans Community Center" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Veterans Community Center" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Veterans Community Center" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="78">
+            <Precinct name="Veterans Community Center" votes="78" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="1073">
+            <VoteType name="Election Day Votes" votes="500">
+                <Precinct name="Veterans Community Center" votes="500" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="528">
+                <Precinct name="Veterans Community Center" votes="528" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Veterans Community Center" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="284">
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="Veterans Community Center" votes="136" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="134">
+                <Precinct name="Veterans Community Center" votes="134" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Veterans Community Center" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="260">
+            <VoteType name="Election Day Votes" votes="98">
+                <Precinct name="Veterans Community Center" votes="98" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="139">
+                <Precinct name="Veterans Community Center" votes="139" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="102">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Veterans Community Center" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Veterans Community Center" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="204">
+            <Precinct name="Veterans Community Center" votes="204" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="1231">
+            <VoteType name="Election Day Votes" votes="579">
+                <Precinct name="Veterans Community Center" votes="579" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="601">
+                <Precinct name="Veterans Community Center" votes="601" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Veterans Community Center" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="54">
+            <Precinct name="Veterans Community Center" votes="54" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="128">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Veterans Community Center" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Veterans Community Center" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Veterans Community Center" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="157">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Veterans Community Center" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="84">
+                <Precinct name="Veterans Community Center" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Veterans Community Center" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Veterans Community Center" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Veterans Community Center" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Veterans Community Center" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="101">
+            <Precinct name="Veterans Community Center" votes="101" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="199">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Veterans Community Center" votes="95" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="99">
+                <Precinct name="Veterans Community Center" votes="99" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Veterans Community Center" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="982">
+            <VoteType name="Election Day Votes" votes="452">
+                <Precinct name="Veterans Community Center" votes="452" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="486">
+                <Precinct name="Veterans Community Center" votes="486" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Veterans Community Center" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="153">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Veterans Community Center" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="68">
+                <Precinct name="Veterans Community Center" votes="68" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="44">
+            <Precinct name="Veterans Community Center" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="173">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Veterans Community Center" votes="60" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Veterans Community Center" votes="96" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="136">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Veterans Community Center" votes="41" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="78">
+                <Precinct name="Veterans Community Center" votes="78" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Veterans Community Center" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Veterans Community Center" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="285">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Veterans Community Center" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="148">
+                <Precinct name="Veterans Community Center" votes="148" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="1053">
+            <VoteType name="Election Day Votes" votes="491">
+                <Precinct name="Veterans Community Center" votes="491" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="513">
+                <Precinct name="Veterans Community Center" votes="513" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Veterans Community Center" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Veterans Community Center" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Veterans Community Center" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="81">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Veterans Community Center" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Veterans Community Center" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Veterans Community Center" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="65">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Veterans Community Center" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Veterans Community Center" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="162">
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Veterans Community Center" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Veterans Community Center" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="212">
+            <Precinct name="Veterans Community Center" votes="212" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Veterans Community Center" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Veterans Community Center" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="312">
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Veterans Community Center" votes="137" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="165">
+                <Precinct name="Veterans Community Center" votes="165" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="852">
+            <VoteType name="Election Day Votes" votes="402">
+                <Precinct name="Veterans Community Center" votes="402" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="416">
+                <Precinct name="Veterans Community Center" votes="416" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Veterans Community Center" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Veterans Community Center" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Veterans Community Center" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Veterans Community Center" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Veterans Community Center" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Veterans Community Center" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="163">
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Veterans Community Center" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="90">
+                <Precinct name="Veterans Community Center" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Veterans Community Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="209">
+            <Precinct name="Veterans Community Center" votes="209" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="1226">
+            <VoteType name="Election Day Votes" votes="581">
+                <Precinct name="Veterans Community Center" votes="581" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="594">
+                <Precinct name="Veterans Community Center" votes="594" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Veterans Community Center" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Veterans Community Center" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="161">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Veterans Community Center" votes="45" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Veterans Community Center" votes="93" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="191">
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Veterans Community Center" votes="72" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Veterans Community Center" votes="100" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="229">
+            <Precinct name="Veterans Community Center" votes="229" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="1206">
+            <VoteType name="Election Day Votes" votes="569">
+                <Precinct name="Veterans Community Center" votes="569" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="585">
+                <Precinct name="Veterans Community Center" votes="585" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Veterans Community Center" votes="51" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="Veterans Community Center" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="224">
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Veterans Community Center" votes="64" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="134">
+                <Precinct name="Veterans Community Center" votes="134" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Veterans Community Center" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="78">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Veterans Community Center" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Veterans Community Center" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Veterans Community Center" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Veterans Community Center" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 12 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="169">
+            <Precinct name="Veterans Community Center" votes="169" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Rick W. Allen (I)" party="REP" totalVotes="1266">
+            <VoteType name="Election Day Votes" votes="596">
+                <Precinct name="Veterans Community Center" votes="596" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="615">
+                <Precinct name="Veterans Community Center" votes="615" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Veterans Community Center" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Veterans Community Center" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="114" text="Elizabeth 'Liz' Johnson" party="DEM" totalVotes="348">
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Veterans Community Center" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="189">
+                <Precinct name="Veterans Community Center" votes="189" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="164">
+            <Precinct name="Veterans Community Center" votes="164" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Billy Hickman (I)" party="REP" totalVotes="1271">
+            <VoteType name="Election Day Votes" votes="600">
+                <Precinct name="Veterans Community Center" votes="600" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="615">
+                <Precinct name="Veterans Community Center" votes="615" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Veterans Community Center" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 157 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="181">
+            <Precinct name="Veterans Community Center" votes="181" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="116" text="William &quot;&quot;Bill&quot;&quot; Werkheiser (I)" party="REP" totalVotes="1254">
+            <VoteType name="Election Day Votes" votes="601">
+                <Precinct name="Veterans Community Center" votes="601" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="597">
+                <Precinct name="Veterans Community Center" votes="597" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Veterans Community Center" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="District Attorney - Atlantic Judicial Circuit - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="224">
+            <Precinct name="Veterans Community Center" votes="224" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Billy Joe Nelson, Jr." party="REP" totalVotes="1211">
+            <VoteType name="Election Day Votes" votes="571">
+                <Precinct name="Veterans Community Center" votes="571" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="590">
+                <Precinct name="Veterans Community Center" votes="590" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Veterans Community Center" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="County Comm Dist 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Veterans Community Center" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Shela Holland (I)" party="DEM" totalVotes="80">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Veterans Community Center" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Veterans Community Center" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="County Comm Dist 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="Veterans Community Center" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Tony Lewis (I)" party="REP" totalVotes="267">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Veterans Community Center" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="133">
+                <Precinct name="Veterans Community Center" votes="133" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Comm Dist 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="55">
+            <Precinct name="Veterans Community Center" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Neal P. Hammack" party="REP" totalVotes="364">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Veterans Community Center" votes="168" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="178">
+                <Precinct name="Veterans Community Center" votes="178" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Veterans Community Center" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Yes" party="REP" totalVotes="1361">
+            <VoteType name="Election Day Votes" votes="639">
+                <Precinct name="Veterans Community Center" votes="639" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="666">
+                <Precinct name="Veterans Community Center" votes="666" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Veterans Community Center" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="No" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Veterans Community Center" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Veterans Community Center" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Yes" party="REP" totalVotes="1094">
+            <VoteType name="Election Day Votes" votes="507">
+                <Precinct name="Veterans Community Center" votes="507" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="546">
+                <Precinct name="Veterans Community Center" votes="546" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Veterans Community Center" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="No" party="REP" totalVotes="291">
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Veterans Community Center" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="133">
+                <Precinct name="Veterans Community Center" votes="133" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Veterans Community Center" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Veterans Community Center" votes="66" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Yes" party="REP" totalVotes="1192">
+            <VoteType name="Election Day Votes" votes="557">
+                <Precinct name="Veterans Community Center" votes="557" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="585">
+                <Precinct name="Veterans Community Center" votes="585" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Veterans Community Center" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="No" party="REP" totalVotes="177">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Veterans Community Center" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="86">
+                <Precinct name="Veterans Community Center" votes="86" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Veterans Community Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="104">
+            <Precinct name="Veterans Community Center" votes="104" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Yes" party="REP" totalVotes="1165">
+            <VoteType name="Election Day Votes" votes="539">
+                <Precinct name="Veterans Community Center" votes="539" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="580">
+                <Precinct name="Veterans Community Center" votes="580" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Veterans Community Center" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="No" party="REP" totalVotes="166">
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Veterans Community Center" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Veterans Community Center" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Veterans Community Center" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Yes" party="REP" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="No" party="REP" totalVotes="1371">
+            <VoteType name="Election Day Votes" votes="641">
+                <Precinct name="Veterans Community Center" votes="641" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="673">
+                <Precinct name="Veterans Community Center" votes="673" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="Veterans Community Center" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Veterans Community Center" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="1352">
+            <VoteType name="Election Day Votes" votes="637">
+                <Precinct name="Veterans Community Center" votes="637" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="660">
+                <Precinct name="Veterans Community Center" votes="660" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Veterans Community Center" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Veterans Community Center" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Veterans Community Center" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="1247">
+            <VoteType name="Election Day Votes" votes="593">
+                <Precinct name="Veterans Community Center" votes="593" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="609">
+                <Precinct name="Veterans Community Center" votes="609" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Veterans Community Center" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="139">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Veterans Community Center" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Veterans Community Center" votes="71" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="99">
+            <Precinct name="Veterans Community Center" votes="99" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="985">
+            <VoteType name="Election Day Votes" votes="466">
+                <Precinct name="Veterans Community Center" votes="466" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="488">
+                <Precinct name="Veterans Community Center" votes="488" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Veterans Community Center" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="351">
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Veterans Community Center" votes="164" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Veterans Community Center" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Veterans Community Center" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="DEM" totalVotes="334">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Veterans Community Center" votes="115" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Veterans Community Center" votes="180" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Veterans Community Center" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="DEM" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Veterans Community Center" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Veterans Community Center" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Veterans Community Center" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="DEM" totalVotes="358">
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Veterans Community Center" votes="123" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="193">
+                <Precinct name="Veterans Community Center" votes="193" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Veterans Community Center" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Veterans Community Center" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="DEM" totalVotes="373">
+            <VoteType name="Election Day Votes" votes="133">
+                <Precinct name="Veterans Community Center" votes="133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="195">
+                <Precinct name="Veterans Community Center" votes="195" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Veterans Community Center" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Veterans Community Center" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Veterans Community Center" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="DEM" totalVotes="316">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Veterans Community Center" votes="111" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="168">
+                <Precinct name="Veterans Community Center" votes="168" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Veterans Community Center" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Veterans Community Center" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Veterans Community Center" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="DEM" totalVotes="338">
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Veterans Community Center" votes="123" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="179">
+                <Precinct name="Veterans Community Center" votes="179" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Veterans Community Center" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Veterans Community Center" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Veterans Community Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Veterans Community Center" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="366">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Veterans Community Center" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="193">
+                <Precinct name="Veterans Community Center" votes="193" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Veterans Community Center" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Veterans Community Center" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Veterans Community Center" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Veterans Community Center" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Veterans Community Center" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="346">
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Veterans Community Center" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="185">
+                <Precinct name="Veterans Community Center" votes="185" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Veterans Community Center" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Veterans Community Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Veterans Community Center" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Veterans Community Center" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="243">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Veterans Community Center" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="128">
+                <Precinct name="Veterans Community Center" votes="128" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Veterans Community Center" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="147">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Veterans Community Center" votes="49" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="Veterans Community Center" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Veterans Community Center" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="363">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Veterans Community Center" votes="129" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="191">
+                <Precinct name="Veterans Community Center" votes="191" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Veterans Community Center" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="Veterans Community Center" votes="272" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Veronica Brinson" totalVotes="441">
+            <VoteType name="Election Day Votes" votes="184">
+                <Precinct name="Veterans Community Center" votes="184" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="230">
+                <Precinct name="Veterans Community Center" votes="230" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Veterans Community Center" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="Verda M. Colvin (I)" totalVotes="1139">
+            <VoteType name="Election Day Votes" votes="504">
+                <Precinct name="Veterans Community Center" votes="504" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="563">
+                <Precinct name="Veterans Community Center" votes="563" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Veterans Community Center" votes="72" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="330">
+            <Precinct name="Veterans Community Center" votes="330" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Shawn Ellen LaGrua (I)" totalVotes="1521">
+            <VoteType name="Election Day Votes" votes="677">
+                <Precinct name="Veterans Community Center" votes="677" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="756">
+                <Precinct name="Veterans Community Center" votes="756" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Veterans Community Center" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="329">
+            <Precinct name="Veterans Community Center" votes="329" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Carla McMillian (I)" totalVotes="1526">
+            <VoteType name="Election Day Votes" votes="675">
+                <Precinct name="Veterans Community Center" votes="675" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="762">
+                <Precinct name="Veterans Community Center" votes="762" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Veterans Community Center" votes="89" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="330">
+            <Precinct name="Veterans Community Center" votes="330" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Anne Elizabeth Barnes (I)" totalVotes="1523">
+            <VoteType name="Election Day Votes" votes="675">
+                <Precinct name="Veterans Community Center" votes="675" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="760">
+                <Precinct name="Veterans Community Center" votes="760" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Veterans Community Center" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="316">
+            <Precinct name="Veterans Community Center" votes="316" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Chris McFadden (I)" totalVotes="1539">
+            <VoteType name="Election Day Votes" votes="681">
+                <Precinct name="Veterans Community Center" votes="681" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="771">
+                <Precinct name="Veterans Community Center" votes="771" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="87">
+                <Precinct name="Veterans Community Center" votes="87" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="344">
+            <Precinct name="Veterans Community Center" votes="344" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Trea Pipkin (I)" totalVotes="1508">
+            <VoteType name="Election Day Votes" votes="667">
+                <Precinct name="Veterans Community Center" votes="667" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="752">
+                <Precinct name="Veterans Community Center" votes="752" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Veterans Community Center" votes="89" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Superior Court - Atlantic Judicial Circuit (Cheney)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="281">
+            <Precinct name="Veterans Community Center" votes="281" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Glen A. Cheney (I)" totalVotes="1575">
+            <VoteType name="Election Day Votes" votes="694">
+                <Precinct name="Veterans Community Center" votes="694" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="788">
+                <Precinct name="Veterans Community Center" votes="788" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="93">
+                <Precinct name="Veterans Community Center" votes="93" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Judge - Superior Court - Atlantic Judicial Circuit (Stewart)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="190">
+            <Precinct name="Veterans Community Center" votes="190" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="122" text="D. Jay Stewart (I)" totalVotes="1665">
+            <VoteType name="Election Day Votes" votes="733">
+                <Precinct name="Veterans Community Center" votes="733" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="834">
+                <Precinct name="Veterans Community Center" votes="834" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="98">
+                <Precinct name="Veterans Community Center" votes="98" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Judge - State Court of Evans County" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="212">
+            <Precinct name="Veterans Community Center" votes="212" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Ron Hallman (I)" totalVotes="1635">
+            <VoteType name="Election Day Votes" votes="721">
+                <Precinct name="Veterans Community Center" votes="721" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="817">
+                <Precinct name="Veterans Community Center" votes="817" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="97">
+                <Precinct name="Veterans Community Center" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="County BOE At Large" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="248">
+            <Precinct name="Veterans Community Center" votes="248" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="124" text="Durell Lynn (I)" totalVotes="1579">
+            <VoteType name="Election Day Votes" votes="684">
+                <Precinct name="Veterans Community Center" votes="684" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="801">
+                <Precinct name="Veterans Community Center" votes="801" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Veterans Community Center" votes="94" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="County BOE Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Veterans Community Center" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Barbara Murphy (I)" totalVotes="117">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Veterans Community Center" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Veterans Community Center" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="County BOE Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Veterans Community Center" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Huey &quot;&quot;Bo&quot;&quot; Eason" totalVotes="317">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Veterans Community Center" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="157">
+                <Precinct name="Veterans Community Center" votes="157" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Veterans Community Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="County BOE Dist 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Veterans Community Center" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="127" text="William (Ed) Mosley (I)" totalVotes="247">
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Veterans Community Center" votes="96" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="131">
+                <Precinct name="Veterans Community Center" votes="131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Veterans Community Center" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="Greg Threatte" totalVotes="231">
+            <VoteType name="Election Day Votes" votes="113">
+                <Precinct name="Veterans Community Center" votes="113" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="111">
+                <Precinct name="Veterans Community Center" votes="111" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Veterans Community Center" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Altamaha Regional District TSPLOST" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Veterans Community Center" votes="79" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Yes" totalVotes="1217">
+            <VoteType name="Election Day Votes" votes="535">
+                <Precinct name="Veterans Community Center" votes="535" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="614">
+                <Precinct name="Veterans Community Center" votes="614" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="68">
+                <Precinct name="Veterans Community Center" votes="68" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="No" totalVotes="562">
+            <VoteType name="Election Day Votes" votes="261">
+                <Precinct name="Veterans Community Center" votes="261" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="265">
+                <Precinct name="Veterans Community Center" votes="265" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Veterans Community Center" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Evans County Sunday Sales" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Veterans Community Center" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Yes" totalVotes="992">
+            <VoteType name="Election Day Votes" votes="465">
+                <Precinct name="Veterans Community Center" votes="465" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="484">
+                <Precinct name="Veterans Community Center" votes="484" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Veterans Community Center" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="132" text="No" totalVotes="809">
+            <VoteType name="Election Day Votes" votes="335">
+                <Precinct name="Veterans Community Center" votes="335" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="413">
+                <Precinct name="Veterans Community Center" votes="413" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Veterans Community Center" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Veterans Community Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Hagan - Sunday Sales by the Drink" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Veterans Community Center" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Yes" totalVotes="110">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Veterans Community Center" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Veterans Community Center" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="134" text="No" totalVotes="82">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Veterans Community Center" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="64" text="Hagan - Alcohol Sales by the Drink" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Veterans Community Center" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Yes" totalVotes="122">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Veterans Community Center" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Veterans Community Center" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="136" text="No" totalVotes="71">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Veterans Community Center" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Veterans Community Center" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Veterans Community Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="65" text="Hagan - Sunday Package Sales" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Veterans Community Center" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="137" text="Yes" totalVotes="111">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Veterans Community Center" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Veterans Community Center" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Veterans Community Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="138" text="No" totalVotes="84">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Veterans Community Center" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Veterans Community Center" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

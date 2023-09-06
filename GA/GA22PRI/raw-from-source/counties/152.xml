@@ -1,0 +1,2318 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/1/2022 4:18:10 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Webster</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="421" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Preston 1" totalVoters="0" ballotsCast="421" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="REP - US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Preston 1" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Gary W. Black" party="REP" totalVotes="101">
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Preston 1" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Preston 1" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Josh Clark" party="REP" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Kelvin King" party="REP" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Latham Saddler" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Herschel Junior Walker" party="REP" totalVotes="298">
+            <VoteType name="Election Day Votes" votes="155">
+                <Precinct name="Preston 1" votes="155" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="Preston 1" votes="126" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="DEM - US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Preston 1" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="54" text="Tamara Johnson-Shealey" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Raphael Warnock (I)" party="DEM" totalVotes="166">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Preston 1" votes="109" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Preston 1" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="REP - Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Preston 1" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Catherine Davis" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brian Kemp (I)" party="REP" totalVotes="247">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Preston 1" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Preston 1" votes="96" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="David A. Perdue" party="REP" totalVotes="128">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Preston 1" votes="60" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Preston 1" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Kandiss Taylor" party="REP" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Preston 1" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Tom Williams" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="DEM - Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Preston 1" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="61" text="Stacey Abrams" party="DEM" totalVotes="176">
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Preston 1" votes="117" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Preston 1" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="REP - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Preston 1" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Burt Jones" party="REP" totalVotes="180">
+            <VoteType name="Election Day Votes" votes="99">
+                <Precinct name="Preston 1" votes="99" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Preston 1" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Mack McGregor" party="REP" totalVotes="83">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Preston 1" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Preston 1" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Butch Miller" party="REP" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Preston 1" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Preston 1" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jeanne Seaver" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Preston 1" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Preston 1" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Erick E. Allen" party="DEM" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Tyrone Brooks, Jr." party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Tony Brown" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Preston 1" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Jason T. Hayes" party="DEM" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="Derrick L. Jackson" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Preston 1" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="R. Malik" party="DEM" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Renitta Shannon" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="REP - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Preston 1" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="75" text="David C. Belle Isle" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Preston 1" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Jody Hice" party="REP" totalVotes="122">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Preston 1" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Preston 1" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="T.J. Hudson" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Brad Raffensperger (I)" party="REP" totalVotes="193">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Preston 1" votes="115" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Preston 1" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="29">
+            <Precinct name="Preston 1" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Preston 1" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Preston 1" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="John Eaves" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Floyd Griffin" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Preston 1" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Michael Owens" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Preston 1" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="REP - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Preston 1" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Chris Carr (I)" party="REP" totalVotes="302">
+            <VoteType name="Election Day Votes" votes="158">
+                <Precinct name="Preston 1" votes="158" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="128">
+                <Precinct name="Preston 1" votes="128" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="John Gordon" party="REP" totalVotes="86">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Preston 1" votes="49" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Preston 1" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="DEM - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Preston 1" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Preston 1" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Preston 1" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Christian Wise Smith" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Preston 1" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="REP - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="101">
+            <Precinct name="Preston 1" votes="101" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Tyler Harper" party="REP" totalVotes="320">
+            <VoteType name="Election Day Votes" votes="173">
+                <Precinct name="Preston 1" votes="173" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="130">
+                <Precinct name="Preston 1" votes="130" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="DEM - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Preston 1" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Winfred Dukes" party="DEM" totalVotes="61">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Preston 1" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Preston 1" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nakita Hemingway" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Preston 1" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="Fred Swann" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Preston 1" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="REP - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Preston 1" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Ben Cowart" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="John King (I)" party="REP" totalVotes="269">
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="Preston 1" votes="136" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="119">
+                <Precinct name="Preston 1" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="Patrick Witt" party="REP" totalVotes="78">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Preston 1" votes="45" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Preston 1" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="29">
+            <Precinct name="Preston 1" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="95">
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Preston 1" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Preston 1" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Preston 1" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Matthew Wilson" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="REP - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Preston 1" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="98" text="John D. Barge" party="REP" totalVotes="115">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Preston 1" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Preston 1" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Richard Woods (I)" party="REP" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Preston 1" votes="139" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="121">
+                <Precinct name="Preston 1" votes="121" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="DEM - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Preston 1" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Currey Hitchens" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="Jaha V. Howard" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Preston 1" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="James Morrow, Jr." party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="Alisha Thomas Searcy" party="DEM" totalVotes="75">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Preston 1" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="REP - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="81">
+            <Precinct name="Preston 1" votes="81" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Kartik Bhatt" party="REP" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="Mike Coan" party="REP" totalVotes="133">
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Preston 1" votes="78" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Preston 1" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="Bruce Thompson" party="REP" totalVotes="192">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Preston 1" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Preston 1" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Preston 1" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Preston 1" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="Thomas Dean" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Preston 1" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="Lester G. Jackson III" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="Nadia Surrency" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Preston 1" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="REP - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="101">
+            <Precinct name="Preston 1" votes="101" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Tim Echols (I)" party="REP" totalVotes="320">
+            <VoteType name="Election Day Votes" votes="169">
+                <Precinct name="Preston 1" votes="169" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="134">
+                <Precinct name="Preston 1" votes="134" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="DEM - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Preston 1" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Patty Durand" party="DEM" totalVotes="81">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Preston 1" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Preston 1" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="Russell Edwards" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Preston 1" votes="44" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Preston 1" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="REP - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="102">
+            <Precinct name="Preston 1" votes="102" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Fitz Johnson (I)" party="REP" totalVotes="319">
+            <VoteType name="Election Day Votes" votes="172">
+                <Precinct name="Preston 1" votes="172" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="129">
+                <Precinct name="Preston 1" votes="129" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Preston 1" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="DEM - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Preston 1" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Shelia Edwards" party="DEM" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="Preston 1" votes="69" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Preston 1" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="117" text="Chandra Farley" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Preston 1" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="Missy Moore" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Preston 1" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Preston 1" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="186" text="Vivian L. Childs" party="REP" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="187" text="Jeremy Hunt" party="REP" totalVotes="281">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Preston 1" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="120">
+                <Precinct name="Preston 1" votes="120" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="188" text="Wayne Johnson" party="REP" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Preston 1" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Preston 1" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="189" text="Rich Robertson" party="REP" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="190" text="Chris West" party="REP" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="191" text="Paul Whitehead" party="REP" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="DEM - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Preston 1" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="192" text="Sanford Bishop (I)" party="DEM" totalVotes="169">
+            <VoteType name="Election Day Votes" votes="110">
+                <Precinct name="Preston 1" votes="110" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Preston 1" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="193" text="Joe O'Hara" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="DEM - State Senate Dist 12" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Preston 1" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="194" text="Freddie Powell Sims (I)" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Preston 1" votes="93" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="40">
+                <Precinct name="Preston 1" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="REP - State House Dist 151" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="86">
+            <Precinct name="Preston 1" votes="86" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="195" text="Mike Cheokas (I)" party="REP" totalVotes="335">
+            <VoteType name="Election Day Votes" votes="182">
+                <Precinct name="Preston 1" votes="182" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="138">
+                <Precinct name="Preston 1" votes="138" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="DEM - State House Dist 151" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Preston 1" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="196" text="Joyce Barlow" party="DEM" totalVotes="150">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Preston 1" votes="102" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Preston 1" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="DEM - County Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Preston 1" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="197" text="David Scott (I)" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Preston 1" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Preston 1" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="DEM - County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Preston 1" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="198" text="Melvin Crimes (I)" party="DEM" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Preston 1" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Preston 1" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="199" text="Yes" party="REP" totalVotes="405">
+            <VoteType name="Election Day Votes" votes="214">
+                <Precinct name="Preston 1" votes="214" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Preston 1" votes="170" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Preston 1" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="200" text="No" party="REP" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Preston 1" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="201" text="Yes" party="REP" totalVotes="334">
+            <VoteType name="Election Day Votes" votes="179">
+                <Precinct name="Preston 1" votes="179" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="138">
+                <Precinct name="Preston 1" votes="138" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Preston 1" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="202" text="No" party="REP" totalVotes="76">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Preston 1" votes="41" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Preston 1" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Preston 1" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="203" text="Yes" party="REP" totalVotes="363">
+            <VoteType name="Election Day Votes" votes="187">
+                <Precinct name="Preston 1" votes="187" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="157">
+                <Precinct name="Preston 1" votes="157" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="204" text="No" party="REP" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Preston 1" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Preston 1" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="205" text="Yes" party="REP" totalVotes="357">
+            <VoteType name="Election Day Votes" votes="187">
+                <Precinct name="Preston 1" votes="187" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="149">
+                <Precinct name="Preston 1" votes="149" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Preston 1" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="206" text="No" party="REP" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Preston 1" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Preston 1" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="207" text="Yes" party="REP" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="208" text="No" party="REP" totalVotes="405">
+            <VoteType name="Election Day Votes" votes="216">
+                <Precinct name="Preston 1" votes="216" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="168">
+                <Precinct name="Preston 1" votes="168" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Preston 1" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Preston 1" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="209" text="Yes" party="REP" totalVotes="398">
+            <VoteType name="Election Day Votes" votes="212">
+                <Precinct name="Preston 1" votes="212" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="167">
+                <Precinct name="Preston 1" votes="167" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="210" text="No" party="REP" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Preston 1" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="211" text="Yes" party="REP" totalVotes="392">
+            <VoteType name="Election Day Votes" votes="206">
+                <Precinct name="Preston 1" votes="206" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="Preston 1" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Preston 1" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="212" text="No" party="REP" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Preston 1" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="213" text="Yes" party="REP" totalVotes="290">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Preston 1" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="133">
+                <Precinct name="Preston 1" votes="133" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="214" text="No" party="REP" totalVotes="106">
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="Preston 1" votes="69" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Preston 1" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Preston 1" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="215" text="Yes" party="DEM" totalVotes="159">
+            <VoteType name="Election Day Votes" votes="106">
+                <Precinct name="Preston 1" votes="106" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Preston 1" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="216" text="No" party="DEM" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Preston 1" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="217" text="Yes" party="DEM" totalVotes="165">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Preston 1" votes="111" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Preston 1" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="218" text="No" party="DEM" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Preston 1" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="219" text="Yes" party="DEM" totalVotes="170">
+            <VoteType name="Election Day Votes" votes="112">
+                <Precinct name="Preston 1" votes="112" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Preston 1" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="220" text="No" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Preston 1" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="221" text="Yes" party="DEM" totalVotes="139">
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="Preston 1" votes="90" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Preston 1" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="222" text="No" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Preston 1" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Preston 1" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="223" text="Yes" party="DEM" totalVotes="158">
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Preston 1" votes="103" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Preston 1" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="224" text="No" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Preston 1" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Preston 1" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="225" text="Yes" party="DEM" totalVotes="164">
+            <VoteType name="Election Day Votes" votes="110">
+                <Precinct name="Preston 1" votes="110" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Preston 1" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="226" text="No" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Preston 1" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Preston 1" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="227" text="Yes" party="DEM" totalVotes="153">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Preston 1" votes="100" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Preston 1" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="228" text="No" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Preston 1" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Preston 1" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="229" text="Yes" party="DEM" totalVotes="109">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Preston 1" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Preston 1" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Preston 1" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="230" text="No" party="DEM" totalVotes="65">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Preston 1" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Preston 1" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Preston 1" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="231" text="Yes" party="DEM" totalVotes="157">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Preston 1" votes="100" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Preston 1" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Preston 1" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="232" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Preston 1" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Preston 1" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Supreme Court - Colvin" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="127">
+            <Precinct name="Preston 1" votes="127" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="233" text="Veronica Brinson" totalVotes="151">
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Preston 1" votes="91" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Preston 1" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Preston 1" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="234" text="Verda M. Colvin (I)" totalVotes="332">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Preston 1" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="129">
+                <Precinct name="Preston 1" votes="129" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Preston 1" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Supreme Court - LaGrua" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="157">
+            <Precinct name="Preston 1" votes="157" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="235" text="Shawn Ellen LaGrua (I)" totalVotes="453">
+            <VoteType name="Election Day Votes" votes="263">
+                <Precinct name="Preston 1" votes="263" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="167">
+                <Precinct name="Preston 1" votes="167" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Supreme Court - McMillian" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="161">
+            <Precinct name="Preston 1" votes="161" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="236" text="Carla McMillian (I)" totalVotes="450">
+            <VoteType name="Election Day Votes" votes="260">
+                <Precinct name="Preston 1" votes="260" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="Preston 1" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Preston 1" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Court of Appeals - Barnes" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="155">
+            <Precinct name="Preston 1" votes="155" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="237" text="Anne Elizabeth Barnes (I)" totalVotes="455">
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Preston 1" votes="262" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Preston 1" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Preston 1" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Court of Appeals - McFadden" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="154">
+            <Precinct name="Preston 1" votes="154" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="238" text="Chris McFadden (I)" totalVotes="457">
+            <VoteType name="Election Day Votes" votes="264">
+                <Precinct name="Preston 1" votes="264" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Preston 1" votes="170" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Court of Appeals - Pipkin" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="171">
+            <Precinct name="Preston 1" votes="171" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="239" text="Trea Pipkin (I)" totalVotes="440">
+            <VoteType name="Election Day Votes" votes="256">
+                <Precinct name="Preston 1" votes="256" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="161">
+                <Precinct name="Preston 1" votes="161" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Superior Court - Southernwestern - Sizemore" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="144">
+            <Precinct name="Preston 1" votes="144" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="240" text="James Sizemore (I)" totalVotes="467">
+            <VoteType name="Election Day Votes" votes="270">
+                <Precinct name="Preston 1" votes="270" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Preston 1" votes="174" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Preston 1" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="County Board of Education Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Preston 1" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="241" text="Tim Matthews (I)" totalVotes="126">
+            <VoteType name="Election Day Votes" votes="68">
+                <Precinct name="Preston 1" votes="68" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Preston 1" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Preston 1" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="County Board of Education Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="28">
+            <Precinct name="Preston 1" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="242" text="Mary Hinman (I)" totalVotes="103">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Preston 1" votes="63" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Preston 1" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Preston 1" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="TSPLOST" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Preston 1" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="243" text="Yes" totalVotes="437">
+            <VoteType name="Election Day Votes" votes="248">
+                <Precinct name="Preston 1" votes="248" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="171">
+                <Precinct name="Preston 1" votes="171" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Preston 1" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="244" text="No" totalVotes="148">
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Preston 1" votes="86" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Preston 1" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Preston 1" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="County School Board ESPLOST" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Preston 1" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="245" text="Yes" totalVotes="467">
+            <VoteType name="Election Day Votes" votes="259">
+                <Precinct name="Preston 1" votes="259" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="186">
+                <Precinct name="Preston 1" votes="186" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Preston 1" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="246" text="No" totalVotes="127">
+            <VoteType name="Election Day Votes" votes="77">
+                <Precinct name="Preston 1" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Preston 1" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Preston 1" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

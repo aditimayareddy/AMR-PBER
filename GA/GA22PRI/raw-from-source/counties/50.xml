@@ -1,0 +1,2298 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/27/2022 8:59:38 AM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Echols</Region>
+    <VoterTurnout totalVoters="1417" ballotsCast="570" voterTurnout="40.23">
+        <Precincts>
+            <Precinct name="Statenville" totalVoters="1417" ballotsCast="570" voterTurnout="40.23" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Statenville" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="27" text="Gary W. Black" party="REP" totalVotes="231">
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Statenville" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="109">
+                <Precinct name="Statenville" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="28" text="Josh Clark" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Kelvin King" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Latham Saddler" party="REP" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Herschel Junior Walker" party="REP" totalVotes="310">
+            <VoteType name="Election Day Votes" votes="174">
+                <Precinct name="Statenville" votes="174" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="129">
+                <Precinct name="Statenville" votes="129" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Tamara Johnson-Shealey" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Raphael Warnock (I)" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Statenville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Catherine Davis" party="REP" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Brian Kemp (I)" party="REP" totalVotes="348">
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Statenville" votes="164" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="175">
+                <Precinct name="Statenville" votes="175" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Statenville" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="David A. Perdue" party="REP" totalVotes="190">
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Statenville" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="66">
+                <Precinct name="Statenville" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="Kandiss Taylor" party="REP" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Statenville" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="Tom Williams" party="REP" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Stacey Abrams" party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Statenville" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Statenville" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Burt Jones" party="REP" totalVotes="224">
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="Statenville" votes="131" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="92">
+                <Precinct name="Statenville" votes="92" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="Mack McGregor" party="REP" totalVotes="113">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Statenville" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Statenville" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Butch Miller" party="REP" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="65">
+                <Precinct name="Statenville" votes="65" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Statenville" votes="69" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Jeanne Seaver" party="REP" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Statenville" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Statenville" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Erick E. Allen" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Tyrone Brooks, Jr." party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="Tony Brown" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Jason T. Hayes" party="DEM" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Derrick L. Jackson" party="DEM" totalVotes="0">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="R. Malik" party="DEM" totalVotes="0">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Renitta Shannon" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Statenville" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="54" text="David C. Belle Isle" party="REP" totalVotes="65">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Statenville" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Statenville" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Jody Hice" party="REP" totalVotes="186">
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Statenville" votes="108" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Statenville" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="T.J. Hudson" party="REP" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Statenville" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Statenville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brad Raffensperger (I)" party="REP" totalVotes="241">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Statenville" votes="129" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Statenville" votes="104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="John Eaves" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Floyd Griffin" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Michael Owens" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Statenville" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="63" text="Chris Carr (I)" party="REP" totalVotes="382">
+            <VoteType name="Election Day Votes" votes="189">
+                <Precinct name="Statenville" votes="189" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="185">
+                <Precinct name="Statenville" votes="185" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="John Gordon" party="REP" totalVotes="152">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Statenville" votes="95" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Statenville" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Statenville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Christian Wise Smith" party="DEM" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="69">
+            <Precinct name="Statenville" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper" party="REP" totalVotes="501">
+            <VoteType name="Election Day Votes" votes="271">
+                <Precinct name="Statenville" votes="271" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="221">
+                <Precinct name="Statenville" votes="221" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Statenville" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Winfred Dukes" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Nakita Hemingway" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Fred Swann" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Statenville" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="71" text="Ben Cowart" party="REP" totalVotes="110">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Statenville" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Statenville" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="John King (I)" party="REP" totalVotes="350">
+            <VoteType name="Election Day Votes" votes="178">
+                <Precinct name="Statenville" votes="178" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="162">
+                <Precinct name="Statenville" votes="162" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Patrick Witt" party="REP" totalVotes="72">
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Statenville" votes="47" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Statenville" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Statenville" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Matthew Wilson" party="DEM" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Statenville" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="77" text="John D. Barge" party="REP" totalVotes="123">
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Statenville" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Statenville" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Richard Woods (I)" party="REP" totalVotes="402">
+            <VoteType name="Election Day Votes" votes="213">
+                <Precinct name="Statenville" votes="213" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="179">
+                <Precinct name="Statenville" votes="179" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Statenville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Currey Hitchens" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="Jaha V. Howard" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="James Morrow, Jr." party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Alisha Thomas Searcy" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="76">
+            <Precinct name="Statenville" votes="76" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Kartik Bhatt" party="REP" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Statenville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Statenville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Mike Coan" party="REP" totalVotes="202">
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="Statenville" votes="105" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Statenville" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="Bruce Thompson" party="REP" totalVotes="261">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Statenville" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="113">
+                <Precinct name="Statenville" votes="113" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Thomas Dean" party="DEM" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="Lester G. Jackson III" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nadia Surrency" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Statenville" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Tim Echols (I)" party="REP" totalVotes="502">
+            <VoteType name="Election Day Votes" votes="270">
+                <Precinct name="Statenville" votes="270" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="224">
+                <Precinct name="Statenville" votes="224" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Patty Durand" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="Russell Edwards" party="DEM" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="82">
+            <Precinct name="Statenville" votes="82" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Fitz Johnson (I)" party="REP" totalVotes="488">
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Statenville" votes="262" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="218">
+                <Precinct name="Statenville" votes="218" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Shelia Edwards" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Chandra Farley" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Missy Moore" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Statenville" votes="79" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Austin Scott (I)" party="REP" totalVotes="491">
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Statenville" votes="265" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="218">
+                <Precinct name="Statenville" votes="218" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Statenville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Darrius Butler" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Statenville" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="136" text="Russ Goodman (I)" party="REP" totalVotes="505">
+            <VoteType name="Election Day Votes" votes="274">
+                <Precinct name="Statenville" votes="274" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="223">
+                <Precinct name="Statenville" votes="223" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 174 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="64">
+            <Precinct name="Statenville" votes="64" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="137" text="John L. Corbett (I)" party="REP" totalVotes="506">
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Statenville" votes="272" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="227">
+                <Precinct name="Statenville" votes="227" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="76" text="Board of Commission - Post 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Statenville" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="147" text="Wendell Tracey Green" party="REP" totalVotes="235">
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Statenville" votes="139" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Statenville" votes="93" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="148" text="Kenneth Petty (I)" party="REP" totalVotes="320">
+            <VoteType name="Election Day Votes" votes="163">
+                <Precinct name="Statenville" votes="163" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="149">
+                <Precinct name="Statenville" votes="149" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Party Question 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Statenville" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Yes" party="REP" totalVotes="546">
+            <VoteType name="Election Day Votes" votes="296">
+                <Precinct name="Statenville" votes="296" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="238">
+                <Precinct name="Statenville" votes="238" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="No" party="REP" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Party Question 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Statenville" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Yes" party="REP" totalVotes="387">
+            <VoteType name="Election Day Votes" votes="218">
+                <Precinct name="Statenville" votes="218" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="161">
+                <Precinct name="Statenville" votes="161" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="No" party="REP" totalVotes="169">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Statenville" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="85">
+                <Precinct name="Statenville" votes="85" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Party Question 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Statenville" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Yes" party="REP" totalVotes="488">
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Statenville" votes="262" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="215">
+                <Precinct name="Statenville" votes="215" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="No" party="REP" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Statenville" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Statenville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Party Question 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Statenville" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="105" text="Yes" party="REP" totalVotes="445">
+            <VoteType name="Election Day Votes" votes="235">
+                <Precinct name="Statenville" votes="235" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="200">
+                <Precinct name="Statenville" votes="200" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="No" party="REP" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Statenville" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Statenville" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Party Question 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Statenville" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="107" text="Yes" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="No" party="REP" totalVotes="557">
+            <VoteType name="Election Day Votes" votes="304">
+                <Precinct name="Statenville" votes="304" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="241">
+                <Precinct name="Statenville" votes="241" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Party Question 6 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Statenville" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Yes" party="REP" totalVotes="547">
+            <VoteType name="Election Day Votes" votes="296">
+                <Precinct name="Statenville" votes="296" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="240">
+                <Precinct name="Statenville" votes="240" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Statenville" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="No" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Party Question 7 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Statenville" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Yes" party="REP" totalVotes="522">
+            <VoteType name="Election Day Votes" votes="288">
+                <Precinct name="Statenville" votes="288" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="224">
+                <Precinct name="Statenville" votes="224" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="112" text="No" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Statenville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Statenville" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Party Question 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="29">
+            <Precinct name="Statenville" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Yes" party="REP" totalVotes="318">
+            <VoteType name="Election Day Votes" votes="174">
+                <Precinct name="Statenville" votes="174" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="140">
+                <Precinct name="Statenville" votes="140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="No" party="REP" totalVotes="223">
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Statenville" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="98">
+                <Precinct name="Statenville" votes="98" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Party Question 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="3" text="Yes" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Statenville" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Statenville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="No" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Party Question 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Yes" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Statenville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Statenville" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="116" text="No" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Party Question 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Yes" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="No" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Party Question 4 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Yes" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Statenville" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="No" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Statenville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="64" text="Party Question 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Statenville" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Yes" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="No" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="65" text="Party Question 6 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Yes" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Statenville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="No" party="DEM" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="66" text="Party Question 7 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Yes" party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Statenville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Statenville" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="No" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="67" text="Party Question 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Statenville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Yes" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Statenville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Statenville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="No" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Statenville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="68" text="Party Question 9 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Statenville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Yes" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Statenville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Statenville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="No" party="DEM" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Statenville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="69">
+            <Precinct name="Statenville" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Veronica Brinson" totalVotes="134">
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Statenville" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Statenville" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Verda M. Colvin (I)" totalVotes="411">
+            <VoteType name="Election Day Votes" votes="216">
+                <Precinct name="Statenville" votes="216" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="187">
+                <Precinct name="Statenville" votes="187" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Justice - Supreme Court of Georgia (Lagura)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="91">
+            <Precinct name="Statenville" votes="91" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Shawn Ellen LaGrua (I)" totalVotes="523">
+            <VoteType name="Election Day Votes" votes="284">
+                <Precinct name="Statenville" votes="284" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="230">
+                <Precinct name="Statenville" votes="230" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Statenville" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Statenville" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Carla McMillian (I)" totalVotes="525">
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="Statenville" votes="285" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="231">
+                <Precinct name="Statenville" votes="231" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Statenville" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="89">
+            <Precinct name="Statenville" votes="89" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="22" text="Anne Elizabeth Barnes (I)" totalVotes="526">
+            <VoteType name="Election Day Votes" votes="286">
+                <Precinct name="Statenville" votes="286" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="232">
+                <Precinct name="Statenville" votes="232" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="95">
+            <Precinct name="Statenville" votes="95" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="24" text="Chris McFadden (I)" totalVotes="520">
+            <VoteType name="Election Day Votes" votes="282">
+                <Precinct name="Statenville" votes="282" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="230">
+                <Precinct name="Statenville" votes="230" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Statenville" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Trea Pipkin (I)" totalVotes="517">
+            <VoteType name="Election Day Votes" votes="279">
+                <Precinct name="Statenville" votes="279" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="230">
+                <Precinct name="Statenville" votes="230" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="77" text="Judge - Superior Court - Southern Judicial Circuit (Hardy)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Statenville" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="151" text="Catherine Mims Smith" totalVotes="154">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Statenville" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Statenville" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Statenville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="152" text="Robert L. Moore, Jr." totalVotes="125">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Statenville" votes="63" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Statenville" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="153" text="William Long Whitesell" totalVotes="284">
+            <VoteType name="Election Day Votes" votes="160">
+                <Precinct name="Statenville" votes="160" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="120">
+                <Precinct name="Statenville" votes="120" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Statenville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="78" text="Judge - Superior Court - Southern Judicial Circuit (McDaniel)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Statenville" votes="90" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="154" text="Brian McDaniel (I)" totalVotes="525">
+            <VoteType name="Election Day Votes" votes="284">
+                <Precinct name="Statenville" votes="284" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="233">
+                <Precinct name="Statenville" votes="233" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="79" text="Judge - Superior Court - Southern Judicial Circuit (Prine)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="88">
+            <Precinct name="Statenville" votes="88" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="155" text="James L. Prine (I)" totalVotes="526">
+            <VoteType name="Election Day Votes" votes="286">
+                <Precinct name="Statenville" votes="286" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="232">
+                <Precinct name="Statenville" votes="232" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="80" text="Judge - Superior Court - Southern Judicial Circuit (Voyles)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Statenville" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="156" text="Gregory A. Voyles (I)" totalVotes="549">
+            <VoteType name="Election Day Votes" votes="301">
+                <Precinct name="Statenville" votes="301" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="240">
+                <Precinct name="Statenville" votes="240" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="81" text="Bd of Education - Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="75">
+            <Precinct name="Statenville" votes="75" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="149" text="Bo Corbett (I)" totalVotes="539">
+            <VoteType name="Election Day Votes" votes="295">
+                <Precinct name="Statenville" votes="295" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="238">
+                <Precinct name="Statenville" votes="238" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Statenville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="82" text="Bd of Education - Post 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="69">
+            <Precinct name="Statenville" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="150" text="Chad Pafford (I)" totalVotes="546">
+            <VoteType name="Election Day Votes" votes="296">
+                <Precinct name="Statenville" votes="296" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="242">
+                <Precinct name="Statenville" votes="242" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Statenville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="74" text="Echols County T-SPLOST" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Statenville" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Yes" totalVotes="398">
+            <VoteType name="Election Day Votes" votes="211">
+                <Precinct name="Statenville" votes="211" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="177">
+                <Precinct name="Statenville" votes="177" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="139" text="No" totalVotes="204">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Statenville" votes="116" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="86">
+                <Precinct name="Statenville" votes="86" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="83" text="One Percent Educational Sale Tax" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Statenville" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Statenville" votes="0" />
+        </VoteType>
+        <Choice key="157" text="Yes" totalVotes="384">
+            <VoteType name="Election Day Votes" votes="208">
+                <Precinct name="Statenville" votes="208" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="Statenville" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Statenville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="158" text="No" totalVotes="222">
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Statenville" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="98">
+                <Precinct name="Statenville" votes="98" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Statenville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Statenville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

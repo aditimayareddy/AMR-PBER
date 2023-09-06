@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 9:56:35 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Montgomery</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="134" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Ailey" totalVoters="0" ballotsCast="32" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Alston" totalVoters="0" ballotsCast="4" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Higgston" totalVoters="0" ballotsCast="18" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Kibbee" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Mount Vernon" totalVoters="0" ballotsCast="50" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Tarrytown" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Uvalda" totalVoters="0" ballotsCast="30" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Ailey" votes="1" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="2" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Ailey" votes="4" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="2" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Ailey" votes="5" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="3" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Ailey" votes="12" />
+                <Precinct name="Alston" votes="2" />
+                <Precinct name="Higgston" votes="8" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="21" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="52">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Ailey" votes="1" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="3" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Ailey" votes="2" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="6" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Ailey" votes="7" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="13" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Ailey" votes="1" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="3" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="77">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Ailey" votes="5" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="3" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Ailey" votes="7" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="2" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="3" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Ailey" votes="11" />
+                <Precinct name="Alston" votes="2" />
+                <Precinct name="Higgston" votes="11" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="17" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="48">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="2" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="2" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="2" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="6" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Ailey" votes="8" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="16" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Ailey" votes="2" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="88">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Ailey" votes="1" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="3" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Ailey" votes="3" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="5" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Ailey" votes="14" />
+                <Precinct name="Alston" votes="3" />
+                <Precinct name="Higgston" votes="9" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="25" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="43">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Ailey" votes="4" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="2" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Ailey" votes="4" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="4" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Ailey" votes="4" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="2" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="11" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Ailey" votes="2" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="5" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="87">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Ailey" votes="3" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="4" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Ailey" votes="4" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="8" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Ailey" votes="16" />
+                <Precinct name="Alston" votes="3" />
+                <Precinct name="Higgston" votes="10" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="20" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="36">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Ailey" votes="2" />
+                <Precinct name="Alston" votes="1" />
+                <Precinct name="Higgston" votes="2" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="1" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Ailey" votes="3" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="3" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="1" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Ailey" votes="2" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="1" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="11" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

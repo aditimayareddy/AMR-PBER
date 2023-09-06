@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 9:57:32 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Jones</Region>
+    <VoterTurnout totalVoters="20031" ballotsCast="563" voterTurnout="2.81">
+        <Precincts>
+            <Precinct name="Gray" totalVoters="2702" ballotsCast="45" voterTurnout="1.67" percentReporting="4" />
+            <Precinct name="Hawkins" totalVoters="3113" ballotsCast="176" voterTurnout="5.65" percentReporting="4" />
+            <Precinct name="Ethridge" totalVoters="1725" ballotsCast="49" voterTurnout="2.84" percentReporting="4" />
+            <Precinct name="Clinton" totalVoters="2267" ballotsCast="51" voterTurnout="2.25" percentReporting="4" />
+            <Precinct name="Roberts" totalVoters="2734" ballotsCast="63" voterTurnout="2.30" percentReporting="4" />
+            <Precinct name="Davidson" totalVoters="1574" ballotsCast="16" voterTurnout="1.02" percentReporting="4" />
+            <Precinct name="Pope" totalVoters="1752" ballotsCast="76" voterTurnout="4.34" percentReporting="4" />
+            <Precinct name="Barron" totalVoters="1440" ballotsCast="30" voterTurnout="2.08" percentReporting="4" />
+            <Precinct name="Sanders" totalVoters="201" ballotsCast="5" voterTurnout="2.49" percentReporting="4" />
+            <Precinct name="Finney" totalVoters="2523" ballotsCast="52" voterTurnout="2.06" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="3" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="1" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="0" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="0" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="0" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="344">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="25" />
+                <Precinct name="Ethridge" votes="10" />
+                <Precinct name="Clinton" votes="10" />
+                <Precinct name="Roberts" votes="2" />
+                <Precinct name="Davidson" votes="3" />
+                <Precinct name="Pope" votes="3" />
+                <Precinct name="Barron" votes="3" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="14" />
+                <Precinct name="Ethridge" votes="7" />
+                <Precinct name="Clinton" votes="9" />
+                <Precinct name="Roberts" votes="7" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="16" />
+                <Precinct name="Barron" votes="3" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="202">
+                <Precinct name="Gray" votes="11" />
+                <Precinct name="Hawkins" votes="58" />
+                <Precinct name="Ethridge" votes="18" />
+                <Precinct name="Clinton" votes="11" />
+                <Precinct name="Roberts" votes="26" />
+                <Precinct name="Davidson" votes="7" />
+                <Precinct name="Pope" votes="37" />
+                <Precinct name="Barron" votes="14" />
+                <Precinct name="Sanders" votes="3" />
+                <Precinct name="Finney" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="215">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Gray" votes="5" />
+                <Precinct name="Hawkins" votes="26" />
+                <Precinct name="Ethridge" votes="7" />
+                <Precinct name="Clinton" votes="8" />
+                <Precinct name="Roberts" votes="4" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="4" />
+                <Precinct name="Barron" votes="1" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Gray" votes="3" />
+                <Precinct name="Hawkins" votes="11" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="6" />
+                <Precinct name="Roberts" votes="2" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="2" />
+                <Precinct name="Barron" votes="3" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="124">
+                <Precinct name="Gray" votes="14" />
+                <Precinct name="Hawkins" votes="39" />
+                <Precinct name="Ethridge" votes="7" />
+                <Precinct name="Clinton" votes="7" />
+                <Precinct name="Roberts" votes="22" />
+                <Precinct name="Davidson" votes="2" />
+                <Precinct name="Pope" votes="14" />
+                <Precinct name="Barron" votes="6" />
+                <Precinct name="Sanders" votes="2" />
+                <Precinct name="Finney" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="1" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="1" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="0" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="0" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="110">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Gray" votes="1" />
+                <Precinct name="Hawkins" votes="10" />
+                <Precinct name="Ethridge" votes="2" />
+                <Precinct name="Clinton" votes="3" />
+                <Precinct name="Roberts" votes="3" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Gray" votes="3" />
+                <Precinct name="Hawkins" votes="6" />
+                <Precinct name="Ethridge" votes="2" />
+                <Precinct name="Clinton" votes="3" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="4" />
+                <Precinct name="Barron" votes="2" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="17" />
+                <Precinct name="Ethridge" votes="1" />
+                <Precinct name="Clinton" votes="5" />
+                <Precinct name="Roberts" votes="14" />
+                <Precinct name="Davidson" votes="3" />
+                <Precinct name="Pope" votes="11" />
+                <Precinct name="Barron" votes="5" />
+                <Precinct name="Sanders" votes="1" />
+                <Precinct name="Finney" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="451">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="Gray" votes="10" />
+                <Precinct name="Hawkins" votes="42" />
+                <Precinct name="Ethridge" votes="15" />
+                <Precinct name="Clinton" votes="15" />
+                <Precinct name="Roberts" votes="3" />
+                <Precinct name="Davidson" votes="3" />
+                <Precinct name="Pope" votes="7" />
+                <Precinct name="Barron" votes="4" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="75">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="19" />
+                <Precinct name="Ethridge" votes="5" />
+                <Precinct name="Clinton" votes="12" />
+                <Precinct name="Roberts" votes="9" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="14" />
+                <Precinct name="Barron" votes="4" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="260">
+                <Precinct name="Gray" votes="19" />
+                <Precinct name="Hawkins" votes="81" />
+                <Precinct name="Ethridge" votes="24" />
+                <Precinct name="Clinton" votes="13" />
+                <Precinct name="Roberts" votes="34" />
+                <Precinct name="Davidson" votes="7" />
+                <Precinct name="Pope" votes="40" />
+                <Precinct name="Barron" votes="14" />
+                <Precinct name="Sanders" votes="4" />
+                <Precinct name="Finney" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Gray" votes="1" />
+            <Precinct name="Hawkins" votes="8" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="1" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="3" />
+            <Precinct name="Barron" votes="2" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="0" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="0" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="208">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Gray" votes="2" />
+                <Precinct name="Hawkins" votes="16" />
+                <Precinct name="Ethridge" votes="10" />
+                <Precinct name="Clinton" votes="5" />
+                <Precinct name="Roberts" votes="3" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="4" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Gray" votes="3" />
+                <Precinct name="Hawkins" votes="8" />
+                <Precinct name="Ethridge" votes="2" />
+                <Precinct name="Clinton" votes="5" />
+                <Precinct name="Roberts" votes="5" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="5" />
+                <Precinct name="Barron" votes="2" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Gray" votes="11" />
+                <Precinct name="Hawkins" votes="30" />
+                <Precinct name="Ethridge" votes="7" />
+                <Precinct name="Clinton" votes="7" />
+                <Precinct name="Roberts" votes="23" />
+                <Precinct name="Davidson" votes="5" />
+                <Precinct name="Pope" votes="24" />
+                <Precinct name="Barron" votes="9" />
+                <Precinct name="Sanders" votes="2" />
+                <Precinct name="Finney" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="339">
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="Gray" votes="9" />
+                <Precinct name="Hawkins" votes="34" />
+                <Precinct name="Ethridge" votes="7" />
+                <Precinct name="Clinton" votes="13" />
+                <Precinct name="Roberts" votes="3" />
+                <Precinct name="Davidson" votes="4" />
+                <Precinct name="Pope" votes="3" />
+                <Precinct name="Barron" votes="4" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="58">
+                <Precinct name="Gray" votes="5" />
+                <Precinct name="Hawkins" votes="16" />
+                <Precinct name="Ethridge" votes="5" />
+                <Precinct name="Clinton" votes="9" />
+                <Precinct name="Roberts" votes="4" />
+                <Precinct name="Davidson" votes="2" />
+                <Precinct name="Pope" votes="11" />
+                <Precinct name="Barron" votes="4" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="191">
+                <Precinct name="Gray" votes="14" />
+                <Precinct name="Hawkins" votes="64" />
+                <Precinct name="Ethridge" votes="18" />
+                <Precinct name="Clinton" votes="11" />
+                <Precinct name="Roberts" votes="25" />
+                <Precinct name="Davidson" votes="5" />
+                <Precinct name="Pope" votes="26" />
+                <Precinct name="Barron" votes="9" />
+                <Precinct name="Sanders" votes="3" />
+                <Precinct name="Finney" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="4" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="1" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="1" />
+            <Precinct name="Pope" votes="2" />
+            <Precinct name="Barron" votes="2" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Gray" votes="0" />
+            <Precinct name="Hawkins" votes="0" />
+            <Precinct name="Ethridge" votes="0" />
+            <Precinct name="Clinton" votes="0" />
+            <Precinct name="Roberts" votes="0" />
+            <Precinct name="Davidson" votes="0" />
+            <Precinct name="Pope" votes="0" />
+            <Precinct name="Barron" votes="0" />
+            <Precinct name="Sanders" votes="0" />
+            <Precinct name="Finney" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="372">
+            <VoteType name="Absentee by Mail Votes" votes="91">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="38" />
+                <Precinct name="Ethridge" votes="13" />
+                <Precinct name="Clinton" votes="12" />
+                <Precinct name="Roberts" votes="1" />
+                <Precinct name="Davidson" votes="3" />
+                <Precinct name="Pope" votes="4" />
+                <Precinct name="Barron" votes="3" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Gray" votes="6" />
+                <Precinct name="Hawkins" votes="17" />
+                <Precinct name="Ethridge" votes="5" />
+                <Precinct name="Clinton" votes="14" />
+                <Precinct name="Roberts" votes="7" />
+                <Precinct name="Davidson" votes="2" />
+                <Precinct name="Pope" votes="13" />
+                <Precinct name="Barron" votes="5" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="207">
+                <Precinct name="Gray" votes="13" />
+                <Precinct name="Hawkins" votes="58" />
+                <Precinct name="Ethridge" votes="15" />
+                <Precinct name="Clinton" votes="13" />
+                <Precinct name="Roberts" votes="25" />
+                <Precinct name="Davidson" votes="7" />
+                <Precinct name="Pope" votes="43" />
+                <Precinct name="Barron" votes="13" />
+                <Precinct name="Sanders" votes="5" />
+                <Precinct name="Finney" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="181">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Gray" votes="5" />
+                <Precinct name="Hawkins" votes="13" />
+                <Precinct name="Ethridge" votes="4" />
+                <Precinct name="Clinton" votes="6" />
+                <Precinct name="Roberts" votes="5" />
+                <Precinct name="Davidson" votes="1" />
+                <Precinct name="Pope" votes="3" />
+                <Precinct name="Barron" votes="1" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Gray" votes="3" />
+                <Precinct name="Hawkins" votes="8" />
+                <Precinct name="Ethridge" votes="2" />
+                <Precinct name="Clinton" votes="1" />
+                <Precinct name="Roberts" votes="2" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="3" />
+                <Precinct name="Barron" votes="1" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Gray" votes="12" />
+                <Precinct name="Hawkins" votes="38" />
+                <Precinct name="Ethridge" votes="10" />
+                <Precinct name="Clinton" votes="4" />
+                <Precinct name="Roberts" votes="23" />
+                <Precinct name="Davidson" votes="2" />
+                <Precinct name="Pope" votes="8" />
+                <Precinct name="Barron" votes="5" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Gray" votes="0" />
+                <Precinct name="Hawkins" votes="0" />
+                <Precinct name="Ethridge" votes="0" />
+                <Precinct name="Clinton" votes="0" />
+                <Precinct name="Roberts" votes="0" />
+                <Precinct name="Davidson" votes="0" />
+                <Precinct name="Pope" votes="0" />
+                <Precinct name="Barron" votes="0" />
+                <Precinct name="Sanders" votes="0" />
+                <Precinct name="Finney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

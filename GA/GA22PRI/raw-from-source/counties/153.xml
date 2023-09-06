@@ -1,0 +1,2739 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/31/2022 3:10:07 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Wheeler</Region>
+    <VoterTurnout totalVoters="2941" ballotsCast="761" voterTurnout="25.88">
+        <Precincts>
+            <Precinct name="Alamo" totalVoters="1663" ballotsCast="478" voterTurnout="28.74" percentReporting="4" />
+            <Precinct name="Glenwood" totalVoters="1278" ballotsCast="283" voterTurnout="22.14" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Alamo" votes="7" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="27" text="Gary W. Black" party="REP" totalVotes="95">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Alamo" votes="31" />
+                <Precinct name="Glenwood" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Alamo" votes="27" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="28" text="Josh Clark" party="REP" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Kelvin King" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Latham Saddler" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Herschel Junior Walker" party="REP" totalVotes="608">
+            <VoteType name="Election Day Votes" votes="390">
+                <Precinct name="Alamo" votes="234" />
+                <Precinct name="Glenwood" votes="156" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="194">
+                <Precinct name="Alamo" votes="132" />
+                <Precinct name="Glenwood" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Alamo" votes="8" />
+            <Precinct name="Glenwood" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Tamara Johnson-Shealey" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Raphael Warnock (I)" party="DEM" totalVotes="211">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Alamo" votes="72" />
+                <Precinct name="Glenwood" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Alamo" votes="65" />
+                <Precinct name="Glenwood" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Catherine Davis" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Brian Kemp (I)" party="REP" totalVotes="472">
+            <VoteType name="Election Day Votes" votes="300">
+                <Precinct name="Alamo" votes="175" />
+                <Precinct name="Glenwood" votes="125" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="160">
+                <Precinct name="Alamo" votes="108" />
+                <Precinct name="Glenwood" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="David A. Perdue" party="REP" totalVotes="186">
+            <VoteType name="Election Day Votes" votes="112">
+                <Precinct name="Alamo" votes="73" />
+                <Precinct name="Glenwood" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Alamo" votes="41" />
+                <Precinct name="Glenwood" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Alamo" votes="8" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="Kandiss Taylor" party="REP" totalVotes="96">
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="Alamo" votes="44" />
+                <Precinct name="Glenwood" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Alamo" votes="18" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="Tom Williams" party="REP" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Alamo" votes="8" />
+            <Precinct name="Glenwood" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Stacey Abrams" party="DEM" totalVotes="223">
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Alamo" votes="75" />
+                <Precinct name="Glenwood" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="98">
+                <Precinct name="Alamo" votes="69" />
+                <Precinct name="Glenwood" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Alamo" votes="27" />
+            <Precinct name="Glenwood" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Burt Jones" party="REP" totalVotes="415">
+            <VoteType name="Election Day Votes" votes="252">
+                <Precinct name="Alamo" votes="163" />
+                <Precinct name="Glenwood" votes="89" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Alamo" votes="96" />
+                <Precinct name="Glenwood" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="Mack McGregor" party="REP" totalVotes="71">
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Alamo" votes="25" />
+                <Precinct name="Glenwood" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Butch Miller" party="REP" totalVotes="194">
+            <VoteType name="Election Day Votes" votes="125">
+                <Precinct name="Alamo" votes="70" />
+                <Precinct name="Glenwood" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Alamo" votes="47" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Jeanne Seaver" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Alamo" votes="17" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Alamo" votes="30" />
+            <Precinct name="Glenwood" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Erick E. Allen" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Alamo" votes="18" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Alamo" votes="8" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Tyrone Brooks, Jr." party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="Tony Brown" party="DEM" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="41">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Jason T. Hayes" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Derrick L. Jackson" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="R. Malik" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Renitta Shannon" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Alamo" votes="19" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="54" text="David C. Belle Isle" party="REP" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Alamo" votes="17" />
+                <Precinct name="Glenwood" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Jody Hice" party="REP" totalVotes="215">
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="Alamo" votes="88" />
+                <Precinct name="Glenwood" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="77">
+                <Precinct name="Alamo" votes="59" />
+                <Precinct name="Glenwood" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="T.J. Hudson" party="REP" totalVotes="179">
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Alamo" votes="66" />
+                <Precinct name="Glenwood" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Alamo" votes="35" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brad Raffensperger (I)" party="REP" totalVotes="295">
+            <VoteType name="Election Day Votes" votes="186">
+                <Precinct name="Alamo" votes="106" />
+                <Precinct name="Glenwood" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Alamo" votes="60" />
+                <Precinct name="Glenwood" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Alamo" votes="8" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Alamo" votes="25" />
+            <Precinct name="Glenwood" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Alamo" votes="17" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="John Eaves" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Alamo" votes="9" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Floyd Griffin" party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Alamo" votes="9" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Michael Owens" party="DEM" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Alamo" votes="23" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Alamo" votes="25" />
+            <Precinct name="Glenwood" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="63" text="Chris Carr (I)" party="REP" totalVotes="509">
+            <VoteType name="Election Day Votes" votes="318">
+                <Precinct name="Alamo" votes="188" />
+                <Precinct name="Glenwood" votes="130" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Alamo" votes="118" />
+                <Precinct name="Glenwood" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="John Gordon" party="REP" totalVotes="213">
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Alamo" votes="85" />
+                <Precinct name="Glenwood" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="68">
+                <Precinct name="Alamo" votes="45" />
+                <Precinct name="Glenwood" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Alamo" votes="25" />
+            <Precinct name="Glenwood" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Alamo" votes="49" />
+                <Precinct name="Glenwood" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Alamo" votes="42" />
+                <Precinct name="Glenwood" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Christian Wise Smith" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Alamo" votes="21" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Alamo" votes="80" />
+            <Precinct name="Glenwood" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper" party="REP" totalVotes="643">
+            <VoteType name="Election Day Votes" votes="414">
+                <Precinct name="Alamo" votes="245" />
+                <Precinct name="Glenwood" votes="169" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="205">
+                <Precinct name="Alamo" votes="140" />
+                <Precinct name="Glenwood" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Alamo" votes="30" />
+            <Precinct name="Glenwood" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Winfred Dukes" party="DEM" totalVotes="69">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Alamo" votes="17" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Alamo" votes="22" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Nakita Hemingway" party="DEM" totalVotes="75">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Alamo" votes="26" />
+                <Precinct name="Glenwood" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Alamo" votes="26" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Fred Swann" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Alamo" votes="33" />
+            <Precinct name="Glenwood" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="71" text="Ben Cowart" party="REP" totalVotes="143">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Alamo" votes="54" />
+                <Precinct name="Glenwood" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Alamo" votes="33" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="John King (I)" party="REP" totalVotes="480">
+            <VoteType name="Election Day Votes" votes="295">
+                <Precinct name="Alamo" votes="170" />
+                <Precinct name="Glenwood" votes="125" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="168">
+                <Precinct name="Alamo" votes="111" />
+                <Precinct name="Glenwood" votes="57" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Patrick Witt" party="REP" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Alamo" votes="45" />
+                <Precinct name="Glenwood" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Alamo" votes="28" />
+            <Precinct name="Glenwood" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Alamo" votes="29" />
+                <Precinct name="Glenwood" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Alamo" votes="26" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="81">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Alamo" votes="23" />
+                <Precinct name="Glenwood" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Alamo" votes="28" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Matthew Wilson" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Alamo" votes="35" />
+            <Precinct name="Glenwood" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="77" text="John D. Barge" party="REP" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Alamo" votes="79" />
+                <Precinct name="Glenwood" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="Alamo" votes="42" />
+                <Precinct name="Glenwood" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Richard Woods (I)" party="REP" totalVotes="525">
+            <VoteType name="Election Day Votes" votes="329">
+                <Precinct name="Alamo" votes="187" />
+                <Precinct name="Glenwood" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Alamo" votes="118" />
+                <Precinct name="Glenwood" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="Alamo" votes="28" />
+            <Precinct name="Glenwood" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Currey Hitchens" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Alamo" votes="8" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="Jaha V. Howard" party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="James Morrow, Jr." party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Alisha Thomas Searcy" party="DEM" totalVotes="81">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Alamo" votes="27" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Alamo" votes="29" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="117">
+            <Precinct name="Alamo" votes="70" />
+            <Precinct name="Glenwood" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Kartik Bhatt" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Mike Coan" party="REP" totalVotes="175">
+            <VoteType name="Election Day Votes" votes="113">
+                <Precinct name="Alamo" votes="74" />
+                <Precinct name="Glenwood" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Alamo" votes="43" />
+                <Precinct name="Glenwood" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="Bruce Thompson" party="REP" totalVotes="434">
+            <VoteType name="Election Day Votes" votes="269">
+                <Precinct name="Alamo" votes="156" />
+                <Precinct name="Glenwood" votes="113" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Alamo" votes="97" />
+                <Precinct name="Glenwood" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Alamo" votes="27" />
+            <Precinct name="Glenwood" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="41">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Thomas Dean" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Alamo" votes="9" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="Lester G. Jackson III" party="DEM" totalVotes="64">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Alamo" votes="17" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Alamo" votes="18" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nadia Surrency" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Alamo" votes="12" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="124">
+            <Precinct name="Alamo" votes="83" />
+            <Precinct name="Glenwood" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Tim Echols (I)" party="REP" totalVotes="637">
+            <VoteType name="Election Day Votes" votes="401">
+                <Precinct name="Alamo" votes="236" />
+                <Precinct name="Glenwood" votes="165" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="209">
+                <Precinct name="Alamo" votes="143" />
+                <Precinct name="Glenwood" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Alamo" votes="30" />
+            <Precinct name="Glenwood" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Patty Durand" party="DEM" totalVotes="91">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Alamo" votes="27" />
+                <Precinct name="Glenwood" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Alamo" votes="34" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="Russell Edwards" party="DEM" totalVotes="103">
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Alamo" votes="35" />
+                <Precinct name="Glenwood" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="40">
+                <Precinct name="Alamo" votes="26" />
+                <Precinct name="Glenwood" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="144">
+            <Precinct name="Alamo" votes="103" />
+            <Precinct name="Glenwood" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Fitz Johnson (I)" party="REP" totalVotes="617">
+            <VoteType name="Election Day Votes" votes="396">
+                <Precinct name="Alamo" votes="229" />
+                <Precinct name="Glenwood" votes="167" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="194">
+                <Precinct name="Alamo" votes="130" />
+                <Precinct name="Glenwood" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Alamo" votes="28" />
+            <Precinct name="Glenwood" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Shelia Edwards" party="DEM" totalVotes="106">
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Alamo" votes="34" />
+                <Precinct name="Glenwood" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Alamo" votes="30" />
+                <Precinct name="Glenwood" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Chandra Farley" party="DEM" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Missy Moore" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Alamo" votes="21" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 12 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="111">
+            <Precinct name="Alamo" votes="80" />
+            <Precinct name="Glenwood" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="153" text="Rick W. Allen (I)" party="REP" totalVotes="650">
+            <VoteType name="Election Day Votes" votes="417">
+                <Precinct name="Alamo" votes="242" />
+                <Precinct name="Glenwood" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="206">
+                <Precinct name="Alamo" votes="140" />
+                <Precinct name="Glenwood" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Alamo" votes="31" />
+            <Precinct name="Glenwood" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Elizabeth 'Liz' Johnson" party="DEM" totalVotes="192">
+            <VoteType name="Election Day Votes" votes="101">
+                <Precinct name="Alamo" votes="61" />
+                <Precinct name="Glenwood" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="85">
+                <Precinct name="Alamo" votes="61" />
+                <Precinct name="Glenwood" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="72" text="State Senate - District 19 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="115">
+            <Precinct name="Alamo" votes="80" />
+            <Precinct name="Glenwood" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="139" text="Blake Tillery (I)" party="REP" totalVotes="646">
+            <VoteType name="Election Day Votes" votes="417">
+                <Precinct name="Alamo" votes="242" />
+                <Precinct name="Glenwood" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="202">
+                <Precinct name="Alamo" votes="140" />
+                <Precinct name="Glenwood" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="70" text="State Senate - District 19 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Alamo" votes="47" />
+            <Precinct name="Glenwood" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Michael &quot;&quot;Buckle&quot;&quot; Moore" party="DEM" totalVotes="166">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Alamo" votes="56" />
+                <Precinct name="Glenwood" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="72">
+                <Precinct name="Alamo" votes="50" />
+                <Precinct name="Glenwood" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="82" text="State House - District 156 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="132">
+            <Precinct name="Alamo" votes="92" />
+            <Precinct name="Glenwood" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="157" text="Leesa Hagan (I)" party="REP" totalVotes="629">
+            <VoteType name="Election Day Votes" votes="406">
+                <Precinct name="Alamo" votes="236" />
+                <Precinct name="Glenwood" votes="170" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="197">
+                <Precinct name="Alamo" votes="135" />
+                <Precinct name="Glenwood" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="83" text="State House - District 156 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="Alamo" votes="40" />
+            <Precinct name="Glenwood" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="158" text="Lethia J. Kittrell" party="DEM" totalVotes="175">
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Alamo" votes="59" />
+                <Precinct name="Glenwood" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Alamo" votes="53" />
+                <Precinct name="Glenwood" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Party Question 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Alamo" votes="5" />
+            <Precinct name="Glenwood" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Yes" party="REP" totalVotes="724">
+            <VoteType name="Election Day Votes" votes="458">
+                <Precinct name="Alamo" votes="278" />
+                <Precinct name="Glenwood" votes="180" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="238">
+                <Precinct name="Alamo" votes="165" />
+                <Precinct name="Glenwood" votes="73" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="No" party="REP" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Party Question 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Alamo" votes="10" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Yes" party="REP" totalVotes="579">
+            <VoteType name="Election Day Votes" votes="365">
+                <Precinct name="Alamo" votes="214" />
+                <Precinct name="Glenwood" votes="151" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="190">
+                <Precinct name="Alamo" votes="129" />
+                <Precinct name="Glenwood" votes="61" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="No" party="REP" totalVotes="167">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Alamo" votes="70" />
+                <Precinct name="Glenwood" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Alamo" votes="38" />
+                <Precinct name="Glenwood" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Party Question 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Alamo" votes="23" />
+            <Precinct name="Glenwood" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Yes" party="REP" totalVotes="622">
+            <VoteType name="Election Day Votes" votes="388">
+                <Precinct name="Alamo" votes="235" />
+                <Precinct name="Glenwood" votes="153" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="208">
+                <Precinct name="Alamo" votes="136" />
+                <Precinct name="Glenwood" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="No" party="REP" totalVotes="108">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Alamo" votes="42" />
+                <Precinct name="Glenwood" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Alamo" votes="25" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Party Question 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Alamo" votes="28" />
+            <Precinct name="Glenwood" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="105" text="Yes" party="REP" totalVotes="596">
+            <VoteType name="Election Day Votes" votes="383">
+                <Precinct name="Alamo" votes="240" />
+                <Precinct name="Glenwood" votes="143" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="190">
+                <Precinct name="Alamo" votes="129" />
+                <Precinct name="Glenwood" votes="61" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="No" party="REP" totalVotes="115">
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Alamo" votes="37" />
+                <Precinct name="Glenwood" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Alamo" votes="28" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Party Question 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Alamo" votes="9" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="107" text="Yes" party="REP" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="No" party="REP" totalVotes="727">
+            <VoteType name="Election Day Votes" votes="461">
+                <Precinct name="Alamo" votes="277" />
+                <Precinct name="Glenwood" votes="184" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="237">
+                <Precinct name="Alamo" votes="160" />
+                <Precinct name="Glenwood" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Party Question 6 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Alamo" votes="12" />
+            <Precinct name="Glenwood" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Yes" party="REP" totalVotes="721">
+            <VoteType name="Election Day Votes" votes="455">
+                <Precinct name="Alamo" votes="272" />
+                <Precinct name="Glenwood" votes="183" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="238">
+                <Precinct name="Alamo" votes="163" />
+                <Precinct name="Glenwood" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Alamo" votes="15" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="No" party="REP" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Party Question 7 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Alamo" votes="10" />
+            <Precinct name="Glenwood" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Yes" party="REP" totalVotes="679">
+            <VoteType name="Election Day Votes" votes="431">
+                <Precinct name="Alamo" votes="261" />
+                <Precinct name="Glenwood" votes="170" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="222">
+                <Precinct name="Alamo" votes="153" />
+                <Precinct name="Glenwood" votes="69" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="112" text="No" party="REP" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Alamo" votes="25" />
+                <Precinct name="Glenwood" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Party Question 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Alamo" votes="22" />
+            <Precinct name="Glenwood" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Yes" party="REP" totalVotes="514">
+            <VoteType name="Election Day Votes" votes="303">
+                <Precinct name="Alamo" votes="181" />
+                <Precinct name="Glenwood" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="186">
+                <Precinct name="Alamo" votes="128" />
+                <Precinct name="Glenwood" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="No" party="REP" totalVotes="213">
+            <VoteType name="Election Day Votes" votes="158">
+                <Precinct name="Alamo" votes="97" />
+                <Precinct name="Glenwood" votes="61" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Alamo" votes="33" />
+                <Precinct name="Glenwood" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Party Question 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Alamo" votes="10" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="3" text="Yes" party="DEM" totalVotes="193">
+            <VoteType name="Election Day Votes" votes="104">
+                <Precinct name="Alamo" votes="67" />
+                <Precinct name="Glenwood" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Alamo" votes="59" />
+                <Precinct name="Glenwood" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="No" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Alamo" votes="9" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Party Question 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Alamo" votes="13" />
+            <Precinct name="Glenwood" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Yes" party="DEM" totalVotes="193">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Alamo" votes="65" />
+                <Precinct name="Glenwood" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="85">
+                <Precinct name="Alamo" votes="59" />
+                <Precinct name="Glenwood" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="116" text="No" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Alamo" votes="9" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Party Question 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Alamo" votes="9" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Yes" party="DEM" totalVotes="211">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Alamo" votes="72" />
+                <Precinct name="Glenwood" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Alamo" votes="66" />
+                <Precinct name="Glenwood" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="No" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Party Question 4 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Alamo" votes="18" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Yes" party="DEM" totalVotes="168">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Alamo" votes="54" />
+                <Precinct name="Glenwood" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="74">
+                <Precinct name="Alamo" votes="50" />
+                <Precinct name="Glenwood" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="No" party="DEM" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="64" text="Party Question 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Alamo" votes="14" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Yes" party="DEM" totalVotes="191">
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Alamo" votes="64" />
+                <Precinct name="Glenwood" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="88">
+                <Precinct name="Alamo" votes="62" />
+                <Precinct name="Glenwood" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="No" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Alamo" votes="7" />
+                <Precinct name="Glenwood" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="65" text="Party Question 6 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Alamo" votes="14" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Yes" party="DEM" totalVotes="204">
+            <VoteType name="Election Day Votes" votes="106">
+                <Precinct name="Alamo" votes="68" />
+                <Precinct name="Glenwood" votes="38" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Alamo" votes="63" />
+                <Precinct name="Glenwood" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="66" text="Party Question 7 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Alamo" votes="18" />
+            <Precinct name="Glenwood" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Yes" party="DEM" totalVotes="191">
+            <VoteType name="Election Day Votes" votes="98">
+                <Precinct name="Alamo" votes="61" />
+                <Precinct name="Glenwood" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="86">
+                <Precinct name="Alamo" votes="59" />
+                <Precinct name="Glenwood" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="No" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="67" text="Party Question 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Alamo" votes="15" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Yes" party="DEM" totalVotes="163">
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Alamo" votes="58" />
+                <Precinct name="Glenwood" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Alamo" votes="49" />
+                <Precinct name="Glenwood" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Alamo" votes="3" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="No" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Alamo" votes="14" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Alamo" votes="16" />
+                <Precinct name="Glenwood" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Alamo" votes="2" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="68" text="Party Question 9 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Alamo" votes="20" />
+            <Precinct name="Glenwood" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Yes" party="DEM" totalVotes="201">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Alamo" votes="67" />
+                <Precinct name="Glenwood" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="87">
+                <Precinct name="Alamo" votes="60" />
+                <Precinct name="Glenwood" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Alamo" votes="5" />
+                <Precinct name="Glenwood" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="No" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Alamo" votes="4" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="150">
+            <Precinct name="Alamo" votes="105" />
+            <Precinct name="Glenwood" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Alamo" votes="1" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Veronica Brinson" totalVotes="270">
+            <VoteType name="Election Day Votes" votes="157">
+                <Precinct name="Alamo" votes="98" />
+                <Precinct name="Glenwood" votes="59" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="103">
+                <Precinct name="Alamo" votes="70" />
+                <Precinct name="Glenwood" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Alamo" votes="6" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Verda M. Colvin (I)" totalVotes="576">
+            <VoteType name="Election Day Votes" votes="353">
+                <Precinct name="Alamo" votes="207" />
+                <Precinct name="Glenwood" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="201">
+                <Precinct name="Alamo" votes="135" />
+                <Precinct name="Glenwood" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Alamo" votes="13" />
+                <Precinct name="Glenwood" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Justice - Supreme Court of Georgia (Lagura)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="206">
+            <Precinct name="Alamo" votes="150" />
+            <Precinct name="Glenwood" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Shawn Ellen LaGrua (I)" totalVotes="788">
+            <VoteType name="Election Day Votes" votes="480">
+                <Precinct name="Alamo" votes="278" />
+                <Precinct name="Glenwood" votes="202" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="276">
+                <Precinct name="Alamo" votes="187" />
+                <Precinct name="Glenwood" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Alamo" votes="18" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="212">
+            <Precinct name="Alamo" votes="151" />
+            <Precinct name="Glenwood" votes="61" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Carla McMillian (I)" totalVotes="782">
+            <VoteType name="Election Day Votes" votes="477">
+                <Precinct name="Alamo" votes="278" />
+                <Precinct name="Glenwood" votes="199" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="272">
+                <Precinct name="Alamo" votes="184" />
+                <Precinct name="Glenwood" votes="88" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="201">
+            <Precinct name="Alamo" votes="144" />
+            <Precinct name="Glenwood" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="22" text="Anne Elizabeth Barnes (I)" totalVotes="794">
+            <VoteType name="Election Day Votes" votes="479">
+                <Precinct name="Alamo" votes="278" />
+                <Precinct name="Glenwood" votes="201" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="282">
+                <Precinct name="Alamo" votes="192" />
+                <Precinct name="Glenwood" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="218">
+            <Precinct name="Alamo" votes="155" />
+            <Precinct name="Glenwood" votes="63" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="24" text="Chris McFadden (I)" totalVotes="776">
+            <VoteType name="Election Day Votes" votes="476">
+                <Precinct name="Alamo" votes="280" />
+                <Precinct name="Glenwood" votes="196" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="268">
+                <Precinct name="Alamo" votes="181" />
+                <Precinct name="Glenwood" votes="87" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="220">
+            <Precinct name="Alamo" votes="158" />
+            <Precinct name="Glenwood" votes="62" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Trea Pipkin (I)" totalVotes="776">
+            <VoteType name="Election Day Votes" votes="474">
+                <Precinct name="Alamo" votes="277" />
+                <Precinct name="Glenwood" votes="197" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="270">
+                <Precinct name="Alamo" votes="181" />
+                <Precinct name="Glenwood" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Alamo" votes="19" />
+                <Precinct name="Glenwood" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="93" text="Bd of Education - Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Alamo" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+        </VoteType>
+        <Choice key="177" text="Catherine Wilson (I)" totalVotes="128">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Alamo" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Alamo" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Alamo" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="94" text="Bd of Education - Dist 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Glenwood" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="179" text="L.W. Kent, Jr. (I)" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Glenwood" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Glenwood" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Glenwood" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="91" text="TSPLOST - Heart of Georgia Altamaha" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Alamo" votes="37" />
+            <Precinct name="Glenwood" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alamo" votes="0" />
+            <Precinct name="Glenwood" votes="0" />
+        </VoteType>
+        <Choice key="172" text="Yes" totalVotes="657">
+            <VoteType name="Election Day Votes" votes="386">
+                <Precinct name="Alamo" votes="231" />
+                <Precinct name="Glenwood" votes="155" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="249">
+                <Precinct name="Alamo" votes="174" />
+                <Precinct name="Glenwood" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Alamo" votes="11" />
+                <Precinct name="Glenwood" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alamo" votes="1" />
+                <Precinct name="Glenwood" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="173" text="No" totalVotes="289">
+            <VoteType name="Election Day Votes" votes="193">
+                <Precinct name="Alamo" votes="119" />
+                <Precinct name="Glenwood" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="83">
+                <Precinct name="Alamo" votes="54" />
+                <Precinct name="Glenwood" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Alamo" votes="10" />
+                <Precinct name="Glenwood" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Alamo" votes="0" />
+                <Precinct name="Glenwood" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

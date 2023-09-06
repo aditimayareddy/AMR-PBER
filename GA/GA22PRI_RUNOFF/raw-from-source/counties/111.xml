@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 11:00:03 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Peach</Region>
+    <VoterTurnout totalVoters="18061" ballotsCast="685" voterTurnout="3.79">
+        <Precincts>
+            <Precinct name="Byron #1" totalVoters="2640" ballotsCast="61" voterTurnout="2.31" percentReporting="4" />
+            <Precinct name="Byron #2" totalVoters="5125" ballotsCast="146" voterTurnout="2.85" percentReporting="4" />
+            <Precinct name="Claude" totalVoters="924" ballotsCast="10" voterTurnout="1.08" percentReporting="4" />
+            <Precinct name="Fort Valley #1" totalVoters="2767" ballotsCast="112" voterTurnout="4.05" percentReporting="4" />
+            <Precinct name="Fort Valley #2" totalVoters="2613" ballotsCast="104" voterTurnout="3.98" percentReporting="4" />
+            <Precinct name="Fort Valley #3" totalVoters="2614" ballotsCast="229" voterTurnout="8.76" percentReporting="4" />
+            <Precinct name="Powersville" totalVoters="1378" ballotsCast="23" voterTurnout="1.67" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Byron #1" votes="2" />
+            <Precinct name="Byron #2" votes="2" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="2" />
+            <Precinct name="Fort Valley #3" votes="3" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="383">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Byron #1" votes="1" />
+                <Precinct name="Byron #2" votes="7" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="7" />
+                <Precinct name="Fort Valley #2" votes="8" />
+                <Precinct name="Fort Valley #3" votes="26" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="110">
+                <Precinct name="Byron #1" votes="7" />
+                <Precinct name="Byron #2" votes="11" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="14" />
+                <Precinct name="Fort Valley #2" votes="24" />
+                <Precinct name="Fort Valley #3" votes="46" />
+                <Precinct name="Powersville" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="221">
+                <Precinct name="Byron #1" votes="19" />
+                <Precinct name="Byron #2" votes="59" />
+                <Precinct name="Claude" votes="5" />
+                <Precinct name="Fort Valley #1" votes="42" />
+                <Precinct name="Fort Valley #2" votes="28" />
+                <Precinct name="Fort Valley #3" votes="61" />
+                <Precinct name="Powersville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="293">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Byron #1" votes="4" />
+                <Precinct name="Byron #2" votes="13" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="9" />
+                <Precinct name="Fort Valley #2" votes="7" />
+                <Precinct name="Fort Valley #3" votes="29" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="92">
+                <Precinct name="Byron #1" votes="12" />
+                <Precinct name="Byron #2" votes="18" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="16" />
+                <Precinct name="Fort Valley #2" votes="17" />
+                <Precinct name="Fort Valley #3" votes="23" />
+                <Precinct name="Powersville" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Byron #1" votes="16" />
+                <Precinct name="Byron #2" votes="36" />
+                <Precinct name="Claude" votes="1" />
+                <Precinct name="Fort Valley #1" votes="24" />
+                <Precinct name="Fort Valley #2" votes="18" />
+                <Precinct name="Fort Valley #3" votes="41" />
+                <Precinct name="Powersville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Byron #1" votes="2" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="2" />
+            <Precinct name="Fort Valley #3" votes="1" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="234">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Byron #1" votes="4" />
+                <Precinct name="Byron #2" votes="8" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="7" />
+                <Precinct name="Fort Valley #2" votes="9" />
+                <Precinct name="Fort Valley #3" votes="18" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="72">
+                <Precinct name="Byron #1" votes="8" />
+                <Precinct name="Byron #2" votes="11" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="13" />
+                <Precinct name="Fort Valley #2" votes="15" />
+                <Precinct name="Fort Valley #3" votes="22" />
+                <Precinct name="Powersville" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Byron #1" votes="8" />
+                <Precinct name="Byron #2" votes="22" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="22" />
+                <Precinct name="Fort Valley #2" votes="14" />
+                <Precinct name="Fort Valley #3" votes="46" />
+                <Precinct name="Powersville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="446">
+            <VoteType name="Absentee by Mail Votes" votes="68">
+                <Precinct name="Byron #1" votes="1" />
+                <Precinct name="Byron #2" votes="12" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="9" />
+                <Precinct name="Fort Valley #2" votes="6" />
+                <Precinct name="Fort Valley #3" votes="38" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="130">
+                <Precinct name="Byron #1" votes="11" />
+                <Precinct name="Byron #2" votes="18" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="17" />
+                <Precinct name="Fort Valley #2" votes="26" />
+                <Precinct name="Fort Valley #3" votes="47" />
+                <Precinct name="Powersville" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="248">
+                <Precinct name="Byron #1" votes="27" />
+                <Precinct name="Byron #2" votes="75" />
+                <Precinct name="Claude" votes="6" />
+                <Precinct name="Fort Valley #1" votes="44" />
+                <Precinct name="Fort Valley #2" votes="32" />
+                <Precinct name="Fort Valley #3" votes="57" />
+                <Precinct name="Powersville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Byron #1" votes="1" />
+            <Precinct name="Byron #2" votes="2" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="2" />
+            <Precinct name="Fort Valley #2" votes="1" />
+            <Precinct name="Fort Valley #3" votes="6" />
+            <Precinct name="Powersville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="221">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="4" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="5" />
+                <Precinct name="Fort Valley #2" votes="4" />
+                <Precinct name="Fort Valley #3" votes="15" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="56">
+                <Precinct name="Byron #1" votes="5" />
+                <Precinct name="Byron #2" votes="4" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="10" />
+                <Precinct name="Fort Valley #2" votes="13" />
+                <Precinct name="Fort Valley #3" votes="17" />
+                <Precinct name="Powersville" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Byron #1" votes="13" />
+                <Precinct name="Byron #2" votes="38" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="29" />
+                <Precinct name="Fort Valley #2" votes="15" />
+                <Precinct name="Fort Valley #3" votes="40" />
+                <Precinct name="Powersville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="451">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Byron #1" votes="5" />
+                <Precinct name="Byron #2" votes="16" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="11" />
+                <Precinct name="Fort Valley #2" votes="11" />
+                <Precinct name="Fort Valley #3" votes="38" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="Byron #1" votes="14" />
+                <Precinct name="Byron #2" votes="25" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="20" />
+                <Precinct name="Fort Valley #2" votes="28" />
+                <Precinct name="Fort Valley #3" votes="52" />
+                <Precinct name="Powersville" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="221">
+                <Precinct name="Byron #1" votes="23" />
+                <Precinct name="Byron #2" votes="57" />
+                <Precinct name="Claude" votes="6" />
+                <Precinct name="Fort Valley #1" votes="35" />
+                <Precinct name="Fort Valley #2" votes="32" />
+                <Precinct name="Fort Valley #3" votes="61" />
+                <Precinct name="Powersville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Byron #1" votes="2" />
+            <Precinct name="Byron #2" votes="4" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="6" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="407">
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="Byron #1" votes="2" />
+                <Precinct name="Byron #2" votes="10" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="7" />
+                <Precinct name="Fort Valley #2" votes="12" />
+                <Precinct name="Fort Valley #3" votes="45" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="133">
+                <Precinct name="Byron #1" votes="10" />
+                <Precinct name="Byron #2" votes="15" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="20" />
+                <Precinct name="Fort Valley #2" votes="31" />
+                <Precinct name="Fort Valley #3" votes="49" />
+                <Precinct name="Powersville" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="195">
+                <Precinct name="Byron #1" votes="11" />
+                <Precinct name="Byron #2" votes="57" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="36" />
+                <Precinct name="Fort Valley #2" votes="22" />
+                <Precinct name="Fort Valley #3" votes="63" />
+                <Precinct name="Powersville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="266">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Byron #1" votes="3" />
+                <Precinct name="Byron #2" votes="10" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="9" />
+                <Precinct name="Fort Valley #2" votes="3" />
+                <Precinct name="Fort Valley #3" votes="11" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="66">
+                <Precinct name="Byron #1" votes="9" />
+                <Precinct name="Byron #2" votes="12" />
+                <Precinct name="Claude" votes="2" />
+                <Precinct name="Fort Valley #1" votes="10" />
+                <Precinct name="Fort Valley #2" votes="10" />
+                <Precinct name="Fort Valley #3" votes="19" />
+                <Precinct name="Powersville" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Byron #1" votes="24" />
+                <Precinct name="Byron #2" votes="38" />
+                <Precinct name="Claude" votes="4" />
+                <Precinct name="Fort Valley #1" votes="30" />
+                <Precinct name="Fort Valley #2" votes="26" />
+                <Precinct name="Fort Valley #3" votes="36" />
+                <Precinct name="Powersville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="3" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Byron #1" votes="0" />
+            <Precinct name="Byron #2" votes="0" />
+            <Precinct name="Claude" votes="0" />
+            <Precinct name="Fort Valley #1" votes="0" />
+            <Precinct name="Fort Valley #2" votes="0" />
+            <Precinct name="Fort Valley #3" votes="0" />
+            <Precinct name="Powersville" votes="0" />
+        </VoteType>
+        <Choice key="143" text="Jeremy Hunt" party="REP" totalVotes="493">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Byron #1" votes="6" />
+                <Precinct name="Byron #2" votes="9" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="6" />
+                <Precinct name="Fort Valley #2" votes="2" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="133">
+                <Precinct name="Byron #1" votes="28" />
+                <Precinct name="Byron #2" votes="48" />
+                <Precinct name="Claude" votes="8" />
+                <Precinct name="Fort Valley #1" votes="24" />
+                <Precinct name="Fort Valley #2" votes="9" />
+                <Precinct name="Fort Valley #3" votes="3" />
+                <Precinct name="Powersville" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="336">
+                <Precinct name="Byron #1" votes="90" />
+                <Precinct name="Byron #2" votes="84" />
+                <Precinct name="Claude" votes="37" />
+                <Precinct name="Fort Valley #1" votes="35" />
+                <Precinct name="Fort Valley #2" votes="25" />
+                <Precinct name="Fort Valley #3" votes="8" />
+                <Precinct name="Powersville" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="146" text="Chris West" party="REP" totalVotes="537">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Byron #1" votes="2" />
+                <Precinct name="Byron #2" votes="15" />
+                <Precinct name="Claude" votes="1" />
+                <Precinct name="Fort Valley #1" votes="9" />
+                <Precinct name="Fort Valley #2" votes="2" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="161">
+                <Precinct name="Byron #1" votes="37" />
+                <Precinct name="Byron #2" votes="60" />
+                <Precinct name="Claude" votes="8" />
+                <Precinct name="Fort Valley #1" votes="26" />
+                <Precinct name="Fort Valley #2" votes="13" />
+                <Precinct name="Fort Valley #3" votes="4" />
+                <Precinct name="Powersville" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="344">
+                <Precinct name="Byron #1" votes="88" />
+                <Precinct name="Byron #2" votes="122" />
+                <Precinct name="Claude" votes="29" />
+                <Precinct name="Fort Valley #1" votes="42" />
+                <Precinct name="Fort Valley #2" votes="14" />
+                <Precinct name="Fort Valley #3" votes="8" />
+                <Precinct name="Powersville" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Byron #1" votes="0" />
+                <Precinct name="Byron #2" votes="0" />
+                <Precinct name="Claude" votes="0" />
+                <Precinct name="Fort Valley #1" votes="0" />
+                <Precinct name="Fort Valley #2" votes="0" />
+                <Precinct name="Fort Valley #3" votes="0" />
+                <Precinct name="Powersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

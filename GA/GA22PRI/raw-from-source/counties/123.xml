@@ -1,0 +1,2304 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/1/2022 8:31:40 AM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Schley</Region>
+    <VoterTurnout totalVoters="2878" ballotsCast="899" voterTurnout="31.24">
+        <Precincts>
+            <Precinct name="Precinct One" totalVoters="2878" ballotsCast="899" voterTurnout="31.24" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="REP - US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Precinct One" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Gary W. Black" party="REP" totalVotes="142">
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Precinct One" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="74">
+                <Precinct name="Precinct One" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Josh Clark" party="REP" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Kelvin King" party="REP" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Latham Saddler" party="REP" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Herschel Junior Walker" party="REP" totalVotes="657">
+            <VoteType name="Election Day Votes" votes="401">
+                <Precinct name="Precinct One" votes="401" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="237">
+                <Precinct name="Precinct One" votes="237" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="DEM - US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Precinct One" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="54" text="Tamara Johnson-Shealey" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Raphael Warnock (I)" party="DEM" totalVotes="142">
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Precinct One" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Precinct One" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Precinct One" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="REP - Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Precinct One" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Catherine Davis" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brian Kemp (I)" party="REP" totalVotes="520">
+            <VoteType name="Election Day Votes" votes="291">
+                <Precinct name="Precinct One" votes="291" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="216">
+                <Precinct name="Precinct One" votes="216" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="David A. Perdue" party="REP" totalVotes="222">
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Precinct One" votes="134" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Precinct One" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Kandiss Taylor" party="REP" totalVotes="149">
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Precinct One" votes="97" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Precinct One" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Tom Williams" party="REP" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="DEM - Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Precinct One" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="61" text="Stacey Abrams" party="DEM" totalVotes="149">
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Precinct One" votes="59" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Precinct One" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Precinct One" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="REP - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="102">
+            <Precinct name="Precinct One" votes="102" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Burt Jones" party="REP" totalVotes="393">
+            <VoteType name="Election Day Votes" votes="237">
+                <Precinct name="Precinct One" votes="237" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="154">
+                <Precinct name="Precinct One" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Mack McGregor" party="REP" totalVotes="159">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Precinct One" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Precinct One" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Butch Miller" party="REP" totalVotes="182">
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Precinct One" votes="89" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Precinct One" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jeanne Seaver" party="REP" totalVotes="63">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Precinct One" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Precinct One" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Precinct One" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Erick E. Allen" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Tyrone Brooks, Jr." party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Tony Brown" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Jason T. Hayes" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="Derrick L. Jackson" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="R. Malik" party="DEM" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Renitta Shannon" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="REP - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="Precinct One" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="75" text="David C. Belle Isle" party="REP" totalVotes="84">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Precinct One" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Precinct One" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Jody Hice" party="REP" totalVotes="247">
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Precinct One" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="90">
+                <Precinct name="Precinct One" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="T.J. Hudson" party="REP" totalVotes="72">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Precinct One" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Precinct One" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Brad Raffensperger (I)" party="REP" totalVotes="450">
+            <VoteType name="Election Day Votes" votes="263">
+                <Precinct name="Precinct One" votes="263" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Precinct One" votes="180" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Precinct One" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="John Eaves" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Floyd Griffin" party="DEM" totalVotes="21">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Michael Owens" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="REP - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Precinct One" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Chris Carr (I)" party="REP" totalVotes="612">
+            <VoteType name="Election Day Votes" votes="350">
+                <Precinct name="Precinct One" votes="350" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="247">
+                <Precinct name="Precinct One" votes="247" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="John Gordon" party="REP" totalVotes="237">
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Precinct One" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="85">
+                <Precinct name="Precinct One" votes="85" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="DEM - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Precinct One" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="105">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Precinct One" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Precinct One" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Christian Wise Smith" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Precinct One" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="REP - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="114">
+            <Precinct name="Precinct One" votes="114" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Tyler Harper" party="REP" totalVotes="785">
+            <VoteType name="Election Day Votes" votes="452">
+                <Precinct name="Precinct One" votes="452" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="312">
+                <Precinct name="Precinct One" votes="312" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="DEM - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Precinct One" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Winfred Dukes" party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Precinct One" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nakita Hemingway" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Precinct One" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="Fred Swann" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="REP - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Precinct One" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Ben Cowart" party="REP" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Precinct One" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Precinct One" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="John King (I)" party="REP" totalVotes="541">
+            <VoteType name="Election Day Votes" votes="303">
+                <Precinct name="Precinct One" votes="303" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="224">
+                <Precinct name="Precinct One" votes="224" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="Patrick Witt" party="REP" totalVotes="183">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Precinct One" votes="115" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Precinct One" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Precinct One" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Precinct One" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Precinct One" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Matthew Wilson" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="REP - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Precinct One" votes="62" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="98" text="John D. Barge" party="REP" totalVotes="225">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Precinct One" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Precinct One" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Richard Woods (I)" party="REP" totalVotes="612">
+            <VoteType name="Election Day Votes" votes="347">
+                <Precinct name="Precinct One" votes="347" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="252">
+                <Precinct name="Precinct One" votes="252" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="DEM - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Precinct One" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Currey Hitchens" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="Jaha V. Howard" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="James Morrow, Jr." party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="Alisha Thomas Searcy" party="DEM" totalVotes="74">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Precinct One" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Precinct One" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="REP - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="Precinct One" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Kartik Bhatt" party="REP" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Precinct One" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="Mike Coan" party="REP" totalVotes="282">
+            <VoteType name="Election Day Votes" votes="162">
+                <Precinct name="Precinct One" votes="162" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="111">
+                <Precinct name="Precinct One" votes="111" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="Bruce Thompson" party="REP" totalVotes="439">
+            <VoteType name="Election Day Votes" votes="260">
+                <Precinct name="Precinct One" votes="260" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Precinct One" votes="170" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Precinct One" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="Thomas Dean" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="Lester G. Jackson III" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="Nadia Surrency" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="REP - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="115">
+            <Precinct name="Precinct One" votes="115" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Tim Echols (I)" party="REP" totalVotes="784">
+            <VoteType name="Election Day Votes" votes="451">
+                <Precinct name="Precinct One" votes="451" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="312">
+                <Precinct name="Precinct One" votes="312" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="DEM - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Precinct One" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Patty Durand" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Precinct One" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Precinct One" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="Russell Edwards" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Precinct One" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Precinct One" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="REP - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="132">
+            <Precinct name="Precinct One" votes="132" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Fitz Johnson (I)" party="REP" totalVotes="767">
+            <VoteType name="Election Day Votes" votes="445">
+                <Precinct name="Precinct One" votes="445" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="302">
+                <Precinct name="Precinct One" votes="302" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Precinct One" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="DEM - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Precinct One" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Shelia Edwards" party="DEM" totalVotes="71">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Precinct One" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Precinct One" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="117" text="Chandra Farley" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="Missy Moore" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Precinct One" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Precinct One" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Vivian L. Childs" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Precinct One" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="Jeremy Hunt" party="REP" totalVotes="400">
+            <VoteType name="Election Day Votes" votes="231">
+                <Precinct name="Precinct One" votes="231" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="160">
+                <Precinct name="Precinct One" votes="160" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="121" text="Wayne Johnson" party="REP" totalVotes="193">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Precinct One" votes="116" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Precinct One" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="Rich Robertson" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="Chris West" party="REP" totalVotes="171">
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Precinct One" votes="103" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Precinct One" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Paul Whitehead" party="REP" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Precinct One" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="DEM - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Precinct One" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Sanford Bishop (I)" party="DEM" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Precinct One" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Precinct One" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Precinct One" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="Joe O'Hara" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="DEM - State Senate Dist 15" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Precinct One" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Ed Harbison (I)" party="DEM" totalVotes="113">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Precinct One" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Precinct One" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Precinct One" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="REP - State House Dist 151" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="107">
+            <Precinct name="Precinct One" votes="107" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Mike Cheokas (I)" party="REP" totalVotes="792">
+            <VoteType name="Election Day Votes" votes="462">
+                <Precinct name="Precinct One" votes="462" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="309">
+                <Precinct name="Precinct One" votes="309" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="DEM - State House Dist 151" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Precinct One" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Joyce Barlow" party="DEM" totalVotes="114">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Precinct One" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Precinct One" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Precinct One" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="REP - County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="29">
+            <Precinct name="Precinct One" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Jimmy Harrison" party="REP" totalVotes="242">
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Precinct One" votes="132" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Precinct One" votes="104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="REP - County Commissioner Dist 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Precinct One" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Dennis Jones (I)" party="REP" totalVotes="200">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Precinct One" votes="116" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="Precinct One" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="REP - County Board of Education Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Precinct One" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="132" text="Stephanie Snider Holloway (I)" party="REP" totalVotes="240">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Precinct One" votes="129" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="105">
+                <Precinct name="Precinct One" votes="105" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="REP - County Board of Education Dist 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Precinct One" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Kelly Morrow" party="REP" totalVotes="201">
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Precinct One" votes="117" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="Precinct One" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Precinct One" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Yes" party="REP" totalVotes="873">
+            <VoteType name="Election Day Votes" votes="510">
+                <Precinct name="Precinct One" votes="510" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="343">
+                <Precinct name="Precinct One" votes="343" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Precinct One" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="135" text="No" party="REP" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Precinct One" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="136" text="Yes" party="REP" totalVotes="668">
+            <VoteType name="Election Day Votes" votes="390">
+                <Precinct name="Precinct One" votes="390" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="263">
+                <Precinct name="Precinct One" votes="263" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Precinct One" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="137" text="No" party="REP" totalVotes="217">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Precinct One" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Precinct One" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Precinct One" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Yes" party="REP" totalVotes="786">
+            <VoteType name="Election Day Votes" votes="460">
+                <Precinct name="Precinct One" votes="460" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="309">
+                <Precinct name="Precinct One" votes="309" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Precinct One" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="139" text="No" party="REP" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Precinct One" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Precinct One" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Precinct One" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="140" text="Yes" party="REP" totalVotes="738">
+            <VoteType name="Election Day Votes" votes="430">
+                <Precinct name="Precinct One" votes="430" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="290">
+                <Precinct name="Precinct One" votes="290" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Precinct One" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="141" text="No" party="REP" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Precinct One" votes="73" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Precinct One" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Precinct One" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="142" text="Yes" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="143" text="No" party="REP" totalVotes="882">
+            <VoteType name="Election Day Votes" votes="519">
+                <Precinct name="Precinct One" votes="519" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="341">
+                <Precinct name="Precinct One" votes="341" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Precinct One" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Precinct One" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="144" text="Yes" party="REP" totalVotes="872">
+            <VoteType name="Election Day Votes" votes="513">
+                <Precinct name="Precinct One" votes="513" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="338">
+                <Precinct name="Precinct One" votes="338" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="145" text="No" party="REP" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Precinct One" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Precinct One" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="146" text="Yes" party="REP" totalVotes="831">
+            <VoteType name="Election Day Votes" votes="494">
+                <Precinct name="Precinct One" votes="494" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="320">
+                <Precinct name="Precinct One" votes="320" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Precinct One" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="147" text="No" party="REP" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Precinct One" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Precinct One" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Precinct One" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="148" text="Yes" party="REP" totalVotes="633">
+            <VoteType name="Election Day Votes" votes="365">
+                <Precinct name="Precinct One" votes="365" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="252">
+                <Precinct name="Precinct One" votes="252" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Precinct One" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="149" text="No" party="REP" totalVotes="221">
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Precinct One" votes="134" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Precinct One" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Precinct One" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="150" text="Yes" party="DEM" totalVotes="118">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Precinct One" votes="49" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Precinct One" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Precinct One" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="151" text="No" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Precinct One" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="152" text="Yes" party="DEM" totalVotes="128">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Precinct One" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Precinct One" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Precinct One" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="153" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Precinct One" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Precinct One" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="154" text="Yes" party="DEM" totalVotes="142">
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Precinct One" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Precinct One" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Precinct One" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="155" text="No" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Precinct One" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="156" text="Yes" party="DEM" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Precinct One" votes="41" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Precinct One" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Precinct One" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="157" text="No" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Precinct One" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Precinct One" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Precinct One" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="158" text="Yes" party="DEM" totalVotes="124">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Precinct One" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Precinct One" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Precinct One" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="159" text="No" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Precinct One" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Precinct One" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="160" text="Yes" party="DEM" totalVotes="146">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Precinct One" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Precinct One" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Precinct One" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="161" text="No" party="DEM" totalVotes="0">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Precinct One" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="162" text="Yes" party="DEM" totalVotes="134">
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Precinct One" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Precinct One" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Precinct One" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="163" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Precinct One" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Precinct One" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Precinct One" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="164" text="Yes" party="DEM" totalVotes="94">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Precinct One" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Precinct One" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Precinct One" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="165" text="No" party="DEM" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Precinct One" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Precinct One" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Precinct One" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Precinct One" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="166" text="Yes" party="DEM" totalVotes="132">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="Precinct One" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Precinct One" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Precinct One" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="167" text="No" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Precinct One" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Precinct One" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Precinct One" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Supreme Court - Colvin" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="158">
+            <Precinct name="Precinct One" votes="158" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="168" text="Veronica Brinson" totalVotes="225">
+            <VoteType name="Election Day Votes" votes="135">
+                <Precinct name="Precinct One" votes="135" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Precinct One" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Precinct One" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="169" text="Verda M. Colvin (I)" totalVotes="669">
+            <VoteType name="Election Day Votes" votes="368">
+                <Precinct name="Precinct One" votes="368" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="276">
+                <Precinct name="Precinct One" votes="276" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Precinct One" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Supreme Court - LaGrua" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="196">
+            <Precinct name="Precinct One" votes="196" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="171" text="Shawn Ellen LaGrua (I)" totalVotes="857">
+            <VoteType name="Election Day Votes" votes="483">
+                <Precinct name="Precinct One" votes="483" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="339">
+                <Precinct name="Precinct One" votes="339" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Precinct One" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Supreme Court - McMillian" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="193">
+            <Precinct name="Precinct One" votes="193" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="173" text="Carla McMillian (I)" totalVotes="861">
+            <VoteType name="Election Day Votes" votes="487">
+                <Precinct name="Precinct One" votes="487" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="338">
+                <Precinct name="Precinct One" votes="338" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Precinct One" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Court of Appeals - Barnes" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="189">
+            <Precinct name="Precinct One" votes="189" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="175" text="Anne Elizabeth Barnes (I)" totalVotes="866">
+            <VoteType name="Election Day Votes" votes="486">
+                <Precinct name="Precinct One" votes="486" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="342">
+                <Precinct name="Precinct One" votes="342" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Precinct One" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Court of Appeals - McFadden" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="183">
+            <Precinct name="Precinct One" votes="183" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="177" text="Chris McFadden (I)" totalVotes="872">
+            <VoteType name="Election Day Votes" votes="490">
+                <Precinct name="Precinct One" votes="490" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="343">
+                <Precinct name="Precinct One" votes="343" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Precinct One" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Court of Appeals - Pipkin" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="197">
+            <Precinct name="Precinct One" votes="197" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="179" text="Trea Pipkin (I)" totalVotes="858">
+            <VoteType name="Election Day Votes" votes="484">
+                <Precinct name="Precinct One" votes="484" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="335">
+                <Precinct name="Precinct One" votes="335" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Precinct One" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Superior Court - Southernwestern - Sizemore" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="168">
+            <Precinct name="Precinct One" votes="168" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="180" text="James Sizemore (I)" totalVotes="888">
+            <VoteType name="Election Day Votes" votes="503">
+                <Precinct name="Precinct One" votes="503" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="346">
+                <Precinct name="Precinct One" votes="346" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Precinct One" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Special - Clerk Superior Court" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="Precinct One" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="190" text="Kimi Bennett McKinney" totalVotes="919">
+            <VoteType name="Election Day Votes" votes="515">
+                <Precinct name="Precinct One" votes="515" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="364">
+                <Precinct name="Precinct One" votes="364" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Precinct One" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="TSPLOST" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Precinct One" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct One" votes="0" />
+        </VoteType>
+        <Choice key="181" text="Yes" totalVotes="622">
+            <VoteType name="Election Day Votes" votes="353">
+                <Precinct name="Precinct One" votes="353" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="246">
+                <Precinct name="Precinct One" votes="246" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Precinct One" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="182" text="No" totalVotes="385">
+            <VoteType name="Election Day Votes" votes="215">
+                <Precinct name="Precinct One" votes="215" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="151">
+                <Precinct name="Precinct One" votes="151" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Precinct One" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Precinct One" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 9:43:56 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Stewart</Region>
+    <VoterTurnout totalVoters="2734" ballotsCast="80" voterTurnout="2.93">
+        <Precincts>
+            <Precinct name="Richland" totalVoters="1227" ballotsCast="27" voterTurnout="2.20" percentReporting="4" />
+            <Precinct name="Louvale" totalVoters="283" ballotsCast="17" voterTurnout="6.01" percentReporting="4" />
+            <Precinct name="Lumpkin" totalVoters="1031" ballotsCast="32" voterTurnout="3.10" percentReporting="4" />
+            <Precinct name="Omaha" totalVoters="193" ballotsCast="4" voterTurnout="2.07" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="1" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="53">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="4" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Richland" votes="14" />
+                <Precinct name="Louvale" votes="15" />
+                <Precinct name="Lumpkin" votes="15" />
+                <Precinct name="Omaha" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="26">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Louvale" votes="1" />
+                <Precinct name="Lumpkin" votes="4" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Richland" votes="7" />
+                <Precinct name="Louvale" votes="1" />
+                <Precinct name="Lumpkin" votes="8" />
+                <Precinct name="Omaha" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="1" />
+            <Precinct name="Lumpkin" votes="5" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="37">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="3" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Richland" votes="10" />
+                <Precinct name="Louvale" votes="7" />
+                <Precinct name="Lumpkin" votes="12" />
+                <Precinct name="Omaha" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="37">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="4" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Richland" votes="11" />
+                <Precinct name="Louvale" votes="9" />
+                <Precinct name="Lumpkin" votes="8" />
+                <Precinct name="Omaha" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="3" />
+            <Precinct name="Lumpkin" votes="3" />
+            <Precinct name="Omaha" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="40">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Richland" votes="3" />
+                <Precinct name="Louvale" votes="1" />
+                <Precinct name="Lumpkin" votes="3" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Richland" votes="10" />
+                <Precinct name="Louvale" votes="10" />
+                <Precinct name="Lumpkin" votes="10" />
+                <Precinct name="Omaha" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="33">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="4" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Richland" votes="11" />
+                <Precinct name="Louvale" votes="3" />
+                <Precinct name="Lumpkin" votes="12" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="4" />
+            <Precinct name="Omaha" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="47">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Richland" votes="4" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="2" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Richland" votes="13" />
+                <Precinct name="Louvale" votes="15" />
+                <Precinct name="Lumpkin" votes="12" />
+                <Precinct name="Omaha" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="28">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Louvale" votes="1" />
+                <Precinct name="Lumpkin" votes="5" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Richland" votes="8" />
+                <Precinct name="Louvale" votes="1" />
+                <Precinct name="Lumpkin" votes="9" />
+                <Precinct name="Omaha" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Richland" votes="1" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Richland" votes="0" />
+            <Precinct name="Louvale" votes="0" />
+            <Precinct name="Lumpkin" votes="0" />
+            <Precinct name="Omaha" votes="0" />
+        </VoteType>
+        <Choice key="187" text="Jeremy Hunt" party="REP" totalVotes="176">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Richland" votes="17" />
+                <Precinct name="Louvale" votes="6" />
+                <Precinct name="Lumpkin" votes="32" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Richland" votes="65" />
+                <Precinct name="Louvale" votes="19" />
+                <Precinct name="Lumpkin" votes="27" />
+                <Precinct name="Omaha" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="1" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="190" text="Chris West" party="REP" totalVotes="27">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Richland" votes="2" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="1" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Richland" votes="16" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="6" />
+                <Precinct name="Omaha" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Richland" votes="0" />
+                <Precinct name="Louvale" votes="0" />
+                <Precinct name="Lumpkin" votes="0" />
+                <Precinct name="Omaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

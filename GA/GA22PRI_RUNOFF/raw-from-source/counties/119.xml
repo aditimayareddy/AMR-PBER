@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 10:28:00 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Rabun</Region>
+    <VoterTurnout totalVoters="12174" ballotsCast="175" voterTurnout="1.44">
+        <Precincts>
+            <Precinct name="Rabun County" totalVoters="12174" ballotsCast="175" voterTurnout="1.44" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Rabun County" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="132">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Rabun County" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Rabun County" votes="42" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Rabun County" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="42">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Rabun County" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Rabun County" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Rabun County" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Rabun County" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="19">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Rabun County" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Rabun County" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Rabun County" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="152">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Rabun County" votes="38" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Rabun County" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Rabun County" votes="73" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Rabun County" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="35">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Rabun County" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Rabun County" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Rabun County" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="134">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Rabun County" votes="40" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Rabun County" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Rabun County" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Rabun County" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="62">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Rabun County" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Rabun County" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Rabun County" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="108">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Rabun County" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Rabun County" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Rabun County" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

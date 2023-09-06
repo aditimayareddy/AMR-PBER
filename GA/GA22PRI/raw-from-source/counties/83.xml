@@ -1,0 +1,3897 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/31/2022 3:03:31 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Johnson</Region>
+    <VoterTurnout totalVoters="5436" ballotsCast="1718" voterTurnout="31.60">
+        <Precincts>
+            <Precinct name="Wrightsville" totalVoters="3005" ballotsCast="810" voterTurnout="26.96" percentReporting="4" />
+            <Precinct name="Smith" totalVoters="778" ballotsCast="275" voterTurnout="35.35" percentReporting="4" />
+            <Precinct name="Bray" totalVoters="773" ballotsCast="268" voterTurnout="34.67" percentReporting="4" />
+            <Precinct name="Kite" totalVoters="880" ballotsCast="365" voterTurnout="41.48" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Wrightsville" votes="2" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="1" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="Bray" votes="13" />
+                <Precinct name="Kite" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Wrightsville" votes="34" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="10">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="1556">
+            <VoteType name="Election Day Votes" votes="863">
+                <Precinct name="Wrightsville" votes="304" />
+                <Precinct name="Smith" votes="178" />
+                <Precinct name="Bray" votes="147" />
+                <Precinct name="Kite" votes="234" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="663">
+                <Precinct name="Wrightsville" votes="417" />
+                <Precinct name="Smith" votes="67" />
+                <Precinct name="Bray" votes="97" />
+                <Precinct name="Kite" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Wrightsville" votes="16" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="3" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="424">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Wrightsville" votes="135" />
+                <Precinct name="Smith" votes="14" />
+                <Precinct name="Bray" votes="26" />
+                <Precinct name="Kite" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="208">
+                <Precinct name="Wrightsville" votes="172" />
+                <Precinct name="Smith" votes="10" />
+                <Precinct name="Bray" votes="23" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Wrightsville" votes="5" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="1128">
+            <VoteType name="Election Day Votes" votes="616">
+                <Precinct name="Wrightsville" votes="218" />
+                <Precinct name="Smith" votes="131" />
+                <Precinct name="Bray" votes="109" />
+                <Precinct name="Kite" votes="158" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="495">
+                <Precinct name="Wrightsville" votes="334" />
+                <Precinct name="Smith" votes="49" />
+                <Precinct name="Bray" votes="57" />
+                <Precinct name="Kite" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Wrightsville" votes="12" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="484">
+            <VoteType name="Election Day Votes" votes="269">
+                <Precinct name="Wrightsville" votes="87" />
+                <Precinct name="Smith" votes="54" />
+                <Precinct name="Bray" votes="46" />
+                <Precinct name="Kite" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="202">
+                <Precinct name="Wrightsville" votes="111" />
+                <Precinct name="Smith" votes="20" />
+                <Precinct name="Bray" votes="46" />
+                <Precinct name="Kite" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="86">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Wrightsville" votes="21" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Wrightsville" votes="18" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="5" />
+            <Precinct name="Kite" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="435">
+            <VoteType name="Election Day Votes" votes="199">
+                <Precinct name="Wrightsville" votes="147" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="27" />
+                <Precinct name="Kite" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="208">
+                <Precinct name="Wrightsville" votes="172" />
+                <Precinct name="Smith" votes="10" />
+                <Precinct name="Bray" votes="22" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="110">
+            <Precinct name="Wrightsville" votes="51" />
+            <Precinct name="Smith" votes="14" />
+            <Precinct name="Bray" votes="25" />
+            <Precinct name="Kite" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="927">
+            <VoteType name="Election Day Votes" votes="502">
+                <Precinct name="Wrightsville" votes="167" />
+                <Precinct name="Smith" votes="106" />
+                <Precinct name="Bray" votes="88" />
+                <Precinct name="Kite" votes="141" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="408">
+                <Precinct name="Wrightsville" votes="262" />
+                <Precinct name="Smith" votes="38" />
+                <Precinct name="Bray" votes="61" />
+                <Precinct name="Kite" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="142">
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Wrightsville" votes="31" />
+                <Precinct name="Smith" votes="23" />
+                <Precinct name="Bray" votes="18" />
+                <Precinct name="Kite" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Wrightsville" votes="33" />
+                <Precinct name="Smith" votes="8" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="484">
+            <VoteType name="Election Day Votes" votes="264">
+                <Precinct name="Wrightsville" votes="94" />
+                <Precinct name="Smith" votes="45" />
+                <Precinct name="Bray" votes="37" />
+                <Precinct name="Kite" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="211">
+                <Precinct name="Wrightsville" votes="124" />
+                <Precinct name="Smith" votes="24" />
+                <Precinct name="Bray" votes="27" />
+                <Precinct name="Kite" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="10" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Wrightsville" votes="59" />
+            <Precinct name="Smith" votes="5" />
+            <Precinct name="Bray" votes="13" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Wrightsville" votes="22" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Wrightsville" votes="10" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Wrightsville" votes="14" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Wrightsville" votes="24" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Wrightsville" votes="16" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Wrightsville" votes="12" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Wrightsville" votes="16" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Wrightsville" votes="24" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Wrightsville" votes="27" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Wrightsville" votes="29" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Wrightsville" votes="20" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Wrightsville" votes="20" />
+            <Precinct name="Smith" votes="9" />
+            <Precinct name="Bray" votes="11" />
+            <Precinct name="Kite" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="8" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="960">
+            <VoteType name="Election Day Votes" votes="485">
+                <Precinct name="Wrightsville" votes="154" />
+                <Precinct name="Smith" votes="85" />
+                <Precinct name="Bray" votes="90" />
+                <Precinct name="Kite" votes="156" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="450">
+                <Precinct name="Wrightsville" votes="279" />
+                <Precinct name="Smith" votes="43" />
+                <Precinct name="Bray" votes="74" />
+                <Precinct name="Kite" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Wrightsville" votes="14" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="211">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Wrightsville" votes="52" />
+                <Precinct name="Smith" votes="33" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="Wrightsville" votes="48" />
+                <Precinct name="Smith" votes="11" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="453">
+            <VoteType name="Election Day Votes" votes="275">
+                <Precinct name="Wrightsville" votes="107" />
+                <Precinct name="Smith" votes="63" />
+                <Precinct name="Bray" votes="46" />
+                <Precinct name="Kite" votes="59" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="171">
+                <Precinct name="Wrightsville" votes="114" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Wrightsville" votes="43" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="11" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="74">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Wrightsville" votes="25" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Wrightsville" votes="34" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="44">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Wrightsville" votes="16" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="102">
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Wrightsville" votes="35" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="11" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Wrightsville" votes="38" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Wrightsville" votes="36" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="108">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Wrightsville" votes="40" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Wrightsville" votes="42" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="136">
+            <Precinct name="Wrightsville" votes="72" />
+            <Precinct name="Smith" votes="19" />
+            <Precinct name="Bray" votes="27" />
+            <Precinct name="Kite" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="1199">
+            <VoteType name="Election Day Votes" votes="618">
+                <Precinct name="Wrightsville" votes="220" />
+                <Precinct name="Smith" votes="124" />
+                <Precinct name="Bray" votes="103" />
+                <Precinct name="Kite" votes="171" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="556">
+                <Precinct name="Wrightsville" votes="349" />
+                <Precinct name="Smith" votes="58" />
+                <Precinct name="Bray" votes="74" />
+                <Precinct name="Kite" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="383">
+            <VoteType name="Election Day Votes" votes="259">
+                <Precinct name="Wrightsville" votes="78" />
+                <Precinct name="Smith" votes="57" />
+                <Precinct name="Bray" votes="43" />
+                <Precinct name="Kite" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="116">
+                <Precinct name="Wrightsville" votes="69" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Wrightsville" votes="47" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="11" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="294">
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Wrightsville" votes="93" />
+                <Precinct name="Smith" votes="13" />
+                <Precinct name="Bray" votes="18" />
+                <Precinct name="Kite" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Wrightsville" votes="123" />
+                <Precinct name="Smith" votes="8" />
+                <Precinct name="Bray" votes="11" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Wrightsville" votes="12" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="106">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Wrightsville" votes="35" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Wrightsville" votes="40" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="269">
+            <Precinct name="Wrightsville" votes="128" />
+            <Precinct name="Smith" votes="41" />
+            <Precinct name="Bray" votes="48" />
+            <Precinct name="Kite" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="1449">
+            <VoteType name="Election Day Votes" votes="803">
+                <Precinct name="Wrightsville" votes="279" />
+                <Precinct name="Smith" votes="165" />
+                <Precinct name="Bray" votes="128" />
+                <Precinct name="Kite" votes="231" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="620">
+                <Precinct name="Wrightsville" votes="387" />
+                <Precinct name="Smith" votes="64" />
+                <Precinct name="Bray" votes="90" />
+                <Precinct name="Kite" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Wrightsville" votes="16" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Wrightsville" votes="55" />
+            <Precinct name="Smith" votes="3" />
+            <Precinct name="Bray" votes="12" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Wrightsville" votes="40" />
+                <Precinct name="Smith" votes="6" />
+                <Precinct name="Bray" votes="10" />
+                <Precinct name="Kite" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Wrightsville" votes="42" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="184">
+            <VoteType name="Election Day Votes" votes="84">
+                <Precinct name="Wrightsville" votes="63" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="10" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Wrightsville" votes="80" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="85">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Wrightsville" votes="21" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Wrightsville" votes="36" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="169">
+            <Precinct name="Wrightsville" votes="86" />
+            <Precinct name="Smith" votes="24" />
+            <Precinct name="Bray" votes="34" />
+            <Precinct name="Kite" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="252">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Wrightsville" votes="62" />
+                <Precinct name="Smith" votes="25" />
+                <Precinct name="Bray" votes="28" />
+                <Precinct name="Kite" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Wrightsville" votes="58" />
+                <Precinct name="Smith" votes="14" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="1098">
+            <VoteType name="Election Day Votes" votes="581">
+                <Precinct name="Wrightsville" votes="198" />
+                <Precinct name="Smith" votes="118" />
+                <Precinct name="Bray" votes="96" />
+                <Precinct name="Kite" votes="169" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="498">
+                <Precinct name="Wrightsville" votes="314" />
+                <Precinct name="Smith" votes="51" />
+                <Precinct name="Bray" votes="69" />
+                <Precinct name="Kite" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="199">
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Wrightsville" votes="32" />
+                <Precinct name="Smith" votes="33" />
+                <Precinct name="Bray" votes="15" />
+                <Precinct name="Kite" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="67">
+                <Precinct name="Wrightsville" votes="39" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="16" />
+                <Precinct name="Kite" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Wrightsville" votes="51" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="10" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="151">
+            <VoteType name="Election Day Votes" votes="71">
+                <Precinct name="Wrightsville" votes="44" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="73">
+                <Precinct name="Wrightsville" votes="58" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="11" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Wrightsville" votes="58" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="11" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="97">
+                <Precinct name="Wrightsville" votes="82" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Wrightsville" votes="21" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Wrightsville" votes="23" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="156">
+            <Precinct name="Wrightsville" votes="76" />
+            <Precinct name="Smith" votes="21" />
+            <Precinct name="Bray" votes="35" />
+            <Precinct name="Kite" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="326">
+            <VoteType name="Election Day Votes" votes="200">
+                <Precinct name="Wrightsville" votes="65" />
+                <Precinct name="Smith" votes="45" />
+                <Precinct name="Bray" votes="33" />
+                <Precinct name="Kite" votes="57" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="118">
+                <Precinct name="Wrightsville" votes="72" />
+                <Precinct name="Smith" votes="16" />
+                <Precinct name="Bray" votes="16" />
+                <Precinct name="Kite" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="1236">
+            <VoteType name="Election Day Votes" votes="661">
+                <Precinct name="Wrightsville" votes="231" />
+                <Precinct name="Smith" votes="132" />
+                <Precinct name="Bray" votes="106" />
+                <Precinct name="Kite" votes="192" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="552">
+                <Precinct name="Wrightsville" votes="344" />
+                <Precinct name="Smith" votes="56" />
+                <Precinct name="Bray" votes="76" />
+                <Precinct name="Kite" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Wrightsville" votes="51" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="11" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Wrightsville" votes="24" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="75">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="40">
+                <Precinct name="Wrightsville" votes="32" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Wrightsville" votes="23" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Wrightsville" votes="26" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="194">
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Wrightsville" votes="71" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="90">
+                <Precinct name="Wrightsville" votes="78" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="277">
+            <Precinct name="Wrightsville" votes="141" />
+            <Precinct name="Smith" votes="35" />
+            <Precinct name="Bray" votes="54" />
+            <Precinct name="Kite" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="63">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Wrightsville" votes="11" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="398">
+            <VoteType name="Election Day Votes" votes="223">
+                <Precinct name="Wrightsville" votes="69" />
+                <Precinct name="Smith" votes="43" />
+                <Precinct name="Bray" votes="44" />
+                <Precinct name="Kite" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="Wrightsville" votes="102" />
+                <Precinct name="Smith" votes="21" />
+                <Precinct name="Bray" votes="26" />
+                <Precinct name="Kite" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="980">
+            <VoteType name="Election Day Votes" votes="549">
+                <Precinct name="Wrightsville" votes="193" />
+                <Precinct name="Smith" votes="114" />
+                <Precinct name="Bray" votes="83" />
+                <Precinct name="Kite" votes="159" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="411">
+                <Precinct name="Wrightsville" votes="254" />
+                <Precinct name="Smith" votes="43" />
+                <Precinct name="Bray" votes="52" />
+                <Precinct name="Kite" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Wrightsville" votes="49" />
+            <Precinct name="Smith" votes="4" />
+            <Precinct name="Bray" votes="11" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="68">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Wrightsville" votes="16" />
+                <Precinct name="Smith" votes="8" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Wrightsville" votes="22" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="68">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Wrightsville" votes="22" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Wrightsville" votes="30" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Wrightsville" votes="32" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Wrightsville" votes="56" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="97">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Wrightsville" votes="34" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Wrightsville" votes="40" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Wrightsville" votes="21" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="289">
+            <Precinct name="Wrightsville" votes="141" />
+            <Precinct name="Smith" votes="35" />
+            <Precinct name="Bray" votes="57" />
+            <Precinct name="Kite" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="1429">
+            <VoteType name="Election Day Votes" votes="792">
+                <Precinct name="Wrightsville" votes="272" />
+                <Precinct name="Smith" votes="170" />
+                <Precinct name="Bray" votes="123" />
+                <Precinct name="Kite" votes="227" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="614">
+                <Precinct name="Wrightsville" votes="382" />
+                <Precinct name="Smith" votes="65" />
+                <Precinct name="Bray" votes="86" />
+                <Precinct name="Kite" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="71">
+            <Precinct name="Wrightsville" votes="53" />
+            <Precinct name="Smith" votes="3" />
+            <Precinct name="Bray" votes="13" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="209">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Wrightsville" votes="59" />
+                <Precinct name="Smith" votes="11" />
+                <Precinct name="Bray" votes="10" />
+                <Precinct name="Kite" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="108">
+                <Precinct name="Wrightsville" votes="92" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="182">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Wrightsville" votes="67" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Wrightsville" votes="67" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="311">
+            <Precinct name="Wrightsville" votes="150" />
+            <Precinct name="Smith" votes="40" />
+            <Precinct name="Bray" votes="59" />
+            <Precinct name="Kite" votes="62" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="1407">
+            <VoteType name="Election Day Votes" votes="783">
+                <Precinct name="Wrightsville" votes="269" />
+                <Precinct name="Smith" votes="166" />
+                <Precinct name="Bray" votes="124" />
+                <Precinct name="Kite" votes="224" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="601">
+                <Precinct name="Wrightsville" votes="376" />
+                <Precinct name="Smith" votes="64" />
+                <Precinct name="Bray" votes="83" />
+                <Precinct name="Kite" votes="78" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="74">
+            <Precinct name="Wrightsville" votes="55" />
+            <Precinct name="Smith" votes="3" />
+            <Precinct name="Bray" votes="14" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="231">
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Wrightsville" votes="80" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="17" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="102">
+                <Precinct name="Wrightsville" votes="91" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="103">
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Wrightsville" votes="30" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Wrightsville" votes="41" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="54">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Wrightsville" votes="14" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Wrightsville" votes="27" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 12 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="289">
+            <Precinct name="Wrightsville" votes="134" />
+            <Precinct name="Smith" votes="38" />
+            <Precinct name="Bray" votes="58" />
+            <Precinct name="Kite" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Rick W. Allen(I)" party="REP" totalVotes="1429">
+            <VoteType name="Election Day Votes" votes="796">
+                <Precinct name="Wrightsville" votes="278" />
+                <Precinct name="Smith" votes="168" />
+                <Precinct name="Bray" votes="124" />
+                <Precinct name="Kite" votes="226" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="608">
+                <Precinct name="Wrightsville" votes="381" />
+                <Precinct name="Smith" votes="64" />
+                <Precinct name="Bray" votes="84" />
+                <Precinct name="Kite" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="88">
+            <Precinct name="Wrightsville" votes="70" />
+            <Precinct name="Smith" votes="3" />
+            <Precinct name="Bray" votes="13" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Elizabeth 'Liz' Johnson" party="DEM" totalVotes="374">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Wrightsville" votes="119" />
+                <Precinct name="Smith" votes="14" />
+                <Precinct name="Bray" votes="24" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="179">
+                <Precinct name="Wrightsville" votes="149" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="17" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Wrightsville" votes="14" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 26 - Dem" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="122">
+            <Precinct name="Wrightsville" votes="95" />
+            <Precinct name="Smith" votes="7" />
+            <Precinct name="Bray" votes="17" />
+            <Precinct name="Kite" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="74" text="David E. Lucas, Sr. (I)" party="DEM" totalVotes="340">
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Wrightsville" votes="108" />
+                <Precinct name="Smith" votes="13" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="160">
+                <Precinct name="Wrightsville" votes="134" />
+                <Precinct name="Smith" votes="6" />
+                <Precinct name="Bray" votes="17" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 155 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="239">
+            <Precinct name="Wrightsville" votes="106" />
+            <Precinct name="Smith" votes="29" />
+            <Precinct name="Bray" votes="51" />
+            <Precinct name="Kite" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Matt Hatchett (I)" party="REP" totalVotes="1479">
+            <VoteType name="Election Day Votes" votes="819">
+                <Precinct name="Wrightsville" votes="285" />
+                <Precinct name="Smith" votes="175" />
+                <Precinct name="Bray" votes="129" />
+                <Precinct name="Kite" votes="230" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="633">
+                <Precinct name="Wrightsville" votes="402" />
+                <Precinct name="Smith" votes="66" />
+                <Precinct name="Bray" votes="86" />
+                <Precinct name="Kite" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="County Comm Dist 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Wrightsville" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Felice Pullen (I)" party="DEM" totalVotes="164">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Wrightsville" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="83">
+                <Precinct name="Wrightsville" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="County Comm Dist 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Wrightsville" votes="5" />
+            <Precinct name="Smith" votes="27" />
+            <Precinct name="Kite" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="77" text="Michael Keene" party="REP" totalVotes="306">
+            <VoteType name="Election Day Votes" votes="204">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="175" />
+                <Precinct name="Kite" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="68" />
+                <Precinct name="Kite" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Wrightsville" votes="13" />
+            <Precinct name="Smith" votes="5" />
+            <Precinct name="Bray" votes="3" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Yes" party="REP" totalVotes="1650">
+            <VoteType name="Election Day Votes" votes="917">
+                <Precinct name="Wrightsville" votes="316" />
+                <Precinct name="Smith" votes="182" />
+                <Precinct name="Bray" votes="156" />
+                <Precinct name="Kite" votes="263" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="703">
+                <Precinct name="Wrightsville" votes="441" />
+                <Precinct name="Smith" votes="70" />
+                <Precinct name="Bray" votes="102" />
+                <Precinct name="Kite" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="No" party="REP" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Wrightsville" votes="11" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Wrightsville" votes="27" />
+            <Precinct name="Smith" votes="6" />
+            <Precinct name="Bray" votes="9" />
+            <Precinct name="Kite" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Yes" party="REP" totalVotes="1334">
+            <VoteType name="Election Day Votes" votes="755">
+                <Precinct name="Wrightsville" votes="271" />
+                <Precinct name="Smith" votes="146" />
+                <Precinct name="Bray" votes="122" />
+                <Precinct name="Kite" votes="216" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="556">
+                <Precinct name="Wrightsville" votes="337" />
+                <Precinct name="Smith" votes="65" />
+                <Precinct name="Bray" votes="82" />
+                <Precinct name="Kite" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="No" party="REP" totalVotes="339">
+            <VoteType name="Election Day Votes" votes="177">
+                <Precinct name="Wrightsville" votes="50" />
+                <Precinct name="Smith" votes="44" />
+                <Precinct name="Bray" votes="33" />
+                <Precinct name="Kite" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="153">
+                <Precinct name="Wrightsville" votes="104" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="81">
+            <Precinct name="Wrightsville" votes="42" />
+            <Precinct name="Smith" votes="9" />
+            <Precinct name="Bray" votes="14" />
+            <Precinct name="Kite" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="1396">
+            <VoteType name="Election Day Votes" votes="778">
+                <Precinct name="Wrightsville" votes="255" />
+                <Precinct name="Smith" votes="164" />
+                <Precinct name="Bray" votes="135" />
+                <Precinct name="Kite" votes="224" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="591">
+                <Precinct name="Wrightsville" votes="364" />
+                <Precinct name="Smith" votes="65" />
+                <Precinct name="Bray" votes="83" />
+                <Precinct name="Kite" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="241">
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Wrightsville" votes="60" />
+                <Precinct name="Smith" votes="25" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="102">
+                <Precinct name="Wrightsville" votes="68" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="15" />
+                <Precinct name="Kite" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="143">
+            <Precinct name="Wrightsville" votes="69" />
+            <Precinct name="Smith" votes="26" />
+            <Precinct name="Bray" votes="24" />
+            <Precinct name="Kite" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="1339">
+            <VoteType name="Election Day Votes" votes="745">
+                <Precinct name="Wrightsville" votes="248" />
+                <Precinct name="Smith" votes="147" />
+                <Precinct name="Bray" votes="132" />
+                <Precinct name="Kite" votes="218" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="571">
+                <Precinct name="Wrightsville" votes="354" />
+                <Precinct name="Smith" votes="59" />
+                <Precinct name="Bray" votes="78" />
+                <Precinct name="Kite" votes="80" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="236">
+            <VoteType name="Election Day Votes" votes="130">
+                <Precinct name="Wrightsville" votes="50" />
+                <Precinct name="Smith" votes="29" />
+                <Precinct name="Bray" votes="18" />
+                <Precinct name="Kite" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="99">
+                <Precinct name="Wrightsville" votes="67" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Wrightsville" votes="20" />
+            <Precinct name="Smith" votes="5" />
+            <Precinct name="Bray" votes="3" />
+            <Precinct name="Kite" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="6" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="1" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="1650">
+            <VoteType name="Election Day Votes" votes="921">
+                <Precinct name="Wrightsville" votes="320" />
+                <Precinct name="Smith" votes="186" />
+                <Precinct name="Bray" votes="157" />
+                <Precinct name="Kite" votes="258" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="697">
+                <Precinct name="Wrightsville" votes="436" />
+                <Precinct name="Smith" votes="73" />
+                <Precinct name="Bray" votes="100" />
+                <Precinct name="Kite" votes="88" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Wrightsville" votes="21" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Wrightsville" votes="24" />
+            <Precinct name="Smith" votes="8" />
+            <Precinct name="Bray" votes="10" />
+            <Precinct name="Kite" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="REP" totalVotes="1630">
+            <VoteType name="Election Day Votes" votes="908">
+                <Precinct name="Wrightsville" votes="311" />
+                <Precinct name="Smith" votes="186" />
+                <Precinct name="Bray" votes="153" />
+                <Precinct name="Kite" votes="258" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="692">
+                <Precinct name="Wrightsville" votes="432" />
+                <Precinct name="Smith" votes="69" />
+                <Precinct name="Bray" votes="101" />
+                <Precinct name="Kite" votes="90" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Wrightsville" votes="19" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="REP" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Wrightsville" votes="12" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Wrightsville" votes="27" />
+            <Precinct name="Smith" votes="8" />
+            <Precinct name="Bray" votes="7" />
+            <Precinct name="Kite" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="REP" totalVotes="1560">
+            <VoteType name="Election Day Votes" votes="873">
+                <Precinct name="Wrightsville" votes="296" />
+                <Precinct name="Smith" votes="178" />
+                <Precinct name="Bray" votes="152" />
+                <Precinct name="Kite" votes="247" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="658">
+                <Precinct name="Wrightsville" votes="409" />
+                <Precinct name="Smith" votes="70" />
+                <Precinct name="Bray" votes="95" />
+                <Precinct name="Kite" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Wrightsville" votes="18" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="REP" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Wrightsville" votes="26" />
+                <Precinct name="Smith" votes="11" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Wrightsville" votes="31" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="110">
+            <Precinct name="Wrightsville" votes="55" />
+            <Precinct name="Smith" votes="15" />
+            <Precinct name="Bray" votes="19" />
+            <Precinct name="Kite" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="REP" totalVotes="1160">
+            <VoteType name="Election Day Votes" votes="619">
+                <Precinct name="Wrightsville" votes="203" />
+                <Precinct name="Smith" votes="123" />
+                <Precinct name="Bray" votes="109" />
+                <Precinct name="Kite" votes="184" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="517">
+                <Precinct name="Wrightsville" votes="320" />
+                <Precinct name="Smith" votes="58" />
+                <Precinct name="Bray" votes="73" />
+                <Precinct name="Kite" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="REP" totalVotes="448">
+            <VoteType name="Election Day Votes" votes="274">
+                <Precinct name="Wrightsville" votes="105" />
+                <Precinct name="Smith" votes="61" />
+                <Precinct name="Bray" votes="41" />
+                <Precinct name="Kite" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="168">
+                <Precinct name="Wrightsville" votes="106" />
+                <Precinct name="Smith" votes="14" />
+                <Precinct name="Bray" votes="24" />
+                <Precinct name="Kite" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Wrightsville" votes="26" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="5" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="DEM" totalVotes="361">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Wrightsville" votes="124" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Wrightsville" votes="138" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="22" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Wrightsville" votes="11" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="DEM" totalVotes="69">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Wrightsville" votes="20" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="7" />
+                <Precinct name="Kite" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Wrightsville" votes="29" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Wrightsville" votes="31" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="7" />
+            <Precinct name="Kite" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="DEM" totalVotes="366">
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="Wrightsville" votes="125" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="175">
+                <Precinct name="Wrightsville" votes="146" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="18" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="9" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="DEM" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Wrightsville" votes="20" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="3" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Wrightsville" votes="28" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="5" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="394">
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Wrightsville" votes="131" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="22" />
+                <Precinct name="Kite" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="187">
+                <Precinct name="Wrightsville" votes="155" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="22" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Wrightsville" votes="10" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Wrightsville" votes="13" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Wrightsville" votes="2" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="Wrightsville" votes="34" />
+            <Precinct name="Smith" votes="3" />
+            <Precinct name="Bray" votes="8" />
+            <Precinct name="Kite" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="332">
+            <VoteType name="Election Day Votes" votes="156">
+                <Precinct name="Wrightsville" votes="112" />
+                <Precinct name="Smith" votes="13" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="157">
+                <Precinct name="Wrightsville" votes="130" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="15" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Wrightsville" votes="11" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="82">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Wrightsville" votes="28" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Wrightsville" votes="33" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Wrightsville" votes="26" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="6" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="368">
+            <VoteType name="Election Day Votes" votes="170">
+                <Precinct name="Wrightsville" votes="125" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Wrightsville" votes="146" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Wrightsville" votes="11" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Wrightsville" votes="17" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Wrightsville" votes="23" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="2" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Wrightsville" votes="4" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Wrightsville" votes="28" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="8" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="404">
+            <VoteType name="Election Day Votes" votes="186">
+                <Precinct name="Wrightsville" votes="135" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="24" />
+                <Precinct name="Kite" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="191">
+                <Precinct name="Wrightsville" votes="158" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="21" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="11" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Wrightsville" votes="8" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="44">
+            <Precinct name="Wrightsville" votes="33" />
+            <Precinct name="Smith" votes="1" />
+            <Precinct name="Bray" votes="9" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Yes" party="DEM" totalVotes="369">
+            <VoteType name="Election Day Votes" votes="165">
+                <Precinct name="Wrightsville" votes="121" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="179">
+                <Precinct name="Wrightsville" votes="148" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="20" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Wrightsville" votes="12" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="No" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Wrightsville" votes="20" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="4" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="1" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Wrightsville" votes="28" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="8" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Yes" party="DEM" totalVotes="290">
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Wrightsville" votes="99" />
+                <Precinct name="Smith" votes="10" />
+                <Precinct name="Bray" votes="15" />
+                <Precinct name="Kite" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="137">
+                <Precinct name="Wrightsville" votes="114" />
+                <Precinct name="Smith" votes="7" />
+                <Precinct name="Bray" votes="15" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="No" party="DEM" totalVotes="133">
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Wrightsville" votes="42" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="10" />
+                <Precinct name="Kite" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Wrightsville" votes="54" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wrightsville" votes="6" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="Wrightsville" votes="36" />
+            <Precinct name="Smith" votes="2" />
+            <Precinct name="Bray" votes="9" />
+            <Precinct name="Kite" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Yes" party="DEM" totalVotes="390">
+            <VoteType name="Election Day Votes" votes="178">
+                <Precinct name="Wrightsville" votes="131" />
+                <Precinct name="Smith" votes="15" />
+                <Precinct name="Bray" votes="19" />
+                <Precinct name="Kite" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="186">
+                <Precinct name="Wrightsville" votes="154" />
+                <Precinct name="Smith" votes="9" />
+                <Precinct name="Bray" votes="21" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Wrightsville" votes="15" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="10" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="No" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Wrightsville" votes="7" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="5" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Wrightsville" votes="9" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="341">
+            <Precinct name="Wrightsville" votes="189" />
+            <Precinct name="Smith" votes="43" />
+            <Precinct name="Bray" votes="65" />
+            <Precinct name="Kite" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Veronica Brinson" totalVotes="513">
+            <VoteType name="Election Day Votes" votes="292">
+                <Precinct name="Wrightsville" votes="125" />
+                <Precinct name="Smith" votes="58" />
+                <Precinct name="Bray" votes="48" />
+                <Precinct name="Kite" votes="61" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="203">
+                <Precinct name="Wrightsville" votes="148" />
+                <Precinct name="Smith" votes="18" />
+                <Precinct name="Bray" votes="21" />
+                <Precinct name="Kite" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Wrightsville" votes="10" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="Bray" votes="6" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="113" text="Verda M. Colvin (I)" totalVotes="1315">
+            <VoteType name="Election Day Votes" votes="683">
+                <Precinct name="Wrightsville" votes="275" />
+                <Precinct name="Smith" votes="120" />
+                <Precinct name="Bray" votes="105" />
+                <Precinct name="Kite" votes="183" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="596">
+                <Precinct name="Wrightsville" votes="386" />
+                <Precinct name="Smith" votes="56" />
+                <Precinct name="Bray" votes="81" />
+                <Precinct name="Kite" votes="73" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Wrightsville" votes="22" />
+                <Precinct name="Smith" votes="3" />
+                <Precinct name="Bray" votes="8" />
+                <Precinct name="Kite" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="451">
+            <Precinct name="Wrightsville" votes="237" />
+            <Precinct name="Smith" votes="60" />
+            <Precinct name="Bray" votes="86" />
+            <Precinct name="Kite" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="114" text="Shawn Ellen LaGrua (I)" totalVotes="1720">
+            <VoteType name="Election Day Votes" votes="920">
+                <Precinct name="Wrightsville" votes="385" />
+                <Precinct name="Smith" votes="168" />
+                <Precinct name="Bray" votes="139" />
+                <Precinct name="Kite" votes="228" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="751">
+                <Precinct name="Wrightsville" votes="505" />
+                <Precinct name="Smith" votes="67" />
+                <Precinct name="Bray" votes="96" />
+                <Precinct name="Kite" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Wrightsville" votes="28" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="443">
+            <Precinct name="Wrightsville" votes="234" />
+            <Precinct name="Smith" votes="58" />
+            <Precinct name="Bray" votes="83" />
+            <Precinct name="Kite" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Carla McMillian (I)" totalVotes="1732">
+            <VoteType name="Election Day Votes" votes="926">
+                <Precinct name="Wrightsville" votes="389" />
+                <Precinct name="Smith" votes="167" />
+                <Precinct name="Bray" votes="141" />
+                <Precinct name="Kite" votes="229" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="756">
+                <Precinct name="Wrightsville" votes="507" />
+                <Precinct name="Smith" votes="69" />
+                <Precinct name="Bray" votes="97" />
+                <Precinct name="Kite" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Wrightsville" votes="29" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="448">
+            <Precinct name="Wrightsville" votes="240" />
+            <Precinct name="Smith" votes="57" />
+            <Precinct name="Bray" votes="83" />
+            <Precinct name="Kite" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Anne Elizabeth Barnes (I)" totalVotes="1727">
+            <VoteType name="Election Day Votes" votes="922">
+                <Precinct name="Wrightsville" votes="385" />
+                <Precinct name="Smith" votes="169" />
+                <Precinct name="Bray" votes="140" />
+                <Precinct name="Kite" votes="228" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="757">
+                <Precinct name="Wrightsville" votes="507" />
+                <Precinct name="Smith" votes="68" />
+                <Precinct name="Bray" votes="98" />
+                <Precinct name="Kite" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Wrightsville" votes="27" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="451">
+            <Precinct name="Wrightsville" votes="238" />
+            <Precinct name="Smith" votes="59" />
+            <Precinct name="Bray" votes="85" />
+            <Precinct name="Kite" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Chris McFadden (I)" totalVotes="1727">
+            <VoteType name="Election Day Votes" votes="923">
+                <Precinct name="Wrightsville" votes="387" />
+                <Precinct name="Smith" votes="168" />
+                <Precinct name="Bray" votes="139" />
+                <Precinct name="Kite" votes="229" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="753">
+                <Precinct name="Wrightsville" votes="506" />
+                <Precinct name="Smith" votes="68" />
+                <Precinct name="Bray" votes="97" />
+                <Precinct name="Kite" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Wrightsville" votes="30" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="14" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="467">
+            <Precinct name="Wrightsville" votes="247" />
+            <Precinct name="Smith" votes="62" />
+            <Precinct name="Bray" votes="87" />
+            <Precinct name="Kite" votes="71" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Trea Pipkin (I)" totalVotes="1708">
+            <VoteType name="Election Day Votes" votes="912">
+                <Precinct name="Wrightsville" votes="383" />
+                <Precinct name="Smith" votes="166" />
+                <Precinct name="Bray" votes="138" />
+                <Precinct name="Kite" votes="225" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="749">
+                <Precinct name="Wrightsville" votes="502" />
+                <Precinct name="Smith" votes="66" />
+                <Precinct name="Bray" votes="97" />
+                <Precinct name="Kite" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Wrightsville" votes="27" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="Bray" votes="13" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="County BOE Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Wrightsville" votes="45" />
+            <Precinct name="Bray" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Bray" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Kevin Brantley (I)" totalVotes="353">
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Wrightsville" votes="70" />
+                <Precinct name="Bray" votes="94" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Wrightsville" votes="109" />
+                <Precinct name="Bray" votes="71" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Wrightsville" votes="5" />
+                <Precinct name="Bray" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Bray" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="County BOE Dist 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="Wrightsville" votes="37" />
+            <Precinct name="Kite" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Donald Smith (I)" totalVotes="437">
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Wrightsville" votes="64" />
+                <Precinct name="Kite" votes="208" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="160">
+                <Precinct name="Wrightsville" votes="88" />
+                <Precinct name="Kite" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wrightsville" votes="3" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Altamaha Regional District TSPLOST" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="127">
+            <Precinct name="Wrightsville" votes="70" />
+            <Precinct name="Smith" votes="15" />
+            <Precinct name="Bray" votes="25" />
+            <Precinct name="Kite" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wrightsville" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="Bray" votes="0" />
+            <Precinct name="Kite" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Yes" totalVotes="1251">
+            <VoteType name="Election Day Votes" votes="660">
+                <Precinct name="Wrightsville" votes="299" />
+                <Precinct name="Smith" votes="102" />
+                <Precinct name="Bray" votes="98" />
+                <Precinct name="Kite" votes="161" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="555">
+                <Precinct name="Wrightsville" votes="358" />
+                <Precinct name="Smith" votes="46" />
+                <Precinct name="Bray" votes="83" />
+                <Precinct name="Kite" votes="68" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Wrightsville" votes="18" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="Bray" votes="12" />
+                <Precinct name="Kite" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="No" totalVotes="803">
+            <VoteType name="Election Day Votes" votes="446">
+                <Precinct name="Wrightsville" votes="158" />
+                <Precinct name="Smith" votes="101" />
+                <Precinct name="Bray" votes="80" />
+                <Precinct name="Kite" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="337">
+                <Precinct name="Wrightsville" votes="241" />
+                <Precinct name="Smith" votes="33" />
+                <Precinct name="Bray" votes="36" />
+                <Precinct name="Kite" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Wrightsville" votes="18" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="1" />
+                <Precinct name="Kite" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wrightsville" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="Bray" votes="0" />
+                <Precinct name="Kite" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

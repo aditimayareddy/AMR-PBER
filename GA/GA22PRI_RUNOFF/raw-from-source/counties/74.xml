@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 5:39:36 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Heard</Region>
+    <VoterTurnout totalVoters="7502" ballotsCast="96" voterTurnout="1.28">
+        <Precincts>
+            <Precinct name="Centralhatchee" totalVoters="1766" ballotsCast="19" voterTurnout="1.08" percentReporting="4" />
+            <Precinct name="Cooksville-Corinth" totalVoters="690" ballotsCast="7" voterTurnout="1.01" percentReporting="4" />
+            <Precinct name="Enon Grove" totalVoters="1100" ballotsCast="14" voterTurnout="1.27" percentReporting="4" />
+            <Precinct name="Ephesus" totalVoters="1277" ballotsCast="10" voterTurnout="0.78" percentReporting="4" />
+            <Precinct name="Franklin" totalVoters="2060" ballotsCast="40" voterTurnout="1.94" percentReporting="4" />
+            <Precinct name="Southwest" totalVoters="609" ballotsCast="6" voterTurnout="0.99" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="2" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Charlie Bailey" party="DEM" totalVotes="66">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Centralhatchee" votes="2" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="6" />
+                <Precinct name="Ephesus" votes="1" />
+                <Precinct name="Franklin" votes="12" />
+                <Precinct name="Southwest" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="7" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Centralhatchee" votes="8" />
+                <Precinct name="Cooksville-Corinth" votes="5" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="6" />
+                <Precinct name="Franklin" votes="8" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="Kwanza Hall" party="DEM" totalVotes="28">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Centralhatchee" votes="4" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="3" />
+                <Precinct name="Ephesus" votes="3" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="1" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Centralhatchee" votes="2" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="3" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="4" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="1" />
+            <Precinct name="Enon Grove" votes="1" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="3" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Dee Dawkins-Haigler" party="DEM" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="1" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="1" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Bee Nguyen" party="DEM" totalVotes="69">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="7" />
+                <Precinct name="Ephesus" votes="3" />
+                <Precinct name="Franklin" votes="11" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Centralhatchee" votes="7" />
+                <Precinct name="Cooksville-Corinth" votes="4" />
+                <Precinct name="Enon Grove" votes="4" />
+                <Precinct name="Ephesus" votes="5" />
+                <Precinct name="Franklin" votes="12" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="1" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="3" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Raphael Baker" party="DEM" totalVotes="28">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Centralhatchee" votes="1" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="2" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Centralhatchee" votes="2" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Centralhatchee" votes="4" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="2" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Janice Laws Robinson" party="DEM" totalVotes="64">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Centralhatchee" votes="5" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="8" />
+                <Precinct name="Ephesus" votes="2" />
+                <Precinct name="Franklin" votes="12" />
+                <Precinct name="Southwest" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Centralhatchee" votes="1" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="5" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Centralhatchee" votes="6" />
+                <Precinct name="Cooksville-Corinth" votes="5" />
+                <Precinct name="Enon Grove" votes="3" />
+                <Precinct name="Ephesus" votes="4" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Centralhatchee" votes="1" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="2" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Centralhatchee" votes="0" />
+            <Precinct name="Cooksville-Corinth" votes="0" />
+            <Precinct name="Enon Grove" votes="0" />
+            <Precinct name="Ephesus" votes="0" />
+            <Precinct name="Franklin" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+        </VoteType>
+        <Choice key="74" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="49">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="2" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="10" />
+                <Precinct name="Southwest" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="6" />
+                <Precinct name="Southwest" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Centralhatchee" votes="6" />
+                <Precinct name="Cooksville-Corinth" votes="3" />
+                <Precinct name="Enon Grove" votes="3" />
+                <Precinct name="Ephesus" votes="3" />
+                <Precinct name="Franklin" votes="10" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Nicole Horn" party="DEM" totalVotes="44">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Centralhatchee" votes="3" />
+                <Precinct name="Cooksville-Corinth" votes="1" />
+                <Precinct name="Enon Grove" votes="7" />
+                <Precinct name="Ephesus" votes="4" />
+                <Precinct name="Franklin" votes="8" />
+                <Precinct name="Southwest" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Centralhatchee" votes="2" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Centralhatchee" votes="4" />
+                <Precinct name="Cooksville-Corinth" votes="3" />
+                <Precinct name="Enon Grove" votes="1" />
+                <Precinct name="Ephesus" votes="3" />
+                <Precinct name="Franklin" votes="2" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Centralhatchee" votes="0" />
+                <Precinct name="Cooksville-Corinth" votes="0" />
+                <Precinct name="Enon Grove" votes="0" />
+                <Precinct name="Ephesus" votes="0" />
+                <Precinct name="Franklin" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

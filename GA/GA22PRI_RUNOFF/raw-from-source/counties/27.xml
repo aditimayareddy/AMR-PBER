@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 1:30:09 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Chattooga</Region>
+    <VoterTurnout totalVoters="13975" ballotsCast="126" voterTurnout="0.90">
+        <Precincts>
+            <Precinct name="Haywood" totalVoters="150" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Lyerly" totalVoters="1443" ballotsCast="28" voterTurnout="1.94" percentReporting="4" />
+            <Precinct name="Trion" totalVoters="4687" ballotsCast="27" voterTurnout="0.58" percentReporting="4" />
+            <Precinct name="Summerville" totalVoters="5071" ballotsCast="46" voterTurnout="0.91" percentReporting="4" />
+            <Precinct name="Dirttown" totalVoters="922" ballotsCast="13" voterTurnout="1.41" percentReporting="4" />
+            <Precinct name="Subligna" totalVoters="452" ballotsCast="1" voterTurnout="0.22" percentReporting="4" />
+            <Precinct name="Menlo" totalVoters="1250" ballotsCast="11" voterTurnout="0.88" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="1" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="0" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="1" />
+            <Precinct name="Menlo" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="0" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="0" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="92">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="4" />
+                <Precinct name="Trion" votes="5" />
+                <Precinct name="Summerville" votes="5" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="2" />
+                <Precinct name="Trion" votes="2" />
+                <Precinct name="Summerville" votes="15" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="15" />
+                <Precinct name="Trion" votes="8" />
+                <Precinct name="Summerville" votes="16" />
+                <Precinct name="Dirttown" votes="11" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="3" />
+                <Precinct name="Summerville" votes="2" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="1" />
+                <Precinct name="Trion" votes="6" />
+                <Precinct name="Summerville" votes="3" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="5" />
+                <Precinct name="Trion" votes="3" />
+                <Precinct name="Summerville" votes="5" />
+                <Precinct name="Dirttown" votes="2" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="1" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="2" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="0" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="0" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="3" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="1" />
+                <Precinct name="Trion" votes="1" />
+                <Precinct name="Summerville" votes="4" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="5" />
+                <Precinct name="Trion" votes="3" />
+                <Precinct name="Summerville" votes="10" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="89">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="4" />
+                <Precinct name="Trion" votes="8" />
+                <Precinct name="Summerville" votes="4" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="2" />
+                <Precinct name="Trion" votes="7" />
+                <Precinct name="Summerville" votes="14" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="15" />
+                <Precinct name="Trion" votes="8" />
+                <Precinct name="Summerville" votes="9" />
+                <Precinct name="Dirttown" votes="13" />
+                <Precinct name="Subligna" votes="1" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="1" />
+            <Precinct name="Trion" votes="1" />
+            <Precinct name="Summerville" votes="2" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="0" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="0" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="50">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="1" />
+                <Precinct name="Trion" votes="2" />
+                <Precinct name="Summerville" votes="2" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="2" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="7" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="10" />
+                <Precinct name="Trion" votes="4" />
+                <Precinct name="Summerville" votes="10" />
+                <Precinct name="Dirttown" votes="7" />
+                <Precinct name="Subligna" votes="1" />
+                <Precinct name="Menlo" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="70">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="3" />
+                <Precinct name="Trion" votes="5" />
+                <Precinct name="Summerville" votes="5" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="2" />
+                <Precinct name="Trion" votes="8" />
+                <Precinct name="Summerville" votes="11" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="9" />
+                <Precinct name="Trion" votes="7" />
+                <Precinct name="Summerville" votes="9" />
+                <Precinct name="Dirttown" votes="6" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="1" />
+            <Precinct name="Trion" votes="1" />
+            <Precinct name="Summerville" votes="3" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="1" />
+            <Precinct name="Menlo" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Haywood" votes="0" />
+            <Precinct name="Lyerly" votes="0" />
+            <Precinct name="Trion" votes="0" />
+            <Precinct name="Summerville" votes="0" />
+            <Precinct name="Dirttown" votes="0" />
+            <Precinct name="Subligna" votes="0" />
+            <Precinct name="Menlo" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="65">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="4" />
+                <Precinct name="Trion" votes="1" />
+                <Precinct name="Summerville" votes="4" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="2" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="11" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="13" />
+                <Precinct name="Trion" votes="4" />
+                <Precinct name="Summerville" votes="11" />
+                <Precinct name="Dirttown" votes="10" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="54">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="6" />
+                <Precinct name="Summerville" votes="3" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="1" />
+                <Precinct name="Trion" votes="8" />
+                <Precinct name="Summerville" votes="6" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="7" />
+                <Precinct name="Trion" votes="7" />
+                <Precinct name="Summerville" votes="8" />
+                <Precinct name="Dirttown" votes="3" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Haywood" votes="0" />
+                <Precinct name="Lyerly" votes="0" />
+                <Precinct name="Trion" votes="0" />
+                <Precinct name="Summerville" votes="0" />
+                <Precinct name="Dirttown" votes="0" />
+                <Precinct name="Subligna" votes="0" />
+                <Precinct name="Menlo" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

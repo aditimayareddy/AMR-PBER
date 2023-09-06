@@ -1,0 +1,840 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/30/2022 9:46:16 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Elbert</Region>
+    <VoterTurnout totalVoters="12301" ballotsCast="272" voterTurnout="2.21">
+        <Precincts>
+            <Precinct name="Elberton" totalVoters="3843" ballotsCast="124" voterTurnout="3.23" percentReporting="4" />
+            <Precinct name="Longstreet" totalVoters="643" ballotsCast="8" voterTurnout="1.24" percentReporting="4" />
+            <Precinct name="Eliam" totalVoters="748" ballotsCast="3" voterTurnout="0.40" percentReporting="4" />
+            <Precinct name="Petersburg" totalVoters="368" ballotsCast="3" voterTurnout="0.82" percentReporting="4" />
+            <Precinct name="Wyche" totalVoters="1067" ballotsCast="22" voterTurnout="2.06" percentReporting="4" />
+            <Precinct name="Moss-Ruckersville" totalVoters="467" ballotsCast="15" voterTurnout="3.21" percentReporting="4" />
+            <Precinct name="Pike" totalVoters="1548" ballotsCast="51" voterTurnout="3.29" percentReporting="4" />
+            <Precinct name="Gaines" totalVoters="581" ballotsCast="6" voterTurnout="1.03" percentReporting="4" />
+            <Precinct name="Goshen" totalVoters="1637" ballotsCast="23" voterTurnout="1.41" percentReporting="4" />
+            <Precinct name="Webbsboro" totalVoters="394" ballotsCast="6" voterTurnout="1.52" percentReporting="4" />
+            <Precinct name="Centerville" totalVoters="1005" ballotsCast="11" voterTurnout="1.09" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Elberton" votes="1" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="1" />
+            <Precinct name="Pike" votes="1" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="1" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="155">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Elberton" votes="16" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="2" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="4" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="47">
+                <Precinct name="Elberton" votes="19" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="11" />
+                <Precinct name="Gaines" votes="3" />
+                <Precinct name="Goshen" votes="7" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Elberton" votes="40" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="2" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="12" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="7" />
+                <Precinct name="Webbsboro" votes="4" />
+                <Precinct name="Centerville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="112">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Elberton" votes="11" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="1" />
+                <Precinct name="Moss-Ruckersville" votes="4" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Elberton" votes="14" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="6" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Elberton" votes="23" />
+                <Precinct name="Longstreet" votes="3" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="4" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="3" />
+                <Precinct name="Webbsboro" votes="2" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Elberton" votes="1" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="3" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Elberton" votes="6" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="2" />
+                <Precinct name="Moss-Ruckersville" votes="5" />
+                <Precinct name="Pike" votes="3" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Elberton" votes="6" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Elberton" votes="27" />
+                <Precinct name="Longstreet" votes="3" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="2" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="5" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="191">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Elberton" votes="22" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="2" />
+                <Precinct name="Wyche" votes="2" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="3" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="59">
+                <Precinct name="Elberton" votes="26" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="10" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="3" />
+                <Precinct name="Goshen" votes="7" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="Elberton" votes="36" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="3" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="6" />
+                <Precinct name="Moss-Ruckersville" votes="5" />
+                <Precinct name="Pike" votes="15" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="10" />
+                <Precinct name="Webbsboro" votes="6" />
+                <Precinct name="Centerville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Elberton" votes="1" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="1" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="1" />
+            <Precinct name="Pike" votes="4" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="1" />
+            <Precinct name="Centerville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="103">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Elberton" votes="6" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="6" />
+                <Precinct name="Pike" votes="4" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Elberton" votes="17" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Elberton" votes="27" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="5" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="5" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="159">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Elberton" votes="21" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="2" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="Elberton" votes="16" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="6" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="3" />
+                <Precinct name="Goshen" votes="7" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Elberton" votes="36" />
+                <Precinct name="Longstreet" votes="3" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="3" />
+                <Precinct name="Pike" votes="12" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="6" />
+                <Precinct name="Webbsboro" votes="5" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Elberton" votes="2" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="2" />
+            <Precinct name="Pike" votes="3" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="1" />
+            <Precinct name="Webbsboro" votes="1" />
+            <Precinct name="Centerville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="158">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Elberton" votes="18" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="5" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="Elberton" votes="18" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="7" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="8" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Elberton" votes="46" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="11" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="7" />
+                <Precinct name="Webbsboro" votes="3" />
+                <Precinct name="Centerville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="104">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Elberton" votes="9" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="2" />
+                <Precinct name="Wyche" votes="1" />
+                <Precinct name="Moss-Ruckersville" votes="5" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Elberton" votes="15" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="3" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Elberton" votes="16" />
+                <Precinct name="Longstreet" votes="4" />
+                <Precinct name="Eliam" votes="2" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="5" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="3" />
+                <Precinct name="Webbsboro" votes="2" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="613">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Elberton" votes="20" />
+                <Precinct name="Longstreet" votes="4" />
+                <Precinct name="Eliam" votes="5" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="6" />
+                <Precinct name="Moss-Ruckersville" votes="3" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="134">
+                <Precinct name="Elberton" votes="60" />
+                <Precinct name="Longstreet" votes="11" />
+                <Precinct name="Eliam" votes="6" />
+                <Precinct name="Petersburg" votes="7" />
+                <Precinct name="Wyche" votes="14" />
+                <Precinct name="Moss-Ruckersville" votes="10" />
+                <Precinct name="Pike" votes="8" />
+                <Precinct name="Gaines" votes="3" />
+                <Precinct name="Goshen" votes="5" />
+                <Precinct name="Webbsboro" votes="5" />
+                <Precinct name="Centerville" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="428">
+                <Precinct name="Elberton" votes="64" />
+                <Precinct name="Longstreet" votes="35" />
+                <Precinct name="Eliam" votes="54" />
+                <Precinct name="Petersburg" votes="35" />
+                <Precinct name="Wyche" votes="36" />
+                <Precinct name="Moss-Ruckersville" votes="17" />
+                <Precinct name="Pike" votes="51" />
+                <Precinct name="Gaines" votes="37" />
+                <Precinct name="Goshen" votes="58" />
+                <Precinct name="Webbsboro" votes="9" />
+                <Precinct name="Centerville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="259">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Elberton" votes="1" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="3" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Elberton" votes="16" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="8" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="6" />
+                <Precinct name="Moss-Ruckersville" votes="5" />
+                <Precinct name="Pike" votes="3" />
+                <Precinct name="Gaines" votes="5" />
+                <Precinct name="Goshen" votes="3" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="196">
+                <Precinct name="Elberton" votes="22" />
+                <Precinct name="Longstreet" votes="17" />
+                <Precinct name="Eliam" votes="10" />
+                <Precinct name="Petersburg" votes="19" />
+                <Precinct name="Wyche" votes="19" />
+                <Precinct name="Moss-Ruckersville" votes="5" />
+                <Precinct name="Pike" votes="24" />
+                <Precinct name="Gaines" votes="10" />
+                <Precinct name="Goshen" votes="44" />
+                <Precinct name="Webbsboro" votes="7" />
+                <Precinct name="Centerville" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="2" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Elberton" votes="3" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="1" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="2" />
+            <Precinct name="Pike" votes="2" />
+            <Precinct name="Gaines" votes="1" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="1" />
+            <Precinct name="Centerville" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Elberton" votes="0" />
+            <Precinct name="Longstreet" votes="0" />
+            <Precinct name="Eliam" votes="0" />
+            <Precinct name="Petersburg" votes="0" />
+            <Precinct name="Wyche" votes="0" />
+            <Precinct name="Moss-Ruckersville" votes="0" />
+            <Precinct name="Pike" votes="0" />
+            <Precinct name="Gaines" votes="0" />
+            <Precinct name="Goshen" votes="0" />
+            <Precinct name="Webbsboro" votes="0" />
+            <Precinct name="Centerville" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="81">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Elberton" votes="5" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="2" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="3" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="3" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Elberton" votes="12" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="1" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="1" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Elberton" votes="12" />
+                <Precinct name="Longstreet" votes="3" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="3" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="7" />
+                <Precinct name="Gaines" votes="1" />
+                <Precinct name="Goshen" votes="9" />
+                <Precinct name="Webbsboro" votes="3" />
+                <Precinct name="Centerville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="0" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="180">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Elberton" votes="20" />
+                <Precinct name="Longstreet" votes="0" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="4" />
+                <Precinct name="Moss-Ruckersville" votes="6" />
+                <Precinct name="Pike" votes="9" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="54">
+                <Precinct name="Elberton" votes="21" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="9" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="10" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="8" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Elberton" votes="51" />
+                <Precinct name="Longstreet" votes="2" />
+                <Precinct name="Eliam" votes="1" />
+                <Precinct name="Petersburg" votes="1" />
+                <Precinct name="Wyche" votes="5" />
+                <Precinct name="Moss-Ruckersville" votes="2" />
+                <Precinct name="Pike" votes="13" />
+                <Precinct name="Gaines" votes="2" />
+                <Precinct name="Goshen" votes="2" />
+                <Precinct name="Webbsboro" votes="2" />
+                <Precinct name="Centerville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Elberton" votes="0" />
+                <Precinct name="Longstreet" votes="1" />
+                <Precinct name="Eliam" votes="0" />
+                <Precinct name="Petersburg" votes="0" />
+                <Precinct name="Wyche" votes="0" />
+                <Precinct name="Moss-Ruckersville" votes="1" />
+                <Precinct name="Pike" votes="0" />
+                <Precinct name="Gaines" votes="0" />
+                <Precinct name="Goshen" votes="0" />
+                <Precinct name="Webbsboro" votes="0" />
+                <Precinct name="Centerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

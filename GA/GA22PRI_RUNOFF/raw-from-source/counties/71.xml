@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 3:04:52 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Haralson</Region>
+    <VoterTurnout>
+        <Precincts>
+            <Precinct name="Bremen" percentReporting="4" />
+            <Precinct name="Buchanan" percentReporting="4" />
+            <Precinct name="Buncombe" percentReporting="4" />
+            <Precinct name="Corinth" percentReporting="4" />
+            <Precinct name="Twentieth" percentReporting="4" />
+            <Precinct name="Felton" percentReporting="4" />
+            <Precinct name="Little Creek" percentReporting="4" />
+            <Precinct name="Mt View" percentReporting="4" />
+            <Precinct name="Seventh" percentReporting="4" />
+            <Precinct name="Berea-Steadman" percentReporting="4" />
+            <Precinct name="Tallapoosa" percentReporting="4" />
+            <Precinct name="Waco" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="63">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Bremen" votes="12" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="2" />
+                <Precinct name="Corinth" votes="2" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="2" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="2" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="1" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Bremen" votes="13" />
+                <Precinct name="Buchanan" votes="3" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="1" />
+                <Precinct name="Twentieth" votes="2" />
+                <Precinct name="Felton" votes="2" />
+                <Precinct name="Little Creek" votes="1" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="5" />
+                <Precinct name="Berea-Steadman" votes="1" />
+                <Precinct name="Tallapoosa" votes="9" />
+                <Precinct name="Waco" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="18">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="2" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="3" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Bremen" votes="3" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="5" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="14">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="1" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="1" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="1" />
+                <Precinct name="Berea-Steadman" votes="1" />
+                <Precinct name="Tallapoosa" votes="4" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="67">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Bremen" votes="12" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="2" />
+                <Precinct name="Corinth" votes="2" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="2" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="2" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="3" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="2" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Bremen" votes="14" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="2" />
+                <Precinct name="Felton" votes="2" />
+                <Precinct name="Little Creek" votes="1" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="4" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="10" />
+                <Precinct name="Waco" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Bremen" votes="4" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="2" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="2" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="1" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Bremen" votes="7" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="3" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="9" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="49">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Bremen" votes="10" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="2" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="2" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="2" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Bremen" votes="9" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="1" />
+                <Precinct name="Twentieth" votes="2" />
+                <Precinct name="Felton" votes="2" />
+                <Precinct name="Little Creek" votes="1" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="2" />
+                <Precinct name="Berea-Steadman" votes="1" />
+                <Precinct name="Tallapoosa" votes="5" />
+                <Precinct name="Waco" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bremen" votes="0" />
+            <Precinct name="Buchanan" votes="0" />
+            <Precinct name="Buncombe" votes="0" />
+            <Precinct name="Corinth" votes="0" />
+            <Precinct name="Twentieth" votes="0" />
+            <Precinct name="Felton" votes="0" />
+            <Precinct name="Little Creek" votes="0" />
+            <Precinct name="Mt View" votes="0" />
+            <Precinct name="Seventh" votes="0" />
+            <Precinct name="Berea-Steadman" votes="0" />
+            <Precinct name="Tallapoosa" votes="0" />
+            <Precinct name="Waco" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="45">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Bremen" votes="6" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="2" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="2" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="2" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="1" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Bremen" votes="10" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="1" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="5" />
+                <Precinct name="Berea-Steadman" votes="1" />
+                <Precinct name="Tallapoosa" votes="11" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="36">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Bremen" votes="8" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="2" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="2" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="1" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Bremen" votes="2" />
+                <Precinct name="Buchanan" votes="1" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Bremen" votes="6" />
+                <Precinct name="Buchanan" votes="2" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="1" />
+                <Precinct name="Twentieth" votes="1" />
+                <Precinct name="Felton" votes="2" />
+                <Precinct name="Little Creek" votes="1" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="3" />
+                <Precinct name="Waco" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bremen" votes="0" />
+                <Precinct name="Buchanan" votes="0" />
+                <Precinct name="Buncombe" votes="0" />
+                <Precinct name="Corinth" votes="0" />
+                <Precinct name="Twentieth" votes="0" />
+                <Precinct name="Felton" votes="0" />
+                <Precinct name="Little Creek" votes="0" />
+                <Precinct name="Mt View" votes="0" />
+                <Precinct name="Seventh" votes="0" />
+                <Precinct name="Berea-Steadman" votes="0" />
+                <Precinct name="Tallapoosa" votes="0" />
+                <Precinct name="Waco" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,704 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 2:19:07 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Mitchell</Region>
+    <VoterTurnout totalVoters="13125" ballotsCast="528" voterTurnout="4.02">
+        <Precincts>
+            <Precinct name="Baconton" totalVoters="1113" ballotsCast="50" voterTurnout="4.49" percentReporting="4" />
+            <Precinct name="Branchville" totalVoters="600" ballotsCast="4" voterTurnout="0.67" percentReporting="4" />
+            <Precinct name="Camilla North" totalVoters="1894" ballotsCast="174" voterTurnout="9.19" percentReporting="4" />
+            <Precinct name="Camilla South" totalVoters="3434" ballotsCast="157" voterTurnout="4.57" percentReporting="4" />
+            <Precinct name="Cotton" totalVoters="394" ballotsCast="7" voterTurnout="1.78" percentReporting="4" />
+            <Precinct name="Hopeful" totalVoters="335" ballotsCast="4" voterTurnout="1.19" percentReporting="4" />
+            <Precinct name="Hinsonton" totalVoters="129" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Lester" totalVoters="1328" ballotsCast="30" voterTurnout="2.26" percentReporting="4" />
+            <Precinct name="Pebble City" totalVoters="166" ballotsCast="2" voterTurnout="1.20" percentReporting="4" />
+            <Precinct name="Pelham" totalVoters="3360" ballotsCast="85" voterTurnout="2.53" percentReporting="4" />
+            <Precinct name="Sale City" totalVoters="372" ballotsCast="15" voterTurnout="4.03" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="4" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="3" />
+            <Precinct name="Sale City" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="327">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="28" />
+                <Precinct name="Camilla South" votes="22" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="2" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="6" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="3" />
+                <Precinct name="Camilla North" votes="23" />
+                <Precinct name="Camilla South" votes="31" />
+                <Precinct name="Cotton" votes="1" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="5" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="8" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="191">
+                <Precinct name="Baconton" votes="26" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="62" />
+                <Precinct name="Camilla South" votes="44" />
+                <Precinct name="Cotton" votes="5" />
+                <Precinct name="Hopeful" votes="2" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="9" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="35" />
+                <Precinct name="Sale City" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="192">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="19" />
+                <Precinct name="Camilla South" votes="16" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="2" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="4" />
+                <Precinct name="Sale City" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="53">
+                <Precinct name="Baconton" votes="1" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="12" />
+                <Precinct name="Camilla South" votes="17" />
+                <Precinct name="Cotton" votes="1" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="6" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="14" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Baconton" votes="14" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="26" />
+                <Precinct name="Camilla South" votes="27" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="6" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="15" />
+                <Precinct name="Sale City" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Baconton" votes="1" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="3" />
+            <Precinct name="Camilla South" votes="3" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="2" />
+            <Precinct name="Sale City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="214">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="18" />
+                <Precinct name="Camilla South" votes="12" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="3" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="8" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="53">
+                <Precinct name="Baconton" votes="1" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="13" />
+                <Precinct name="Camilla South" votes="19" />
+                <Precinct name="Cotton" votes="2" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="7" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="10" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Baconton" votes="12" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="38" />
+                <Precinct name="Camilla South" votes="32" />
+                <Precinct name="Cotton" votes="4" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="4" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="17" />
+                <Precinct name="Sale City" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="304">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="29" />
+                <Precinct name="Camilla South" votes="26" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="1" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="3" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="3" />
+                <Precinct name="Camilla North" votes="22" />
+                <Precinct name="Camilla South" votes="27" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="4" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="14" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="166">
+                <Precinct name="Baconton" votes="27" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="51" />
+                <Precinct name="Camilla South" votes="38" />
+                <Precinct name="Cotton" votes="1" />
+                <Precinct name="Hopeful" votes="3" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="11" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="31" />
+                <Precinct name="Sale City" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Baconton" votes="1" />
+            <Precinct name="Branchville" votes="2" />
+            <Precinct name="Camilla North" votes="2" />
+            <Precinct name="Camilla South" votes="3" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="1" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="3" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="205">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Baconton" votes="1" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="6" />
+                <Precinct name="Camilla South" votes="8" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="6" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Baconton" votes="1" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="13" />
+                <Precinct name="Camilla South" votes="22" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="6" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="10" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="127">
+                <Precinct name="Baconton" votes="12" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="43" />
+                <Precinct name="Camilla South" votes="26" />
+                <Precinct name="Cotton" votes="1" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="12" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="22" />
+                <Precinct name="Sale City" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="311">
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Baconton" votes="5" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="41" />
+                <Precinct name="Camilla South" votes="30" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="4" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="4" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Baconton" votes="3" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="23" />
+                <Precinct name="Camilla South" votes="24" />
+                <Precinct name="Cotton" votes="2" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="5" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="13" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="156">
+                <Precinct name="Baconton" votes="27" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="46" />
+                <Precinct name="Camilla South" votes="44" />
+                <Precinct name="Cotton" votes="4" />
+                <Precinct name="Hopeful" votes="3" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="2" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="27" />
+                <Precinct name="Sale City" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Baconton" votes="2" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="4" />
+            <Precinct name="Camilla South" votes="1" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="3" />
+            <Precinct name="Sale City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="347">
+            <VoteType name="Absentee by Mail Votes" votes="77">
+                <Precinct name="Baconton" votes="2" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="35" />
+                <Precinct name="Camilla South" votes="31" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="1" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="6" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="76">
+                <Precinct name="Baconton" votes="4" />
+                <Precinct name="Branchville" votes="3" />
+                <Precinct name="Camilla North" votes="21" />
+                <Precinct name="Camilla South" votes="30" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="5" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="12" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="194">
+                <Precinct name="Baconton" votes="27" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="65" />
+                <Precinct name="Camilla South" votes="53" />
+                <Precinct name="Cotton" votes="2" />
+                <Precinct name="Hopeful" votes="2" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="11" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="26" />
+                <Precinct name="Sale City" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="170">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Baconton" votes="4" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="12" />
+                <Precinct name="Camilla South" votes="7" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="3" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="4" />
+                <Precinct name="Sale City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="52">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="14" />
+                <Precinct name="Camilla South" votes="18" />
+                <Precinct name="Cotton" votes="2" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="6" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="11" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Baconton" votes="11" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="23" />
+                <Precinct name="Camilla South" votes="17" />
+                <Precinct name="Cotton" votes="3" />
+                <Precinct name="Hopeful" votes="1" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="4" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="23" />
+                <Precinct name="Sale City" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Baconton" votes="0" />
+            <Precinct name="Branchville" votes="0" />
+            <Precinct name="Camilla North" votes="0" />
+            <Precinct name="Camilla South" votes="0" />
+            <Precinct name="Cotton" votes="0" />
+            <Precinct name="Hopeful" votes="0" />
+            <Precinct name="Hinsonton" votes="0" />
+            <Precinct name="Lester" votes="0" />
+            <Precinct name="Pebble City" votes="0" />
+            <Precinct name="Pelham" votes="0" />
+            <Precinct name="Sale City" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Jeremy Hunt" party="REP" totalVotes="334">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="5" />
+                <Precinct name="Camilla North" votes="1" />
+                <Precinct name="Camilla South" votes="9" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="3" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="2" />
+                <Precinct name="Sale City" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="78">
+                <Precinct name="Baconton" votes="4" />
+                <Precinct name="Branchville" votes="10" />
+                <Precinct name="Camilla North" votes="8" />
+                <Precinct name="Camilla South" votes="40" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="4" />
+                <Precinct name="Pebble City" votes="3" />
+                <Precinct name="Pelham" votes="9" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="234">
+                <Precinct name="Baconton" votes="23" />
+                <Precinct name="Branchville" votes="35" />
+                <Precinct name="Camilla North" votes="6" />
+                <Precinct name="Camilla South" votes="40" />
+                <Precinct name="Cotton" votes="17" />
+                <Precinct name="Hopeful" votes="16" />
+                <Precinct name="Hinsonton" votes="4" />
+                <Precinct name="Lester" votes="42" />
+                <Precinct name="Pebble City" votes="7" />
+                <Precinct name="Pelham" votes="37" />
+                <Precinct name="Sale City" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="0" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="0" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Chris West" party="REP" totalVotes="891">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="2" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="28" />
+                <Precinct name="Cotton" votes="3" />
+                <Precinct name="Hopeful" votes="4" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="5" />
+                <Precinct name="Pebble City" votes="4" />
+                <Precinct name="Pelham" votes="1" />
+                <Precinct name="Sale City" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="213">
+                <Precinct name="Baconton" votes="9" />
+                <Precinct name="Branchville" votes="9" />
+                <Precinct name="Camilla North" votes="21" />
+                <Precinct name="Camilla South" votes="100" />
+                <Precinct name="Cotton" votes="5" />
+                <Precinct name="Hopeful" votes="8" />
+                <Precinct name="Hinsonton" votes="2" />
+                <Precinct name="Lester" votes="15" />
+                <Precinct name="Pebble City" votes="1" />
+                <Precinct name="Pelham" votes="38" />
+                <Precinct name="Sale City" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="627">
+                <Precinct name="Baconton" votes="41" />
+                <Precinct name="Branchville" votes="83" />
+                <Precinct name="Camilla North" votes="30" />
+                <Precinct name="Camilla South" votes="114" />
+                <Precinct name="Cotton" votes="60" />
+                <Precinct name="Hopeful" votes="55" />
+                <Precinct name="Hinsonton" votes="36" />
+                <Precinct name="Lester" votes="43" />
+                <Precinct name="Pebble City" votes="16" />
+                <Precinct name="Pelham" votes="111" />
+                <Precinct name="Sale City" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Baconton" votes="0" />
+                <Precinct name="Branchville" votes="1" />
+                <Precinct name="Camilla North" votes="0" />
+                <Precinct name="Camilla South" votes="0" />
+                <Precinct name="Cotton" votes="0" />
+                <Precinct name="Hopeful" votes="0" />
+                <Precinct name="Hinsonton" votes="0" />
+                <Precinct name="Lester" votes="1" />
+                <Precinct name="Pebble City" votes="0" />
+                <Precinct name="Pelham" votes="0" />
+                <Precinct name="Sale City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

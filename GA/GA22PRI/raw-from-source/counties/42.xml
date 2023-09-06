@@ -1,0 +1,3648 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/31/2022 5:00:55 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Dawson</Region>
+    <VoterTurnout totalVoters="21770" ballotsCast="6613" voterTurnout="30.38">
+        <Precincts>
+            <Precinct name="West" totalVoters="2603" ballotsCast="1069" voterTurnout="41.07" percentReporting="4" />
+            <Precinct name="Central" totalVoters="9876" ballotsCast="2880" voterTurnout="29.16" percentReporting="4" />
+            <Precinct name="East" totalVoters="9291" ballotsCast="2664" voterTurnout="28.67" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="REP - US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="West" votes="25" />
+            <Precinct name="Central" votes="71" />
+            <Precinct name="East" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Gary W. Black" party="REP" totalVotes="983">
+            <VoteType name="Election Day Votes" votes="431">
+                <Precinct name="West" votes="85" />
+                <Precinct name="Central" votes="179" />
+                <Precinct name="East" votes="167" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="501">
+                <Precinct name="West" votes="73" />
+                <Precinct name="Central" votes="277" />
+                <Precinct name="East" votes="151" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Josh Clark" party="REP" totalVotes="309">
+            <VoteType name="Election Day Votes" votes="193">
+                <Precinct name="West" votes="38" />
+                <Precinct name="Central" votes="76" />
+                <Precinct name="East" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="108">
+                <Precinct name="West" votes="15" />
+                <Precinct name="Central" votes="52" />
+                <Precinct name="East" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Kelvin King" party="REP" totalVotes="243">
+            <VoteType name="Election Day Votes" votes="127">
+                <Precinct name="West" votes="33" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="108">
+                <Precinct name="West" votes="24" />
+                <Precinct name="Central" votes="34" />
+                <Precinct name="East" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="154">
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="38" />
+                <Precinct name="East" votes="44" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="33" />
+                <Precinct name="East" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Latham Saddler" party="REP" totalVotes="575">
+            <VoteType name="Election Day Votes" votes="314">
+                <Precinct name="West" votes="68" />
+                <Precinct name="Central" votes="117" />
+                <Precinct name="East" votes="129" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="239">
+                <Precinct name="West" votes="30" />
+                <Precinct name="Central" votes="111" />
+                <Precinct name="East" votes="98" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="West" votes="9" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Herschel Junior Walker" party="REP" totalVotes="4200">
+            <VoteType name="Election Day Votes" votes="2152">
+                <Precinct name="West" votes="370" />
+                <Precinct name="Central" votes="852" />
+                <Precinct name="East" votes="930" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1963">
+                <Precinct name="West" votes="253" />
+                <Precinct name="Central" votes="931" />
+                <Precinct name="East" votes="779" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="West" votes="14" />
+                <Precinct name="Central" votes="36" />
+                <Precinct name="East" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="DEM - US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="9" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="54" text="Tamara Johnson-Shealey" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Raphael Warnock (I)" party="DEM" totalVotes="528">
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="West" votes="51" />
+                <Precinct name="Central" votes="52" />
+                <Precinct name="East" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="279">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="86" />
+                <Precinct name="East" votes="112" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="West" votes="28" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="REP - Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="West" votes="2" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Catherine Davis" party="REP" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brian Kemp (I)" party="REP" totalVotes="4751">
+            <VoteType name="Election Day Votes" votes="2323">
+                <Precinct name="West" votes="440" />
+                <Precinct name="Central" votes="919" />
+                <Precinct name="East" votes="964" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2292">
+                <Precinct name="West" votes="320" />
+                <Precinct name="Central" votes="1075" />
+                <Precinct name="East" votes="897" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="135">
+                <Precinct name="West" votes="39" />
+                <Precinct name="Central" votes="40" />
+                <Precinct name="East" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="David A. Perdue" party="REP" totalVotes="1505">
+            <VoteType name="Election Day Votes" votes="842">
+                <Precinct name="West" votes="146" />
+                <Precinct name="Central" votes="336" />
+                <Precinct name="East" votes="360" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="626">
+                <Precinct name="West" votes="76" />
+                <Precinct name="Central" votes="327" />
+                <Precinct name="East" votes="223" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="23" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Kandiss Taylor" party="REP" totalVotes="286">
+            <VoteType name="Election Day Votes" votes="186">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="77" />
+                <Precinct name="East" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="97">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="54" />
+                <Precinct name="East" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Tom Williams" party="REP" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="DEM - Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="West" votes="2" />
+            <Precinct name="Central" votes="16" />
+            <Precinct name="East" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="61" text="Stacey Abrams" party="DEM" totalVotes="532">
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="West" votes="54" />
+                <Precinct name="Central" votes="51" />
+                <Precinct name="East" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="283">
+                <Precinct name="West" votes="82" />
+                <Precinct name="Central" votes="92" />
+                <Precinct name="East" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="REP - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="439">
+            <Precinct name="West" votes="96" />
+            <Precinct name="Central" votes="172" />
+            <Precinct name="East" votes="171" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Burt Jones" party="REP" totalVotes="2899">
+            <VoteType name="Election Day Votes" votes="1469">
+                <Precinct name="West" votes="309" />
+                <Precinct name="Central" votes="561" />
+                <Precinct name="East" votes="599" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1365">
+                <Precinct name="West" votes="201" />
+                <Precinct name="Central" votes="660" />
+                <Precinct name="East" votes="504" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="29" />
+                <Precinct name="East" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Mack McGregor" party="REP" totalVotes="664">
+            <VoteType name="Election Day Votes" votes="378">
+                <Precinct name="West" votes="64" />
+                <Precinct name="Central" votes="164" />
+                <Precinct name="East" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="270">
+                <Precinct name="West" votes="34" />
+                <Precinct name="Central" votes="123" />
+                <Precinct name="East" votes="113" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Butch Miller" party="REP" totalVotes="2228">
+            <VoteType name="Election Day Votes" votes="1095">
+                <Precinct name="West" votes="136" />
+                <Precinct name="Central" votes="468" />
+                <Precinct name="East" votes="491" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1059">
+                <Precinct name="West" votes="110" />
+                <Precinct name="Central" votes="546" />
+                <Precinct name="East" votes="403" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="73">
+                <Precinct name="West" votes="18" />
+                <Precinct name="Central" votes="24" />
+                <Precinct name="East" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jeanne Seaver" party="REP" totalVotes="383">
+            <VoteType name="Election Day Votes" votes="196">
+                <Precinct name="West" votes="45" />
+                <Precinct name="Central" votes="58" />
+                <Precinct name="East" votes="93" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="178">
+                <Precinct name="West" votes="38" />
+                <Precinct name="Central" votes="66" />
+                <Precinct name="East" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="West" votes="12" />
+            <Precinct name="Central" votes="14" />
+            <Precinct name="East" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Erick E. Allen" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="210">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="West" votes="23" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="124">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="35" />
+                <Precinct name="East" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Tyrone Brooks, Jr." party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Tony Brown" party="DEM" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="East" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Jason T. Hayes" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="9" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="Derrick L. Jackson" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="R. Malik" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Renitta Shannon" party="DEM" totalVotes="63">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="REP - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="204">
+            <Precinct name="West" votes="31" />
+            <Precinct name="Central" votes="89" />
+            <Precinct name="East" votes="84" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="75" text="David C. Belle Isle" party="REP" totalVotes="770">
+            <VoteType name="Election Day Votes" votes="341">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="136" />
+                <Precinct name="East" votes="162" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="407">
+                <Precinct name="West" votes="49" />
+                <Precinct name="Central" votes="209" />
+                <Precinct name="East" votes="149" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Jody Hice" party="REP" totalVotes="2214">
+            <VoteType name="Election Day Votes" votes="1194">
+                <Precinct name="West" votes="206" />
+                <Precinct name="Central" votes="491" />
+                <Precinct name="East" votes="497" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="972">
+                <Precinct name="West" votes="112" />
+                <Precinct name="Central" votes="487" />
+                <Precinct name="East" votes="373" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="25" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="T.J. Hudson" party="REP" totalVotes="358">
+            <VoteType name="Election Day Votes" votes="182">
+                <Precinct name="West" votes="15" />
+                <Precinct name="Central" votes="98" />
+                <Precinct name="East" votes="69" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="West" votes="17" />
+                <Precinct name="Central" votes="89" />
+                <Precinct name="East" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Brad Raffensperger (I)" party="REP" totalVotes="3067">
+            <VoteType name="Election Day Votes" votes="1557">
+                <Precinct name="West" votes="333" />
+                <Precinct name="Central" votes="575" />
+                <Precinct name="East" votes="649" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1417">
+                <Precinct name="West" votes="223" />
+                <Precinct name="Central" votes="641" />
+                <Precinct name="East" votes="553" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="93">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="25" />
+                <Precinct name="East" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="West" votes="10" />
+            <Precinct name="Central" votes="17" />
+            <Precinct name="East" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="West" votes="9" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="John Eaves" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Floyd Griffin" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="348">
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="West" votes="39" />
+                <Precinct name="Central" votes="24" />
+                <Precinct name="East" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="184">
+                <Precinct name="West" votes="64" />
+                <Precinct name="Central" votes="42" />
+                <Precinct name="East" votes="78" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="West" votes="21" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Michael Owens" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="18" />
+                <Precinct name="East" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="REP - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="416">
+            <Precinct name="West" votes="80" />
+            <Precinct name="Central" votes="168" />
+            <Precinct name="East" votes="168" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Chris Carr (I)" party="REP" totalVotes="4379">
+            <VoteType name="Election Day Votes" votes="2151">
+                <Precinct name="West" votes="403" />
+                <Precinct name="Central" votes="850" />
+                <Precinct name="East" votes="898" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2093">
+                <Precinct name="West" votes="289" />
+                <Precinct name="Central" votes="1000" />
+                <Precinct name="East" votes="804" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="West" votes="34" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="John Gordon" party="REP" totalVotes="1818">
+            <VoteType name="Election Day Votes" votes="1014">
+                <Precinct name="West" votes="169" />
+                <Precinct name="Central" votes="411" />
+                <Precinct name="East" votes="434" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="773">
+                <Precinct name="West" votes="91" />
+                <Precinct name="Central" votes="390" />
+                <Precinct name="East" votes="292" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="DEM - Attorney General" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="West" votes="10" />
+            <Precinct name="Central" votes="14" />
+            <Precinct name="East" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="460">
+            <VoteType name="Election Day Votes" votes="160">
+                <Precinct name="West" votes="49" />
+                <Precinct name="Central" votes="42" />
+                <Precinct name="East" votes="69" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="244">
+                <Precinct name="West" votes="71" />
+                <Precinct name="Central" votes="76" />
+                <Precinct name="East" votes="97" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="West" votes="23" />
+                <Precinct name="Central" votes="15" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Christian Wise Smith" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="REP - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="892">
+            <Precinct name="West" votes="180" />
+            <Precinct name="Central" votes="379" />
+            <Precinct name="East" votes="333" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Tyler Harper" party="REP" totalVotes="5721">
+            <VoteType name="Election Day Votes" votes="2912">
+                <Precinct name="West" votes="506" />
+                <Precinct name="Central" votes="1164" />
+                <Precinct name="East" votes="1242" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2672">
+                <Precinct name="West" votes="353" />
+                <Precinct name="Central" votes="1286" />
+                <Precinct name="East" votes="1033" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="135">
+                <Precinct name="West" votes="30" />
+                <Precinct name="Central" votes="50" />
+                <Precinct name="East" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="DEM - Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="63">
+            <Precinct name="West" votes="17" />
+            <Precinct name="Central" votes="20" />
+            <Precinct name="East" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Winfred Dukes" party="DEM" totalVotes="133">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="West" votes="19" />
+                <Precinct name="Central" votes="15" />
+                <Precinct name="East" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="26" />
+                <Precinct name="East" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nakita Hemingway" party="DEM" totalVotes="203">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="West" votes="22" />
+                <Precinct name="Central" votes="24" />
+                <Precinct name="East" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="105">
+                <Precinct name="West" votes="23" />
+                <Precinct name="Central" votes="39" />
+                <Precinct name="East" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="Fred Swann" party="DEM" totalVotes="164">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="99">
+                <Precinct name="West" votes="38" />
+                <Precinct name="Central" votes="23" />
+                <Precinct name="East" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="REP - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="512">
+            <Precinct name="West" votes="114" />
+            <Precinct name="Central" votes="199" />
+            <Precinct name="East" votes="199" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Ben Cowart" party="REP" totalVotes="834">
+            <VoteType name="Election Day Votes" votes="418">
+                <Precinct name="West" votes="55" />
+                <Precinct name="Central" votes="190" />
+                <Precinct name="East" votes="173" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="394">
+                <Precinct name="West" votes="48" />
+                <Precinct name="Central" votes="209" />
+                <Precinct name="East" votes="137" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="John King (I)" party="REP" totalVotes="4188">
+            <VoteType name="Election Day Votes" votes="2043">
+                <Precinct name="West" votes="382" />
+                <Precinct name="Central" votes="794" />
+                <Precinct name="East" votes="867" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2017">
+                <Precinct name="West" votes="285" />
+                <Precinct name="Central" votes="935" />
+                <Precinct name="East" votes="797" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="West" votes="35" />
+                <Precinct name="Central" votes="41" />
+                <Precinct name="East" votes="51" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="Patrick Witt" party="REP" totalVotes="1079">
+            <VoteType name="Election Day Votes" votes="631">
+                <Precinct name="West" votes="102" />
+                <Precinct name="Central" votes="256" />
+                <Precinct name="East" votes="273" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="432">
+                <Precinct name="West" votes="44" />
+                <Precinct name="Central" votes="235" />
+                <Precinct name="East" votes="153" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="West" votes="17" />
+            <Precinct name="Central" votes="18" />
+            <Precinct name="East" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="West" votes="13" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="243">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="West" votes="27" />
+                <Precinct name="Central" votes="24" />
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="131">
+                <Precinct name="West" votes="33" />
+                <Precinct name="Central" votes="51" />
+                <Precinct name="East" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="West" votes="14" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Matthew Wilson" party="DEM" totalVotes="152">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="West" votes="17" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="79">
+                <Precinct name="West" votes="25" />
+                <Precinct name="Central" votes="21" />
+                <Precinct name="East" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="West" votes="9" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="REP - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="552">
+            <Precinct name="West" votes="130" />
+            <Precinct name="Central" votes="228" />
+            <Precinct name="East" votes="194" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="98" text="John D. Barge" party="REP" totalVotes="1802">
+            <VoteType name="Election Day Votes" votes="953">
+                <Precinct name="West" votes="168" />
+                <Precinct name="Central" votes="378" />
+                <Precinct name="East" votes="407" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="805">
+                <Precinct name="West" votes="97" />
+                <Precinct name="Central" votes="424" />
+                <Precinct name="East" votes="284" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="21" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Richard Woods (I)" party="REP" totalVotes="4259">
+            <VoteType name="Election Day Votes" votes="2128">
+                <Precinct name="West" votes="358" />
+                <Precinct name="Central" votes="853" />
+                <Precinct name="East" votes="917" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2015">
+                <Precinct name="West" votes="279" />
+                <Precinct name="Central" votes="938" />
+                <Precinct name="East" votes="798" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="115">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="37" />
+                <Precinct name="East" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="DEM - State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="West" votes="17" />
+            <Precinct name="Central" votes="22" />
+            <Precinct name="East" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Currey Hitchens" party="DEM" totalVotes="141">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="West" votes="27" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="East" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="Jaha V. Howard" party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="James Morrow, Jr." party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="Alisha Thomas Searcy" party="DEM" totalVotes="225">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="West" votes="25" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="East" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="119">
+                <Precinct name="West" votes="32" />
+                <Precinct name="Central" votes="41" />
+                <Precinct name="East" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="REP - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="985">
+            <Precinct name="West" votes="217" />
+            <Precinct name="Central" votes="374" />
+            <Precinct name="East" votes="394" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Kartik Bhatt" party="REP" totalVotes="358">
+            <VoteType name="Election Day Votes" votes="187">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="85" />
+                <Precinct name="East" votes="73" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="155">
+                <Precinct name="West" votes="23" />
+                <Precinct name="Central" votes="81" />
+                <Precinct name="East" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="Mike Coan" party="REP" totalVotes="1603">
+            <VoteType name="Election Day Votes" votes="852">
+                <Precinct name="West" votes="142" />
+                <Precinct name="Central" votes="319" />
+                <Precinct name="East" votes="391" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="716">
+                <Precinct name="West" votes="89" />
+                <Precinct name="Central" votes="353" />
+                <Precinct name="East" votes="274" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="Bruce Thompson" party="REP" totalVotes="3667">
+            <VoteType name="Election Day Votes" votes="1836">
+                <Precinct name="West" votes="323" />
+                <Precinct name="Central" votes="760" />
+                <Precinct name="East" votes="753" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1733">
+                <Precinct name="West" votes="213" />
+                <Precinct name="Central" votes="846" />
+                <Precinct name="East" votes="674" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="96">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="43" />
+                <Precinct name="East" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="73">
+            <Precinct name="West" votes="22" />
+            <Precinct name="Central" votes="22" />
+            <Precinct name="East" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="100">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="West" votes="13" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="West" votes="17" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="Thomas Dean" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="15" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="240">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="West" votes="19" />
+                <Precinct name="Central" votes="18" />
+                <Precinct name="East" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="139">
+                <Precinct name="West" votes="40" />
+                <Precinct name="Central" votes="41" />
+                <Precinct name="East" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="Lester G. Jackson III" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="Nadia Surrency" party="DEM" totalVotes="68">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="9" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="REP - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="859">
+            <Precinct name="West" votes="175" />
+            <Precinct name="Central" votes="352" />
+            <Precinct name="East" votes="332" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Tim Echols (I)" party="REP" totalVotes="5754">
+            <VoteType name="Election Day Votes" votes="2930">
+                <Precinct name="West" votes="509" />
+                <Precinct name="Central" votes="1182" />
+                <Precinct name="East" votes="1239" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2687">
+                <Precinct name="West" votes="355" />
+                <Precinct name="Central" votes="1293" />
+                <Precinct name="East" votes="1039" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="135">
+                <Precinct name="West" votes="30" />
+                <Precinct name="Central" votes="52" />
+                <Precinct name="East" votes="53" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="DEM - Public Service Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="West" votes="24" />
+            <Precinct name="Central" votes="22" />
+            <Precinct name="East" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Patty Durand" party="DEM" totalVotes="408">
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="West" votes="40" />
+                <Precinct name="Central" votes="39" />
+                <Precinct name="East" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="225">
+                <Precinct name="West" votes="59" />
+                <Precinct name="Central" votes="73" />
+                <Precinct name="East" votes="93" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="West" votes="22" />
+                <Precinct name="Central" votes="14" />
+                <Precinct name="East" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="Russell Edwards" party="DEM" totalVotes="83">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="14" />
+                <Precinct name="East" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="REP - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1027">
+            <Precinct name="West" votes="200" />
+            <Precinct name="Central" votes="431" />
+            <Precinct name="East" votes="396" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Fitz Johnson (I)" party="REP" totalVotes="5586">
+            <VoteType name="Election Day Votes" votes="2856">
+                <Precinct name="West" votes="496" />
+                <Precinct name="Central" votes="1157" />
+                <Precinct name="East" votes="1203" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2599">
+                <Precinct name="West" votes="344" />
+                <Precinct name="Central" votes="1243" />
+                <Precinct name="East" votes="1012" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="48" />
+                <Precinct name="East" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="DEM - Public Service Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="80">
+            <Precinct name="West" votes="26" />
+            <Precinct name="Central" votes="22" />
+            <Precinct name="East" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Shelia Edwards" party="DEM" totalVotes="220">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="West" votes="22" />
+                <Precinct name="Central" votes="27" />
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="West" votes="35" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="117" text="Chandra Farley" party="DEM" totalVotes="142">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="West" votes="9" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="77">
+                <Precinct name="West" votes="25" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="East" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="Missy Moore" party="DEM" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="23" />
+                <Precinct name="East" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="444">
+            <Precinct name="West" votes="132" />
+            <Precinct name="Central" votes="149" />
+            <Precinct name="East" votes="163" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Jake Evans" party="REP" totalVotes="1841">
+            <VoteType name="Election Day Votes" votes="986">
+                <Precinct name="West" votes="118" />
+                <Precinct name="Central" votes="440" />
+                <Precinct name="East" votes="428" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="805">
+                <Precinct name="West" votes="69" />
+                <Precinct name="Central" votes="405" />
+                <Precinct name="East" votes="331" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="28" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="Byron Gatewood" party="REP" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="West" votes="14" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="East" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="121" text="Meagan Hanson" party="REP" totalVotes="464">
+            <VoteType name="Election Day Votes" votes="226">
+                <Precinct name="West" votes="49" />
+                <Precinct name="Central" votes="85" />
+                <Precinct name="East" votes="92" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="223">
+                <Precinct name="West" votes="28" />
+                <Precinct name="Central" votes="98" />
+                <Precinct name="East" votes="97" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="Blake Harbin" party="REP" totalVotes="308">
+            <VoteType name="Election Day Votes" votes="169">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="74" />
+                <Precinct name="East" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="134">
+                <Precinct name="West" votes="13" />
+                <Precinct name="Central" votes="73" />
+                <Precinct name="East" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="Rich McCormick" party="REP" totalVotes="2647">
+            <VoteType name="Election Day Votes" votes="1280">
+                <Precinct name="West" votes="244" />
+                <Precinct name="Central" votes="506" />
+                <Precinct name="East" votes="530" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1299">
+                <Precinct name="West" votes="191" />
+                <Precinct name="Central" votes="618" />
+                <Precinct name="East" votes="490" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="West" votes="18" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Paulette Smith" party="REP" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="9" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="125" text="Mallory Staples" party="REP" totalVotes="359">
+            <VoteType name="Election Day Votes" votes="212">
+                <Precinct name="West" votes="27" />
+                <Precinct name="Central" votes="79" />
+                <Precinct name="East" votes="106" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="142">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="79" />
+                <Precinct name="East" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="Suzi Voyles" party="REP" totalVotes="86">
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="West" votes="22" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="127" text="Eugene Yu" party="REP" totalVotes="308">
+            <VoteType name="Election Day Votes" votes="149">
+                <Precinct name="West" votes="31" />
+                <Precinct name="Central" votes="52" />
+                <Precinct name="East" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="142">
+                <Precinct name="West" votes="21" />
+                <Precinct name="Central" votes="78" />
+                <Precinct name="East" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="DEM - US House Dist 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="West" votes="18" />
+            <Precinct name="Central" votes="20" />
+            <Precinct name="East" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Bob Christian" party="DEM" totalVotes="329">
+            <VoteType name="Election Day Votes" votes="110">
+                <Precinct name="West" votes="27" />
+                <Precinct name="Central" votes="35" />
+                <Precinct name="East" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="185">
+                <Precinct name="West" votes="50" />
+                <Precinct name="Central" votes="61" />
+                <Precinct name="East" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="129" text="Wayne C. White" party="DEM" totalVotes="175">
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="West" votes="20" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="East" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="87">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="27" />
+                <Precinct name="East" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="West" votes="12" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="REP - State Senate Dist 51" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="914">
+            <Precinct name="West" votes="185" />
+            <Precinct name="Central" votes="382" />
+            <Precinct name="East" votes="347" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Steve Gooch (I)" party="REP" totalVotes="5699">
+            <VoteType name="Election Day Votes" votes="2892">
+                <Precinct name="West" votes="506" />
+                <Precinct name="Central" votes="1159" />
+                <Precinct name="East" votes="1227" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2662">
+                <Precinct name="West" votes="347" />
+                <Precinct name="Central" votes="1283" />
+                <Precinct name="East" votes="1032" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="143">
+                <Precinct name="West" votes="31" />
+                <Precinct name="Central" votes="55" />
+                <Precinct name="East" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="REP - State House Dist 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="201">
+            <Precinct name="West" votes="201" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+        </VoteType>
+        <Choice key="131" text="David Ralston (I)" party="REP" totalVotes="868">
+            <VoteType name="Election Day Votes" votes="498">
+                <Precinct name="West" votes="498" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="336">
+                <Precinct name="West" votes="336" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="West" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="REP - State House Dist 9" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="295">
+            <Precinct name="Central" votes="143" />
+            <Precinct name="East" votes="152" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="132" text="Tyler Tolin" party="REP" totalVotes="963">
+            <VoteType name="Election Day Votes" votes="518">
+                <Precinct name="Central" votes="273" />
+                <Precinct name="East" votes="245" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="421">
+                <Precinct name="Central" votes="257" />
+                <Precinct name="East" votes="164" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Central" votes="14" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="133" text="Will Wade (I)" party="REP" totalVotes="4286">
+            <VoteType name="Election Day Votes" votes="2085">
+                <Precinct name="Central" votes="997" />
+                <Precinct name="East" votes="1088" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2093">
+                <Precinct name="Central" votes="1146" />
+                <Precinct name="East" votes="947" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="107">
+                <Precinct name="Central" votes="49" />
+                <Precinct name="East" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="REP - District Attorney Northeastern Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="971">
+            <Precinct name="West" votes="193" />
+            <Precinct name="Central" votes="400" />
+            <Precinct name="East" votes="378" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Lee Darragh (I)" party="REP" totalVotes="5642">
+            <VoteType name="Election Day Votes" votes="2860">
+                <Precinct name="West" votes="501" />
+                <Precinct name="Central" votes="1156" />
+                <Precinct name="East" votes="1203" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2641">
+                <Precinct name="West" votes="343" />
+                <Precinct name="Central" votes="1274" />
+                <Precinct name="East" votes="1024" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="139">
+                <Precinct name="West" votes="32" />
+                <Precinct name="Central" votes="49" />
+                <Precinct name="East" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="REP - County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="869">
+            <Precinct name="West" votes="198" />
+            <Precinct name="Central" votes="328" />
+            <Precinct name="East" votes="343" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Seth Stowers" party="REP" totalVotes="5744">
+            <VoteType name="Election Day Votes" votes="2908">
+                <Precinct name="West" votes="500" />
+                <Precinct name="Central" votes="1183" />
+                <Precinct name="East" votes="1225" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2691">
+                <Precinct name="West" votes="339" />
+                <Precinct name="Central" votes="1317" />
+                <Precinct name="East" votes="1035" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="143">
+                <Precinct name="West" votes="32" />
+                <Precinct name="Central" votes="51" />
+                <Precinct name="East" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="REP - County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="880">
+            <Precinct name="West" votes="260" />
+            <Precinct name="Central" votes="292" />
+            <Precinct name="East" votes="328" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="136" text="Alexa Bruce" party="REP" totalVotes="3888">
+            <VoteType name="Election Day Votes" votes="2019">
+                <Precinct name="West" votes="299" />
+                <Precinct name="Central" votes="866" />
+                <Precinct name="East" votes="854" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1766">
+                <Precinct name="West" votes="194" />
+                <Precinct name="Central" votes="930" />
+                <Precinct name="East" votes="642" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="102">
+                <Precinct name="West" votes="15" />
+                <Precinct name="Central" votes="42" />
+                <Precinct name="East" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="137" text="Deanna M. Dickinson" party="REP" totalVotes="1845">
+            <VoteType name="Election Day Votes" votes="869">
+                <Precinct name="West" votes="166" />
+                <Precinct name="Central" votes="324" />
+                <Precinct name="East" votes="379" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="929">
+                <Precinct name="West" votes="121" />
+                <Precinct name="Central" votes="410" />
+                <Precinct name="East" votes="398" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="West" votes="14" />
+                <Precinct name="Central" votes="15" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="REP - County Board of Education At LRG" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="943">
+            <Precinct name="West" votes="200" />
+            <Precinct name="Central" votes="376" />
+            <Precinct name="East" votes="367" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Nathan Ingram (I)" party="REP" totalVotes="5670">
+            <VoteType name="Election Day Votes" votes="2883">
+                <Precinct name="West" votes="496" />
+                <Precinct name="Central" votes="1168" />
+                <Precinct name="East" votes="1219" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2652">
+                <Precinct name="West" votes="344" />
+                <Precinct name="Central" votes="1286" />
+                <Precinct name="East" votes="1022" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="49" />
+                <Precinct name="East" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="REP - County Board of Education Dist 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="989">
+            <Precinct name="West" votes="202" />
+            <Precinct name="Central" votes="400" />
+            <Precinct name="East" votes="387" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="139" text="Karen Marie Armstrong (I)" party="REP" totalVotes="5624">
+            <VoteType name="Election Day Votes" votes="2859">
+                <Precinct name="West" votes="494" />
+                <Precinct name="Central" votes="1159" />
+                <Precinct name="East" votes="1206" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2632">
+                <Precinct name="West" votes="343" />
+                <Precinct name="Central" votes="1276" />
+                <Precinct name="East" votes="1013" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="131">
+                <Precinct name="West" votes="30" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="West" votes="20" />
+            <Precinct name="Central" votes="34" />
+            <Precinct name="East" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="140" text="Yes" party="REP" totalVotes="6252">
+            <VoteType name="Election Day Votes" votes="3214">
+                <Precinct name="West" votes="570" />
+                <Precinct name="Central" votes="1293" />
+                <Precinct name="East" votes="1351" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2883">
+                <Precinct name="West" votes="374" />
+                <Precinct name="Central" votes="1402" />
+                <Precinct name="East" votes="1107" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="153">
+                <Precinct name="West" votes="34" />
+                <Precinct name="Central" votes="57" />
+                <Precinct name="East" votes="62" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="141" text="No" party="REP" totalVotes="274">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="West" votes="34" />
+                <Precinct name="Central" votes="39" />
+                <Precinct name="East" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="127">
+                <Precinct name="West" votes="32" />
+                <Precinct name="Central" votes="48" />
+                <Precinct name="East" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="140">
+            <Precinct name="West" votes="31" />
+            <Precinct name="Central" votes="58" />
+            <Precinct name="East" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="142" text="Yes" party="REP" totalVotes="5257">
+            <VoteType name="Election Day Votes" votes="2726">
+                <Precinct name="West" votes="508" />
+                <Precinct name="Central" votes="1085" />
+                <Precinct name="East" votes="1133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2409">
+                <Precinct name="West" votes="324" />
+                <Precinct name="Central" votes="1142" />
+                <Precinct name="East" votes="943" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="120">
+                <Precinct name="West" votes="27" />
+                <Precinct name="Central" votes="41" />
+                <Precinct name="East" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="143" text="No" party="REP" totalVotes="1216">
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="West" votes="87" />
+                <Precinct name="Central" votes="240" />
+                <Precinct name="East" votes="261" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="578">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="292" />
+                <Precinct name="East" votes="205" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="21" />
+                <Precinct name="East" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="207">
+            <Precinct name="West" votes="36" />
+            <Precinct name="Central" votes="96" />
+            <Precinct name="East" votes="75" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="144" text="Yes" party="REP" totalVotes="5559">
+            <VoteType name="Election Day Votes" votes="2870">
+                <Precinct name="West" votes="514" />
+                <Precinct name="Central" votes="1144" />
+                <Precinct name="East" votes="1212" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2559">
+                <Precinct name="West" votes="343" />
+                <Precinct name="Central" votes="1227" />
+                <Precinct name="East" votes="989" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="48" />
+                <Precinct name="East" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="145" text="No" party="REP" totalVotes="847">
+            <VoteType name="Election Day Votes" votes="422">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="164" />
+                <Precinct name="East" votes="177" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="386">
+                <Precinct name="West" votes="58" />
+                <Precinct name="Central" votes="187" />
+                <Precinct name="East" votes="141" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="West" votes="11" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="334">
+            <Precinct name="West" votes="53" />
+            <Precinct name="Central" votes="151" />
+            <Precinct name="East" votes="130" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="146" text="Yes" party="REP" totalVotes="5524">
+            <VoteType name="Election Day Votes" votes="2847">
+                <Precinct name="West" votes="539" />
+                <Precinct name="Central" votes="1117" />
+                <Precinct name="East" votes="1191" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2537">
+                <Precinct name="West" votes="346" />
+                <Precinct name="Central" votes="1206" />
+                <Precinct name="East" votes="985" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="West" votes="33" />
+                <Precinct name="Central" votes="47" />
+                <Precinct name="East" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="147" text="No" party="REP" totalVotes="755">
+            <VoteType name="Election Day Votes" votes="375">
+                <Precinct name="West" votes="46" />
+                <Precinct name="Central" votes="161" />
+                <Precinct name="East" votes="168" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="351">
+                <Precinct name="West" votes="46" />
+                <Precinct name="Central" votes="186" />
+                <Precinct name="East" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="East" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="West" votes="21" />
+            <Precinct name="Central" votes="43" />
+            <Precinct name="East" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="148" text="Yes" party="REP" totalVotes="199">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="West" votes="25" />
+                <Precinct name="Central" votes="31" />
+                <Precinct name="East" votes="38" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="West" votes="16" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="149" text="No" party="REP" totalVotes="6308">
+            <VoteType name="Election Day Votes" votes="3247">
+                <Precinct name="West" votes="580" />
+                <Precinct name="Central" votes="1300" />
+                <Precinct name="East" votes="1367" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2897">
+                <Precinct name="West" votes="389" />
+                <Precinct name="Central" votes="1398" />
+                <Precinct name="East" votes="1110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="162">
+                <Precinct name="West" votes="37" />
+                <Precinct name="Central" votes="58" />
+                <Precinct name="East" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="150">
+            <Precinct name="West" votes="28" />
+            <Precinct name="Central" votes="66" />
+            <Precinct name="East" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="150" text="Yes" party="REP" totalVotes="6265">
+            <VoteType name="Election Day Votes" votes="3232">
+                <Precinct name="West" votes="580" />
+                <Precinct name="Central" votes="1292" />
+                <Precinct name="East" votes="1360" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2876">
+                <Precinct name="West" votes="383" />
+                <Precinct name="Central" votes="1389" />
+                <Precinct name="East" votes="1104" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="155">
+                <Precinct name="West" votes="31" />
+                <Precinct name="Central" votes="58" />
+                <Precinct name="East" votes="66" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="151" text="No" party="REP" totalVotes="198">
+            <VoteType name="Election Day Votes" votes="77">
+                <Precinct name="West" votes="20" />
+                <Precinct name="Central" votes="25" />
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="102">
+                <Precinct name="West" votes="19" />
+                <Precinct name="Central" votes="44" />
+                <Precinct name="East" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="148">
+            <Precinct name="West" votes="30" />
+            <Precinct name="Central" votes="63" />
+            <Precinct name="East" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="152" text="Yes" party="REP" totalVotes="5751">
+            <VoteType name="Election Day Votes" votes="2994">
+                <Precinct name="West" votes="517" />
+                <Precinct name="Central" votes="1214" />
+                <Precinct name="East" votes="1263" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2647">
+                <Precinct name="West" votes="336" />
+                <Precinct name="Central" votes="1286" />
+                <Precinct name="East" votes="1025" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="108">
+                <Precinct name="West" votes="21" />
+                <Precinct name="Central" votes="43" />
+                <Precinct name="East" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="153" text="No" party="REP" totalVotes="714">
+            <VoteType name="Election Day Votes" votes="316">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="108" />
+                <Precinct name="East" votes="127" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="334">
+                <Precinct name="West" votes="67" />
+                <Precinct name="Central" votes="145" />
+                <Precinct name="East" votes="122" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="West" votes="17" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="East" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="219">
+            <Precinct name="West" votes="39" />
+            <Precinct name="Central" votes="100" />
+            <Precinct name="East" votes="80" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="154" text="Yes" party="REP" totalVotes="5571">
+            <VoteType name="Election Day Votes" votes="2838">
+                <Precinct name="West" votes="537" />
+                <Precinct name="Central" votes="1099" />
+                <Precinct name="East" votes="1202" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2585">
+                <Precinct name="West" votes="358" />
+                <Precinct name="Central" votes="1217" />
+                <Precinct name="East" votes="1010" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="West" votes="31" />
+                <Precinct name="Central" votes="58" />
+                <Precinct name="East" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="155" text="No" party="REP" totalVotes="823">
+            <VoteType name="Election Day Votes" votes="441">
+                <Precinct name="West" votes="55" />
+                <Precinct name="Central" votes="211" />
+                <Precinct name="East" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="359">
+                <Precinct name="West" votes="42" />
+                <Precinct name="Central" votes="190" />
+                <Precinct name="East" votes="127" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="West" votes="5" />
+            <Precinct name="Central" votes="3" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="156" text="Yes" party="DEM" totalVotes="340">
+            <VoteType name="Election Day Votes" votes="126">
+                <Precinct name="West" votes="29" />
+                <Precinct name="Central" votes="45" />
+                <Precinct name="East" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="189">
+                <Precinct name="West" votes="48" />
+                <Precinct name="Central" votes="59" />
+                <Precinct name="East" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="157" text="No" party="DEM" totalVotes="213">
+            <VoteType name="Election Day Votes" votes="71">
+                <Precinct name="West" votes="24" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="107">
+                <Precinct name="West" votes="33" />
+                <Precinct name="Central" votes="40" />
+                <Precinct name="East" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="West" votes="15" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="West" votes="2" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="158" text="Yes" party="DEM" totalVotes="513">
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="West" votes="50" />
+                <Precinct name="Central" votes="52" />
+                <Precinct name="East" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="273">
+                <Precinct name="West" votes="79" />
+                <Precinct name="Central" votes="87" />
+                <Precinct name="East" votes="107" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="159" text="No" party="DEM" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="West" votes="2" />
+            <Precinct name="Central" votes="2" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="160" text="Yes" party="DEM" totalVotes="511">
+            <VoteType name="Election Day Votes" votes="179">
+                <Precinct name="West" votes="49" />
+                <Precinct name="Central" votes="53" />
+                <Precinct name="East" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="277">
+                <Precinct name="West" votes="77" />
+                <Precinct name="Central" votes="94" />
+                <Precinct name="East" votes="106" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="West" votes="24" />
+                <Precinct name="Central" votes="13" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="161" text="No" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="West" votes="4" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="West" votes="7" />
+            <Precinct name="Central" votes="8" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="162" text="Yes" party="DEM" totalVotes="473">
+            <VoteType name="Election Day Votes" votes="167">
+                <Precinct name="West" votes="47" />
+                <Precinct name="Central" votes="46" />
+                <Precinct name="East" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="257">
+                <Precinct name="West" votes="72" />
+                <Precinct name="Central" votes="83" />
+                <Precinct name="East" votes="102" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="West" votes="17" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="East" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="163" text="No" party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="West" votes="6" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="12" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West" votes="5" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="West" votes="6" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="164" text="Yes" party="DEM" totalVotes="418">
+            <VoteType name="Election Day Votes" votes="148">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="47" />
+                <Precinct name="East" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="235">
+                <Precinct name="West" votes="69" />
+                <Precinct name="Central" votes="77" />
+                <Precinct name="East" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="West" votes="15" />
+                <Precinct name="Central" votes="9" />
+                <Precinct name="East" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="165" text="No" party="DEM" totalVotes="131">
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="East" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="West" votes="13" />
+                <Precinct name="Central" votes="21" />
+                <Precinct name="East" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="West" votes="2" />
+            <Precinct name="Central" votes="3" />
+            <Precinct name="East" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="166" text="Yes" party="DEM" totalVotes="521">
+            <VoteType name="Election Day Votes" votes="182">
+                <Precinct name="West" votes="51" />
+                <Precinct name="Central" votes="53" />
+                <Precinct name="East" votes="78" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="280">
+                <Precinct name="West" votes="79" />
+                <Precinct name="Central" votes="92" />
+                <Precinct name="East" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="15" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="167" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="West" votes="2" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="West" votes="3" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="East" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="West" votes="4" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="168" text="Yes" party="DEM" totalVotes="530">
+            <VoteType name="Election Day Votes" votes="186">
+                <Precinct name="West" votes="52" />
+                <Precinct name="Central" votes="51" />
+                <Precinct name="East" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="283">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="92" />
+                <Precinct name="East" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="West" votes="26" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="169" text="No" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="4" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="West" votes="3" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="170" text="Yes" party="DEM" totalVotes="467">
+            <VoteType name="Election Day Votes" votes="165">
+                <Precinct name="West" votes="42" />
+                <Precinct name="Central" votes="48" />
+                <Precinct name="East" votes="75" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="253">
+                <Precinct name="West" votes="69" />
+                <Precinct name="Central" votes="82" />
+                <Precinct name="East" votes="102" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="West" votes="20" />
+                <Precinct name="Central" votes="14" />
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="171" text="No" party="DEM" totalVotes="85">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="West" votes="10" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="West" votes="13" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="West" votes="7" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="West" votes="5" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="East" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="172" text="Yes" party="DEM" totalVotes="540">
+            <VoteType name="Election Day Votes" votes="191">
+                <Precinct name="West" votes="52" />
+                <Precinct name="Central" votes="53" />
+                <Precinct name="East" votes="86" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="288">
+                <Precinct name="West" votes="81" />
+                <Precinct name="Central" votes="96" />
+                <Precinct name="East" votes="111" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="West" votes="25" />
+                <Precinct name="Central" votes="17" />
+                <Precinct name="East" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="173" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="West" votes="1" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="East" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Supreme Court - Colvin" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="991">
+            <Precinct name="West" votes="222" />
+            <Precinct name="Central" votes="365" />
+            <Precinct name="East" votes="404" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Veronica Brinson" totalVotes="1659">
+            <VoteType name="Election Day Votes" votes="858">
+                <Precinct name="West" votes="144" />
+                <Precinct name="Central" votes="320" />
+                <Precinct name="East" votes="394" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="747">
+                <Precinct name="West" votes="102" />
+                <Precinct name="Central" votes="357" />
+                <Precinct name="East" votes="288" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="West" votes="8" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="East" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="175" text="Verda M. Colvin (I)" totalVotes="4531">
+            <VoteType name="Election Day Votes" votes="2245">
+                <Precinct name="West" votes="411" />
+                <Precinct name="Central" votes="924" />
+                <Precinct name="East" votes="910" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2137">
+                <Precinct name="West" votes="310" />
+                <Precinct name="Central" votes="1016" />
+                <Precinct name="East" votes="811" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="149">
+                <Precinct name="West" votes="46" />
+                <Precinct name="Central" votes="47" />
+                <Precinct name="East" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Supreme Court - LaGrua" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1257">
+            <Precinct name="West" votes="269" />
+            <Precinct name="Central" votes="496" />
+            <Precinct name="East" votes="492" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="177" text="Shawn Ellen LaGrua (I)" totalVotes="5919">
+            <VoteType name="Election Day Votes" votes="2976">
+                <Precinct name="West" votes="528" />
+                <Precinct name="Central" votes="1191" />
+                <Precinct name="East" votes="1257" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2773">
+                <Precinct name="West" votes="401" />
+                <Precinct name="Central" votes="1300" />
+                <Precinct name="East" votes="1072" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="167">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="61" />
+                <Precinct name="East" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Supreme Court - McMillian" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1251">
+            <Precinct name="West" votes="269" />
+            <Precinct name="Central" votes="490" />
+            <Precinct name="East" votes="492" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="179" text="Carla McMillian (I)" totalVotes="5936">
+            <VoteType name="Election Day Votes" votes="2986">
+                <Precinct name="West" votes="528" />
+                <Precinct name="Central" votes="1199" />
+                <Precinct name="East" votes="1259" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2779">
+                <Precinct name="West" votes="402" />
+                <Precinct name="Central" votes="1305" />
+                <Precinct name="East" votes="1072" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="168">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="61" />
+                <Precinct name="East" votes="64" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Court of Appeals - Barnes" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1262">
+            <Precinct name="West" votes="272" />
+            <Precinct name="Central" votes="497" />
+            <Precinct name="East" votes="493" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="181" text="Anne Elizabeth Barnes (I)" totalVotes="5928">
+            <VoteType name="Election Day Votes" votes="2977">
+                <Precinct name="West" votes="527" />
+                <Precinct name="Central" votes="1190" />
+                <Precinct name="East" votes="1260" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2776">
+                <Precinct name="West" votes="399" />
+                <Precinct name="Central" votes="1307" />
+                <Precinct name="East" votes="1070" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="172">
+                <Precinct name="West" votes="45" />
+                <Precinct name="Central" votes="62" />
+                <Precinct name="East" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Court of Appeals - McFadden" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1252">
+            <Precinct name="West" votes="267" />
+            <Precinct name="Central" votes="498" />
+            <Precinct name="East" votes="487" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="183" text="Chris McFadden (I)" totalVotes="5941">
+            <VoteType name="Election Day Votes" votes="2986">
+                <Precinct name="West" votes="529" />
+                <Precinct name="Central" votes="1194" />
+                <Precinct name="East" votes="1263" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2779">
+                <Precinct name="West" votes="401" />
+                <Precinct name="Central" votes="1305" />
+                <Precinct name="East" votes="1073" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="173">
+                <Precinct name="West" votes="45" />
+                <Precinct name="Central" votes="61" />
+                <Precinct name="East" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="64" text="Court of Appeals - Pipkin" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1312">
+            <Precinct name="West" votes="272" />
+            <Precinct name="Central" votes="521" />
+            <Precinct name="East" votes="519" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="185" text="Trea Pipkin (I)" totalVotes="5874">
+            <VoteType name="Election Day Votes" votes="2954">
+                <Precinct name="West" votes="527" />
+                <Precinct name="Central" votes="1182" />
+                <Precinct name="East" votes="1245" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2750">
+                <Precinct name="West" votes="401" />
+                <Precinct name="Central" votes="1291" />
+                <Precinct name="East" votes="1058" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="167">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="60" />
+                <Precinct name="East" votes="64" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="65" text="Superior Court - Northeastern - Deal" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1147">
+            <Precinct name="West" votes="265" />
+            <Precinct name="Central" votes="425" />
+            <Precinct name="East" votes="457" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="187" text="Jason Jonathan Deal (I)" totalVotes="6038">
+            <VoteType name="Election Day Votes" votes="3027">
+                <Precinct name="West" votes="533" />
+                <Precinct name="Central" votes="1214" />
+                <Precinct name="East" votes="1280" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2833">
+                <Precinct name="West" votes="400" />
+                <Precinct name="Central" votes="1350" />
+                <Precinct name="East" votes="1083" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="175">
+                <Precinct name="West" votes="42" />
+                <Precinct name="Central" votes="64" />
+                <Precinct name="East" votes="69" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="66" text="Superior Court - Northeastern - Fuller" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1282">
+            <Precinct name="West" votes="277" />
+            <Precinct name="Central" votes="495" />
+            <Precinct name="East" votes="510" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="188" text="Lindsay Burton" totalVotes="5907">
+            <VoteType name="Election Day Votes" votes="2961">
+                <Precinct name="West" votes="522" />
+                <Precinct name="Central" votes="1189" />
+                <Precinct name="East" votes="1250" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2772">
+                <Precinct name="West" votes="402" />
+                <Precinct name="Central" votes="1308" />
+                <Precinct name="East" votes="1062" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="171">
+                <Precinct name="West" votes="43" />
+                <Precinct name="Central" votes="63" />
+                <Precinct name="East" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="West" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

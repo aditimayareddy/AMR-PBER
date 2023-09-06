@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 2:24:55 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Emanuel</Region>
+    <VoterTurnout totalVoters="13694" ballotsCast="232" voterTurnout="1.69">
+        <Precincts>
+            <Precinct name="Adrian" totalVoters="802" ballotsCast="6" voterTurnout="0.75" percentReporting="4" />
+            <Precinct name="Blundale" totalVoters="772" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Canoochee" totalVoters="681" ballotsCast="9" voterTurnout="1.32" percentReporting="4" />
+            <Precinct name="Cross-Green" totalVoters="232" ballotsCast="45" voterTurnout="19.40" percentReporting="4" />
+            <Precinct name="Garfiled" totalVoters="496" ballotsCast="6" voterTurnout="1.21" percentReporting="4" />
+            <Precinct name="Nunez" totalVoters="386" ballotsCast="1" voterTurnout="0.26" percentReporting="4" />
+            <Precinct name="Oak Park" totalVoters="687" ballotsCast="5" voterTurnout="0.73" percentReporting="4" />
+            <Precinct name="Stillmore" totalVoters="608" ballotsCast="11" voterTurnout="1.81" percentReporting="4" />
+            <Precinct name="Summerton" totalVoters="502" ballotsCast="13" voterTurnout="2.59" percentReporting="4" />
+            <Precinct name="Swainsboro" totalVoters="6885" ballotsCast="93" voterTurnout="1.35" percentReporting="4" />
+            <Precinct name="Twin City" totalVoters="1643" ballotsCast="43" voterTurnout="2.62" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Adrian" votes="1" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="1" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="1" />
+            <Precinct name="Twin City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adrian" votes="0" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="0" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="154">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="1" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="12" />
+                <Precinct name="Twin City" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="1" />
+                <Precinct name="Swainsboro" votes="31" />
+                <Precinct name="Twin City" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Adrian" votes="3" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="4" />
+                <Precinct name="Cross-Green" votes="33" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="1" />
+                <Precinct name="Oak Park" votes="3" />
+                <Precinct name="Stillmore" votes="5" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="23" />
+                <Precinct name="Twin City" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="74">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="4" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="2" />
+                <Precinct name="Swainsboro" votes="8" />
+                <Precinct name="Twin City" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Adrian" votes="2" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="2" />
+                <Precinct name="Cross-Green" votes="11" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="6" />
+                <Precinct name="Summerton" votes="2" />
+                <Precinct name="Swainsboro" votes="14" />
+                <Precinct name="Twin City" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Adrian" votes="1" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="1" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="2" />
+            <Precinct name="Twin City" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adrian" votes="0" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="0" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="70">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="5" />
+                <Precinct name="Twin City" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="8" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="11" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="1" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="4" />
+                <Precinct name="Summerton" votes="2" />
+                <Precinct name="Swainsboro" votes="15" />
+                <Precinct name="Twin City" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="156">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="1" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="11" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="3" />
+                <Precinct name="Swainsboro" votes="31" />
+                <Precinct name="Twin City" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Adrian" votes="5" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="4" />
+                <Precinct name="Cross-Green" votes="33" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="4" />
+                <Precinct name="Stillmore" votes="7" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="21" />
+                <Precinct name="Twin City" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Adrian" votes="1" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="1" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="1" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="11" />
+            <Precinct name="Twin City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adrian" votes="0" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="0" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="100">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="1" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="3" />
+                <Precinct name="Twin City" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="16" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Adrian" votes="3" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="2" />
+                <Precinct name="Cross-Green" votes="20" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="2" />
+                <Precinct name="Stillmore" votes="7" />
+                <Precinct name="Summerton" votes="5" />
+                <Precinct name="Swainsboro" votes="20" />
+                <Precinct name="Twin City" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="117">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="12" />
+                <Precinct name="Twin City" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="2" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="3" />
+                <Precinct name="Swainsboro" votes="16" />
+                <Precinct name="Twin City" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Adrian" votes="2" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="3" />
+                <Precinct name="Cross-Green" votes="24" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="1" />
+                <Precinct name="Oak Park" votes="2" />
+                <Precinct name="Stillmore" votes="4" />
+                <Precinct name="Summerton" votes="1" />
+                <Precinct name="Swainsboro" votes="15" />
+                <Precinct name="Twin City" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Adrian" votes="1" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="0" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="1" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="1" />
+            <Precinct name="Twin City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adrian" votes="0" />
+            <Precinct name="Blundale" votes="0" />
+            <Precinct name="Canoochee" votes="0" />
+            <Precinct name="Cross-Green" votes="0" />
+            <Precinct name="Garfiled" votes="0" />
+            <Precinct name="Nunez" votes="0" />
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Summerton" votes="0" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="156">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="1" />
+                <Precinct name="Cross-Green" votes="1" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="4" />
+                <Precinct name="Swainsboro" votes="10" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="43">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="2" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="3" />
+                <Precinct name="Swainsboro" votes="32" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Adrian" votes="3" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="3" />
+                <Precinct name="Cross-Green" votes="33" />
+                <Precinct name="Garfiled" votes="2" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="6" />
+                <Precinct name="Summerton" votes="6" />
+                <Precinct name="Swainsboro" votes="21" />
+                <Precinct name="Twin City" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="72">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="6" />
+                <Precinct name="Twin City" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="7" />
+                <Precinct name="Twin City" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Adrian" votes="2" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="3" />
+                <Precinct name="Cross-Green" votes="11" />
+                <Precinct name="Garfiled" votes="1" />
+                <Precinct name="Nunez" votes="1" />
+                <Precinct name="Oak Park" votes="3" />
+                <Precinct name="Stillmore" votes="5" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="16" />
+                <Precinct name="Twin City" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adrian" votes="0" />
+                <Precinct name="Blundale" votes="0" />
+                <Precinct name="Canoochee" votes="0" />
+                <Precinct name="Cross-Green" votes="0" />
+                <Precinct name="Garfiled" votes="0" />
+                <Precinct name="Nunez" votes="0" />
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Summerton" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="76" text="County Commissioner - Dist 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="1" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Oak Park" votes="0" />
+            <Precinct name="Stillmore" votes="0" />
+            <Precinct name="Swainsboro" votes="0" />
+            <Precinct name="Twin City" votes="0" />
+        </VoteType>
+        <Choice key="181" text="James Ray Canady (I)" party="REP" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Oak Park" votes="14" />
+                <Precinct name="Stillmore" votes="10" />
+                <Precinct name="Swainsboro" votes="2" />
+                <Precinct name="Twin City" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="182" text="Timothy Oliver" party="REP" totalVotes="256">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Oak Park" votes="1" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="9" />
+                <Precinct name="Swainsboro" votes="4" />
+                <Precinct name="Twin City" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="205">
+                <Precinct name="Oak Park" votes="65" />
+                <Precinct name="Stillmore" votes="40" />
+                <Precinct name="Swainsboro" votes="6" />
+                <Precinct name="Twin City" votes="94" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Oak Park" votes="0" />
+                <Precinct name="Stillmore" votes="0" />
+                <Precinct name="Swainsboro" votes="0" />
+                <Precinct name="Twin City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

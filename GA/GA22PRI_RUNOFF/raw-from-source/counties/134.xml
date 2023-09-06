@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 7:36:07 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Telfair</Region>
+    <VoterTurnout totalVoters="5636" ballotsCast="160" voterTurnout="2.84">
+        <Precincts>
+            <Precinct name="Helena" totalVoters="904" ballotsCast="33" voterTurnout="3.65" percentReporting="4" />
+            <Precinct name="Jacksonville" totalVoters="610" ballotsCast="20" voterTurnout="3.28" percentReporting="4" />
+            <Precinct name="Lumber-City" totalVoters="912" ballotsCast="10" voterTurnout="1.10" percentReporting="4" />
+            <Precinct name="McRae" totalVoters="2110" ballotsCast="81" voterTurnout="3.84" percentReporting="4" />
+            <Precinct name="Milan" totalVoters="792" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Scotland" totalVoters="308" ballotsCast="16" voterTurnout="5.19" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Helena" votes="2" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Helena" votes="0" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="85">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="3" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Helena" votes="6" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="9" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Helena" votes="18" />
+                <Precinct name="Jacksonville" votes="12" />
+                <Precinct name="Lumber-City" votes="4" />
+                <Precinct name="McRae" votes="25" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="73">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="1" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="7" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Helena" votes="3" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="15" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Helena" votes="4" />
+                <Precinct name="Jacksonville" votes="7" />
+                <Precinct name="Lumber-City" votes="6" />
+                <Precinct name="McRae" votes="22" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Helena" votes="3" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Helena" votes="0" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="59">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="3" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Helena" votes="2" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="7" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Helena" votes="5" />
+                <Precinct name="Jacksonville" votes="6" />
+                <Precinct name="Lumber-City" votes="5" />
+                <Precinct name="McRae" votes="25" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="98">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="1" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="7" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Helena" votes="6" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="17" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Helena" votes="17" />
+                <Precinct name="Jacksonville" votes="13" />
+                <Precinct name="Lumber-City" votes="5" />
+                <Precinct name="McRae" votes="22" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Helena" votes="1" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Helena" votes="0" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="1" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Helena" votes="5" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="13" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Helena" votes="13" />
+                <Precinct name="Jacksonville" votes="9" />
+                <Precinct name="Lumber-City" votes="4" />
+                <Precinct name="McRae" votes="24" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="83">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="10" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Helena" votes="5" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="11" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Helena" votes="9" />
+                <Precinct name="Jacksonville" votes="10" />
+                <Precinct name="Lumber-City" votes="6" />
+                <Precinct name="McRae" votes="23" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Helena" votes="3" />
+            <Precinct name="Jacksonville" votes="1" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="2" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Helena" votes="0" />
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="McRae" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Scotland" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="92">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="1" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="2" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Helena" votes="5" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="11" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Helena" votes="16" />
+                <Precinct name="Jacksonville" votes="14" />
+                <Precinct name="Lumber-City" votes="7" />
+                <Precinct name="McRae" votes="26" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="61">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="8" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Helena" votes="3" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="11" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Helena" votes="6" />
+                <Precinct name="Jacksonville" votes="4" />
+                <Precinct name="Lumber-City" votes="3" />
+                <Precinct name="McRae" votes="21" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Helena" votes="0" />
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="McRae" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Scotland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="88" text="Bd of Education - Dist 6 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="Milan" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Jacksonville" votes="0" />
+            <Precinct name="Lumber-City" votes="0" />
+            <Precinct name="Milan" votes="0" />
+        </VoteType>
+        <Choice key="166" text="Christopher Adams" party="REP" totalVotes="36">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Jacksonville" votes="3" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Jacksonville" votes="1" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Jacksonville" votes="11" />
+                <Precinct name="Lumber-City" votes="2" />
+                <Precinct name="Milan" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="167" text="Elton Harris" party="REP" totalVotes="72">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Jacksonville" votes="4" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Jacksonville" votes="11" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Jacksonville" votes="34" />
+                <Precinct name="Lumber-City" votes="6" />
+                <Precinct name="Milan" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Jacksonville" votes="0" />
+                <Precinct name="Lumber-City" votes="0" />
+                <Precinct name="Milan" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 6:43:52 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Ware</Region>
+    <VoterTurnout totalVoters="20554" ballotsCast="467" voterTurnout="2.27">
+        <Precincts>
+            <Precinct name="100 - City Auditorium" totalVoters="5428" ballotsCast="278" voterTurnout="5.12" percentReporting="4" />
+            <Precinct name="200A - Memorial Stadium" totalVoters="3751" ballotsCast="80" voterTurnout="2.13" percentReporting="4" />
+            <Precinct name="200B - City Auditorium" totalVoters="1365" ballotsCast="20" voterTurnout="1.47" percentReporting="4" />
+            <Precinct name="300 - Ware BoE Transportation" totalVoters="3355" ballotsCast="57" voterTurnout="1.70" percentReporting="4" />
+            <Precinct name="304 - Ware BoE Learning Center" totalVoters="1177" ballotsCast="3" voterTurnout="0.25" percentReporting="4" />
+            <Precinct name="400 - Second Baptist Church" totalVoters="1027" ballotsCast="7" voterTurnout="0.68" percentReporting="4" />
+            <Precinct name="404 - Bickley UM Church" totalVoters="381" ballotsCast="2" voterTurnout="0.52" percentReporting="4" />
+            <Precinct name="405 - Haywood Baptist Church" totalVoters="649" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="406 - Jamestown Baptist Church" totalVoters="1670" ballotsCast="8" voterTurnout="0.48" percentReporting="4" />
+            <Precinct name="407 - Manor Commmunity Center" totalVoters="530" ballotsCast="3" voterTurnout="0.57" percentReporting="4" />
+            <Precinct name="408 - Millwood Baptist Church" totalVoters="223" ballotsCast="2" voterTurnout="0.90" percentReporting="4" />
+            <Precinct name="409 - Waresboro Church of God" totalVoters="998" ballotsCast="7" voterTurnout="0.70" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="100 - City Auditorium" votes="6" />
+            <Precinct name="200A - Memorial Stadium" votes="1" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="3" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="245">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="100 - City Auditorium" votes="22" />
+                <Precinct name="200A - Memorial Stadium" votes="7" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="15" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="92">
+                <Precinct name="100 - City Auditorium" votes="58" />
+                <Precinct name="200A - Memorial Stadium" votes="13" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="7" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="1" />
+                <Precinct name="407 - Manor Commmunity Center" votes="2" />
+                <Precinct name="408 - Millwood Baptist Church" votes="2" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="100 - City Auditorium" votes="54" />
+                <Precinct name="200A - Memorial Stadium" votes="23" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="10" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="1" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="212">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="100 - City Auditorium" votes="38" />
+                <Precinct name="200A - Memorial Stadium" votes="6" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="300 - Ware BoE Transportation" votes="5" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="100 - City Auditorium" votes="56" />
+                <Precinct name="200A - Memorial Stadium" votes="7" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="300 - Ware BoE Transportation" votes="5" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="1" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="100 - City Auditorium" votes="44" />
+                <Precinct name="200A - Memorial Stadium" votes="21" />
+                <Precinct name="200B - City Auditorium" votes="6" />
+                <Precinct name="300 - Ware BoE Transportation" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="2" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="100 - City Auditorium" votes="5" />
+            <Precinct name="200A - Memorial Stadium" votes="2" />
+            <Precinct name="200B - City Auditorium" votes="1" />
+            <Precinct name="300 - Ware BoE Transportation" votes="3" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="1" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="198">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="100 - City Auditorium" votes="27" />
+                <Precinct name="200A - Memorial Stadium" votes="5" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="11" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="61">
+                <Precinct name="100 - City Auditorium" votes="47" />
+                <Precinct name="200A - Memorial Stadium" votes="5" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="300 - Ware BoE Transportation" votes="5" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="1" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="1" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="100 - City Auditorium" votes="50" />
+                <Precinct name="200A - Memorial Stadium" votes="10" />
+                <Precinct name="200B - City Auditorium" votes="6" />
+                <Precinct name="300 - Ware BoE Transportation" votes="13" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="2" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="1" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="257">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="100 - City Auditorium" votes="33" />
+                <Precinct name="200A - Memorial Stadium" votes="8" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="300 - Ware BoE Transportation" votes="9" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="100">
+                <Precinct name="100 - City Auditorium" votes="67" />
+                <Precinct name="200A - Memorial Stadium" votes="15" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="7" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="1" />
+                <Precinct name="407 - Manor Commmunity Center" votes="2" />
+                <Precinct name="408 - Millwood Baptist Church" votes="1" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="100 - City Auditorium" votes="49" />
+                <Precinct name="200A - Memorial Stadium" votes="33" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="9" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="2" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="100 - City Auditorium" votes="7" />
+            <Precinct name="200A - Memorial Stadium" votes="5" />
+            <Precinct name="200B - City Auditorium" votes="1" />
+            <Precinct name="300 - Ware BoE Transportation" votes="3" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="183">
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="100 - City Auditorium" votes="19" />
+                <Precinct name="200A - Memorial Stadium" votes="4" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="300 - Ware BoE Transportation" votes="7" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="67">
+                <Precinct name="100 - City Auditorium" votes="48" />
+                <Precinct name="200A - Memorial Stadium" votes="7" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="3" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="2" />
+                <Precinct name="408 - Millwood Baptist Church" votes="2" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="100 - City Auditorium" votes="39" />
+                <Precinct name="200A - Memorial Stadium" votes="18" />
+                <Precinct name="200B - City Auditorium" votes="5" />
+                <Precinct name="300 - Ware BoE Transportation" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="4" />
+                <Precinct name="407 - Manor Commmunity Center" votes="1" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="268">
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="100 - City Auditorium" votes="41" />
+                <Precinct name="200A - Memorial Stadium" votes="9" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="14" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="92">
+                <Precinct name="100 - City Auditorium" votes="64" />
+                <Precinct name="200A - Memorial Stadium" votes="13" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="300 - Ware BoE Transportation" votes="8" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="2" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="100 - City Auditorium" votes="60" />
+                <Precinct name="200A - Memorial Stadium" votes="22" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="10" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="2" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="2" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="2" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="100 - City Auditorium" votes="8" />
+            <Precinct name="200A - Memorial Stadium" votes="2" />
+            <Precinct name="200B - City Auditorium" votes="1" />
+            <Precinct name="300 - Ware BoE Transportation" votes="4" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="327">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="100 - City Auditorium" votes="47" />
+                <Precinct name="200A - Memorial Stadium" votes="7" />
+                <Precinct name="200B - City Auditorium" votes="4" />
+                <Precinct name="300 - Ware BoE Transportation" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="121">
+                <Precinct name="100 - City Auditorium" votes="84" />
+                <Precinct name="200A - Memorial Stadium" votes="15" />
+                <Precinct name="200B - City Auditorium" votes="5" />
+                <Precinct name="300 - Ware BoE Transportation" votes="10" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="2" />
+                <Precinct name="408 - Millwood Baptist Church" votes="2" />
+                <Precinct name="409 - Waresboro Church of God" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="135">
+                <Precinct name="100 - City Auditorium" votes="71" />
+                <Precinct name="200A - Memorial Stadium" votes="35" />
+                <Precinct name="200B - City Auditorium" votes="6" />
+                <Precinct name="300 - Ware BoE Transportation" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="1" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="125">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="100 - City Auditorium" votes="13" />
+                <Precinct name="200A - Memorial Stadium" votes="6" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="300 - Ware BoE Transportation" votes="7" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="100 - City Auditorium" votes="28" />
+                <Precinct name="200A - Memorial Stadium" votes="5" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="1" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="2" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="100 - City Auditorium" votes="27" />
+                <Precinct name="200A - Memorial Stadium" votes="8" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="11" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="3" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="2" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="100 - City Auditorium" votes="3" />
+            <Precinct name="200A - Memorial Stadium" votes="2" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="1" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="300 - Ware BoE Transportation" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+            <Precinct name="404 - Bickley UM Church" votes="0" />
+            <Precinct name="405 - Haywood Baptist Church" votes="0" />
+            <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+            <Precinct name="407 - Manor Commmunity Center" votes="0" />
+            <Precinct name="408 - Millwood Baptist Church" votes="0" />
+            <Precinct name="409 - Waresboro Church of God" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Joyce Marie Griggs" party="DEM" totalVotes="307">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="100 - City Auditorium" votes="40" />
+                <Precinct name="200A - Memorial Stadium" votes="5" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="10" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="102">
+                <Precinct name="100 - City Auditorium" votes="82" />
+                <Precinct name="200A - Memorial Stadium" votes="9" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="300 - Ware BoE Transportation" votes="5" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="2" />
+                <Precinct name="408 - Millwood Baptist Church" votes="1" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="144">
+                <Precinct name="100 - City Auditorium" votes="85" />
+                <Precinct name="200A - Memorial Stadium" votes="24" />
+                <Precinct name="200B - City Auditorium" votes="8" />
+                <Precinct name="300 - Ware BoE Transportation" votes="18" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="2" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="2" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="2" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Wade Herring" party="DEM" totalVotes="154">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="100 - City Auditorium" votes="20" />
+                <Precinct name="200A - Memorial Stadium" votes="9" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="300 - Ware BoE Transportation" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="2" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="61">
+                <Precinct name="100 - City Auditorium" votes="33" />
+                <Precinct name="200A - Memorial Stadium" votes="11" />
+                <Precinct name="200B - City Auditorium" votes="3" />
+                <Precinct name="300 - Ware BoE Transportation" votes="7" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="2" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="1" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="100 - City Auditorium" votes="15" />
+                <Precinct name="200A - Memorial Stadium" votes="18" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="300 - Ware BoE Transportation" votes="4" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="1" />
+                <Precinct name="404 - Bickley UM Church" votes="1" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="4" />
+                <Precinct name="407 - Manor Commmunity Center" votes="1" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="300 - Ware BoE Transportation" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+                <Precinct name="404 - Bickley UM Church" votes="0" />
+                <Precinct name="405 - Haywood Baptist Church" votes="0" />
+                <Precinct name="406 - Jamestown Baptist Church" votes="0" />
+                <Precinct name="407 - Manor Commmunity Center" votes="0" />
+                <Precinct name="408 - Millwood Baptist Church" votes="0" />
+                <Precinct name="409 - Waresboro Church of God" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="1" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="100 - City Auditorium" votes="0" />
+            <Precinct name="200A - Memorial Stadium" votes="0" />
+            <Precinct name="200B - City Auditorium" votes="0" />
+            <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+            <Precinct name="400 - Second Baptist Church" votes="0" />
+        </VoteType>
+        <Choice key="77" text="Mike Hodges" party="REP" totalVotes="131">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="100 - City Auditorium" votes="1" />
+                <Precinct name="200A - Memorial Stadium" votes="8" />
+                <Precinct name="200B - City Auditorium" votes="9" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="100 - City Auditorium" votes="4" />
+                <Precinct name="200A - Memorial Stadium" votes="17" />
+                <Precinct name="200B - City Auditorium" votes="2" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="100 - City Auditorium" votes="4" />
+                <Precinct name="200A - Memorial Stadium" votes="52" />
+                <Precinct name="200B - City Auditorium" votes="15" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="1" />
+                <Precinct name="400 - Second Baptist Church" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Jeff Jones" party="REP" totalVotes="71">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="100 - City Auditorium" votes="1" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="1" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="100 - City Auditorium" votes="2" />
+                <Precinct name="200A - Memorial Stadium" votes="13" />
+                <Precinct name="200B - City Auditorium" votes="12" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="100 - City Auditorium" votes="2" />
+                <Precinct name="200A - Memorial Stadium" votes="16" />
+                <Precinct name="200B - City Auditorium" votes="8" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="100 - City Auditorium" votes="0" />
+                <Precinct name="200A - Memorial Stadium" votes="0" />
+                <Precinct name="200B - City Auditorium" votes="0" />
+                <Precinct name="304 - Ware BoE Learning Center" votes="0" />
+                <Precinct name="400 - Second Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

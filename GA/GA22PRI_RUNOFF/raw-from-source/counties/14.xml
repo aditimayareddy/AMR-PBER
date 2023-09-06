@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 6:58:29 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Brooks</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="336" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Quitman " totalVoters="0" ballotsCast="174" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Barwick" totalVoters="0" ballotsCast="8" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Dixie" totalVoters="0" ballotsCast="62" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Briggs" totalVoters="0" ballotsCast="28" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Pavo" totalVoters="0" ballotsCast="13" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Nankin" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Morven" totalVoters="0" ballotsCast="50" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Quitman " votes="6" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="1" />
+            <Precinct name="Briggs" votes="3" />
+            <Precinct name="Pavo" votes="1" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Quitman " votes="0" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="0" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="171">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Quitman " votes="3" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="4" />
+                <Precinct name="Briggs" votes="2" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Quitman " votes="15" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="9" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Quitman " votes="68" />
+                <Precinct name="Barwick" votes="3" />
+                <Precinct name="Dixie" votes="20" />
+                <Precinct name="Briggs" votes="10" />
+                <Precinct name="Pavo" votes="2" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Quitman " votes="1" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="154">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Quitman " votes="10" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="1" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Quitman " votes="19" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="2" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="1" />
+                <Precinct name="Morven" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Quitman " votes="52" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="25" />
+                <Precinct name="Briggs" votes="5" />
+                <Precinct name="Pavo" votes="7" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Quitman " votes="10" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="2" />
+            <Precinct name="Briggs" votes="3" />
+            <Precinct name="Pavo" votes="1" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Quitman " votes="0" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="0" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="146">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Quitman " votes="6" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="1" />
+                <Precinct name="Briggs" votes="0" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="Quitman " votes="18" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="2" />
+                <Precinct name="Briggs" votes="4" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="1" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Quitman " votes="59" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="28" />
+                <Precinct name="Briggs" votes="7" />
+                <Precinct name="Pavo" votes="4" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Quitman " votes="1" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="173">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Quitman " votes="5" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="4" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Quitman " votes="15" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="8" />
+                <Precinct name="Briggs" votes="0" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Quitman " votes="60" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="17" />
+                <Precinct name="Briggs" votes="8" />
+                <Precinct name="Pavo" votes="5" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Quitman " votes="10" />
+            <Precinct name="Barwick" votes="1" />
+            <Precinct name="Dixie" votes="1" />
+            <Precinct name="Briggs" votes="4" />
+            <Precinct name="Pavo" votes="1" />
+            <Precinct name="Nankin" votes="1" />
+            <Precinct name="Morven" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Quitman " votes="0" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="0" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="114">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Quitman " votes="9" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="2" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Quitman " votes="49" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="17" />
+                <Precinct name="Briggs" votes="7" />
+                <Precinct name="Pavo" votes="2" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="203">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Quitman " votes="11" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="5" />
+                <Precinct name="Briggs" votes="2" />
+                <Precinct name="Pavo" votes="2" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Quitman " votes="25" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="8" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Quitman " votes="69" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="29" />
+                <Precinct name="Briggs" votes="7" />
+                <Precinct name="Pavo" votes="7" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Quitman " votes="1" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Quitman " votes="9" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="4" />
+            <Precinct name="Briggs" votes="4" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Quitman " votes="0" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="0" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="210">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Quitman " votes="8" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="4" />
+                <Precinct name="Briggs" votes="2" />
+                <Precinct name="Pavo" votes="2" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="Quitman " votes="19" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="9" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Nankin" votes="1" />
+                <Precinct name="Morven" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="144">
+                <Precinct name="Quitman " votes="79" />
+                <Precinct name="Barwick" votes="3" />
+                <Precinct name="Dixie" votes="27" />
+                <Precinct name="Briggs" votes="9" />
+                <Precinct name="Pavo" votes="6" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="106">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Quitman " votes="3" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="1" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Quitman " votes="15" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="1" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Quitman " votes="40" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="16" />
+                <Precinct name="Briggs" votes="5" />
+                <Precinct name="Pavo" votes="4" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Quitman " votes="1" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Judge - Superior Court - Southern Judicial Circuit (Hardy)" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Quitman " votes="4" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="2" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="1" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Quitman " votes="0" />
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Dixie" votes="0" />
+            <Precinct name="Briggs" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Nankin" votes="0" />
+            <Precinct name="Morven" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Catherine Mims Smith" totalVotes="503">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Quitman " votes="15" />
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Dixie" votes="5" />
+                <Precinct name="Briggs" votes="4" />
+                <Precinct name="Pavo" votes="2" />
+                <Precinct name="Nankin" votes="1" />
+                <Precinct name="Morven" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="98">
+                <Precinct name="Quitman " votes="47" />
+                <Precinct name="Barwick" votes="3" />
+                <Precinct name="Dixie" votes="19" />
+                <Precinct name="Briggs" votes="5" />
+                <Precinct name="Pavo" votes="4" />
+                <Precinct name="Nankin" votes="9" />
+                <Precinct name="Morven" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="360">
+                <Precinct name="Quitman " votes="132" />
+                <Precinct name="Barwick" votes="22" />
+                <Precinct name="Dixie" votes="75" />
+                <Precinct name="Briggs" votes="30" />
+                <Precinct name="Pavo" votes="34" />
+                <Precinct name="Nankin" votes="25" />
+                <Precinct name="Morven" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Quitman " votes="2" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="135" text="William Long Whitesell" totalVotes="500">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Quitman " votes="10" />
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="4" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="72">
+                <Precinct name="Quitman " votes="40" />
+                <Precinct name="Barwick" votes="4" />
+                <Precinct name="Dixie" votes="6" />
+                <Precinct name="Briggs" votes="10" />
+                <Precinct name="Pavo" votes="3" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="394">
+                <Precinct name="Quitman " votes="97" />
+                <Precinct name="Barwick" votes="12" />
+                <Precinct name="Dixie" votes="31" />
+                <Precinct name="Briggs" votes="96" />
+                <Precinct name="Pavo" votes="26" />
+                <Precinct name="Nankin" votes="32" />
+                <Precinct name="Morven" votes="100" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="17">
+                <Precinct name="Quitman " votes="0" />
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Dixie" votes="0" />
+                <Precinct name="Briggs" votes="15" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Nankin" votes="0" />
+                <Precinct name="Morven" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

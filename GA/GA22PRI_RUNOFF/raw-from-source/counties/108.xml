@@ -1,0 +1,763 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 5:24:29 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Oconee</Region>
+    <VoterTurnout totalVoters="29349" ballotsCast="584" voterTurnout="1.99">
+        <Precincts>
+            <Precinct name="City Hall" totalVoters="3699" ballotsCast="101" voterTurnout="2.73" percentReporting="4" />
+            <Precinct name="Colham Ferry" totalVoters="3226" ballotsCast="48" voterTurnout="1.49" percentReporting="4" />
+            <Precinct name="Bishop" totalVoters="2698" ballotsCast="43" voterTurnout="1.59" percentReporting="4" />
+            <Precinct name="North Oconee" totalVoters="2955" ballotsCast="40" voterTurnout="1.35" percentReporting="4" />
+            <Precinct name="Dark Corner" totalVoters="3643" ballotsCast="35" voterTurnout="0.96" percentReporting="4" />
+            <Precinct name="Bogart" totalVoters="2307" ballotsCast="44" voterTurnout="1.91" percentReporting="4" />
+            <Precinct name="Marswood Hall" totalVoters="3865" ballotsCast="101" voterTurnout="2.61" percentReporting="4" />
+            <Precinct name="Civic Center" totalVoters="6956" ballotsCast="172" voterTurnout="2.47" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="City Hall" votes="2" />
+            <Precinct name="Colham Ferry" votes="1" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="2" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="1" />
+            <Precinct name="Marswood Hall" votes="1" />
+            <Precinct name="Civic Center" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="437">
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="City Hall" votes="7" />
+                <Precinct name="Colham Ferry" votes="4" />
+                <Precinct name="Bishop" votes="2" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="17" />
+                <Precinct name="Civic Center" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="124">
+                <Precinct name="City Hall" votes="33" />
+                <Precinct name="Colham Ferry" votes="10" />
+                <Precinct name="Bishop" votes="9" />
+                <Precinct name="North Oconee" votes="11" />
+                <Precinct name="Dark Corner" votes="7" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="11" />
+                <Precinct name="Civic Center" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="246">
+                <Precinct name="City Hall" votes="26" />
+                <Precinct name="Colham Ferry" votes="22" />
+                <Precinct name="Bishop" votes="21" />
+                <Precinct name="North Oconee" votes="17" />
+                <Precinct name="Dark Corner" votes="20" />
+                <Precinct name="Bogart" votes="22" />
+                <Precinct name="Marswood Hall" votes="48" />
+                <Precinct name="Civic Center" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="137">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="City Hall" votes="3" />
+                <Precinct name="Colham Ferry" votes="1" />
+                <Precinct name="Bishop" votes="1" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="6" />
+                <Precinct name="Civic Center" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="37">
+                <Precinct name="City Hall" votes="12" />
+                <Precinct name="Colham Ferry" votes="3" />
+                <Precinct name="Bishop" votes="3" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="5" />
+                <Precinct name="Bogart" votes="1" />
+                <Precinct name="Marswood Hall" votes="6" />
+                <Precinct name="Civic Center" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="City Hall" votes="18" />
+                <Precinct name="Colham Ferry" votes="7" />
+                <Precinct name="Bishop" votes="7" />
+                <Precinct name="North Oconee" votes="6" />
+                <Precinct name="Dark Corner" votes="2" />
+                <Precinct name="Bogart" votes="12" />
+                <Precinct name="Marswood Hall" votes="12" />
+                <Precinct name="Civic Center" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="City Hall" votes="3" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="2" />
+            <Precinct name="Dark Corner" votes="1" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="4" />
+            <Precinct name="Civic Center" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="74">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="City Hall" votes="2" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="1" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="2" />
+                <Precinct name="Civic Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="City Hall" votes="8" />
+                <Precinct name="Colham Ferry" votes="1" />
+                <Precinct name="Bishop" votes="2" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="1" />
+                <Precinct name="Civic Center" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="City Hall" votes="8" />
+                <Precinct name="Colham Ferry" votes="7" />
+                <Precinct name="Bishop" votes="4" />
+                <Precinct name="North Oconee" votes="6" />
+                <Precinct name="Dark Corner" votes="4" />
+                <Precinct name="Bogart" votes="1" />
+                <Precinct name="Marswood Hall" votes="9" />
+                <Precinct name="Civic Center" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="498">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="City Hall" votes="8" />
+                <Precinct name="Colham Ferry" votes="6" />
+                <Precinct name="Bishop" votes="2" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="22" />
+                <Precinct name="Civic Center" votes="37" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="City Hall" votes="36" />
+                <Precinct name="Colham Ferry" votes="12" />
+                <Precinct name="Bishop" votes="10" />
+                <Precinct name="North Oconee" votes="11" />
+                <Precinct name="Dark Corner" votes="11" />
+                <Precinct name="Bogart" votes="4" />
+                <Precinct name="Marswood Hall" votes="16" />
+                <Precinct name="Civic Center" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="271">
+                <Precinct name="City Hall" votes="36" />
+                <Precinct name="Colham Ferry" votes="22" />
+                <Precinct name="Bishop" votes="24" />
+                <Precinct name="North Oconee" votes="17" />
+                <Precinct name="Dark Corner" votes="17" />
+                <Precinct name="Bogart" votes="34" />
+                <Precinct name="Marswood Hall" votes="47" />
+                <Precinct name="Civic Center" votes="74" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="City Hall" votes="5" />
+            <Precinct name="Colham Ferry" votes="2" />
+            <Precinct name="Bishop" votes="2" />
+            <Precinct name="North Oconee" votes="7" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="3" />
+            <Precinct name="Marswood Hall" votes="12" />
+            <Precinct name="Civic Center" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="153">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="City Hall" votes="3" />
+                <Precinct name="Colham Ferry" votes="1" />
+                <Precinct name="Bishop" votes="1" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="7" />
+                <Precinct name="Civic Center" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="City Hall" votes="10" />
+                <Precinct name="Colham Ferry" votes="3" />
+                <Precinct name="Bishop" votes="5" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="4" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="6" />
+                <Precinct name="Civic Center" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="City Hall" votes="11" />
+                <Precinct name="Colham Ferry" votes="11" />
+                <Precinct name="Bishop" votes="10" />
+                <Precinct name="North Oconee" votes="6" />
+                <Precinct name="Dark Corner" votes="10" />
+                <Precinct name="Bogart" votes="8" />
+                <Precinct name="Marswood Hall" votes="20" />
+                <Precinct name="Civic Center" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="384">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="City Hall" votes="7" />
+                <Precinct name="Colham Ferry" votes="5" />
+                <Precinct name="Bishop" votes="2" />
+                <Precinct name="North Oconee" votes="3" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="5" />
+                <Precinct name="Marswood Hall" votes="13" />
+                <Precinct name="Civic Center" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="115">
+                <Precinct name="City Hall" votes="34" />
+                <Precinct name="Colham Ferry" votes="9" />
+                <Precinct name="Bishop" votes="7" />
+                <Precinct name="North Oconee" votes="8" />
+                <Precinct name="Dark Corner" votes="8" />
+                <Precinct name="Bogart" votes="4" />
+                <Precinct name="Marswood Hall" votes="10" />
+                <Precinct name="Civic Center" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="205">
+                <Precinct name="City Hall" votes="31" />
+                <Precinct name="Colham Ferry" votes="17" />
+                <Precinct name="Bishop" votes="16" />
+                <Precinct name="North Oconee" votes="14" />
+                <Precinct name="Dark Corner" votes="12" />
+                <Precinct name="Bogart" votes="24" />
+                <Precinct name="Marswood Hall" votes="33" />
+                <Precinct name="Civic Center" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="City Hall" votes="5" />
+            <Precinct name="Colham Ferry" votes="2" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="5" />
+            <Precinct name="Dark Corner" votes="1" />
+            <Precinct name="Bogart" votes="1" />
+            <Precinct name="Marswood Hall" votes="10" />
+            <Precinct name="Civic Center" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="307">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="City Hall" votes="3" />
+                <Precinct name="Colham Ferry" votes="2" />
+                <Precinct name="Bishop" votes="2" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="12" />
+                <Precinct name="Civic Center" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="92">
+                <Precinct name="City Hall" votes="24" />
+                <Precinct name="Colham Ferry" votes="7" />
+                <Precinct name="Bishop" votes="6" />
+                <Precinct name="North Oconee" votes="7" />
+                <Precinct name="Dark Corner" votes="7" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="11" />
+                <Precinct name="Civic Center" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="171">
+                <Precinct name="City Hall" votes="23" />
+                <Precinct name="Colham Ferry" votes="10" />
+                <Precinct name="Bishop" votes="11" />
+                <Precinct name="North Oconee" votes="12" />
+                <Precinct name="Dark Corner" votes="12" />
+                <Precinct name="Bogart" votes="18" />
+                <Precinct name="Marswood Hall" votes="37" />
+                <Precinct name="Civic Center" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="242">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="City Hall" votes="6" />
+                <Precinct name="Colham Ferry" votes="4" />
+                <Precinct name="Bishop" votes="1" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="8" />
+                <Precinct name="Civic Center" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="64">
+                <Precinct name="City Hall" votes="20" />
+                <Precinct name="Colham Ferry" votes="5" />
+                <Precinct name="Bishop" votes="6" />
+                <Precinct name="North Oconee" votes="4" />
+                <Precinct name="Dark Corner" votes="5" />
+                <Precinct name="Bogart" votes="1" />
+                <Precinct name="Marswood Hall" votes="5" />
+                <Precinct name="Civic Center" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="City Hall" votes="20" />
+                <Precinct name="Colham Ferry" votes="18" />
+                <Precinct name="Bishop" votes="17" />
+                <Precinct name="North Oconee" votes="9" />
+                <Precinct name="Dark Corner" votes="9" />
+                <Precinct name="Bogart" votes="16" />
+                <Precinct name="Marswood Hall" votes="18" />
+                <Precinct name="Civic Center" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="159">
+            <Precinct name="City Hall" votes="34" />
+            <Precinct name="Colham Ferry" votes="18" />
+            <Precinct name="Bishop" votes="18" />
+            <Precinct name="North Oconee" votes="20" />
+            <Precinct name="Dark Corner" votes="11" />
+            <Precinct name="Bogart" votes="6" />
+            <Precinct name="Marswood Hall" votes="18" />
+            <Precinct name="Civic Center" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="4336">
+            <VoteType name="Absentee by Mail Votes" votes="199">
+                <Precinct name="City Hall" votes="20" />
+                <Precinct name="Colham Ferry" votes="11" />
+                <Precinct name="Bishop" votes="4" />
+                <Precinct name="North Oconee" votes="10" />
+                <Precinct name="Dark Corner" votes="13" />
+                <Precinct name="Bogart" votes="17" />
+                <Precinct name="Marswood Hall" votes="46" />
+                <Precinct name="Civic Center" votes="78" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1593">
+                <Precinct name="City Hall" votes="289" />
+                <Precinct name="Colham Ferry" votes="259" />
+                <Precinct name="Bishop" votes="127" />
+                <Precinct name="North Oconee" votes="116" />
+                <Precinct name="Dark Corner" votes="118" />
+                <Precinct name="Bogart" votes="59" />
+                <Precinct name="Marswood Hall" votes="182" />
+                <Precinct name="Civic Center" votes="443" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2544">
+                <Precinct name="City Hall" votes="268" />
+                <Precinct name="Colham Ferry" votes="272" />
+                <Precinct name="Bishop" votes="246" />
+                <Precinct name="North Oconee" votes="296" />
+                <Precinct name="Dark Corner" votes="350" />
+                <Precinct name="Bogart" votes="196" />
+                <Precinct name="Marswood Hall" votes="314" />
+                <Precinct name="Civic Center" votes="602" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="1294">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="City Hall" votes="7" />
+                <Precinct name="Colham Ferry" votes="7" />
+                <Precinct name="Bishop" votes="3" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="5" />
+                <Precinct name="Marswood Hall" votes="14" />
+                <Precinct name="Civic Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="417">
+                <Precinct name="City Hall" votes="78" />
+                <Precinct name="Colham Ferry" votes="80" />
+                <Precinct name="Bishop" votes="35" />
+                <Precinct name="North Oconee" votes="45" />
+                <Precinct name="Dark Corner" votes="30" />
+                <Precinct name="Bogart" votes="12" />
+                <Precinct name="Marswood Hall" votes="43" />
+                <Precinct name="Civic Center" votes="94" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="823">
+                <Precinct name="City Hall" votes="95" />
+                <Precinct name="Colham Ferry" votes="95" />
+                <Precinct name="Bishop" votes="77" />
+                <Precinct name="North Oconee" votes="112" />
+                <Precinct name="Dark Corner" votes="117" />
+                <Precinct name="Bogart" votes="56" />
+                <Precinct name="Marswood Hall" votes="84" />
+                <Precinct name="Civic Center" votes="187" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="1" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="City Hall" votes="2" />
+            <Precinct name="Colham Ferry" votes="2" />
+            <Precinct name="Bishop" votes="2" />
+            <Precinct name="North Oconee" votes="1" />
+            <Precinct name="Dark Corner" votes="2" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="3" />
+            <Precinct name="Civic Center" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="277">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="City Hall" votes="3" />
+                <Precinct name="Colham Ferry" votes="4" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="1" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="3" />
+                <Precinct name="Marswood Hall" votes="12" />
+                <Precinct name="Civic Center" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="93">
+                <Precinct name="City Hall" votes="24" />
+                <Precinct name="Colham Ferry" votes="7" />
+                <Precinct name="Bishop" votes="8" />
+                <Precinct name="North Oconee" votes="9" />
+                <Precinct name="Dark Corner" votes="7" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="13" />
+                <Precinct name="Civic Center" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="144">
+                <Precinct name="City Hall" votes="27" />
+                <Precinct name="Colham Ferry" votes="9" />
+                <Precinct name="Bishop" votes="13" />
+                <Precinct name="North Oconee" votes="14" />
+                <Precinct name="Dark Corner" votes="10" />
+                <Precinct name="Bogart" votes="8" />
+                <Precinct name="Marswood Hall" votes="24" />
+                <Precinct name="Civic Center" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="286">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="City Hall" votes="7" />
+                <Precinct name="Colham Ferry" votes="1" />
+                <Precinct name="Bishop" votes="3" />
+                <Precinct name="North Oconee" votes="2" />
+                <Precinct name="Dark Corner" votes="1" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="10" />
+                <Precinct name="Civic Center" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="City Hall" votes="22" />
+                <Precinct name="Colham Ferry" votes="6" />
+                <Precinct name="Bishop" votes="3" />
+                <Precinct name="North Oconee" votes="3" />
+                <Precinct name="Dark Corner" votes="5" />
+                <Precinct name="Bogart" votes="2" />
+                <Precinct name="Marswood Hall" votes="4" />
+                <Precinct name="Civic Center" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="170">
+                <Precinct name="City Hall" votes="16" />
+                <Precinct name="Colham Ferry" votes="19" />
+                <Precinct name="Bishop" votes="14" />
+                <Precinct name="North Oconee" votes="10" />
+                <Precinct name="Dark Corner" votes="10" />
+                <Precinct name="Bogart" votes="27" />
+                <Precinct name="Marswood Hall" votes="35" />
+                <Precinct name="Civic Center" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="County BOE - Post 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="116">
+            <Precinct name="City Hall" votes="19" />
+            <Precinct name="Colham Ferry" votes="15" />
+            <Precinct name="Bishop" votes="5" />
+            <Precinct name="North Oconee" votes="7" />
+            <Precinct name="Dark Corner" votes="10" />
+            <Precinct name="Bogart" votes="12" />
+            <Precinct name="Marswood Hall" votes="12" />
+            <Precinct name="Civic Center" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="City Hall" votes="0" />
+            <Precinct name="Colham Ferry" votes="0" />
+            <Precinct name="Bishop" votes="0" />
+            <Precinct name="North Oconee" votes="0" />
+            <Precinct name="Dark Corner" votes="0" />
+            <Precinct name="Bogart" votes="0" />
+            <Precinct name="Marswood Hall" votes="0" />
+            <Precinct name="Civic Center" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Ryan Hammock" party="REP" totalVotes="3283">
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="City Hall" votes="18" />
+                <Precinct name="Colham Ferry" votes="8" />
+                <Precinct name="Bishop" votes="4" />
+                <Precinct name="North Oconee" votes="13" />
+                <Precinct name="Dark Corner" votes="7" />
+                <Precinct name="Bogart" votes="14" />
+                <Precinct name="Marswood Hall" votes="31" />
+                <Precinct name="Civic Center" votes="43" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1163">
+                <Precinct name="City Hall" votes="224" />
+                <Precinct name="Colham Ferry" votes="180" />
+                <Precinct name="Bishop" votes="102" />
+                <Precinct name="North Oconee" votes="89" />
+                <Precinct name="Dark Corner" votes="84" />
+                <Precinct name="Bogart" votes="37" />
+                <Precinct name="Marswood Hall" votes="144" />
+                <Precinct name="Civic Center" votes="303" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1981">
+                <Precinct name="City Hall" votes="216" />
+                <Precinct name="Colham Ferry" votes="196" />
+                <Precinct name="Bishop" votes="196" />
+                <Precinct name="North Oconee" votes="243" />
+                <Precinct name="Dark Corner" votes="300" />
+                <Precinct name="Bogart" votes="151" />
+                <Precinct name="Marswood Hall" votes="248" />
+                <Precinct name="Civic Center" votes="431" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="1" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="Julie Mauck" party="REP" totalVotes="2387">
+            <VoteType name="Absentee by Mail Votes" votes="102">
+                <Precinct name="City Hall" votes="8" />
+                <Precinct name="Colham Ferry" votes="10" />
+                <Precinct name="Bishop" votes="3" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="7" />
+                <Precinct name="Bogart" votes="9" />
+                <Precinct name="Marswood Hall" votes="26" />
+                <Precinct name="Civic Center" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="890">
+                <Precinct name="City Hall" votes="158" />
+                <Precinct name="Colham Ferry" votes="170" />
+                <Precinct name="Bishop" votes="67" />
+                <Precinct name="North Oconee" votes="73" />
+                <Precinct name="Dark Corner" votes="60" />
+                <Precinct name="Bogart" votes="34" />
+                <Precinct name="Marswood Hall" votes="86" />
+                <Precinct name="Civic Center" votes="242" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1395">
+                <Precinct name="City Hall" votes="146" />
+                <Precinct name="Colham Ferry" votes="163" />
+                <Precinct name="Bishop" votes="133" />
+                <Precinct name="North Oconee" votes="176" />
+                <Precinct name="Dark Corner" votes="172" />
+                <Precinct name="Bogart" votes="94" />
+                <Precinct name="Marswood Hall" votes="154" />
+                <Precinct name="Civic Center" votes="357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="City Hall" votes="0" />
+                <Precinct name="Colham Ferry" votes="0" />
+                <Precinct name="Bishop" votes="0" />
+                <Precinct name="North Oconee" votes="0" />
+                <Precinct name="Dark Corner" votes="0" />
+                <Precinct name="Bogart" votes="0" />
+                <Precinct name="Marswood Hall" votes="0" />
+                <Precinct name="Civic Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 3:12:49 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Madison</Region>
+    <VoterTurnout totalVoters="20681" ballotsCast="266" voterTurnout="1.29">
+        <Precincts>
+            <Precinct name="Colbert" totalVoters="3294" ballotsCast="62" voterTurnout="1.88" percentReporting="4" />
+            <Precinct name="Collins" totalVoters="680" ballotsCast="6" voterTurnout="0.88" percentReporting="4" />
+            <Precinct name="Comer" totalVoters="1453" ballotsCast="14" voterTurnout="0.96" percentReporting="4" />
+            <Precinct name="Danielsville" totalVoters="2927" ballotsCast="28" voterTurnout="0.96" percentReporting="4" />
+            <Precinct name="Fork" totalVoters="568" ballotsCast="17" voterTurnout="2.99" percentReporting="4" />
+            <Precinct name="Harrison" totalVoters="619" ballotsCast="2" voterTurnout="0.32" percentReporting="4" />
+            <Precinct name="Hull" totalVoters="4470" ballotsCast="66" voterTurnout="1.48" percentReporting="4" />
+            <Precinct name="Ila" totalVoters="1718" ballotsCast="16" voterTurnout="0.93" percentReporting="4" />
+            <Precinct name="Mill" totalVoters="1677" ballotsCast="14" voterTurnout="0.83" percentReporting="4" />
+            <Precinct name="Paoli" totalVoters="279" ballotsCast="3" voterTurnout="1.08" percentReporting="4" />
+            <Precinct name="Pittman" totalVoters="1856" ballotsCast="21" voterTurnout="1.13" percentReporting="4" />
+            <Precinct name="Poca" totalVoters="1140" ballotsCast="17" voterTurnout="1.49" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="1" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="1" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="189">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Colbert" votes="9" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="4" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="5" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Colbert" votes="13" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="3" />
+                <Precinct name="Danielsville" votes="8" />
+                <Precinct name="Fork" votes="4" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="5" />
+                <Precinct name="Ila" votes="5" />
+                <Precinct name="Mill" votes="5" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Colbert" votes="28" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="6" />
+                <Precinct name="Danielsville" votes="11" />
+                <Precinct name="Fork" votes="5" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="31" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="7" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="11" />
+                <Precinct name="Poca" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="74">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Colbert" votes="1" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="1" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Colbert" votes="4" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="1" />
+                <Precinct name="Fork" votes="1" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="7" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Colbert" votes="7" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="3" />
+                <Precinct name="Danielsville" votes="4" />
+                <Precinct name="Fork" votes="4" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="17" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="3" />
+                <Precinct name="Poca" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Colbert" votes="1" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="1" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="2" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="1" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="33">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colbert" votes="2" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="1" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="1" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Colbert" votes="2" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="2" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Colbert" votes="2" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="1" />
+                <Precinct name="Fork" votes="1" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="7" />
+                <Precinct name="Ila" votes="1" />
+                <Precinct name="Mill" votes="1" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="227">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Colbert" votes="7" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="4" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="1" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="4" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="59">
+                <Precinct name="Colbert" votes="15" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="3" />
+                <Precinct name="Danielsville" votes="7" />
+                <Precinct name="Fork" votes="5" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="8" />
+                <Precinct name="Ila" votes="7" />
+                <Precinct name="Mill" votes="5" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="140">
+                <Precinct name="Colbert" votes="33" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="9" />
+                <Precinct name="Danielsville" votes="14" />
+                <Precinct name="Fork" votes="8" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="40" />
+                <Precinct name="Ila" votes="5" />
+                <Precinct name="Mill" votes="5" />
+                <Precinct name="Paoli" votes="2" />
+                <Precinct name="Pittman" votes="13" />
+                <Precinct name="Poca" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Colbert" votes="2" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="2" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="2" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="1" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="67">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colbert" votes="2" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Colbert" votes="4" />
+                <Precinct name="Collins" votes="1" />
+                <Precinct name="Comer" votes="2" />
+                <Precinct name="Danielsville" votes="2" />
+                <Precinct name="Fork" votes="1" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="1" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Colbert" votes="11" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="2" />
+                <Precinct name="Danielsville" votes="4" />
+                <Precinct name="Fork" votes="3" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="8" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="1" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="5" />
+                <Precinct name="Poca" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="191">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Colbert" votes="7" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="4" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="5" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="3" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Colbert" votes="13" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="Comer" votes="2" />
+                <Precinct name="Danielsville" votes="7" />
+                <Precinct name="Fork" votes="3" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="9" />
+                <Precinct name="Ila" votes="5" />
+                <Precinct name="Mill" votes="4" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="112">
+                <Precinct name="Colbert" votes="23" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="7" />
+                <Precinct name="Danielsville" votes="11" />
+                <Precinct name="Fork" votes="6" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="38" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="5" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="9" />
+                <Precinct name="Poca" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Colbert" votes="3" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="1" />
+            <Precinct name="Harrison" votes="1" />
+            <Precinct name="Hull" votes="1" />
+            <Precinct name="Ila" votes="1" />
+            <Precinct name="Mill" votes="1" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="161">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Colbert" votes="6" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="3" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="1" />
+                <Precinct name="Ila" votes="1" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Colbert" votes="12" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="4" />
+                <Precinct name="Danielsville" votes="7" />
+                <Precinct name="Fork" votes="4" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="8" />
+                <Precinct name="Ila" votes="5" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Colbert" votes="23" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="Comer" votes="6" />
+                <Precinct name="Danielsville" votes="9" />
+                <Precinct name="Fork" votes="5" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="27" />
+                <Precinct name="Ila" votes="4" />
+                <Precinct name="Mill" votes="4" />
+                <Precinct name="Paoli" votes="2" />
+                <Precinct name="Pittman" votes="8" />
+                <Precinct name="Poca" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="95">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Colbert" votes="3" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="1" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="5" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Colbert" votes="4" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="2" />
+                <Precinct name="Fork" votes="1" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="5" />
+                <Precinct name="Ila" votes="1" />
+                <Precinct name="Mill" votes="3" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Colbert" votes="11" />
+                <Precinct name="Collins" votes="1" />
+                <Precinct name="Comer" votes="3" />
+                <Precinct name="Danielsville" votes="6" />
+                <Precinct name="Fork" votes="4" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="20" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="6" />
+                <Precinct name="Poca" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Colbert" votes="2" />
+            <Precinct name="Collins" votes="1" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="11" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="1470">
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="Colbert" votes="16" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="Comer" votes="5" />
+                <Precinct name="Danielsville" votes="20" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="5" />
+                <Precinct name="Hull" votes="32" />
+                <Precinct name="Ila" votes="11" />
+                <Precinct name="Mill" votes="21" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="13" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="396">
+                <Precinct name="Colbert" votes="50" />
+                <Precinct name="Collins" votes="9" />
+                <Precinct name="Comer" votes="27" />
+                <Precinct name="Danielsville" votes="115" />
+                <Precinct name="Fork" votes="1" />
+                <Precinct name="Harrison" votes="5" />
+                <Precinct name="Hull" votes="58" />
+                <Precinct name="Ila" votes="25" />
+                <Precinct name="Mill" votes="41" />
+                <Precinct name="Paoli" votes="7" />
+                <Precinct name="Pittman" votes="34" />
+                <Precinct name="Poca" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="947">
+                <Precinct name="Colbert" votes="143" />
+                <Precinct name="Collins" votes="38" />
+                <Precinct name="Comer" votes="50" />
+                <Precinct name="Danielsville" votes="122" />
+                <Precinct name="Fork" votes="30" />
+                <Precinct name="Harrison" votes="48" />
+                <Precinct name="Hull" votes="130" />
+                <Precinct name="Ila" votes="93" />
+                <Precinct name="Mill" votes="84" />
+                <Precinct name="Paoli" votes="15" />
+                <Precinct name="Pittman" votes="115" />
+                <Precinct name="Poca" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="578">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Colbert" votes="5" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="6" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="6" />
+                <Precinct name="Ila" votes="1" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="149">
+                <Precinct name="Colbert" votes="16" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="Comer" votes="7" />
+                <Precinct name="Danielsville" votes="66" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="4" />
+                <Precinct name="Hull" votes="22" />
+                <Precinct name="Ila" votes="9" />
+                <Precinct name="Mill" votes="9" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="4" />
+                <Precinct name="Poca" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="407">
+                <Precinct name="Colbert" votes="55" />
+                <Precinct name="Collins" votes="15" />
+                <Precinct name="Comer" votes="21" />
+                <Precinct name="Danielsville" votes="63" />
+                <Precinct name="Fork" votes="15" />
+                <Precinct name="Harrison" votes="13" />
+                <Precinct name="Hull" votes="60" />
+                <Precinct name="Ila" votes="28" />
+                <Precinct name="Mill" votes="45" />
+                <Precinct name="Paoli" votes="10" />
+                <Precinct name="Pittman" votes="49" />
+                <Precinct name="Poca" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Colbert" votes="2" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="2" />
+            <Precinct name="Fork" votes="1" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="2" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="1" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="Comer" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Fork" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Hull" votes="0" />
+            <Precinct name="Ila" votes="0" />
+            <Precinct name="Mill" votes="0" />
+            <Precinct name="Paoli" votes="0" />
+            <Precinct name="Pittman" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="133">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Colbert" votes="5" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="3" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="4" />
+                <Precinct name="Ila" votes="3" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="3" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Colbert" votes="12" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="2" />
+                <Precinct name="Danielsville" votes="6" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="5" />
+                <Precinct name="Ila" votes="5" />
+                <Precinct name="Mill" votes="3" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Colbert" votes="10" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="Comer" votes="4" />
+                <Precinct name="Danielsville" votes="8" />
+                <Precinct name="Fork" votes="5" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="18" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="6" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="5" />
+                <Precinct name="Poca" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="123">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colbert" votes="4" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="1" />
+                <Precinct name="Danielsville" votes="1" />
+                <Precinct name="Fork" votes="2" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="1" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="2" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Colbert" votes="5" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="2" />
+                <Precinct name="Danielsville" votes="3" />
+                <Precinct name="Fork" votes="3" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="7" />
+                <Precinct name="Ila" votes="2" />
+                <Precinct name="Mill" votes="2" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="1" />
+                <Precinct name="Poca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Colbert" votes="24" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="5" />
+                <Precinct name="Danielsville" votes="5" />
+                <Precinct name="Fork" votes="4" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Hull" votes="29" />
+                <Precinct name="Ila" votes="4" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="1" />
+                <Precinct name="Pittman" votes="9" />
+                <Precinct name="Poca" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="Comer" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Fork" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Hull" votes="0" />
+                <Precinct name="Ila" votes="0" />
+                <Precinct name="Mill" votes="0" />
+                <Precinct name="Paoli" votes="0" />
+                <Precinct name="Pittman" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="County BOE - District 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Colbert" votes="1" />
+            <Precinct name="Danielsville" votes="4" />
+            <Precinct name="Poca" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colbert" votes="0" />
+            <Precinct name="Danielsville" votes="0" />
+            <Precinct name="Poca" votes="0" />
+        </VoteType>
+        <Choice key="149" text="Daniel &quot;&quot;Coach&quot;&quot; Lampe" totalVotes="321">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Danielsville" votes="9" />
+                <Precinct name="Poca" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="141">
+                <Precinct name="Colbert" votes="8" />
+                <Precinct name="Danielsville" votes="122" />
+                <Precinct name="Poca" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="169">
+                <Precinct name="Colbert" votes="7" />
+                <Precinct name="Danielsville" votes="106" />
+                <Precinct name="Poca" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="150" text="Angie McGinnis (I)" totalVotes="295">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Colbert" votes="1" />
+                <Precinct name="Danielsville" votes="18" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="106">
+                <Precinct name="Colbert" votes="7" />
+                <Precinct name="Danielsville" votes="72" />
+                <Precinct name="Poca" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="170">
+                <Precinct name="Colbert" votes="6" />
+                <Precinct name="Danielsville" votes="91" />
+                <Precinct name="Poca" votes="73" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colbert" votes="0" />
+                <Precinct name="Danielsville" votes="0" />
+                <Precinct name="Poca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

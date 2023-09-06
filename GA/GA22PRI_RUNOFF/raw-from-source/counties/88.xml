@@ -1,0 +1,699 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 3:08:19 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Lee</Region>
+    <VoterTurnout totalVoters="22453" ballotsCast="428" voterTurnout="1.91">
+        <Precincts>
+            <Precinct name="Chokee" totalVoters="454" ballotsCast="40" voterTurnout="8.81" percentReporting="4" />
+            <Precinct name="Redbone" totalVoters="4713" ballotsCast="64" voterTurnout="1.36" percentReporting="4" />
+            <Precinct name="Smithville " totalVoters="974" ballotsCast="43" voterTurnout="4.41" percentReporting="4" />
+            <Precinct name="CJC" totalVoters="595" ballotsCast="9" voterTurnout="1.51" percentReporting="4" />
+            <Precinct name="Leesburg" totalVoters="3229" ballotsCast="49" voterTurnout="1.52" percentReporting="4" />
+            <Precinct name="Friendship Baptist" totalVoters="1415" ballotsCast="18" voterTurnout="1.27" percentReporting="4" />
+            <Precinct name="First Baptist" totalVoters="3825" ballotsCast="107" voterTurnout="2.80" percentReporting="4" />
+            <Precinct name="SDA Church" totalVoters="1630" ballotsCast="26" voterTurnout="1.60" percentReporting="4" />
+            <Precinct name="Flint Reformed Baptist " totalVoters="2516" ballotsCast="35" voterTurnout="1.39" percentReporting="4" />
+            <Precinct name="Century Fire Station" totalVoters="3102" ballotsCast="37" voterTurnout="1.19" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="2" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="1" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="225">
+            <VoteType name="Election Day Votes" votes="170">
+                <Precinct name="Chokee" votes="13" />
+                <Precinct name="Redbone" votes="20" />
+                <Precinct name="Smithville " votes="19" />
+                <Precinct name="CJC" votes="3" />
+                <Precinct name="Leesburg" votes="17" />
+                <Precinct name="Friendship Baptist" votes="5" />
+                <Precinct name="First Baptist" votes="47" />
+                <Precinct name="SDA Church" votes="16" />
+                <Precinct name="Flint Reformed Baptist " votes="14" />
+                <Precinct name="Century Fire Station" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Chokee" votes="3" />
+                <Precinct name="Redbone" votes="9" />
+                <Precinct name="Smithville " votes="1" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="4" />
+                <Precinct name="Friendship Baptist" votes="2" />
+                <Precinct name="First Baptist" votes="7" />
+                <Precinct name="SDA Church" votes="1" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Chokee" votes="6" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="Smithville " votes="3" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="8" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="4" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="1" />
+                <Precinct name="Century Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="200">
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Chokee" votes="12" />
+                <Precinct name="Redbone" votes="28" />
+                <Precinct name="Smithville " votes="10" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="10" />
+                <Precinct name="Friendship Baptist" votes="8" />
+                <Precinct name="First Baptist" votes="37" />
+                <Precinct name="SDA Church" votes="5" />
+                <Precinct name="Flint Reformed Baptist " votes="15" />
+                <Precinct name="Century Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Chokee" votes="2" />
+                <Precinct name="Redbone" votes="4" />
+                <Precinct name="Smithville " votes="2" />
+                <Precinct name="CJC" votes="3" />
+                <Precinct name="Leesburg" votes="1" />
+                <Precinct name="Friendship Baptist" votes="2" />
+                <Precinct name="First Baptist" votes="7" />
+                <Precinct name="SDA Church" votes="4" />
+                <Precinct name="Flint Reformed Baptist " votes="3" />
+                <Precinct name="Century Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Chokee" votes="4" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="8" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="7" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="3" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="1" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Chokee" votes="1" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="1" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="177">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Chokee" votes="14" />
+                <Precinct name="Redbone" votes="21" />
+                <Precinct name="Smithville " votes="15" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="13" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="30" />
+                <Precinct name="SDA Church" votes="6" />
+                <Precinct name="Flint Reformed Baptist " votes="7" />
+                <Precinct name="Century Fire Station" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Chokee" votes="1" />
+                <Precinct name="Redbone" votes="5" />
+                <Precinct name="Smithville " votes="1" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="4" />
+                <Precinct name="Friendship Baptist" votes="2" />
+                <Precinct name="First Baptist" votes="5" />
+                <Precinct name="SDA Church" votes="2" />
+                <Precinct name="Flint Reformed Baptist " votes="1" />
+                <Precinct name="Century Fire Station" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Chokee" votes="1" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="Smithville " votes="7" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="10" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="1" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="248">
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Chokee" votes="10" />
+                <Precinct name="Redbone" votes="26" />
+                <Precinct name="Smithville " votes="14" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="16" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="55" />
+                <Precinct name="SDA Church" votes="15" />
+                <Precinct name="Flint Reformed Baptist " votes="22" />
+                <Precinct name="Century Fire Station" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Chokee" votes="4" />
+                <Precinct name="Redbone" votes="8" />
+                <Precinct name="Smithville " votes="2" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="1" />
+                <Precinct name="Friendship Baptist" votes="2" />
+                <Precinct name="First Baptist" votes="9" />
+                <Precinct name="SDA Church" votes="3" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Chokee" votes="9" />
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="Smithville " votes="4" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="5" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="7" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="1" />
+                <Precinct name="Century Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Chokee" votes="3" />
+            <Precinct name="Redbone" votes="4" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="1" />
+            <Precinct name="First Baptist" votes="2" />
+            <Precinct name="SDA Church" votes="1" />
+            <Precinct name="Flint Reformed Baptist " votes="1" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="170">
+            <VoteType name="Election Day Votes" votes="124">
+                <Precinct name="Chokee" votes="13" />
+                <Precinct name="Redbone" votes="16" />
+                <Precinct name="Smithville " votes="12" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="15" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="23" />
+                <Precinct name="SDA Church" votes="11" />
+                <Precinct name="Flint Reformed Baptist " votes="16" />
+                <Precinct name="Century Fire Station" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Chokee" votes="1" />
+                <Precinct name="Redbone" votes="4" />
+                <Precinct name="Smithville " votes="2" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="3" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="3" />
+                <Precinct name="SDA Church" votes="3" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Chokee" votes="4" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="Smithville " votes="7" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="8" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="1" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="246">
+            <VoteType name="Election Day Votes" votes="178">
+                <Precinct name="Chokee" votes="9" />
+                <Precinct name="Redbone" votes="29" />
+                <Precinct name="Smithville " votes="17" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="14" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="60" />
+                <Precinct name="SDA Church" votes="9" />
+                <Precinct name="Flint Reformed Baptist " votes="13" />
+                <Precinct name="Century Fire Station" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Chokee" votes="4" />
+                <Precinct name="Redbone" votes="9" />
+                <Precinct name="Smithville " votes="1" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="2" />
+                <Precinct name="Friendship Baptist" votes="3" />
+                <Precinct name="First Baptist" votes="11" />
+                <Precinct name="SDA Church" votes="2" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Chokee" votes="6" />
+                <Precinct name="Redbone" votes="1" />
+                <Precinct name="Smithville " votes="4" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="7" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="6" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="1" />
+                <Precinct name="Century Fire Station" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="1" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Chokee" votes="2" />
+            <Precinct name="Redbone" votes="1" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="1" />
+            <Precinct name="Friendship Baptist" votes="1" />
+            <Precinct name="First Baptist" votes="2" />
+            <Precinct name="SDA Church" votes="1" />
+            <Precinct name="Flint Reformed Baptist " votes="1" />
+            <Precinct name="Century Fire Station" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="263">
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="Chokee" votes="14" />
+                <Precinct name="Redbone" votes="30" />
+                <Precinct name="Smithville " votes="19" />
+                <Precinct name="CJC" votes="3" />
+                <Precinct name="Leesburg" votes="15" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="52" />
+                <Precinct name="SDA Church" votes="14" />
+                <Precinct name="Flint Reformed Baptist " votes="17" />
+                <Precinct name="Century Fire Station" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Chokee" votes="3" />
+                <Precinct name="Redbone" votes="10" />
+                <Precinct name="Smithville " votes="3" />
+                <Precinct name="CJC" votes="2" />
+                <Precinct name="Leesburg" votes="2" />
+                <Precinct name="Friendship Baptist" votes="3" />
+                <Precinct name="First Baptist" votes="9" />
+                <Precinct name="SDA Church" votes="3" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Chokee" votes="8" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="Smithville " votes="7" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="11" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="5" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="1" />
+                <Precinct name="Century Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="155">
+            <VoteType name="Election Day Votes" votes="119">
+                <Precinct name="Chokee" votes="10" />
+                <Precinct name="Redbone" votes="17" />
+                <Precinct name="Smithville " votes="10" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="13" />
+                <Precinct name="Friendship Baptist" votes="6" />
+                <Precinct name="First Baptist" votes="31" />
+                <Precinct name="SDA Church" votes="6" />
+                <Precinct name="Flint Reformed Baptist " votes="12" />
+                <Precinct name="Century Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Chokee" votes="1" />
+                <Precinct name="Redbone" votes="3" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="3" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="5" />
+                <Precinct name="SDA Church" votes="2" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Chokee" votes="2" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="4" />
+                <Precinct name="CJC" votes="1" />
+                <Precinct name="Leesburg" votes="4" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="2" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="2" />
+                <Precinct name="Century Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="1" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="2" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="1" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chokee" votes="0" />
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Smithville " votes="0" />
+            <Precinct name="CJC" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+            <Precinct name="Friendship Baptist" votes="0" />
+            <Precinct name="First Baptist" votes="0" />
+            <Precinct name="SDA Church" votes="0" />
+            <Precinct name="Flint Reformed Baptist " votes="0" />
+            <Precinct name="Century Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Jeremy Hunt" party="REP" totalVotes="1030">
+            <VoteType name="Election Day Votes" votes="818">
+                <Precinct name="Chokee" votes="12" />
+                <Precinct name="Redbone" votes="179" />
+                <Precinct name="Smithville " votes="22" />
+                <Precinct name="CJC" votes="30" />
+                <Precinct name="Leesburg" votes="92" />
+                <Precinct name="Friendship Baptist" votes="52" />
+                <Precinct name="First Baptist" votes="169" />
+                <Precinct name="SDA Church" votes="74" />
+                <Precinct name="Flint Reformed Baptist " votes="105" />
+                <Precinct name="Century Fire Station" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="196">
+                <Precinct name="Chokee" votes="4" />
+                <Precinct name="Redbone" votes="34" />
+                <Precinct name="Smithville " votes="3" />
+                <Precinct name="CJC" votes="9" />
+                <Precinct name="Leesburg" votes="45" />
+                <Precinct name="Friendship Baptist" votes="12" />
+                <Precinct name="First Baptist" votes="29" />
+                <Precinct name="SDA Church" votes="14" />
+                <Precinct name="Flint Reformed Baptist " votes="15" />
+                <Precinct name="Century Fire Station" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Chokee" votes="1" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="1" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="2" />
+                <Precinct name="Friendship Baptist" votes="1" />
+                <Precinct name="First Baptist" votes="2" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="3" />
+                <Precinct name="Century Fire Station" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Chris West" party="REP" totalVotes="1381">
+            <VoteType name="Election Day Votes" votes="1012">
+                <Precinct name="Chokee" votes="20" />
+                <Precinct name="Redbone" votes="265" />
+                <Precinct name="Smithville " votes="20" />
+                <Precinct name="CJC" votes="42" />
+                <Precinct name="Leesburg" votes="111" />
+                <Precinct name="Friendship Baptist" votes="82" />
+                <Precinct name="First Baptist" votes="186" />
+                <Precinct name="SDA Church" votes="87" />
+                <Precinct name="Flint Reformed Baptist " votes="96" />
+                <Precinct name="Century Fire Station" votes="103" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="313">
+                <Precinct name="Chokee" votes="9" />
+                <Precinct name="Redbone" votes="63" />
+                <Precinct name="Smithville " votes="16" />
+                <Precinct name="CJC" votes="19" />
+                <Precinct name="Leesburg" votes="60" />
+                <Precinct name="Friendship Baptist" votes="14" />
+                <Precinct name="First Baptist" votes="33" />
+                <Precinct name="SDA Church" votes="23" />
+                <Precinct name="Flint Reformed Baptist " votes="27" />
+                <Precinct name="Century Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="Chokee" votes="2" />
+                <Precinct name="Redbone" votes="13" />
+                <Precinct name="Smithville " votes="1" />
+                <Precinct name="CJC" votes="4" />
+                <Precinct name="Leesburg" votes="11" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="3" />
+                <Precinct name="SDA Church" votes="4" />
+                <Precinct name="Flint Reformed Baptist " votes="3" />
+                <Precinct name="Century Fire Station" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chokee" votes="0" />
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Smithville " votes="0" />
+                <Precinct name="CJC" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+                <Precinct name="Friendship Baptist" votes="0" />
+                <Precinct name="First Baptist" votes="0" />
+                <Precinct name="SDA Church" votes="0" />
+                <Precinct name="Flint Reformed Baptist " votes="0" />
+                <Precinct name="Century Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Board of Education D5 (Special)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Redbone" votes="9" />
+            <Precinct name="Leesburg" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Redbone" votes="0" />
+            <Precinct name="Leesburg" votes="0" />
+        </VoteType>
+        <Choice key="141" text="Phil Franklin (I)" totalVotes="217">
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Redbone" votes="164" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Redbone" votes="51" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Redbone" votes="2" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="142" text="Fran Walls" totalVotes="397">
+            <VoteType name="Election Day Votes" votes="326">
+                <Precinct name="Redbone" votes="326" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Redbone" votes="57" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Redbone" votes="14" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Redbone" votes="0" />
+                <Precinct name="Leesburg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

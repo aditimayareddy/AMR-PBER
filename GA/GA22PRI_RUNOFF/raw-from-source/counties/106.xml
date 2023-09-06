@@ -1,0 +1,1464 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 4:25:56 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Muscogee</Region>
+    <VoterTurnout totalVoters="120474" ballotsCast="4527" voterTurnout="3.76">
+        <Precincts>
+            <Precinct name="Wynnton" totalVoters="4919" ballotsCast="252" voterTurnout="5.12" percentReporting="4" />
+            <Precinct name="Carver/Library" totalVoters="3856" ballotsCast="223" voterTurnout="5.78" percentReporting="4" />
+            <Precinct name="Shirley Winston" totalVoters="4961" ballotsCast="404" voterTurnout="8.14" percentReporting="4" />
+            <Precinct name="Britt David" totalVoters="2520" ballotsCast="40" voterTurnout="1.59" percentReporting="4" />
+            <Precinct name="St Peter" totalVoters="3023" ballotsCast="71" voterTurnout="2.35" percentReporting="4" />
+            <Precinct name="Chattahoochee" totalVoters="6355" ballotsCast="97" voterTurnout="1.53" percentReporting="4" />
+            <Precinct name="Columbus Tech" totalVoters="4016" ballotsCast="61" voterTurnout="1.52" percentReporting="4" />
+            <Precinct name="Central" totalVoters="6082" ballotsCast="137" voterTurnout="2.25" percentReporting="4" />
+            <Precinct name="Wynnbrook" totalVoters="2549" ballotsCast="67" voterTurnout="2.63" percentReporting="4" />
+            <Precinct name="Cusseta Rd" totalVoters="5330" ballotsCast="229" voterTurnout="4.30" percentReporting="4" />
+            <Precinct name="OLOLC" totalVoters="8832" ballotsCast="327" voterTurnout="3.70" percentReporting="4" />
+            <Precinct name="Mt Pilgrim" totalVoters="5657" ballotsCast="354" voterTurnout="6.26" percentReporting="4" />
+            <Precinct name="Faith Tabernacle" totalVoters="4181" ballotsCast="277" voterTurnout="6.63" percentReporting="4" />
+            <Precinct name="Canaan" totalVoters="6466" ballotsCast="333" voterTurnout="5.15" percentReporting="4" />
+            <Precinct name="Holsey" totalVoters="7142" ballotsCast="333" voterTurnout="4.66" percentReporting="4" />
+            <Precinct name="Gentian" totalVoters="5186" ballotsCast="158" voterTurnout="3.05" percentReporting="4" />
+            <Precinct name="St Paul" totalVoters="5281" ballotsCast="146" voterTurnout="2.76" percentReporting="4" />
+            <Precinct name="Moon" totalVoters="4988" ballotsCast="95" voterTurnout="1.90" percentReporting="4" />
+            <Precinct name="St Andrews" totalVoters="7497" ballotsCast="178" voterTurnout="2.37" percentReporting="4" />
+            <Precinct name="Salvation Army" totalVoters="2936" ballotsCast="85" voterTurnout="2.90" percentReporting="4" />
+            <Precinct name="First African" totalVoters="1704" ballotsCast="88" voterTurnout="5.16" percentReporting="4" />
+            <Precinct name="Epworth" totalVoters="4138" ballotsCast="62" voterTurnout="1.50" percentReporting="4" />
+            <Precinct name="Gallops" totalVoters="2721" ballotsCast="90" voterTurnout="3.31" percentReporting="4" />
+            <Precinct name="Edgewood" totalVoters="3030" ballotsCast="175" voterTurnout="5.78" percentReporting="4" />
+            <Precinct name="Psalmond" totalVoters="7104" ballotsCast="245" voterTurnout="3.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Wynnton" votes="4" />
+            <Precinct name="Carver/Library" votes="2" />
+            <Precinct name="Shirley Winston" votes="3" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="2" />
+            <Precinct name="Columbus Tech" votes="2" />
+            <Precinct name="Central" votes="2" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="6" />
+            <Precinct name="OLOLC" votes="10" />
+            <Precinct name="Mt Pilgrim" votes="3" />
+            <Precinct name="Faith Tabernacle" votes="3" />
+            <Precinct name="Canaan" votes="6" />
+            <Precinct name="Holsey" votes="2" />
+            <Precinct name="Gentian" votes="2" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="9" />
+            <Precinct name="Epworth" votes="3" />
+            <Precinct name="Gallops" votes="3" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="0" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Epworth" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="2412">
+            <VoteType name="Absentee by Mail Votes" votes="534">
+                <Precinct name="Wynnton" votes="33" />
+                <Precinct name="Carver/Library" votes="34" />
+                <Precinct name="Shirley Winston" votes="45" />
+                <Precinct name="Britt David" votes="8" />
+                <Precinct name="St Peter" votes="5" />
+                <Precinct name="Chattahoochee" votes="12" />
+                <Precinct name="Columbus Tech" votes="11" />
+                <Precinct name="Central" votes="23" />
+                <Precinct name="Wynnbrook" votes="16" />
+                <Precinct name="Cusseta Rd" votes="34" />
+                <Precinct name="OLOLC" votes="34" />
+                <Precinct name="Mt Pilgrim" votes="50" />
+                <Precinct name="Faith Tabernacle" votes="51" />
+                <Precinct name="Canaan" votes="27" />
+                <Precinct name="Holsey" votes="23" />
+                <Precinct name="Gentian" votes="15" />
+                <Precinct name="St Paul" votes="26" />
+                <Precinct name="Moon" votes="13" />
+                <Precinct name="St Andrews" votes="18" />
+                <Precinct name="Salvation Army" votes="5" />
+                <Precinct name="First African" votes="1" />
+                <Precinct name="Epworth" votes="12" />
+                <Precinct name="Gallops" votes="9" />
+                <Precinct name="Edgewood" votes="8" />
+                <Precinct name="Psalmond" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="577">
+                <Precinct name="Wynnton" votes="29" />
+                <Precinct name="Carver/Library" votes="26" />
+                <Precinct name="Shirley Winston" votes="58" />
+                <Precinct name="Britt David" votes="4" />
+                <Precinct name="St Peter" votes="8" />
+                <Precinct name="Chattahoochee" votes="12" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="Wynnbrook" votes="7" />
+                <Precinct name="Cusseta Rd" votes="23" />
+                <Precinct name="OLOLC" votes="26" />
+                <Precinct name="Mt Pilgrim" votes="39" />
+                <Precinct name="Faith Tabernacle" votes="40" />
+                <Precinct name="Canaan" votes="51" />
+                <Precinct name="Holsey" votes="51" />
+                <Precinct name="Gentian" votes="32" />
+                <Precinct name="St Paul" votes="24" />
+                <Precinct name="Moon" votes="10" />
+                <Precinct name="St Andrews" votes="19" />
+                <Precinct name="Salvation Army" votes="10" />
+                <Precinct name="First African" votes="12" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="15" />
+                <Precinct name="Edgewood" votes="28" />
+                <Precinct name="Psalmond" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1301">
+                <Precinct name="Wynnton" votes="79" />
+                <Precinct name="Carver/Library" votes="55" />
+                <Precinct name="Shirley Winston" votes="101" />
+                <Precinct name="Britt David" votes="13" />
+                <Precinct name="St Peter" votes="28" />
+                <Precinct name="Chattahoochee" votes="34" />
+                <Precinct name="Columbus Tech" votes="18" />
+                <Precinct name="Central" votes="40" />
+                <Precinct name="Wynnbrook" votes="27" />
+                <Precinct name="Cusseta Rd" votes="64" />
+                <Precinct name="OLOLC" votes="71" />
+                <Precinct name="Mt Pilgrim" votes="80" />
+                <Precinct name="Faith Tabernacle" votes="65" />
+                <Precinct name="Canaan" votes="82" />
+                <Precinct name="Holsey" votes="98" />
+                <Precinct name="Gentian" votes="48" />
+                <Precinct name="St Paul" votes="57" />
+                <Precinct name="Moon" votes="43" />
+                <Precinct name="St Andrews" votes="63" />
+                <Precinct name="Salvation Army" votes="26" />
+                <Precinct name="First African" votes="36" />
+                <Precinct name="Epworth" votes="22" />
+                <Precinct name="Gallops" votes="29" />
+                <Precinct name="Edgewood" votes="45" />
+                <Precinct name="Psalmond" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="2050">
+            <VoteType name="Absentee by Mail Votes" votes="559">
+                <Precinct name="Wynnton" votes="37" />
+                <Precinct name="Carver/Library" votes="48" />
+                <Precinct name="Shirley Winston" votes="71" />
+                <Precinct name="Britt David" votes="8" />
+                <Precinct name="St Peter" votes="4" />
+                <Precinct name="Chattahoochee" votes="4" />
+                <Precinct name="Columbus Tech" votes="11" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="Wynnbrook" votes="6" />
+                <Precinct name="Cusseta Rd" votes="35" />
+                <Precinct name="OLOLC" votes="47" />
+                <Precinct name="Mt Pilgrim" votes="51" />
+                <Precinct name="Faith Tabernacle" votes="34" />
+                <Precinct name="Canaan" votes="46" />
+                <Precinct name="Holsey" votes="31" />
+                <Precinct name="Gentian" votes="24" />
+                <Precinct name="St Paul" votes="6" />
+                <Precinct name="Moon" votes="2" />
+                <Precinct name="St Andrews" votes="13" />
+                <Precinct name="Salvation Army" votes="10" />
+                <Precinct name="First African" votes="4" />
+                <Precinct name="Epworth" votes="8" />
+                <Precinct name="Gallops" votes="3" />
+                <Precinct name="Edgewood" votes="17" />
+                <Precinct name="Psalmond" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="569">
+                <Precinct name="Wynnton" votes="28" />
+                <Precinct name="Carver/Library" votes="28" />
+                <Precinct name="Shirley Winston" votes="44" />
+                <Precinct name="Britt David" votes="2" />
+                <Precinct name="St Peter" votes="8" />
+                <Precinct name="Chattahoochee" votes="10" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="Wynnbrook" votes="3" />
+                <Precinct name="Cusseta Rd" votes="25" />
+                <Precinct name="OLOLC" votes="44" />
+                <Precinct name="Mt Pilgrim" votes="47" />
+                <Precinct name="Faith Tabernacle" votes="29" />
+                <Precinct name="Canaan" votes="59" />
+                <Precinct name="Holsey" votes="51" />
+                <Precinct name="Gentian" votes="22" />
+                <Precinct name="St Paul" votes="15" />
+                <Precinct name="Moon" votes="12" />
+                <Precinct name="St Andrews" votes="19" />
+                <Precinct name="Salvation Army" votes="14" />
+                <Precinct name="First African" votes="11" />
+                <Precinct name="Epworth" votes="3" />
+                <Precinct name="Gallops" votes="13" />
+                <Precinct name="Edgewood" votes="39" />
+                <Precinct name="Psalmond" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="921">
+                <Precinct name="Wynnton" votes="42" />
+                <Precinct name="Carver/Library" votes="30" />
+                <Precinct name="Shirley Winston" votes="82" />
+                <Precinct name="Britt David" votes="5" />
+                <Precinct name="St Peter" votes="18" />
+                <Precinct name="Chattahoochee" votes="23" />
+                <Precinct name="Columbus Tech" votes="17" />
+                <Precinct name="Central" votes="29" />
+                <Precinct name="Wynnbrook" votes="8" />
+                <Precinct name="Cusseta Rd" votes="42" />
+                <Precinct name="OLOLC" votes="95" />
+                <Precinct name="Mt Pilgrim" votes="84" />
+                <Precinct name="Faith Tabernacle" votes="55" />
+                <Precinct name="Canaan" votes="62" />
+                <Precinct name="Holsey" votes="76" />
+                <Precinct name="Gentian" votes="15" />
+                <Precinct name="St Paul" votes="18" />
+                <Precinct name="Moon" votes="15" />
+                <Precinct name="St Andrews" votes="46" />
+                <Precinct name="Salvation Army" votes="20" />
+                <Precinct name="First African" votes="15" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="18" />
+                <Precinct name="Edgewood" votes="38" />
+                <Precinct name="Psalmond" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="1" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="Wynnton" votes="1" />
+            <Precinct name="Carver/Library" votes="5" />
+            <Precinct name="Shirley Winston" votes="5" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="1" />
+            <Precinct name="Columbus Tech" votes="1" />
+            <Precinct name="Central" votes="2" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="6" />
+            <Precinct name="OLOLC" votes="11" />
+            <Precinct name="Mt Pilgrim" votes="3" />
+            <Precinct name="Faith Tabernacle" votes="1" />
+            <Precinct name="Canaan" votes="4" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="3" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="1" />
+            <Precinct name="St Andrews" votes="2" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="8" />
+            <Precinct name="Epworth" votes="2" />
+            <Precinct name="Gallops" votes="1" />
+            <Precinct name="Edgewood" votes="3" />
+            <Precinct name="Psalmond" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="0" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Epworth" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="1706">
+            <VoteType name="Absentee by Mail Votes" votes="409">
+                <Precinct name="Wynnton" votes="29" />
+                <Precinct name="Carver/Library" votes="35" />
+                <Precinct name="Shirley Winston" votes="42" />
+                <Precinct name="Britt David" votes="3" />
+                <Precinct name="St Peter" votes="3" />
+                <Precinct name="Chattahoochee" votes="4" />
+                <Precinct name="Columbus Tech" votes="8" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="Wynnbrook" votes="5" />
+                <Precinct name="Cusseta Rd" votes="25" />
+                <Precinct name="OLOLC" votes="28" />
+                <Precinct name="Mt Pilgrim" votes="35" />
+                <Precinct name="Faith Tabernacle" votes="37" />
+                <Precinct name="Canaan" votes="26" />
+                <Precinct name="Holsey" votes="27" />
+                <Precinct name="Gentian" votes="16" />
+                <Precinct name="St Paul" votes="10" />
+                <Precinct name="Moon" votes="7" />
+                <Precinct name="St Andrews" votes="13" />
+                <Precinct name="Salvation Army" votes="3" />
+                <Precinct name="First African" votes="4" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="3" />
+                <Precinct name="Edgewood" votes="16" />
+                <Precinct name="Psalmond" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="397">
+                <Precinct name="Wynnton" votes="22" />
+                <Precinct name="Carver/Library" votes="19" />
+                <Precinct name="Shirley Winston" votes="26" />
+                <Precinct name="Britt David" votes="2" />
+                <Precinct name="St Peter" votes="4" />
+                <Precinct name="Chattahoochee" votes="9" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="6" />
+                <Precinct name="Wynnbrook" votes="1" />
+                <Precinct name="Cusseta Rd" votes="25" />
+                <Precinct name="OLOLC" votes="29" />
+                <Precinct name="Mt Pilgrim" votes="29" />
+                <Precinct name="Faith Tabernacle" votes="14" />
+                <Precinct name="Canaan" votes="44" />
+                <Precinct name="Holsey" votes="45" />
+                <Precinct name="Gentian" votes="16" />
+                <Precinct name="St Paul" votes="9" />
+                <Precinct name="Moon" votes="10" />
+                <Precinct name="St Andrews" votes="13" />
+                <Precinct name="Salvation Army" votes="8" />
+                <Precinct name="First African" votes="9" />
+                <Precinct name="Epworth" votes="3" />
+                <Precinct name="Gallops" votes="14" />
+                <Precinct name="Edgewood" votes="22" />
+                <Precinct name="Psalmond" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="899">
+                <Precinct name="Wynnton" votes="37" />
+                <Precinct name="Carver/Library" votes="36" />
+                <Precinct name="Shirley Winston" votes="77" />
+                <Precinct name="Britt David" votes="6" />
+                <Precinct name="St Peter" votes="16" />
+                <Precinct name="Chattahoochee" votes="21" />
+                <Precinct name="Columbus Tech" votes="19" />
+                <Precinct name="Central" votes="29" />
+                <Precinct name="Wynnbrook" votes="5" />
+                <Precinct name="Cusseta Rd" votes="52" />
+                <Precinct name="OLOLC" votes="99" />
+                <Precinct name="Mt Pilgrim" votes="73" />
+                <Precinct name="Faith Tabernacle" votes="61" />
+                <Precinct name="Canaan" votes="58" />
+                <Precinct name="Holsey" votes="82" />
+                <Precinct name="Gentian" votes="21" />
+                <Precinct name="St Paul" votes="19" />
+                <Precinct name="Moon" votes="20" />
+                <Precinct name="St Andrews" votes="34" />
+                <Precinct name="Salvation Army" votes="17" />
+                <Precinct name="First African" votes="19" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="17" />
+                <Precinct name="Edgewood" votes="35" />
+                <Precinct name="Psalmond" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="1" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="2760">
+            <VoteType name="Absentee by Mail Votes" votes="686">
+                <Precinct name="Wynnton" votes="41" />
+                <Precinct name="Carver/Library" votes="47" />
+                <Precinct name="Shirley Winston" votes="71" />
+                <Precinct name="Britt David" votes="13" />
+                <Precinct name="St Peter" votes="6" />
+                <Precinct name="Chattahoochee" votes="13" />
+                <Precinct name="Columbus Tech" votes="14" />
+                <Precinct name="Central" votes="26" />
+                <Precinct name="Wynnbrook" votes="17" />
+                <Precinct name="Cusseta Rd" votes="44" />
+                <Precinct name="OLOLC" votes="52" />
+                <Precinct name="Mt Pilgrim" votes="66" />
+                <Precinct name="Faith Tabernacle" votes="49" />
+                <Precinct name="Canaan" votes="48" />
+                <Precinct name="Holsey" votes="28" />
+                <Precinct name="Gentian" votes="23" />
+                <Precinct name="St Paul" votes="22" />
+                <Precinct name="Moon" votes="8" />
+                <Precinct name="St Andrews" votes="17" />
+                <Precinct name="Salvation Army" votes="12" />
+                <Precinct name="First African" votes="2" />
+                <Precinct name="Epworth" votes="14" />
+                <Precinct name="Gallops" votes="10" />
+                <Precinct name="Edgewood" votes="9" />
+                <Precinct name="Psalmond" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="748">
+                <Precinct name="Wynnton" votes="36" />
+                <Precinct name="Carver/Library" votes="33" />
+                <Precinct name="Shirley Winston" votes="76" />
+                <Precinct name="Britt David" votes="4" />
+                <Precinct name="St Peter" votes="12" />
+                <Precinct name="Chattahoochee" votes="13" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="26" />
+                <Precinct name="Wynnbrook" votes="9" />
+                <Precinct name="Cusseta Rd" votes="24" />
+                <Precinct name="OLOLC" votes="41" />
+                <Precinct name="Mt Pilgrim" votes="57" />
+                <Precinct name="Faith Tabernacle" votes="55" />
+                <Precinct name="Canaan" votes="67" />
+                <Precinct name="Holsey" votes="57" />
+                <Precinct name="Gentian" votes="38" />
+                <Precinct name="St Paul" votes="30" />
+                <Precinct name="Moon" votes="12" />
+                <Precinct name="St Andrews" votes="24" />
+                <Precinct name="Salvation Army" votes="16" />
+                <Precinct name="First African" votes="13" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="14" />
+                <Precinct name="Edgewood" votes="44" />
+                <Precinct name="Psalmond" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1326">
+                <Precinct name="Wynnton" votes="86" />
+                <Precinct name="Carver/Library" votes="48" />
+                <Precinct name="Shirley Winston" votes="107" />
+                <Precinct name="Britt David" votes="12" />
+                <Precinct name="St Peter" votes="30" />
+                <Precinct name="Chattahoochee" votes="36" />
+                <Precinct name="Columbus Tech" votes="17" />
+                <Precinct name="Central" votes="40" />
+                <Precinct name="Wynnbrook" votes="30" />
+                <Precinct name="Cusseta Rd" votes="53" />
+                <Precinct name="OLOLC" votes="67" />
+                <Precinct name="Mt Pilgrim" votes="91" />
+                <Precinct name="Faith Tabernacle" votes="60" />
+                <Precinct name="Canaan" votes="86" />
+                <Precinct name="Holsey" votes="93" />
+                <Precinct name="Gentian" votes="41" />
+                <Precinct name="St Paul" votes="56" />
+                <Precinct name="Moon" votes="37" />
+                <Precinct name="St Andrews" votes="75" />
+                <Precinct name="Salvation Army" votes="29" />
+                <Precinct name="First African" votes="33" />
+                <Precinct name="Epworth" votes="22" />
+                <Precinct name="Gallops" votes="31" />
+                <Precinct name="Edgewood" votes="46" />
+                <Precinct name="Psalmond" votes="100" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Wynnton" votes="7" />
+            <Precinct name="Carver/Library" votes="4" />
+            <Precinct name="Shirley Winston" votes="7" />
+            <Precinct name="Britt David" votes="1" />
+            <Precinct name="St Peter" votes="1" />
+            <Precinct name="Chattahoochee" votes="1" />
+            <Precinct name="Columbus Tech" votes="2" />
+            <Precinct name="Central" votes="5" />
+            <Precinct name="Wynnbrook" votes="3" />
+            <Precinct name="Cusseta Rd" votes="9" />
+            <Precinct name="OLOLC" votes="10" />
+            <Precinct name="Mt Pilgrim" votes="5" />
+            <Precinct name="Faith Tabernacle" votes="7" />
+            <Precinct name="Canaan" votes="9" />
+            <Precinct name="Holsey" votes="2" />
+            <Precinct name="Gentian" votes="3" />
+            <Precinct name="St Paul" votes="6" />
+            <Precinct name="Moon" votes="1" />
+            <Precinct name="St Andrews" votes="4" />
+            <Precinct name="Salvation Army" votes="1" />
+            <Precinct name="First African" votes="12" />
+            <Precinct name="Epworth" votes="1" />
+            <Precinct name="Gallops" votes="5" />
+            <Precinct name="Edgewood" votes="6" />
+            <Precinct name="Psalmond" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="0" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Epworth" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="2112">
+            <VoteType name="Absentee by Mail Votes" votes="421">
+                <Precinct name="Wynnton" votes="26" />
+                <Precinct name="Carver/Library" votes="38" />
+                <Precinct name="Shirley Winston" votes="54" />
+                <Precinct name="Britt David" votes="3" />
+                <Precinct name="St Peter" votes="5" />
+                <Precinct name="Chattahoochee" votes="3" />
+                <Precinct name="Columbus Tech" votes="4" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="Wynnbrook" votes="3" />
+                <Precinct name="Cusseta Rd" votes="26" />
+                <Precinct name="OLOLC" votes="42" />
+                <Precinct name="Mt Pilgrim" votes="42" />
+                <Precinct name="Faith Tabernacle" votes="34" />
+                <Precinct name="Canaan" votes="34" />
+                <Precinct name="Holsey" votes="19" />
+                <Precinct name="Gentian" votes="9" />
+                <Precinct name="St Paul" votes="11" />
+                <Precinct name="Moon" votes="9" />
+                <Precinct name="St Andrews" votes="7" />
+                <Precinct name="Salvation Army" votes="2" />
+                <Precinct name="First African" votes="3" />
+                <Precinct name="Epworth" votes="10" />
+                <Precinct name="Gallops" votes="4" />
+                <Precinct name="Edgewood" votes="6" />
+                <Precinct name="Psalmond" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="537">
+                <Precinct name="Wynnton" votes="25" />
+                <Precinct name="Carver/Library" votes="32" />
+                <Precinct name="Shirley Winston" votes="50" />
+                <Precinct name="Britt David" votes="2" />
+                <Precinct name="St Peter" votes="7" />
+                <Precinct name="Chattahoochee" votes="14" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="Wynnbrook" votes="4" />
+                <Precinct name="Cusseta Rd" votes="24" />
+                <Precinct name="OLOLC" votes="34" />
+                <Precinct name="Mt Pilgrim" votes="40" />
+                <Precinct name="Faith Tabernacle" votes="41" />
+                <Precinct name="Canaan" votes="56" />
+                <Precinct name="Holsey" votes="51" />
+                <Precinct name="Gentian" votes="19" />
+                <Precinct name="St Paul" votes="11" />
+                <Precinct name="Moon" votes="12" />
+                <Precinct name="St Andrews" votes="16" />
+                <Precinct name="Salvation Army" votes="12" />
+                <Precinct name="First African" votes="9" />
+                <Precinct name="Epworth" votes="3" />
+                <Precinct name="Gallops" votes="11" />
+                <Precinct name="Edgewood" votes="27" />
+                <Precinct name="Psalmond" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1154">
+                <Precinct name="Wynnton" votes="56" />
+                <Precinct name="Carver/Library" votes="49" />
+                <Precinct name="Shirley Winston" votes="121" />
+                <Precinct name="Britt David" votes="12" />
+                <Precinct name="St Peter" votes="21" />
+                <Precinct name="Chattahoochee" votes="33" />
+                <Precinct name="Columbus Tech" votes="17" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="Wynnbrook" votes="9" />
+                <Precinct name="Cusseta Rd" votes="62" />
+                <Precinct name="OLOLC" votes="97" />
+                <Precinct name="Mt Pilgrim" votes="82" />
+                <Precinct name="Faith Tabernacle" votes="69" />
+                <Precinct name="Canaan" votes="88" />
+                <Precinct name="Holsey" votes="101" />
+                <Precinct name="Gentian" votes="32" />
+                <Precinct name="St Paul" votes="31" />
+                <Precinct name="Moon" votes="20" />
+                <Precinct name="St Andrews" votes="54" />
+                <Precinct name="Salvation Army" votes="17" />
+                <Precinct name="First African" votes="23" />
+                <Precinct name="Epworth" votes="12" />
+                <Precinct name="Gallops" votes="25" />
+                <Precinct name="Edgewood" votes="40" />
+                <Precinct name="Psalmond" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="2297">
+            <VoteType name="Absentee by Mail Votes" votes="656">
+                <Precinct name="Wynnton" votes="44" />
+                <Precinct name="Carver/Library" votes="45" />
+                <Precinct name="Shirley Winston" votes="58" />
+                <Precinct name="Britt David" votes="12" />
+                <Precinct name="St Peter" votes="3" />
+                <Precinct name="Chattahoochee" votes="14" />
+                <Precinct name="Columbus Tech" votes="17" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="Wynnbrook" votes="18" />
+                <Precinct name="Cusseta Rd" votes="41" />
+                <Precinct name="OLOLC" votes="40" />
+                <Precinct name="Mt Pilgrim" votes="59" />
+                <Precinct name="Faith Tabernacle" votes="49" />
+                <Precinct name="Canaan" votes="37" />
+                <Precinct name="Holsey" votes="35" />
+                <Precinct name="Gentian" votes="30" />
+                <Precinct name="St Paul" votes="20" />
+                <Precinct name="Moon" votes="6" />
+                <Precinct name="St Andrews" votes="22" />
+                <Precinct name="Salvation Army" votes="13" />
+                <Precinct name="First African" votes="2" />
+                <Precinct name="Epworth" votes="12" />
+                <Precinct name="Gallops" votes="8" />
+                <Precinct name="Edgewood" votes="18" />
+                <Precinct name="Psalmond" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="595">
+                <Precinct name="Wynnton" votes="31" />
+                <Precinct name="Carver/Library" votes="21" />
+                <Precinct name="Shirley Winston" votes="50" />
+                <Precinct name="Britt David" votes="4" />
+                <Precinct name="St Peter" votes="9" />
+                <Precinct name="Chattahoochee" votes="8" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="Wynnbrook" votes="6" />
+                <Precinct name="Cusseta Rd" votes="26" />
+                <Precinct name="OLOLC" votes="37" />
+                <Precinct name="Mt Pilgrim" votes="44" />
+                <Precinct name="Faith Tabernacle" votes="26" />
+                <Precinct name="Canaan" votes="54" />
+                <Precinct name="Holsey" votes="51" />
+                <Precinct name="Gentian" votes="34" />
+                <Precinct name="St Paul" votes="26" />
+                <Precinct name="Moon" votes="10" />
+                <Precinct name="St Andrews" votes="22" />
+                <Precinct name="Salvation Army" votes="12" />
+                <Precinct name="First African" votes="11" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="16" />
+                <Precinct name="Edgewood" votes="38" />
+                <Precinct name="Psalmond" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1045">
+                <Precinct name="Wynnton" votes="63" />
+                <Precinct name="Carver/Library" votes="34" />
+                <Precinct name="Shirley Winston" votes="64" />
+                <Precinct name="Britt David" votes="6" />
+                <Precinct name="St Peter" votes="25" />
+                <Precinct name="Chattahoochee" votes="24" />
+                <Precinct name="Columbus Tech" votes="19" />
+                <Precinct name="Central" votes="47" />
+                <Precinct name="Wynnbrook" votes="24" />
+                <Precinct name="Cusseta Rd" votes="41" />
+                <Precinct name="OLOLC" votes="67" />
+                <Precinct name="Mt Pilgrim" votes="82" />
+                <Precinct name="Faith Tabernacle" votes="51" />
+                <Precinct name="Canaan" votes="55" />
+                <Precinct name="Holsey" votes="73" />
+                <Precinct name="Gentian" votes="31" />
+                <Precinct name="St Paul" votes="41" />
+                <Precinct name="Moon" votes="37" />
+                <Precinct name="St Andrews" votes="53" />
+                <Precinct name="Salvation Army" votes="28" />
+                <Precinct name="First African" votes="28" />
+                <Precinct name="Epworth" votes="17" />
+                <Precinct name="Gallops" votes="21" />
+                <Precinct name="Edgewood" votes="40" />
+                <Precinct name="Psalmond" votes="74" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="1" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="25" precinctsReported="25">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Wynnton" votes="6" />
+            <Precinct name="Carver/Library" votes="6" />
+            <Precinct name="Shirley Winston" votes="7" />
+            <Precinct name="Britt David" votes="2" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="2" />
+            <Precinct name="Columbus Tech" votes="3" />
+            <Precinct name="Central" votes="1" />
+            <Precinct name="Wynnbrook" votes="1" />
+            <Precinct name="Cusseta Rd" votes="8" />
+            <Precinct name="OLOLC" votes="15" />
+            <Precinct name="Mt Pilgrim" votes="6" />
+            <Precinct name="Faith Tabernacle" votes="4" />
+            <Precinct name="Canaan" votes="6" />
+            <Precinct name="Holsey" votes="4" />
+            <Precinct name="Gentian" votes="3" />
+            <Precinct name="St Paul" votes="2" />
+            <Precinct name="Moon" votes="1" />
+            <Precinct name="St Andrews" votes="2" />
+            <Precinct name="Salvation Army" votes="1" />
+            <Precinct name="First African" votes="13" />
+            <Precinct name="Epworth" votes="2" />
+            <Precinct name="Gallops" votes="3" />
+            <Precinct name="Edgewood" votes="5" />
+            <Precinct name="Psalmond" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Britt David" votes="0" />
+            <Precinct name="St Peter" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Wynnbrook" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="0" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Epworth" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="2977">
+            <VoteType name="Absentee by Mail Votes" votes="768">
+                <Precinct name="Wynnton" votes="48" />
+                <Precinct name="Carver/Library" votes="52" />
+                <Precinct name="Shirley Winston" votes="89" />
+                <Precinct name="Britt David" votes="14" />
+                <Precinct name="St Peter" votes="4" />
+                <Precinct name="Chattahoochee" votes="11" />
+                <Precinct name="Columbus Tech" votes="11" />
+                <Precinct name="Central" votes="27" />
+                <Precinct name="Wynnbrook" votes="14" />
+                <Precinct name="Cusseta Rd" votes="48" />
+                <Precinct name="OLOLC" votes="49" />
+                <Precinct name="Mt Pilgrim" votes="83" />
+                <Precinct name="Faith Tabernacle" votes="70" />
+                <Precinct name="Canaan" votes="60" />
+                <Precinct name="Holsey" votes="41" />
+                <Precinct name="Gentian" votes="27" />
+                <Precinct name="St Paul" votes="16" />
+                <Precinct name="Moon" votes="10" />
+                <Precinct name="St Andrews" votes="17" />
+                <Precinct name="Salvation Army" votes="11" />
+                <Precinct name="First African" votes="3" />
+                <Precinct name="Epworth" votes="7" />
+                <Precinct name="Gallops" votes="8" />
+                <Precinct name="Edgewood" votes="16" />
+                <Precinct name="Psalmond" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="786">
+                <Precinct name="Wynnton" votes="37" />
+                <Precinct name="Carver/Library" votes="29" />
+                <Precinct name="Shirley Winston" votes="81" />
+                <Precinct name="Britt David" votes="6" />
+                <Precinct name="St Peter" votes="12" />
+                <Precinct name="Chattahoochee" votes="18" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="23" />
+                <Precinct name="Wynnbrook" votes="8" />
+                <Precinct name="Cusseta Rd" votes="29" />
+                <Precinct name="OLOLC" votes="44" />
+                <Precinct name="Mt Pilgrim" votes="57" />
+                <Precinct name="Faith Tabernacle" votes="48" />
+                <Precinct name="Canaan" votes="80" />
+                <Precinct name="Holsey" votes="76" />
+                <Precinct name="Gentian" votes="37" />
+                <Precinct name="St Paul" votes="27" />
+                <Precinct name="Moon" votes="18" />
+                <Precinct name="St Andrews" votes="27" />
+                <Precinct name="Salvation Army" votes="14" />
+                <Precinct name="First African" votes="11" />
+                <Precinct name="Epworth" votes="5" />
+                <Precinct name="Gallops" votes="16" />
+                <Precinct name="Edgewood" votes="45" />
+                <Precinct name="Psalmond" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1423">
+                <Precinct name="Wynnton" votes="88" />
+                <Precinct name="Carver/Library" votes="62" />
+                <Precinct name="Shirley Winston" votes="116" />
+                <Precinct name="Britt David" votes="11" />
+                <Precinct name="St Peter" votes="32" />
+                <Precinct name="Chattahoochee" votes="30" />
+                <Precinct name="Columbus Tech" votes="14" />
+                <Precinct name="Central" votes="39" />
+                <Precinct name="Wynnbrook" votes="24" />
+                <Precinct name="Cusseta Rd" votes="68" />
+                <Precinct name="OLOLC" votes="88" />
+                <Precinct name="Mt Pilgrim" votes="113" />
+                <Precinct name="Faith Tabernacle" votes="77" />
+                <Precinct name="Canaan" votes="101" />
+                <Precinct name="Holsey" votes="122" />
+                <Precinct name="Gentian" votes="46" />
+                <Precinct name="St Paul" votes="45" />
+                <Precinct name="Moon" votes="32" />
+                <Precinct name="St Andrews" votes="67" />
+                <Precinct name="Salvation Army" votes="27" />
+                <Precinct name="First African" votes="24" />
+                <Precinct name="Epworth" votes="18" />
+                <Precinct name="Gallops" votes="34" />
+                <Precinct name="Edgewood" votes="52" />
+                <Precinct name="Psalmond" votes="93" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="1444">
+            <VoteType name="Absentee by Mail Votes" votes="322">
+                <Precinct name="Wynnton" votes="22" />
+                <Precinct name="Carver/Library" votes="29" />
+                <Precinct name="Shirley Winston" votes="25" />
+                <Precinct name="Britt David" votes="1" />
+                <Precinct name="St Peter" votes="5" />
+                <Precinct name="Chattahoochee" votes="5" />
+                <Precinct name="Columbus Tech" votes="10" />
+                <Precinct name="Central" votes="7" />
+                <Precinct name="Wynnbrook" votes="8" />
+                <Precinct name="Cusseta Rd" votes="21" />
+                <Precinct name="OLOLC" votes="32" />
+                <Precinct name="Mt Pilgrim" votes="18" />
+                <Precinct name="Faith Tabernacle" votes="15" />
+                <Precinct name="Canaan" votes="14" />
+                <Precinct name="Holsey" votes="12" />
+                <Precinct name="Gentian" votes="12" />
+                <Precinct name="St Paul" votes="16" />
+                <Precinct name="Moon" votes="5" />
+                <Precinct name="St Andrews" votes="14" />
+                <Precinct name="Salvation Army" votes="4" />
+                <Precinct name="First African" votes="2" />
+                <Precinct name="Epworth" votes="15" />
+                <Precinct name="Gallops" votes="4" />
+                <Precinct name="Edgewood" votes="9" />
+                <Precinct name="Psalmond" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="348">
+                <Precinct name="Wynnton" votes="18" />
+                <Precinct name="Carver/Library" votes="22" />
+                <Precinct name="Shirley Winston" votes="20" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="4" />
+                <Precinct name="Chattahoochee" votes="4" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="Wynnbrook" votes="2" />
+                <Precinct name="Cusseta Rd" votes="21" />
+                <Precinct name="OLOLC" votes="26" />
+                <Precinct name="Mt Pilgrim" votes="27" />
+                <Precinct name="Faith Tabernacle" votes="20" />
+                <Precinct name="Canaan" votes="29" />
+                <Precinct name="Holsey" votes="25" />
+                <Precinct name="Gentian" votes="16" />
+                <Precinct name="St Paul" votes="12" />
+                <Precinct name="Moon" votes="4" />
+                <Precinct name="St Andrews" votes="10" />
+                <Precinct name="Salvation Army" votes="10" />
+                <Precinct name="First African" votes="10" />
+                <Precinct name="Epworth" votes="5" />
+                <Precinct name="Gallops" votes="12" />
+                <Precinct name="Edgewood" votes="21" />
+                <Precinct name="Psalmond" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="773">
+                <Precinct name="Wynnton" votes="33" />
+                <Precinct name="Carver/Library" votes="23" />
+                <Precinct name="Shirley Winston" votes="66" />
+                <Precinct name="Britt David" votes="6" />
+                <Precinct name="St Peter" votes="14" />
+                <Precinct name="Chattahoochee" votes="27" />
+                <Precinct name="Columbus Tech" votes="21" />
+                <Precinct name="Central" votes="30" />
+                <Precinct name="Wynnbrook" votes="10" />
+                <Precinct name="Cusseta Rd" votes="34" />
+                <Precinct name="OLOLC" votes="73" />
+                <Precinct name="Mt Pilgrim" votes="50" />
+                <Precinct name="Faith Tabernacle" votes="43" />
+                <Precinct name="Canaan" votes="43" />
+                <Precinct name="Holsey" votes="52" />
+                <Precinct name="Gentian" votes="17" />
+                <Precinct name="St Paul" votes="28" />
+                <Precinct name="Moon" votes="25" />
+                <Precinct name="St Andrews" votes="41" />
+                <Precinct name="Salvation Army" votes="18" />
+                <Precinct name="First African" votes="25" />
+                <Precinct name="Epworth" votes="10" />
+                <Precinct name="Gallops" votes="13" />
+                <Precinct name="Edgewood" votes="27" />
+                <Precinct name="Psalmond" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Britt David" votes="0" />
+                <Precinct name="St Peter" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Wynnbrook" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="1" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Wynnton" votes="1" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="1" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="1" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="1" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="1" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="2" />
+            <Precinct name="Gallops" votes="4" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Carver/Library" votes="0" />
+            <Precinct name="Shirley Winston" votes="0" />
+            <Precinct name="Chattahoochee" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="Mt Pilgrim" votes="0" />
+            <Precinct name="Faith Tabernacle" votes="0" />
+            <Precinct name="Canaan" votes="0" />
+            <Precinct name="Holsey" votes="0" />
+            <Precinct name="Gentian" votes="0" />
+            <Precinct name="St Paul" votes="0" />
+            <Precinct name="Moon" votes="0" />
+            <Precinct name="St Andrews" votes="0" />
+            <Precinct name="Salvation Army" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+            <Precinct name="Edgewood" votes="0" />
+            <Precinct name="Psalmond" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Jeremy Hunt" party="REP" totalVotes="2205">
+            <VoteType name="Absentee by Mail Votes" votes="194">
+                <Precinct name="Wynnton" votes="6" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="4" />
+                <Precinct name="Chattahoochee" votes="14" />
+                <Precinct name="Columbus Tech" votes="7" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="7" />
+                <Precinct name="Mt Pilgrim" votes="5" />
+                <Precinct name="Faith Tabernacle" votes="3" />
+                <Precinct name="Canaan" votes="14" />
+                <Precinct name="Holsey" votes="5" />
+                <Precinct name="Gentian" votes="15" />
+                <Precinct name="St Paul" votes="30" />
+                <Precinct name="Moon" votes="16" />
+                <Precinct name="St Andrews" votes="33" />
+                <Precinct name="Salvation Army" votes="7" />
+                <Precinct name="First African" votes="1" />
+                <Precinct name="Gallops" votes="5" />
+                <Precinct name="Edgewood" votes="3" />
+                <Precinct name="Psalmond" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="465">
+                <Precinct name="Wynnton" votes="30" />
+                <Precinct name="Carver/Library" votes="4" />
+                <Precinct name="Shirley Winston" votes="2" />
+                <Precinct name="Chattahoochee" votes="34" />
+                <Precinct name="Columbus Tech" votes="5" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="8" />
+                <Precinct name="Mt Pilgrim" votes="3" />
+                <Precinct name="Faith Tabernacle" votes="8" />
+                <Precinct name="Canaan" votes="11" />
+                <Precinct name="Holsey" votes="7" />
+                <Precinct name="Gentian" votes="36" />
+                <Precinct name="St Paul" votes="121" />
+                <Precinct name="Moon" votes="40" />
+                <Precinct name="St Andrews" votes="43" />
+                <Precinct name="Salvation Army" votes="18" />
+                <Precinct name="First African" votes="12" />
+                <Precinct name="Gallops" votes="18" />
+                <Precinct name="Edgewood" votes="10" />
+                <Precinct name="Psalmond" votes="53" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1545">
+                <Precinct name="Wynnton" votes="109" />
+                <Precinct name="Carver/Library" votes="2" />
+                <Precinct name="Shirley Winston" votes="7" />
+                <Precinct name="Chattahoochee" votes="125" />
+                <Precinct name="Columbus Tech" votes="27" />
+                <Precinct name="Cusseta Rd" votes="3" />
+                <Precinct name="OLOLC" votes="49" />
+                <Precinct name="Mt Pilgrim" votes="12" />
+                <Precinct name="Faith Tabernacle" votes="9" />
+                <Precinct name="Canaan" votes="16" />
+                <Precinct name="Holsey" votes="18" />
+                <Precinct name="Gentian" votes="109" />
+                <Precinct name="St Paul" votes="282" />
+                <Precinct name="Moon" votes="114" />
+                <Precinct name="St Andrews" votes="245" />
+                <Precinct name="Salvation Army" votes="58" />
+                <Precinct name="First African" votes="39" />
+                <Precinct name="Gallops" votes="34" />
+                <Precinct name="Edgewood" votes="23" />
+                <Precinct name="Psalmond" votes="264" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Chattahoochee" votes="1" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="Chris West" party="REP" totalVotes="1306">
+            <VoteType name="Absentee by Mail Votes" votes="190">
+                <Precinct name="Wynnton" votes="5" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="2" />
+                <Precinct name="Chattahoochee" votes="24" />
+                <Precinct name="Columbus Tech" votes="8" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="3" />
+                <Precinct name="Mt Pilgrim" votes="2" />
+                <Precinct name="Faith Tabernacle" votes="2" />
+                <Precinct name="Canaan" votes="14" />
+                <Precinct name="Holsey" votes="6" />
+                <Precinct name="Gentian" votes="19" />
+                <Precinct name="St Paul" votes="19" />
+                <Precinct name="Moon" votes="24" />
+                <Precinct name="St Andrews" votes="24" />
+                <Precinct name="Salvation Army" votes="13" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Gallops" votes="2" />
+                <Precinct name="Edgewood" votes="8" />
+                <Precinct name="Psalmond" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="253">
+                <Precinct name="Wynnton" votes="9" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="3" />
+                <Precinct name="Chattahoochee" votes="19" />
+                <Precinct name="Columbus Tech" votes="2" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="9" />
+                <Precinct name="Mt Pilgrim" votes="1" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="6" />
+                <Precinct name="Holsey" votes="6" />
+                <Precinct name="Gentian" votes="45" />
+                <Precinct name="St Paul" votes="27" />
+                <Precinct name="Moon" votes="33" />
+                <Precinct name="St Andrews" votes="33" />
+                <Precinct name="Salvation Army" votes="15" />
+                <Precinct name="First African" votes="8" />
+                <Precinct name="Gallops" votes="12" />
+                <Precinct name="Edgewood" votes="5" />
+                <Precinct name="Psalmond" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="863">
+                <Precinct name="Wynnton" votes="31" />
+                <Precinct name="Carver/Library" votes="2" />
+                <Precinct name="Shirley Winston" votes="3" />
+                <Precinct name="Chattahoochee" votes="82" />
+                <Precinct name="Columbus Tech" votes="32" />
+                <Precinct name="Cusseta Rd" votes="6" />
+                <Precinct name="OLOLC" votes="16" />
+                <Precinct name="Mt Pilgrim" votes="1" />
+                <Precinct name="Faith Tabernacle" votes="9" />
+                <Precinct name="Canaan" votes="9" />
+                <Precinct name="Holsey" votes="11" />
+                <Precinct name="Gentian" votes="85" />
+                <Precinct name="St Paul" votes="65" />
+                <Precinct name="Moon" votes="104" />
+                <Precinct name="St Andrews" votes="131" />
+                <Precinct name="Salvation Army" votes="62" />
+                <Precinct name="First African" votes="16" />
+                <Precinct name="Gallops" votes="23" />
+                <Precinct name="Edgewood" votes="31" />
+                <Precinct name="Psalmond" votes="144" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Carver/Library" votes="0" />
+                <Precinct name="Shirley Winston" votes="0" />
+                <Precinct name="Chattahoochee" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="Mt Pilgrim" votes="0" />
+                <Precinct name="Faith Tabernacle" votes="0" />
+                <Precinct name="Canaan" votes="0" />
+                <Precinct name="Holsey" votes="0" />
+                <Precinct name="Gentian" votes="0" />
+                <Precinct name="St Paul" votes="0" />
+                <Precinct name="Moon" votes="0" />
+                <Precinct name="St Andrews" votes="0" />
+                <Precinct name="Salvation Army" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+                <Precinct name="Edgewood" votes="0" />
+                <Precinct name="Psalmond" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="72" text="Council Dist 7" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Wynnton" votes="3" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="4" />
+            <Precinct name="First African" votes="2" />
+            <Precinct name="Epworth" votes="1" />
+            <Precinct name="Gallops" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wynnton" votes="0" />
+            <Precinct name="Columbus Tech" votes="0" />
+            <Precinct name="Cusseta Rd" votes="0" />
+            <Precinct name="OLOLC" votes="0" />
+            <Precinct name="First African" votes="0" />
+            <Precinct name="Epworth" votes="0" />
+            <Precinct name="Gallops" votes="0" />
+        </VoteType>
+        <Choice key="202" text="Laketha Elaine Ashe" totalVotes="374">
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Wynnton" votes="10" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="15" />
+                <Precinct name="OLOLC" votes="21" />
+                <Precinct name="First African" votes="4" />
+                <Precinct name="Epworth" votes="1" />
+                <Precinct name="Gallops" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="82">
+                <Precinct name="Wynnton" votes="6" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="13" />
+                <Precinct name="OLOLC" votes="32" />
+                <Precinct name="First African" votes="19" />
+                <Precinct name="Epworth" votes="1" />
+                <Precinct name="Gallops" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="235">
+                <Precinct name="Wynnton" votes="21" />
+                <Precinct name="Columbus Tech" votes="3" />
+                <Precinct name="Cusseta Rd" votes="26" />
+                <Precinct name="OLOLC" votes="118" />
+                <Precinct name="First African" votes="40" />
+                <Precinct name="Epworth" votes="2" />
+                <Precinct name="Gallops" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="203" text="Joanne Cogle" totalVotes="454">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Wynnton" votes="4" />
+                <Precinct name="Columbus Tech" votes="1" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="14" />
+                <Precinct name="First African" votes="4" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="127">
+                <Precinct name="Wynnton" votes="33" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="19" />
+                <Precinct name="First African" votes="33" />
+                <Precinct name="Epworth" votes="3" />
+                <Precinct name="Gallops" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="293">
+                <Precinct name="Wynnton" votes="80" />
+                <Precinct name="Columbus Tech" votes="4" />
+                <Precinct name="Cusseta Rd" votes="2" />
+                <Precinct name="OLOLC" votes="59" />
+                <Precinct name="First African" votes="87" />
+                <Precinct name="Epworth" votes="4" />
+                <Precinct name="Gallops" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wynnton" votes="0" />
+                <Precinct name="Columbus Tech" votes="0" />
+                <Precinct name="Cusseta Rd" votes="0" />
+                <Precinct name="OLOLC" votes="0" />
+                <Precinct name="First African" votes="0" />
+                <Precinct name="Epworth" votes="0" />
+                <Precinct name="Gallops" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

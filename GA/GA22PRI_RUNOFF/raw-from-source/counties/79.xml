@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 10:18:59 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Jasper</Region>
+    <VoterTurnout totalVoters="10585" ballotsCast="172" voterTurnout="1.62">
+        <Precincts>
+            <Precinct name="Wyatt" totalVoters="1960" ballotsCast="19" voterTurnout="0.97" percentReporting="4" />
+            <Precinct name="Monticello" totalVoters="4518" ballotsCast="132" voterTurnout="2.92" percentReporting="4" />
+            <Precinct name="Martin &amp; Burney" totalVoters="4107" ballotsCast="21" voterTurnout="0.51" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="128">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Wyatt" votes="4" />
+                <Precinct name="Monticello" votes="14" />
+                <Precinct name="Martin &amp; Burney" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="28" />
+                <Precinct name="Martin &amp; Burney" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Wyatt" votes="9" />
+                <Precinct name="Monticello" votes="51" />
+                <Precinct name="Martin &amp; Burney" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="44">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="8" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10">
+                <Precinct name="Wyatt" votes="1" />
+                <Precinct name="Monticello" votes="9" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="22" />
+                <Precinct name="Martin &amp; Burney" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="3" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="40">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="5" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Wyatt" votes="1" />
+                <Precinct name="Monticello" votes="4" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="23" />
+                <Precinct name="Martin &amp; Burney" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="129">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="17" />
+                <Precinct name="Martin &amp; Burney" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="32" />
+                <Precinct name="Martin &amp; Burney" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Wyatt" votes="8" />
+                <Precinct name="Monticello" votes="48" />
+                <Precinct name="Martin &amp; Burney" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="9" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="66">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="7" />
+                <Precinct name="Martin &amp; Burney" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Wyatt" votes="1" />
+                <Precinct name="Monticello" votes="13" />
+                <Precinct name="Martin &amp; Burney" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Wyatt" votes="6" />
+                <Precinct name="Monticello" votes="29" />
+                <Precinct name="Martin &amp; Burney" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="97">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="14" />
+                <Precinct name="Martin &amp; Burney" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="23" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Wyatt" votes="5" />
+                <Precinct name="Monticello" votes="37" />
+                <Precinct name="Martin &amp; Burney" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="7" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Wyatt" votes="4" />
+                <Precinct name="Monticello" votes="20" />
+                <Precinct name="Martin &amp; Burney" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="23" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Wyatt" votes="8" />
+                <Precinct name="Monticello" votes="39" />
+                <Precinct name="Martin &amp; Burney" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="2" />
+                <Precinct name="Martin &amp; Burney" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Wyatt" votes="2" />
+                <Precinct name="Monticello" votes="12" />
+                <Precinct name="Martin &amp; Burney" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="29" />
+                <Precinct name="Martin &amp; Burney" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="800">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="Wyatt" votes="8" />
+                <Precinct name="Monticello" votes="37" />
+                <Precinct name="Martin &amp; Burney" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="216">
+                <Precinct name="Wyatt" votes="15" />
+                <Precinct name="Monticello" votes="158" />
+                <Precinct name="Martin &amp; Burney" votes="43" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="530">
+                <Precinct name="Wyatt" votes="104" />
+                <Precinct name="Monticello" votes="184" />
+                <Precinct name="Martin &amp; Burney" votes="242" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="1" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="235">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="5" />
+                <Precinct name="Martin &amp; Burney" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="43">
+                <Precinct name="Wyatt" votes="4" />
+                <Precinct name="Monticello" votes="26" />
+                <Precinct name="Martin &amp; Burney" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="Wyatt" votes="47" />
+                <Precinct name="Monticello" votes="48" />
+                <Precinct name="Martin &amp; Burney" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="4" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Wyatt" votes="0" />
+            <Precinct name="Monticello" votes="0" />
+            <Precinct name="Martin &amp; Burney" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="62">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Wyatt" votes="4" />
+                <Precinct name="Monticello" votes="6" />
+                <Precinct name="Martin &amp; Burney" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Wyatt" votes="3" />
+                <Precinct name="Monticello" votes="17" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Wyatt" votes="5" />
+                <Precinct name="Monticello" votes="14" />
+                <Precinct name="Martin &amp; Burney" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="106">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="15" />
+                <Precinct name="Martin &amp; Burney" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Wyatt" votes="1" />
+                <Precinct name="Monticello" votes="19" />
+                <Precinct name="Martin &amp; Burney" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="68">
+                <Precinct name="Wyatt" votes="6" />
+                <Precinct name="Monticello" votes="57" />
+                <Precinct name="Martin &amp; Burney" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Wyatt" votes="0" />
+                <Precinct name="Monticello" votes="0" />
+                <Precinct name="Martin &amp; Burney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

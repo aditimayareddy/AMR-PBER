@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 6:02:53 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Gilmer</Region>
+    <VoterTurnout totalVoters="22137" ballotsCast="281" voterTurnout="1.27">
+        <Precincts>
+            <Precinct name="Ellijay South" totalVoters="3044" ballotsCast="47" voterTurnout="1.54" percentReporting="4" />
+            <Precinct name="Cartecay" totalVoters="1593" ballotsCast="19" voterTurnout="1.19" percentReporting="4" />
+            <Precinct name="Tails Creek" totalVoters="1817" ballotsCast="8" voterTurnout="0.44" percentReporting="4" />
+            <Precinct name="Town Creek" totalVoters="1246" ballotsCast="12" voterTurnout="0.96" percentReporting="4" />
+            <Precinct name="Leaches" totalVoters="2891" ballotsCast="38" voterTurnout="1.31" percentReporting="4" />
+            <Precinct name="Cherry Log" totalVoters="899" ballotsCast="18" voterTurnout="2.00" percentReporting="4" />
+            <Precinct name="Boardtown" totalVoters="1421" ballotsCast="15" voterTurnout="1.06" percentReporting="4" />
+            <Precinct name="Mountaintown" totalVoters="1142" ballotsCast="15" voterTurnout="1.31" percentReporting="4" />
+            <Precinct name="East Ellijay" totalVoters="1676" ballotsCast="16" voterTurnout="0.95" percentReporting="4" />
+            <Precinct name="Ellijay North" totalVoters="1807" ballotsCast="17" voterTurnout="0.94" percentReporting="4" />
+            <Precinct name="Yukon" totalVoters="1329" ballotsCast="10" voterTurnout="0.75" percentReporting="4" />
+            <Precinct name="Roy Road" totalVoters="1489" ballotsCast="29" voterTurnout="1.95" percentReporting="4" />
+            <Precinct name="Ellijay Northeast" totalVoters="1783" ballotsCast="37" voterTurnout="2.08" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="1" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="1" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="237">
+            <VoteType name="Absentee by Mail Votes" votes="70">
+                <Precinct name="Ellijay South" votes="15" />
+                <Precinct name="Cartecay" votes="3" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="13" />
+                <Precinct name="Cherry Log" votes="5" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="6" />
+                <Precinct name="East Ellijay" votes="4" />
+                <Precinct name="Ellijay North" votes="5" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="8" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="72">
+                <Precinct name="Ellijay South" votes="12" />
+                <Precinct name="Cartecay" votes="8" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="11" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="3" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="7" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="3" />
+                <Precinct name="Ellijay Northeast" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Ellijay South" votes="16" />
+                <Precinct name="Cartecay" votes="5" />
+                <Precinct name="Tails Creek" votes="4" />
+                <Precinct name="Town Creek" votes="5" />
+                <Precinct name="Leaches" votes="11" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="8" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="8" />
+                <Precinct name="Ellijay North" votes="4" />
+                <Precinct name="Yukon" votes="5" />
+                <Precinct name="Roy Road" votes="17" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="41">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Ellijay South" votes="2" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="3" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="2" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="2" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="4" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="1" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="1" />
+                <Precinct name="Ellijay Northeast" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Ellijay South" votes="2" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="2" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="1" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="1" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="1" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="1" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="44">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="2" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="2" />
+                <Precinct name="East Ellijay" votes="1" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="2" />
+                <Precinct name="Ellijay Northeast" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Ellijay South" votes="2" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="2" />
+                <Precinct name="Cherry Log" votes="2" />
+                <Precinct name="Boardtown" votes="1" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="1" />
+                <Precinct name="Ellijay North" votes="3" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="1" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Ellijay South" votes="3" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="3" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="1" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="2" />
+                <Precinct name="Ellijay North" votes="1" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="4" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="235">
+            <VoteType name="Absentee by Mail Votes" votes="75">
+                <Precinct name="Ellijay South" votes="17" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="Leaches" votes="13" />
+                <Precinct name="Cherry Log" votes="6" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="5" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="5" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="6" />
+                <Precinct name="Ellijay Northeast" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="73">
+                <Precinct name="Ellijay South" votes="10" />
+                <Precinct name="Cartecay" votes="9" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="10" />
+                <Precinct name="Cherry Log" votes="3" />
+                <Precinct name="Boardtown" votes="3" />
+                <Precinct name="Mountaintown" votes="6" />
+                <Precinct name="East Ellijay" votes="2" />
+                <Precinct name="Ellijay North" votes="5" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="3" />
+                <Precinct name="Ellijay Northeast" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Ellijay South" votes="15" />
+                <Precinct name="Cartecay" votes="5" />
+                <Precinct name="Tails Creek" votes="2" />
+                <Precinct name="Town Creek" votes="6" />
+                <Precinct name="Leaches" votes="12" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="8" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="7" />
+                <Precinct name="Ellijay North" votes="3" />
+                <Precinct name="Yukon" votes="4" />
+                <Precinct name="Roy Road" votes="13" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Ellijay South" votes="2" />
+            <Precinct name="Cartecay" votes="1" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="5" />
+            <Precinct name="Cherry Log" votes="1" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="1" />
+            <Precinct name="East Ellijay" votes="1" />
+            <Precinct name="Ellijay North" votes="1" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="1" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="86">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Ellijay South" votes="6" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="2" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="3" />
+                <Precinct name="East Ellijay" votes="2" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="1" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Ellijay South" votes="2" />
+                <Precinct name="Cartecay" votes="6" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="1" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="2" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Ellijay South" votes="7" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="3" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="Leaches" votes="1" />
+                <Precinct name="Cherry Log" votes="2" />
+                <Precinct name="Boardtown" votes="5" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="4" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="6" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="182">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Ellijay South" votes="10" />
+                <Precinct name="Cartecay" votes="2" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="Leaches" votes="12" />
+                <Precinct name="Cherry Log" votes="7" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="4" />
+                <Precinct name="East Ellijay" votes="2" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="7" />
+                <Precinct name="Ellijay Northeast" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="60">
+                <Precinct name="Ellijay South" votes="9" />
+                <Precinct name="Cartecay" votes="3" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="9" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="4" />
+                <Precinct name="Mountaintown" votes="5" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="7" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="2" />
+                <Precinct name="Ellijay Northeast" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Ellijay South" votes="11" />
+                <Precinct name="Cartecay" votes="5" />
+                <Precinct name="Tails Creek" votes="2" />
+                <Precinct name="Town Creek" votes="3" />
+                <Precinct name="Leaches" votes="8" />
+                <Precinct name="Cherry Log" votes="3" />
+                <Precinct name="Boardtown" votes="4" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="4" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="4" />
+                <Precinct name="Roy Road" votes="10" />
+                <Precinct name="Ellijay Northeast" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="1" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="1" />
+            <Precinct name="Cherry Log" votes="1" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="1" />
+            <Precinct name="Ellijay North" votes="1" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="131">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Ellijay South" votes="13" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="6" />
+                <Precinct name="Cherry Log" votes="3" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="5" />
+                <Precinct name="East Ellijay" votes="1" />
+                <Precinct name="Ellijay North" votes="4" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="2" />
+                <Precinct name="Ellijay Northeast" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="Ellijay South" votes="5" />
+                <Precinct name="Cartecay" votes="4" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="6" />
+                <Precinct name="Cherry Log" votes="2" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="2" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="3" />
+                <Precinct name="Yukon" votes="2" />
+                <Precinct name="Roy Road" votes="1" />
+                <Precinct name="Ellijay Northeast" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Ellijay South" votes="8" />
+                <Precinct name="Cartecay" votes="5" />
+                <Precinct name="Tails Creek" votes="2" />
+                <Precinct name="Town Creek" votes="5" />
+                <Precinct name="Leaches" votes="5" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="6" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="5" />
+                <Precinct name="Ellijay North" votes="4" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="11" />
+                <Precinct name="Ellijay Northeast" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="145">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Ellijay South" votes="4" />
+                <Precinct name="Cartecay" votes="2" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="Leaches" votes="8" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="2" />
+                <Precinct name="Mountaintown" votes="2" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="6" />
+                <Precinct name="Ellijay Northeast" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="54">
+                <Precinct name="Ellijay South" votes="7" />
+                <Precinct name="Cartecay" votes="5" />
+                <Precinct name="Tails Creek" votes="1" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="Leaches" votes="5" />
+                <Precinct name="Cherry Log" votes="3" />
+                <Precinct name="Boardtown" votes="4" />
+                <Precinct name="Mountaintown" votes="5" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="5" />
+                <Precinct name="Yukon" votes="1" />
+                <Precinct name="Roy Road" votes="3" />
+                <Precinct name="Ellijay Northeast" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Ellijay South" votes="10" />
+                <Precinct name="Cartecay" votes="1" />
+                <Precinct name="Tails Creek" votes="3" />
+                <Precinct name="Town Creek" votes="2" />
+                <Precinct name="Leaches" votes="7" />
+                <Precinct name="Cherry Log" votes="1" />
+                <Precinct name="Boardtown" votes="3" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="4" />
+                <Precinct name="Roy Road" votes="6" />
+                <Precinct name="Ellijay Northeast" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="REP - County Commissioner Post 2" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="1" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellijay South" votes="0" />
+            <Precinct name="Cartecay" votes="0" />
+            <Precinct name="Tails Creek" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="Leaches" votes="0" />
+            <Precinct name="Cherry Log" votes="0" />
+            <Precinct name="Boardtown" votes="0" />
+            <Precinct name="Mountaintown" votes="0" />
+            <Precinct name="East Ellijay" votes="0" />
+            <Precinct name="Ellijay North" votes="0" />
+            <Precinct name="Yukon" votes="0" />
+            <Precinct name="Roy Road" votes="0" />
+            <Precinct name="Ellijay Northeast" votes="0" />
+        </VoteType>
+        <Choice key="129" text="John Marshall" party="REP" totalVotes="3029">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Ellijay South" votes="14" />
+                <Precinct name="Cartecay" votes="12" />
+                <Precinct name="Tails Creek" votes="5" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="Leaches" votes="9" />
+                <Precinct name="Cherry Log" votes="2" />
+                <Precinct name="Boardtown" votes="12" />
+                <Precinct name="Mountaintown" votes="2" />
+                <Precinct name="East Ellijay" votes="22" />
+                <Precinct name="Ellijay North" votes="16" />
+                <Precinct name="Yukon" votes="4" />
+                <Precinct name="Roy Road" votes="6" />
+                <Precinct name="Ellijay Northeast" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1187">
+                <Precinct name="Ellijay South" votes="169" />
+                <Precinct name="Cartecay" votes="89" />
+                <Precinct name="Tails Creek" votes="46" />
+                <Precinct name="Town Creek" votes="67" />
+                <Precinct name="Leaches" votes="91" />
+                <Precinct name="Cherry Log" votes="31" />
+                <Precinct name="Boardtown" votes="73" />
+                <Precinct name="Mountaintown" votes="58" />
+                <Precinct name="East Ellijay" votes="145" />
+                <Precinct name="Ellijay North" votes="164" />
+                <Precinct name="Yukon" votes="40" />
+                <Precinct name="Roy Road" votes="78" />
+                <Precinct name="Ellijay Northeast" votes="136" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1718">
+                <Precinct name="Ellijay South" votes="185" />
+                <Precinct name="Cartecay" votes="178" />
+                <Precinct name="Tails Creek" votes="130" />
+                <Precinct name="Town Creek" votes="98" />
+                <Precinct name="Leaches" votes="121" />
+                <Precinct name="Cherry Log" votes="78" />
+                <Precinct name="Boardtown" votes="116" />
+                <Precinct name="Mountaintown" votes="95" />
+                <Precinct name="East Ellijay" votes="163" />
+                <Precinct name="Ellijay North" votes="174" />
+                <Precinct name="Yukon" votes="110" />
+                <Precinct name="Roy Road" votes="126" />
+                <Precinct name="Ellijay Northeast" votes="144" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Ellijay South" votes="1" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="0" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="0" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="Thomas &quot;&quot;Tom&quot;&quot; Whatley Jr." party="REP" totalVotes="1534">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Ellijay South" votes="4" />
+                <Precinct name="Cartecay" votes="4" />
+                <Precinct name="Tails Creek" votes="3" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="2" />
+                <Precinct name="Cherry Log" votes="4" />
+                <Precinct name="Boardtown" votes="7" />
+                <Precinct name="Mountaintown" votes="1" />
+                <Precinct name="East Ellijay" votes="3" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="3" />
+                <Precinct name="Roy Road" votes="3" />
+                <Precinct name="Ellijay Northeast" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="660">
+                <Precinct name="Ellijay South" votes="78" />
+                <Precinct name="Cartecay" votes="41" />
+                <Precinct name="Tails Creek" votes="30" />
+                <Precinct name="Town Creek" votes="21" />
+                <Precinct name="Leaches" votes="78" />
+                <Precinct name="Cherry Log" votes="10" />
+                <Precinct name="Boardtown" votes="70" />
+                <Precinct name="Mountaintown" votes="56" />
+                <Precinct name="East Ellijay" votes="73" />
+                <Precinct name="Ellijay North" votes="49" />
+                <Precinct name="Yukon" votes="45" />
+                <Precinct name="Roy Road" votes="54" />
+                <Precinct name="Ellijay Northeast" votes="55" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="822">
+                <Precinct name="Ellijay South" votes="64" />
+                <Precinct name="Cartecay" votes="84" />
+                <Precinct name="Tails Creek" votes="61" />
+                <Precinct name="Town Creek" votes="29" />
+                <Precinct name="Leaches" votes="99" />
+                <Precinct name="Cherry Log" votes="42" />
+                <Precinct name="Boardtown" votes="80" />
+                <Precinct name="Mountaintown" votes="56" />
+                <Precinct name="East Ellijay" votes="67" />
+                <Precinct name="Ellijay North" votes="38" />
+                <Precinct name="Yukon" votes="63" />
+                <Precinct name="Roy Road" votes="81" />
+                <Precinct name="Ellijay Northeast" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Ellijay South" votes="0" />
+                <Precinct name="Cartecay" votes="0" />
+                <Precinct name="Tails Creek" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="Leaches" votes="0" />
+                <Precinct name="Cherry Log" votes="0" />
+                <Precinct name="Boardtown" votes="1" />
+                <Precinct name="Mountaintown" votes="0" />
+                <Precinct name="East Ellijay" votes="0" />
+                <Precinct name="Ellijay North" votes="2" />
+                <Precinct name="Yukon" votes="0" />
+                <Precinct name="Roy Road" votes="0" />
+                <Precinct name="Ellijay Northeast" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

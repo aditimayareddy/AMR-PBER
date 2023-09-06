@@ -1,0 +1,2278 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 11:26:00 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Henry</Region>
+    <VoterTurnout totalVoters="166945" ballotsCast="8088" voterTurnout="4.84">
+        <Precincts>
+            <Precinct name="Locust Grove" totalVoters="7195" ballotsCast="298" voterTurnout="4.14" percentReporting="4" />
+            <Precinct name="Tussahaw" totalVoters="3320" ballotsCast="33" voterTurnout="0.99" percentReporting="4" />
+            <Precinct name="Sandy Ridge" totalVoters="4800" ballotsCast="75" voterTurnout="1.56" percentReporting="4" />
+            <Precinct name="Westside" totalVoters="6426" ballotsCast="240" voterTurnout="3.73" percentReporting="4" />
+            <Precinct name="Lowes" totalVoters="9855" ballotsCast="446" voterTurnout="4.53" percentReporting="4" />
+            <Precinct name="South Hampton" totalVoters="5320" ballotsCast="163" voterTurnout="3.06" percentReporting="4" />
+            <Precinct name="North Hampton" totalVoters="6793" ballotsCast="271" voterTurnout="3.99" percentReporting="4" />
+            <Precinct name="Mount Carmel" totalVoters="5468" ballotsCast="444" voterTurnout="8.12" percentReporting="4" />
+            <Precinct name="Red Oak" totalVoters="5333" ballotsCast="359" voterTurnout="6.73" percentReporting="4" />
+            <Precinct name="Wesley Lakes" totalVoters="5965" ballotsCast="250" voterTurnout="4.19" percentReporting="4" />
+            <Precinct name="McDonough" totalVoters="2922" ballotsCast="143" voterTurnout="4.89" percentReporting="4" />
+            <Precinct name="McMullen" totalVoters="3534" ballotsCast="128" voterTurnout="3.62" percentReporting="4" />
+            <Precinct name="East Lake" totalVoters="3354" ballotsCast="103" voterTurnout="3.07" percentReporting="4" />
+            <Precinct name="Hickory Flat" totalVoters="5115" ballotsCast="270" voterTurnout="5.28" percentReporting="4" />
+            <Precinct name="Stockbridge East-West" totalVoters="6106" ballotsCast="352" voterTurnout="5.76" percentReporting="4" />
+            <Precinct name="Stagecoach" totalVoters="3486" ballotsCast="113" voterTurnout="3.24" percentReporting="4" />
+            <Precinct name="Cotton Indian" totalVoters="4607" ballotsCast="203" voterTurnout="4.41" percentReporting="4" />
+            <Precinct name="Pleasant Grove" totalVoters="4036" ballotsCast="204" voterTurnout="5.05" percentReporting="4" />
+            <Precinct name="Austin Road" totalVoters="3197" ballotsCast="286" voterTurnout="8.95" percentReporting="4" />
+            <Precinct name="Swan Lake" totalVoters="3413" ballotsCast="135" voterTurnout="3.96" percentReporting="4" />
+            <Precinct name="Shakerag" totalVoters="4001" ballotsCast="383" voterTurnout="9.57" percentReporting="4" />
+            <Precinct name="Ellenwood" totalVoters="4113" ballotsCast="523" voterTurnout="12.72" percentReporting="4" />
+            <Precinct name="Unity Grove" totalVoters="4777" ballotsCast="123" voterTurnout="2.57" percentReporting="4" />
+            <Precinct name="Shiloh" totalVoters="3783" ballotsCast="210" voterTurnout="5.55" percentReporting="4" />
+            <Precinct name="Pates Creek" totalVoters="5119" ballotsCast="228" voterTurnout="4.45" percentReporting="4" />
+            <Precinct name="Oakland" totalVoters="4307" ballotsCast="242" voterTurnout="5.62" percentReporting="4" />
+            <Precinct name="Lake Dow" totalVoters="4966" ballotsCast="217" voterTurnout="4.37" percentReporting="4" />
+            <Precinct name="Flippen" totalVoters="4277" ballotsCast="304" voterTurnout="7.11" percentReporting="4" />
+            <Precinct name="Stockbridge Central" totalVoters="4166" ballotsCast="152" voterTurnout="3.65" percentReporting="4" />
+            <Precinct name="Kelleytown" totalVoters="3301" ballotsCast="161" voterTurnout="4.88" percentReporting="4" />
+            <Precinct name="Lighthouse" totalVoters="3497" ballotsCast="277" voterTurnout="7.92" percentReporting="4" />
+            <Precinct name="Dutchtown" totalVoters="2496" ballotsCast="110" voterTurnout="4.41" percentReporting="4" />
+            <Precinct name="Mt Bethel" totalVoters="3497" ballotsCast="100" voterTurnout="2.86" percentReporting="4" />
+            <Precinct name="Grove Park" totalVoters="4092" ballotsCast="108" voterTurnout="2.64" percentReporting="4" />
+            <Precinct name="Lake Haven" totalVoters="4000" ballotsCast="144" voterTurnout="3.60" percentReporting="4" />
+            <Precinct name="McDonough Central" totalVoters="4094" ballotsCast="186" voterTurnout="4.54" percentReporting="4" />
+            <Precinct name="Timberridge" totalVoters="2214" ballotsCast="104" voterTurnout="4.70" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="37" precinctsReported="37">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Locust Grove" votes="1" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="1" />
+            <Precinct name="Lowes" votes="4" />
+            <Precinct name="South Hampton" votes="1" />
+            <Precinct name="North Hampton" votes="4" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Red Oak" votes="0" />
+            <Precinct name="Wesley Lakes" votes="3" />
+            <Precinct name="McDonough" votes="1" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="3" />
+            <Precinct name="Stagecoach" votes="1" />
+            <Precinct name="Cotton Indian" votes="1" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="2" />
+            <Precinct name="Swan Lake" votes="0" />
+            <Precinct name="Shakerag" votes="1" />
+            <Precinct name="Ellenwood" votes="0" />
+            <Precinct name="Unity Grove" votes="1" />
+            <Precinct name="Shiloh" votes="3" />
+            <Precinct name="Pates Creek" votes="1" />
+            <Precinct name="Oakland" votes="3" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="1" />
+            <Precinct name="Stockbridge Central" votes="2" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="1" />
+            <Precinct name="Timberridge" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="South Hampton" votes="0" />
+            <Precinct name="North Hampton" votes="0" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Red Oak" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="0" />
+            <Precinct name="Stagecoach" votes="0" />
+            <Precinct name="Cotton Indian" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="0" />
+            <Precinct name="Swan Lake" votes="0" />
+            <Precinct name="Shakerag" votes="0" />
+            <Precinct name="Ellenwood" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Pates Creek" votes="0" />
+            <Precinct name="Oakland" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="0" />
+            <Precinct name="Stockbridge Central" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="4849">
+            <VoteType name="Absentee by Mail Votes" votes="337">
+                <Precinct name="Locust Grove" votes="9" />
+                <Precinct name="Tussahaw" votes="3" />
+                <Precinct name="Sandy Ridge" votes="7" />
+                <Precinct name="Westside" votes="11" />
+                <Precinct name="Lowes" votes="19" />
+                <Precinct name="South Hampton" votes="7" />
+                <Precinct name="North Hampton" votes="14" />
+                <Precinct name="Mount Carmel" votes="19" />
+                <Precinct name="Red Oak" votes="4" />
+                <Precinct name="Wesley Lakes" votes="10" />
+                <Precinct name="McDonough" votes="2" />
+                <Precinct name="McMullen" votes="8" />
+                <Precinct name="East Lake" votes="5" />
+                <Precinct name="Hickory Flat" votes="10" />
+                <Precinct name="Stockbridge East-West" votes="21" />
+                <Precinct name="Stagecoach" votes="6" />
+                <Precinct name="Cotton Indian" votes="6" />
+                <Precinct name="Pleasant Grove" votes="8" />
+                <Precinct name="Austin Road" votes="5" />
+                <Precinct name="Swan Lake" votes="5" />
+                <Precinct name="Shakerag" votes="14" />
+                <Precinct name="Ellenwood" votes="23" />
+                <Precinct name="Unity Grove" votes="9" />
+                <Precinct name="Shiloh" votes="15" />
+                <Precinct name="Pates Creek" votes="10" />
+                <Precinct name="Oakland" votes="19" />
+                <Precinct name="Lake Dow" votes="14" />
+                <Precinct name="Flippen" votes="9" />
+                <Precinct name="Stockbridge Central" votes="5" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Lighthouse" votes="15" />
+                <Precinct name="Dutchtown" votes="2" />
+                <Precinct name="Mt Bethel" votes="2" />
+                <Precinct name="Grove Park" votes="4" />
+                <Precinct name="Lake Haven" votes="9" />
+                <Precinct name="McDonough Central" votes="6" />
+                <Precinct name="Timberridge" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1596">
+                <Precinct name="Locust Grove" votes="64" />
+                <Precinct name="Tussahaw" votes="10" />
+                <Precinct name="Sandy Ridge" votes="12" />
+                <Precinct name="Westside" votes="52" />
+                <Precinct name="Lowes" votes="75" />
+                <Precinct name="South Hampton" votes="32" />
+                <Precinct name="North Hampton" votes="65" />
+                <Precinct name="Mount Carmel" votes="83" />
+                <Precinct name="Red Oak" votes="78" />
+                <Precinct name="Wesley Lakes" votes="42" />
+                <Precinct name="McDonough" votes="30" />
+                <Precinct name="McMullen" votes="26" />
+                <Precinct name="East Lake" votes="8" />
+                <Precinct name="Hickory Flat" votes="64" />
+                <Precinct name="Stockbridge East-West" votes="61" />
+                <Precinct name="Stagecoach" votes="20" />
+                <Precinct name="Cotton Indian" votes="17" />
+                <Precinct name="Pleasant Grove" votes="28" />
+                <Precinct name="Austin Road" votes="67" />
+                <Precinct name="Swan Lake" votes="23" />
+                <Precinct name="Shakerag" votes="73" />
+                <Precinct name="Ellenwood" votes="123" />
+                <Precinct name="Unity Grove" votes="27" />
+                <Precinct name="Shiloh" votes="41" />
+                <Precinct name="Pates Creek" votes="51" />
+                <Precinct name="Oakland" votes="35" />
+                <Precinct name="Lake Dow" votes="41" />
+                <Precinct name="Flippen" votes="71" />
+                <Precinct name="Stockbridge Central" votes="28" />
+                <Precinct name="Kelleytown" votes="21" />
+                <Precinct name="Lighthouse" votes="55" />
+                <Precinct name="Dutchtown" votes="30" />
+                <Precinct name="Mt Bethel" votes="10" />
+                <Precinct name="Grove Park" votes="27" />
+                <Precinct name="Lake Haven" votes="25" />
+                <Precinct name="McDonough Central" votes="62" />
+                <Precinct name="Timberridge" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2912">
+                <Precinct name="Locust Grove" votes="97" />
+                <Precinct name="Tussahaw" votes="11" />
+                <Precinct name="Sandy Ridge" votes="26" />
+                <Precinct name="Westside" votes="64" />
+                <Precinct name="Lowes" votes="144" />
+                <Precinct name="South Hampton" votes="61" />
+                <Precinct name="North Hampton" votes="66" />
+                <Precinct name="Mount Carmel" votes="149" />
+                <Precinct name="Red Oak" votes="144" />
+                <Precinct name="Wesley Lakes" votes="88" />
+                <Precinct name="McDonough" votes="43" />
+                <Precinct name="McMullen" votes="50" />
+                <Precinct name="East Lake" votes="56" />
+                <Precinct name="Hickory Flat" votes="99" />
+                <Precinct name="Stockbridge East-West" votes="116" />
+                <Precinct name="Stagecoach" votes="43" />
+                <Precinct name="Cotton Indian" votes="102" />
+                <Precinct name="Pleasant Grove" votes="94" />
+                <Precinct name="Austin Road" votes="103" />
+                <Precinct name="Swan Lake" votes="59" />
+                <Precinct name="Shakerag" votes="139" />
+                <Precinct name="Ellenwood" votes="173" />
+                <Precinct name="Unity Grove" votes="36" />
+                <Precinct name="Shiloh" votes="75" />
+                <Precinct name="Pates Creek" votes="84" />
+                <Precinct name="Oakland" votes="73" />
+                <Precinct name="Lake Dow" votes="79" />
+                <Precinct name="Flippen" votes="114" />
+                <Precinct name="Stockbridge Central" votes="53" />
+                <Precinct name="Kelleytown" votes="92" />
+                <Precinct name="Lighthouse" votes="98" />
+                <Precinct name="Dutchtown" votes="47" />
+                <Precinct name="Mt Bethel" votes="59" />
+                <Precinct name="Grove Park" votes="33" />
+                <Precinct name="Lake Haven" votes="52" />
+                <Precinct name="McDonough Central" votes="48" />
+                <Precinct name="Timberridge" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="0" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="2" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="3201">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="Locust Grove" votes="1" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="6" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="3" />
+                <Precinct name="Mount Carmel" votes="10" />
+                <Precinct name="Red Oak" votes="5" />
+                <Precinct name="Wesley Lakes" votes="4" />
+                <Precinct name="McDonough" votes="7" />
+                <Precinct name="McMullen" votes="1" />
+                <Precinct name="East Lake" votes="2" />
+                <Precinct name="Hickory Flat" votes="7" />
+                <Precinct name="Stockbridge East-West" votes="6" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="6" />
+                <Precinct name="Pleasant Grove" votes="4" />
+                <Precinct name="Austin Road" votes="1" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="3" />
+                <Precinct name="Ellenwood" votes="4" />
+                <Precinct name="Unity Grove" votes="1" />
+                <Precinct name="Shiloh" votes="5" />
+                <Precinct name="Pates Creek" votes="9" />
+                <Precinct name="Oakland" votes="6" />
+                <Precinct name="Lake Dow" votes="4" />
+                <Precinct name="Flippen" votes="5" />
+                <Precinct name="Stockbridge Central" votes="4" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="4" />
+                <Precinct name="Dutchtown" votes="2" />
+                <Precinct name="Mt Bethel" votes="4" />
+                <Precinct name="Grove Park" votes="1" />
+                <Precinct name="Lake Haven" votes="1" />
+                <Precinct name="McDonough Central" votes="4" />
+                <Precinct name="Timberridge" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1123">
+                <Precinct name="Locust Grove" votes="51" />
+                <Precinct name="Tussahaw" votes="5" />
+                <Precinct name="Sandy Ridge" votes="10" />
+                <Precinct name="Westside" votes="51" />
+                <Precinct name="Lowes" votes="74" />
+                <Precinct name="South Hampton" votes="31" />
+                <Precinct name="North Hampton" votes="54" />
+                <Precinct name="Mount Carmel" votes="67" />
+                <Precinct name="Red Oak" votes="42" />
+                <Precinct name="Wesley Lakes" votes="48" />
+                <Precinct name="McDonough" votes="27" />
+                <Precinct name="McMullen" votes="20" />
+                <Precinct name="East Lake" votes="13" />
+                <Precinct name="Hickory Flat" votes="28" />
+                <Precinct name="Stockbridge East-West" votes="55" />
+                <Precinct name="Stagecoach" votes="19" />
+                <Precinct name="Cotton Indian" votes="14" />
+                <Precinct name="Pleasant Grove" votes="19" />
+                <Precinct name="Austin Road" votes="49" />
+                <Precinct name="Swan Lake" votes="21" />
+                <Precinct name="Shakerag" votes="46" />
+                <Precinct name="Ellenwood" votes="74" />
+                <Precinct name="Unity Grove" votes="17" />
+                <Precinct name="Shiloh" votes="25" />
+                <Precinct name="Pates Creek" votes="27" />
+                <Precinct name="Oakland" votes="35" />
+                <Precinct name="Lake Dow" votes="23" />
+                <Precinct name="Flippen" votes="35" />
+                <Precinct name="Stockbridge Central" votes="24" />
+                <Precinct name="Kelleytown" votes="11" />
+                <Precinct name="Lighthouse" votes="28" />
+                <Precinct name="Dutchtown" votes="9" />
+                <Precinct name="Mt Bethel" votes="3" />
+                <Precinct name="Grove Park" votes="10" />
+                <Precinct name="Lake Haven" votes="23" />
+                <Precinct name="McDonough Central" votes="25" />
+                <Precinct name="Timberridge" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1952">
+                <Precinct name="Locust Grove" votes="75" />
+                <Precinct name="Tussahaw" votes="4" />
+                <Precinct name="Sandy Ridge" votes="20" />
+                <Precinct name="Westside" votes="55" />
+                <Precinct name="Lowes" votes="126" />
+                <Precinct name="South Hampton" votes="31" />
+                <Precinct name="North Hampton" votes="65" />
+                <Precinct name="Mount Carmel" votes="115" />
+                <Precinct name="Red Oak" votes="86" />
+                <Precinct name="Wesley Lakes" votes="55" />
+                <Precinct name="McDonough" votes="33" />
+                <Precinct name="McMullen" votes="23" />
+                <Precinct name="East Lake" votes="19" />
+                <Precinct name="Hickory Flat" votes="60" />
+                <Precinct name="Stockbridge East-West" votes="90" />
+                <Precinct name="Stagecoach" votes="24" />
+                <Precinct name="Cotton Indian" votes="57" />
+                <Precinct name="Pleasant Grove" votes="51" />
+                <Precinct name="Austin Road" votes="59" />
+                <Precinct name="Swan Lake" votes="27" />
+                <Precinct name="Shakerag" votes="107" />
+                <Precinct name="Ellenwood" votes="126" />
+                <Precinct name="Unity Grove" votes="32" />
+                <Precinct name="Shiloh" votes="46" />
+                <Precinct name="Pates Creek" votes="46" />
+                <Precinct name="Oakland" votes="71" />
+                <Precinct name="Lake Dow" votes="56" />
+                <Precinct name="Flippen" votes="69" />
+                <Precinct name="Stockbridge Central" votes="36" />
+                <Precinct name="Kelleytown" votes="36" />
+                <Precinct name="Lighthouse" votes="77" />
+                <Precinct name="Dutchtown" votes="20" />
+                <Precinct name="Mt Bethel" votes="21" />
+                <Precinct name="Grove Park" votes="33" />
+                <Precinct name="Lake Haven" votes="34" />
+                <Precinct name="McDonough Central" votes="40" />
+                <Precinct name="Timberridge" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="1" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="0" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="1" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="37" precinctsReported="37">
+        <VoteType name="Undervotes" votes="54">
+            <Precinct name="Locust Grove" votes="1" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="1" />
+            <Precinct name="Lowes" votes="6" />
+            <Precinct name="South Hampton" votes="2" />
+            <Precinct name="North Hampton" votes="4" />
+            <Precinct name="Mount Carmel" votes="4" />
+            <Precinct name="Red Oak" votes="1" />
+            <Precinct name="Wesley Lakes" votes="1" />
+            <Precinct name="McDonough" votes="3" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="5" />
+            <Precinct name="Stagecoach" votes="1" />
+            <Precinct name="Cotton Indian" votes="2" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="1" />
+            <Precinct name="Swan Lake" votes="1" />
+            <Precinct name="Shakerag" votes="1" />
+            <Precinct name="Ellenwood" votes="3" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="3" />
+            <Precinct name="Pates Creek" votes="0" />
+            <Precinct name="Oakland" votes="3" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="1" />
+            <Precinct name="Stockbridge Central" votes="2" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="1" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="3" />
+            <Precinct name="Lake Haven" votes="1" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="South Hampton" votes="0" />
+            <Precinct name="North Hampton" votes="0" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Red Oak" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="0" />
+            <Precinct name="Stagecoach" votes="0" />
+            <Precinct name="Cotton Indian" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="0" />
+            <Precinct name="Swan Lake" votes="0" />
+            <Precinct name="Shakerag" votes="0" />
+            <Precinct name="Ellenwood" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Pates Creek" votes="0" />
+            <Precinct name="Oakland" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="0" />
+            <Precinct name="Stockbridge Central" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="1919">
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="Locust Grove" votes="4" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="2" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="6" />
+                <Precinct name="Mount Carmel" votes="7" />
+                <Precinct name="Red Oak" votes="3" />
+                <Precinct name="Wesley Lakes" votes="1" />
+                <Precinct name="McDonough" votes="2" />
+                <Precinct name="McMullen" votes="1" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="5" />
+                <Precinct name="Stockbridge East-West" votes="2" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="1" />
+                <Precinct name="Pleasant Grove" votes="2" />
+                <Precinct name="Austin Road" votes="2" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="2" />
+                <Precinct name="Ellenwood" votes="3" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="8" />
+                <Precinct name="Pates Creek" votes="5" />
+                <Precinct name="Oakland" votes="8" />
+                <Precinct name="Lake Dow" votes="2" />
+                <Precinct name="Flippen" votes="2" />
+                <Precinct name="Stockbridge Central" votes="3" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="2" />
+                <Precinct name="Dutchtown" votes="1" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="2" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="537">
+                <Precinct name="Locust Grove" votes="21" />
+                <Precinct name="Tussahaw" votes="2" />
+                <Precinct name="Sandy Ridge" votes="5" />
+                <Precinct name="Westside" votes="23" />
+                <Precinct name="Lowes" votes="31" />
+                <Precinct name="South Hampton" votes="22" />
+                <Precinct name="North Hampton" votes="31" />
+                <Precinct name="Mount Carmel" votes="39" />
+                <Precinct name="Red Oak" votes="25" />
+                <Precinct name="Wesley Lakes" votes="13" />
+                <Precinct name="McDonough" votes="12" />
+                <Precinct name="McMullen" votes="11" />
+                <Precinct name="East Lake" votes="6" />
+                <Precinct name="Hickory Flat" votes="9" />
+                <Precinct name="Stockbridge East-West" votes="23" />
+                <Precinct name="Stagecoach" votes="7" />
+                <Precinct name="Cotton Indian" votes="8" />
+                <Precinct name="Pleasant Grove" votes="9" />
+                <Precinct name="Austin Road" votes="22" />
+                <Precinct name="Swan Lake" votes="9" />
+                <Precinct name="Shakerag" votes="20" />
+                <Precinct name="Ellenwood" votes="34" />
+                <Precinct name="Unity Grove" votes="4" />
+                <Precinct name="Shiloh" votes="12" />
+                <Precinct name="Pates Creek" votes="13" />
+                <Precinct name="Oakland" votes="19" />
+                <Precinct name="Lake Dow" votes="14" />
+                <Precinct name="Flippen" votes="15" />
+                <Precinct name="Stockbridge Central" votes="8" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Lighthouse" votes="14" />
+                <Precinct name="Dutchtown" votes="7" />
+                <Precinct name="Mt Bethel" votes="2" />
+                <Precinct name="Grove Park" votes="7" />
+                <Precinct name="Lake Haven" votes="7" />
+                <Precinct name="McDonough Central" votes="23" />
+                <Precinct name="Timberridge" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1301">
+                <Precinct name="Locust Grove" votes="40" />
+                <Precinct name="Tussahaw" votes="2" />
+                <Precinct name="Sandy Ridge" votes="9" />
+                <Precinct name="Westside" votes="40" />
+                <Precinct name="Lowes" votes="76" />
+                <Precinct name="South Hampton" votes="27" />
+                <Precinct name="North Hampton" votes="41" />
+                <Precinct name="Mount Carmel" votes="89" />
+                <Precinct name="Red Oak" votes="59" />
+                <Precinct name="Wesley Lakes" votes="33" />
+                <Precinct name="McDonough" votes="21" />
+                <Precinct name="McMullen" votes="11" />
+                <Precinct name="East Lake" votes="12" />
+                <Precinct name="Hickory Flat" votes="39" />
+                <Precinct name="Stockbridge East-West" votes="62" />
+                <Precinct name="Stagecoach" votes="15" />
+                <Precinct name="Cotton Indian" votes="42" />
+                <Precinct name="Pleasant Grove" votes="38" />
+                <Precinct name="Austin Road" votes="36" />
+                <Precinct name="Swan Lake" votes="16" />
+                <Precinct name="Shakerag" votes="65" />
+                <Precinct name="Ellenwood" votes="79" />
+                <Precinct name="Unity Grove" votes="15" />
+                <Precinct name="Shiloh" votes="37" />
+                <Precinct name="Pates Creek" votes="25" />
+                <Precinct name="Oakland" votes="46" />
+                <Precinct name="Lake Dow" votes="36" />
+                <Precinct name="Flippen" votes="58" />
+                <Precinct name="Stockbridge Central" votes="29" />
+                <Precinct name="Kelleytown" votes="26" />
+                <Precinct name="Lighthouse" votes="51" />
+                <Precinct name="Dutchtown" votes="20" />
+                <Precinct name="Mt Bethel" votes="18" />
+                <Precinct name="Grove Park" votes="22" />
+                <Precinct name="Lake Haven" votes="23" />
+                <Precinct name="McDonough Central" votes="24" />
+                <Precinct name="Timberridge" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="1" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="1" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="1" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="6115">
+            <VoteType name="Absentee by Mail Votes" votes="385">
+                <Precinct name="Locust Grove" votes="6" />
+                <Precinct name="Tussahaw" votes="3" />
+                <Precinct name="Sandy Ridge" votes="5" />
+                <Precinct name="Westside" votes="15" />
+                <Precinct name="Lowes" votes="21" />
+                <Precinct name="South Hampton" votes="7" />
+                <Precinct name="North Hampton" votes="11" />
+                <Precinct name="Mount Carmel" votes="22" />
+                <Precinct name="Red Oak" votes="6" />
+                <Precinct name="Wesley Lakes" votes="13" />
+                <Precinct name="McDonough" votes="7" />
+                <Precinct name="McMullen" votes="8" />
+                <Precinct name="East Lake" votes="7" />
+                <Precinct name="Hickory Flat" votes="12" />
+                <Precinct name="Stockbridge East-West" votes="25" />
+                <Precinct name="Stagecoach" votes="7" />
+                <Precinct name="Cotton Indian" votes="11" />
+                <Precinct name="Pleasant Grove" votes="10" />
+                <Precinct name="Austin Road" votes="4" />
+                <Precinct name="Swan Lake" votes="5" />
+                <Precinct name="Shakerag" votes="15" />
+                <Precinct name="Ellenwood" votes="24" />
+                <Precinct name="Unity Grove" votes="10" />
+                <Precinct name="Shiloh" votes="12" />
+                <Precinct name="Pates Creek" votes="14" />
+                <Precinct name="Oakland" votes="17" />
+                <Precinct name="Lake Dow" votes="16" />
+                <Precinct name="Flippen" votes="13" />
+                <Precinct name="Stockbridge Central" votes="6" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Lighthouse" votes="17" />
+                <Precinct name="Dutchtown" votes="3" />
+                <Precinct name="Mt Bethel" votes="6" />
+                <Precinct name="Grove Park" votes="5" />
+                <Precinct name="Lake Haven" votes="10" />
+                <Precinct name="McDonough Central" votes="8" />
+                <Precinct name="Timberridge" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2180">
+                <Precinct name="Locust Grove" votes="94" />
+                <Precinct name="Tussahaw" votes="13" />
+                <Precinct name="Sandy Ridge" votes="17" />
+                <Precinct name="Westside" votes="80" />
+                <Precinct name="Lowes" votes="119" />
+                <Precinct name="South Hampton" votes="41" />
+                <Precinct name="North Hampton" votes="88" />
+                <Precinct name="Mount Carmel" votes="111" />
+                <Precinct name="Red Oak" votes="95" />
+                <Precinct name="Wesley Lakes" votes="79" />
+                <Precinct name="McDonough" votes="45" />
+                <Precinct name="McMullen" votes="35" />
+                <Precinct name="East Lake" votes="15" />
+                <Precinct name="Hickory Flat" votes="83" />
+                <Precinct name="Stockbridge East-West" votes="92" />
+                <Precinct name="Stagecoach" votes="31" />
+                <Precinct name="Cotton Indian" votes="23" />
+                <Precinct name="Pleasant Grove" votes="38" />
+                <Precinct name="Austin Road" votes="95" />
+                <Precinct name="Swan Lake" votes="35" />
+                <Precinct name="Shakerag" votes="99" />
+                <Precinct name="Ellenwood" votes="162" />
+                <Precinct name="Unity Grove" votes="41" />
+                <Precinct name="Shiloh" votes="54" />
+                <Precinct name="Pates Creek" votes="65" />
+                <Precinct name="Oakland" votes="51" />
+                <Precinct name="Lake Dow" votes="50" />
+                <Precinct name="Flippen" votes="91" />
+                <Precinct name="Stockbridge Central" votes="44" />
+                <Precinct name="Kelleytown" votes="31" />
+                <Precinct name="Lighthouse" votes="68" />
+                <Precinct name="Dutchtown" votes="32" />
+                <Precinct name="Mt Bethel" votes="11" />
+                <Precinct name="Grove Park" votes="27" />
+                <Precinct name="Lake Haven" votes="40" />
+                <Precinct name="McDonough Central" votes="65" />
+                <Precinct name="Timberridge" votes="20" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3547">
+                <Precinct name="Locust Grove" votes="132" />
+                <Precinct name="Tussahaw" votes="13" />
+                <Precinct name="Sandy Ridge" votes="37" />
+                <Precinct name="Westside" votes="79" />
+                <Precinct name="Lowes" votes="191" />
+                <Precinct name="South Hampton" votes="64" />
+                <Precinct name="North Hampton" votes="90" />
+                <Precinct name="Mount Carmel" votes="171" />
+                <Precinct name="Red Oak" votes="170" />
+                <Precinct name="Wesley Lakes" votes="110" />
+                <Precinct name="McDonough" votes="53" />
+                <Precinct name="McMullen" votes="62" />
+                <Precinct name="East Lake" votes="63" />
+                <Precinct name="Hickory Flat" votes="120" />
+                <Precinct name="Stockbridge East-West" votes="143" />
+                <Precinct name="Stagecoach" votes="52" />
+                <Precinct name="Cotton Indian" votes="116" />
+                <Precinct name="Pleasant Grove" votes="107" />
+                <Precinct name="Austin Road" votes="126" />
+                <Precinct name="Swan Lake" votes="69" />
+                <Precinct name="Shakerag" votes="181" />
+                <Precinct name="Ellenwood" votes="218" />
+                <Precinct name="Unity Grove" votes="53" />
+                <Precinct name="Shiloh" votes="84" />
+                <Precinct name="Pates Creek" votes="106" />
+                <Precinct name="Oakland" votes="98" />
+                <Precinct name="Lake Dow" votes="99" />
+                <Precinct name="Flippen" votes="124" />
+                <Precinct name="Stockbridge Central" votes="60" />
+                <Precinct name="Kelleytown" votes="102" />
+                <Precinct name="Lighthouse" votes="124" />
+                <Precinct name="Dutchtown" votes="47" />
+                <Precinct name="Mt Bethel" votes="62" />
+                <Precinct name="Grove Park" votes="44" />
+                <Precinct name="Lake Haven" votes="63" />
+                <Precinct name="McDonough Central" votes="64" />
+                <Precinct name="Timberridge" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="0" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="1" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="37" precinctsReported="37">
+        <VoteType name="Undervotes" votes="169">
+            <Precinct name="Locust Grove" votes="6" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="2" />
+            <Precinct name="Westside" votes="7" />
+            <Precinct name="Lowes" votes="14" />
+            <Precinct name="South Hampton" votes="2" />
+            <Precinct name="North Hampton" votes="13" />
+            <Precinct name="Mount Carmel" votes="9" />
+            <Precinct name="Red Oak" votes="7" />
+            <Precinct name="Wesley Lakes" votes="5" />
+            <Precinct name="McDonough" votes="1" />
+            <Precinct name="McMullen" votes="1" />
+            <Precinct name="East Lake" votes="3" />
+            <Precinct name="Hickory Flat" votes="2" />
+            <Precinct name="Stockbridge East-West" votes="7" />
+            <Precinct name="Stagecoach" votes="2" />
+            <Precinct name="Cotton Indian" votes="5" />
+            <Precinct name="Pleasant Grove" votes="4" />
+            <Precinct name="Austin Road" votes="7" />
+            <Precinct name="Swan Lake" votes="3" />
+            <Precinct name="Shakerag" votes="6" />
+            <Precinct name="Ellenwood" votes="9" />
+            <Precinct name="Unity Grove" votes="4" />
+            <Precinct name="Shiloh" votes="8" />
+            <Precinct name="Pates Creek" votes="4" />
+            <Precinct name="Oakland" votes="5" />
+            <Precinct name="Lake Dow" votes="5" />
+            <Precinct name="Flippen" votes="4" />
+            <Precinct name="Stockbridge Central" votes="0" />
+            <Precinct name="Kelleytown" votes="3" />
+            <Precinct name="Lighthouse" votes="5" />
+            <Precinct name="Dutchtown" votes="1" />
+            <Precinct name="Mt Bethel" votes="2" />
+            <Precinct name="Grove Park" votes="2" />
+            <Precinct name="Lake Haven" votes="1" />
+            <Precinct name="McDonough Central" votes="8" />
+            <Precinct name="Timberridge" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="South Hampton" votes="0" />
+            <Precinct name="North Hampton" votes="0" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Red Oak" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="0" />
+            <Precinct name="Stagecoach" votes="0" />
+            <Precinct name="Cotton Indian" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="0" />
+            <Precinct name="Swan Lake" votes="0" />
+            <Precinct name="Shakerag" votes="0" />
+            <Precinct name="Ellenwood" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Pates Creek" votes="0" />
+            <Precinct name="Oakland" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="0" />
+            <Precinct name="Stockbridge Central" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="3140">
+            <VoteType name="Absentee by Mail Votes" votes="135">
+                <Precinct name="Locust Grove" votes="2" />
+                <Precinct name="Tussahaw" votes="2" />
+                <Precinct name="Sandy Ridge" votes="1" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Lowes" votes="9" />
+                <Precinct name="South Hampton" votes="1" />
+                <Precinct name="North Hampton" votes="6" />
+                <Precinct name="Mount Carmel" votes="6" />
+                <Precinct name="Red Oak" votes="5" />
+                <Precinct name="Wesley Lakes" votes="6" />
+                <Precinct name="McDonough" votes="2" />
+                <Precinct name="McMullen" votes="4" />
+                <Precinct name="East Lake" votes="1" />
+                <Precinct name="Hickory Flat" votes="3" />
+                <Precinct name="Stockbridge East-West" votes="13" />
+                <Precinct name="Stagecoach" votes="3" />
+                <Precinct name="Cotton Indian" votes="3" />
+                <Precinct name="Pleasant Grove" votes="3" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="2" />
+                <Precinct name="Shakerag" votes="4" />
+                <Precinct name="Ellenwood" votes="8" />
+                <Precinct name="Unity Grove" votes="3" />
+                <Precinct name="Shiloh" votes="7" />
+                <Precinct name="Pates Creek" votes="3" />
+                <Precinct name="Oakland" votes="11" />
+                <Precinct name="Lake Dow" votes="6" />
+                <Precinct name="Flippen" votes="1" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="3" />
+                <Precinct name="Dutchtown" votes="1" />
+                <Precinct name="Mt Bethel" votes="3" />
+                <Precinct name="Grove Park" votes="4" />
+                <Precinct name="Lake Haven" votes="6" />
+                <Precinct name="McDonough Central" votes="2" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1000">
+                <Precinct name="Locust Grove" votes="45" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="6" />
+                <Precinct name="Westside" votes="41" />
+                <Precinct name="Lowes" votes="53" />
+                <Precinct name="South Hampton" votes="28" />
+                <Precinct name="North Hampton" votes="45" />
+                <Precinct name="Mount Carmel" votes="54" />
+                <Precinct name="Red Oak" votes="47" />
+                <Precinct name="Wesley Lakes" votes="34" />
+                <Precinct name="McDonough" votes="18" />
+                <Precinct name="McMullen" votes="20" />
+                <Precinct name="East Lake" votes="7" />
+                <Precinct name="Hickory Flat" votes="36" />
+                <Precinct name="Stockbridge East-West" votes="46" />
+                <Precinct name="Stagecoach" votes="13" />
+                <Precinct name="Cotton Indian" votes="13" />
+                <Precinct name="Pleasant Grove" votes="20" />
+                <Precinct name="Austin Road" votes="44" />
+                <Precinct name="Swan Lake" votes="22" />
+                <Precinct name="Shakerag" votes="45" />
+                <Precinct name="Ellenwood" votes="71" />
+                <Precinct name="Unity Grove" votes="17" />
+                <Precinct name="Shiloh" votes="19" />
+                <Precinct name="Pates Creek" votes="23" />
+                <Precinct name="Oakland" votes="23" />
+                <Precinct name="Lake Dow" votes="24" />
+                <Precinct name="Flippen" votes="37" />
+                <Precinct name="Stockbridge Central" votes="18" />
+                <Precinct name="Kelleytown" votes="13" />
+                <Precinct name="Lighthouse" votes="26" />
+                <Precinct name="Dutchtown" votes="15" />
+                <Precinct name="Mt Bethel" votes="3" />
+                <Precinct name="Grove Park" votes="12" />
+                <Precinct name="Lake Haven" votes="18" />
+                <Precinct name="McDonough Central" votes="31" />
+                <Precinct name="Timberridge" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2003">
+                <Precinct name="Locust Grove" votes="76" />
+                <Precinct name="Tussahaw" votes="5" />
+                <Precinct name="Sandy Ridge" votes="17" />
+                <Precinct name="Westside" votes="53" />
+                <Precinct name="Lowes" votes="121" />
+                <Precinct name="South Hampton" votes="34" />
+                <Precinct name="North Hampton" votes="64" />
+                <Precinct name="Mount Carmel" votes="103" />
+                <Precinct name="Red Oak" votes="88" />
+                <Precinct name="Wesley Lakes" votes="73" />
+                <Precinct name="McDonough" votes="33" />
+                <Precinct name="McMullen" votes="19" />
+                <Precinct name="East Lake" votes="20" />
+                <Precinct name="Hickory Flat" votes="51" />
+                <Precinct name="Stockbridge East-West" votes="72" />
+                <Precinct name="Stagecoach" votes="27" />
+                <Precinct name="Cotton Indian" votes="68" />
+                <Precinct name="Pleasant Grove" votes="70" />
+                <Precinct name="Austin Road" votes="61" />
+                <Precinct name="Swan Lake" votes="35" />
+                <Precinct name="Shakerag" votes="97" />
+                <Precinct name="Ellenwood" votes="136" />
+                <Precinct name="Unity Grove" votes="33" />
+                <Precinct name="Shiloh" votes="46" />
+                <Precinct name="Pates Creek" votes="59" />
+                <Precinct name="Oakland" votes="60" />
+                <Precinct name="Lake Dow" votes="48" />
+                <Precinct name="Flippen" votes="80" />
+                <Precinct name="Stockbridge Central" votes="48" />
+                <Precinct name="Kelleytown" votes="61" />
+                <Precinct name="Lighthouse" votes="69" />
+                <Precinct name="Dutchtown" votes="23" />
+                <Precinct name="Mt Bethel" votes="31" />
+                <Precinct name="Grove Park" votes="26" />
+                <Precinct name="Lake Haven" votes="36" />
+                <Precinct name="McDonough Central" votes="38" />
+                <Precinct name="Timberridge" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="1" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="0" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="0" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="1" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="4779">
+            <VoteType name="Absentee by Mail Votes" votes="308">
+                <Precinct name="Locust Grove" votes="8" />
+                <Precinct name="Tussahaw" votes="1" />
+                <Precinct name="Sandy Ridge" votes="6" />
+                <Precinct name="Westside" votes="16" />
+                <Precinct name="Lowes" votes="11" />
+                <Precinct name="South Hampton" votes="6" />
+                <Precinct name="North Hampton" votes="11" />
+                <Precinct name="Mount Carmel" votes="23" />
+                <Precinct name="Red Oak" votes="3" />
+                <Precinct name="Wesley Lakes" votes="7" />
+                <Precinct name="McDonough" votes="7" />
+                <Precinct name="McMullen" votes="4" />
+                <Precinct name="East Lake" votes="6" />
+                <Precinct name="Hickory Flat" votes="14" />
+                <Precinct name="Stockbridge East-West" votes="14" />
+                <Precinct name="Stagecoach" votes="4" />
+                <Precinct name="Cotton Indian" votes="9" />
+                <Precinct name="Pleasant Grove" votes="8" />
+                <Precinct name="Austin Road" votes="5" />
+                <Precinct name="Swan Lake" votes="3" />
+                <Precinct name="Shakerag" votes="13" />
+                <Precinct name="Ellenwood" votes="19" />
+                <Precinct name="Unity Grove" votes="7" />
+                <Precinct name="Shiloh" votes="11" />
+                <Precinct name="Pates Creek" votes="14" />
+                <Precinct name="Oakland" votes="14" />
+                <Precinct name="Lake Dow" votes="7" />
+                <Precinct name="Flippen" votes="12" />
+                <Precinct name="Stockbridge Central" votes="9" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Lighthouse" votes="15" />
+                <Precinct name="Dutchtown" votes="3" />
+                <Precinct name="Mt Bethel" votes="3" />
+                <Precinct name="Grove Park" votes="1" />
+                <Precinct name="Lake Haven" votes="4" />
+                <Precinct name="McDonough Central" votes="6" />
+                <Precinct name="Timberridge" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1683">
+                <Precinct name="Locust Grove" votes="67" />
+                <Precinct name="Tussahaw" votes="15" />
+                <Precinct name="Sandy Ridge" votes="16" />
+                <Precinct name="Westside" votes="58" />
+                <Precinct name="Lowes" votes="92" />
+                <Precinct name="South Hampton" votes="34" />
+                <Precinct name="North Hampton" votes="73" />
+                <Precinct name="Mount Carmel" votes="95" />
+                <Precinct name="Red Oak" votes="73" />
+                <Precinct name="Wesley Lakes" votes="57" />
+                <Precinct name="McDonough" votes="39" />
+                <Precinct name="McMullen" votes="26" />
+                <Precinct name="East Lake" votes="12" />
+                <Precinct name="Hickory Flat" votes="54" />
+                <Precinct name="Stockbridge East-West" votes="69" />
+                <Precinct name="Stagecoach" votes="25" />
+                <Precinct name="Cotton Indian" votes="18" />
+                <Precinct name="Pleasant Grove" votes="25" />
+                <Precinct name="Austin Road" votes="72" />
+                <Precinct name="Swan Lake" votes="20" />
+                <Precinct name="Shakerag" votes="73" />
+                <Precinct name="Ellenwood" votes="124" />
+                <Precinct name="Unity Grove" votes="25" />
+                <Precinct name="Shiloh" votes="45" />
+                <Precinct name="Pates Creek" votes="54" />
+                <Precinct name="Oakland" votes="47" />
+                <Precinct name="Lake Dow" votes="40" />
+                <Precinct name="Flippen" votes="69" />
+                <Precinct name="Stockbridge Central" votes="34" />
+                <Precinct name="Kelleytown" votes="19" />
+                <Precinct name="Lighthouse" votes="56" />
+                <Precinct name="Dutchtown" votes="23" />
+                <Precinct name="Mt Bethel" votes="9" />
+                <Precinct name="Grove Park" votes="24" />
+                <Precinct name="Lake Haven" votes="30" />
+                <Precinct name="McDonough Central" votes="54" />
+                <Precinct name="Timberridge" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2784">
+                <Precinct name="Locust Grove" votes="94" />
+                <Precinct name="Tussahaw" votes="10" />
+                <Precinct name="Sandy Ridge" votes="27" />
+                <Precinct name="Westside" votes="64" />
+                <Precinct name="Lowes" votes="144" />
+                <Precinct name="South Hampton" votes="58" />
+                <Precinct name="North Hampton" votes="59" />
+                <Precinct name="Mount Carmel" votes="153" />
+                <Precinct name="Red Oak" votes="136" />
+                <Precinct name="Wesley Lakes" votes="68" />
+                <Precinct name="McDonough" votes="43" />
+                <Precinct name="McMullen" votes="54" />
+                <Precinct name="East Lake" votes="54" />
+                <Precinct name="Hickory Flat" votes="108" />
+                <Precinct name="Stockbridge East-West" votes="131" />
+                <Precinct name="Stagecoach" votes="39" />
+                <Precinct name="Cotton Indian" votes="87" />
+                <Precinct name="Pleasant Grove" votes="74" />
+                <Precinct name="Austin Road" votes="97" />
+                <Precinct name="Swan Lake" votes="50" />
+                <Precinct name="Shakerag" votes="145" />
+                <Precinct name="Ellenwood" votes="156" />
+                <Precinct name="Unity Grove" votes="34" />
+                <Precinct name="Shiloh" votes="74" />
+                <Precinct name="Pates Creek" votes="71" />
+                <Precinct name="Oakland" votes="82" />
+                <Precinct name="Lake Dow" votes="87" />
+                <Precinct name="Flippen" votes="101" />
+                <Precinct name="Stockbridge Central" votes="43" />
+                <Precinct name="Kelleytown" votes="64" />
+                <Precinct name="Lighthouse" votes="103" />
+                <Precinct name="Dutchtown" votes="44" />
+                <Precinct name="Mt Bethel" votes="48" />
+                <Precinct name="Grove Park" votes="39" />
+                <Precinct name="Lake Haven" votes="49" />
+                <Precinct name="McDonough Central" votes="47" />
+                <Precinct name="Timberridge" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="1" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="1" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="2" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="37" precinctsReported="37">
+        <VoteType name="Undervotes" votes="126">
+            <Precinct name="Locust Grove" votes="4" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="4" />
+            <Precinct name="Westside" votes="1" />
+            <Precinct name="Lowes" votes="5" />
+            <Precinct name="South Hampton" votes="0" />
+            <Precinct name="North Hampton" votes="13" />
+            <Precinct name="Mount Carmel" votes="6" />
+            <Precinct name="Red Oak" votes="6" />
+            <Precinct name="Wesley Lakes" votes="3" />
+            <Precinct name="McDonough" votes="2" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="2" />
+            <Precinct name="Hickory Flat" votes="1" />
+            <Precinct name="Stockbridge East-West" votes="10" />
+            <Precinct name="Stagecoach" votes="2" />
+            <Precinct name="Cotton Indian" votes="4" />
+            <Precinct name="Pleasant Grove" votes="2" />
+            <Precinct name="Austin Road" votes="5" />
+            <Precinct name="Swan Lake" votes="2" />
+            <Precinct name="Shakerag" votes="2" />
+            <Precinct name="Ellenwood" votes="6" />
+            <Precinct name="Unity Grove" votes="2" />
+            <Precinct name="Shiloh" votes="5" />
+            <Precinct name="Pates Creek" votes="4" />
+            <Precinct name="Oakland" votes="4" />
+            <Precinct name="Lake Dow" votes="4" />
+            <Precinct name="Flippen" votes="2" />
+            <Precinct name="Stockbridge Central" votes="2" />
+            <Precinct name="Kelleytown" votes="2" />
+            <Precinct name="Lighthouse" votes="6" />
+            <Precinct name="Dutchtown" votes="1" />
+            <Precinct name="Mt Bethel" votes="2" />
+            <Precinct name="Grove Park" votes="1" />
+            <Precinct name="Lake Haven" votes="4" />
+            <Precinct name="McDonough Central" votes="5" />
+            <Precinct name="Timberridge" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="South Hampton" votes="0" />
+            <Precinct name="North Hampton" votes="0" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Red Oak" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Hickory Flat" votes="0" />
+            <Precinct name="Stockbridge East-West" votes="0" />
+            <Precinct name="Stagecoach" votes="0" />
+            <Precinct name="Cotton Indian" votes="0" />
+            <Precinct name="Pleasant Grove" votes="0" />
+            <Precinct name="Austin Road" votes="0" />
+            <Precinct name="Swan Lake" votes="0" />
+            <Precinct name="Shakerag" votes="0" />
+            <Precinct name="Ellenwood" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Pates Creek" votes="0" />
+            <Precinct name="Oakland" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Flippen" votes="0" />
+            <Precinct name="Stockbridge Central" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Lighthouse" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="5408">
+            <VoteType name="Absentee by Mail Votes" votes="332">
+                <Precinct name="Locust Grove" votes="5" />
+                <Precinct name="Tussahaw" votes="3" />
+                <Precinct name="Sandy Ridge" votes="7" />
+                <Precinct name="Westside" votes="14" />
+                <Precinct name="Lowes" votes="14" />
+                <Precinct name="South Hampton" votes="7" />
+                <Precinct name="North Hampton" votes="14" />
+                <Precinct name="Mount Carmel" votes="21" />
+                <Precinct name="Red Oak" votes="9" />
+                <Precinct name="Wesley Lakes" votes="12" />
+                <Precinct name="McDonough" votes="9" />
+                <Precinct name="McMullen" votes="4" />
+                <Precinct name="East Lake" votes="5" />
+                <Precinct name="Hickory Flat" votes="12" />
+                <Precinct name="Stockbridge East-West" votes="21" />
+                <Precinct name="Stagecoach" votes="1" />
+                <Precinct name="Cotton Indian" votes="5" />
+                <Precinct name="Pleasant Grove" votes="7" />
+                <Precinct name="Austin Road" votes="2" />
+                <Precinct name="Swan Lake" votes="5" />
+                <Precinct name="Shakerag" votes="15" />
+                <Precinct name="Ellenwood" votes="26" />
+                <Precinct name="Unity Grove" votes="8" />
+                <Precinct name="Shiloh" votes="14" />
+                <Precinct name="Pates Creek" votes="10" />
+                <Precinct name="Oakland" votes="18" />
+                <Precinct name="Lake Dow" votes="8" />
+                <Precinct name="Flippen" votes="12" />
+                <Precinct name="Stockbridge Central" votes="2" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Lighthouse" votes="13" />
+                <Precinct name="Dutchtown" votes="2" />
+                <Precinct name="Mt Bethel" votes="6" />
+                <Precinct name="Grove Park" votes="2" />
+                <Precinct name="Lake Haven" votes="9" />
+                <Precinct name="McDonough Central" votes="6" />
+                <Precinct name="Timberridge" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1933">
+                <Precinct name="Locust Grove" votes="84" />
+                <Precinct name="Tussahaw" votes="9" />
+                <Precinct name="Sandy Ridge" votes="15" />
+                <Precinct name="Westside" votes="68" />
+                <Precinct name="Lowes" votes="93" />
+                <Precinct name="South Hampton" votes="47" />
+                <Precinct name="North Hampton" votes="90" />
+                <Precinct name="Mount Carmel" votes="103" />
+                <Precinct name="Red Oak" votes="90" />
+                <Precinct name="Wesley Lakes" votes="59" />
+                <Precinct name="McDonough" votes="45" />
+                <Precinct name="McMullen" votes="30" />
+                <Precinct name="East Lake" votes="15" />
+                <Precinct name="Hickory Flat" votes="65" />
+                <Precinct name="Stockbridge East-West" votes="70" />
+                <Precinct name="Stagecoach" votes="27" />
+                <Precinct name="Cotton Indian" votes="23" />
+                <Precinct name="Pleasant Grove" votes="35" />
+                <Precinct name="Austin Road" votes="87" />
+                <Precinct name="Swan Lake" votes="32" />
+                <Precinct name="Shakerag" votes="93" />
+                <Precinct name="Ellenwood" votes="161" />
+                <Precinct name="Unity Grove" votes="29" />
+                <Precinct name="Shiloh" votes="40" />
+                <Precinct name="Pates Creek" votes="58" />
+                <Precinct name="Oakland" votes="48" />
+                <Precinct name="Lake Dow" votes="39" />
+                <Precinct name="Flippen" votes="76" />
+                <Precinct name="Stockbridge Central" votes="38" />
+                <Precinct name="Kelleytown" votes="26" />
+                <Precinct name="Lighthouse" votes="63" />
+                <Precinct name="Dutchtown" votes="28" />
+                <Precinct name="Mt Bethel" votes="8" />
+                <Precinct name="Grove Park" votes="23" />
+                <Precinct name="Lake Haven" votes="31" />
+                <Precinct name="McDonough Central" votes="64" />
+                <Precinct name="Timberridge" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3139">
+                <Precinct name="Locust Grove" votes="103" />
+                <Precinct name="Tussahaw" votes="4" />
+                <Precinct name="Sandy Ridge" votes="23" />
+                <Precinct name="Westside" votes="75" />
+                <Precinct name="Lowes" votes="167" />
+                <Precinct name="South Hampton" votes="77" />
+                <Precinct name="North Hampton" votes="80" />
+                <Precinct name="Mount Carmel" votes="164" />
+                <Precinct name="Red Oak" votes="140" />
+                <Precinct name="Wesley Lakes" votes="90" />
+                <Precinct name="McDonough" votes="44" />
+                <Precinct name="McMullen" votes="57" />
+                <Precinct name="East Lake" votes="53" />
+                <Precinct name="Hickory Flat" votes="100" />
+                <Precinct name="Stockbridge East-West" votes="134" />
+                <Precinct name="Stagecoach" votes="39" />
+                <Precinct name="Cotton Indian" votes="89" />
+                <Precinct name="Pleasant Grove" votes="106" />
+                <Precinct name="Austin Road" votes="118" />
+                <Precinct name="Swan Lake" votes="61" />
+                <Precinct name="Shakerag" votes="174" />
+                <Precinct name="Ellenwood" votes="188" />
+                <Precinct name="Unity Grove" votes="41" />
+                <Precinct name="Shiloh" votes="66" />
+                <Precinct name="Pates Creek" votes="76" />
+                <Precinct name="Oakland" votes="81" />
+                <Precinct name="Lake Dow" votes="94" />
+                <Precinct name="Flippen" votes="131" />
+                <Precinct name="Stockbridge Central" votes="66" />
+                <Precinct name="Kelleytown" votes="95" />
+                <Precinct name="Lighthouse" votes="120" />
+                <Precinct name="Dutchtown" votes="35" />
+                <Precinct name="Mt Bethel" votes="50" />
+                <Precinct name="Grove Park" votes="44" />
+                <Precinct name="Lake Haven" votes="51" />
+                <Precinct name="McDonough Central" votes="59" />
+                <Precinct name="Timberridge" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="1" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="1" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="1" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="1" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="2554">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Locust Grove" votes="5" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="3" />
+                <Precinct name="Lowes" votes="7" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="3" />
+                <Precinct name="Mount Carmel" votes="8" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="2" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="5" />
+                <Precinct name="East Lake" votes="2" />
+                <Precinct name="Hickory Flat" votes="5" />
+                <Precinct name="Stockbridge East-West" votes="6" />
+                <Precinct name="Stagecoach" votes="5" />
+                <Precinct name="Cotton Indian" votes="7" />
+                <Precinct name="Pleasant Grove" votes="4" />
+                <Precinct name="Austin Road" votes="4" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="2" />
+                <Precinct name="Ellenwood" votes="1" />
+                <Precinct name="Unity Grove" votes="2" />
+                <Precinct name="Shiloh" votes="6" />
+                <Precinct name="Pates Creek" votes="7" />
+                <Precinct name="Oakland" votes="7" />
+                <Precinct name="Lake Dow" votes="8" />
+                <Precinct name="Flippen" votes="2" />
+                <Precinct name="Stockbridge Central" votes="7" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="6" />
+                <Precinct name="Dutchtown" votes="2" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="3" />
+                <Precinct name="Lake Haven" votes="1" />
+                <Precinct name="McDonough Central" votes="3" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="772">
+                <Precinct name="Locust Grove" votes="28" />
+                <Precinct name="Tussahaw" votes="6" />
+                <Precinct name="Sandy Ridge" votes="7" />
+                <Precinct name="Westside" votes="35" />
+                <Precinct name="Lowes" votes="58" />
+                <Precinct name="South Hampton" votes="16" />
+                <Precinct name="North Hampton" votes="30" />
+                <Precinct name="Mount Carmel" votes="46" />
+                <Precinct name="Red Oak" votes="30" />
+                <Precinct name="Wesley Lakes" votes="32" />
+                <Precinct name="McDonough" votes="12" />
+                <Precinct name="McMullen" votes="16" />
+                <Precinct name="East Lake" votes="6" />
+                <Precinct name="Hickory Flat" votes="27" />
+                <Precinct name="Stockbridge East-West" votes="43" />
+                <Precinct name="Stagecoach" votes="11" />
+                <Precinct name="Cotton Indian" votes="8" />
+                <Precinct name="Pleasant Grove" votes="11" />
+                <Precinct name="Austin Road" votes="29" />
+                <Precinct name="Swan Lake" votes="12" />
+                <Precinct name="Shakerag" votes="26" />
+                <Precinct name="Ellenwood" votes="35" />
+                <Precinct name="Unity Grove" votes="14" />
+                <Precinct name="Shiloh" votes="26" />
+                <Precinct name="Pates Creek" votes="20" />
+                <Precinct name="Oakland" votes="23" />
+                <Precinct name="Lake Dow" votes="23" />
+                <Precinct name="Flippen" votes="30" />
+                <Precinct name="Stockbridge Central" votes="14" />
+                <Precinct name="Kelleytown" votes="6" />
+                <Precinct name="Lighthouse" votes="18" />
+                <Precinct name="Dutchtown" votes="10" />
+                <Precinct name="Mt Bethel" votes="4" />
+                <Precinct name="Grove Park" votes="13" />
+                <Precinct name="Lake Haven" votes="16" />
+                <Precinct name="McDonough Central" votes="22" />
+                <Precinct name="Timberridge" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1657">
+                <Precinct name="Locust Grove" votes="69" />
+                <Precinct name="Tussahaw" votes="11" />
+                <Precinct name="Sandy Ridge" votes="19" />
+                <Precinct name="Westside" votes="44" />
+                <Precinct name="Lowes" votes="100" />
+                <Precinct name="South Hampton" votes="16" />
+                <Precinct name="North Hampton" votes="41" />
+                <Precinct name="Mount Carmel" votes="95" />
+                <Precinct name="Red Oak" votes="84" />
+                <Precinct name="Wesley Lakes" votes="52" />
+                <Precinct name="McDonough" votes="31" />
+                <Precinct name="McMullen" votes="16" />
+                <Precinct name="East Lake" votes="20" />
+                <Precinct name="Hickory Flat" votes="58" />
+                <Precinct name="Stockbridge East-West" votes="68" />
+                <Precinct name="Stagecoach" votes="28" />
+                <Precinct name="Cotton Indian" votes="67" />
+                <Precinct name="Pleasant Grove" votes="39" />
+                <Precinct name="Austin Road" votes="41" />
+                <Precinct name="Swan Lake" votes="23" />
+                <Precinct name="Shakerag" votes="71" />
+                <Precinct name="Ellenwood" votes="106" />
+                <Precinct name="Unity Grove" votes="27" />
+                <Precinct name="Shiloh" votes="53" />
+                <Precinct name="Pates Creek" votes="53" />
+                <Precinct name="Oakland" votes="61" />
+                <Precinct name="Lake Dow" votes="41" />
+                <Precinct name="Flippen" votes="51" />
+                <Precinct name="Stockbridge Central" votes="23" />
+                <Precinct name="Kelleytown" votes="31" />
+                <Precinct name="Lighthouse" votes="51" />
+                <Precinct name="Dutchtown" votes="32" />
+                <Precinct name="Mt Bethel" votes="29" />
+                <Precinct name="Grove Park" votes="22" />
+                <Precinct name="Lake Haven" votes="32" />
+                <Precinct name="McDonough Central" votes="27" />
+                <Precinct name="Timberridge" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="1" />
+                <Precinct name="South Hampton" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="0" />
+                <Precinct name="Red Oak" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Hickory Flat" votes="1" />
+                <Precinct name="Stockbridge East-West" votes="0" />
+                <Precinct name="Stagecoach" votes="0" />
+                <Precinct name="Cotton Indian" votes="0" />
+                <Precinct name="Pleasant Grove" votes="0" />
+                <Precinct name="Austin Road" votes="0" />
+                <Precinct name="Swan Lake" votes="0" />
+                <Precinct name="Shakerag" votes="0" />
+                <Precinct name="Ellenwood" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Pates Creek" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Flippen" votes="0" />
+                <Precinct name="Stockbridge Central" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Lighthouse" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="2" />
+            <Precinct name="Sandy Ridge" votes="1" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="3" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="4" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Unity Grove" votes="8" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Lake Dow" votes="1" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Mt Bethel" votes="2" />
+            <Precinct name="Grove Park" votes="1" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="1" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="77" text="Mike Collins" party="REP" totalVotes="3337">
+            <VoteType name="Absentee by Mail Votes" votes="137">
+                <Precinct name="Locust Grove" votes="12" />
+                <Precinct name="Tussahaw" votes="8" />
+                <Precinct name="Sandy Ridge" votes="10" />
+                <Precinct name="Westside" votes="4" />
+                <Precinct name="Lowes" votes="8" />
+                <Precinct name="Wesley Lakes" votes="3" />
+                <Precinct name="McDonough" votes="5" />
+                <Precinct name="McMullen" votes="11" />
+                <Precinct name="East Lake" votes="7" />
+                <Precinct name="Unity Grove" votes="4" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="2" />
+                <Precinct name="Mt Bethel" votes="10" />
+                <Precinct name="Grove Park" votes="7" />
+                <Precinct name="Lake Haven" votes="12" />
+                <Precinct name="McDonough Central" votes="28" />
+                <Precinct name="Timberridge" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1072">
+                <Precinct name="Locust Grove" votes="75" />
+                <Precinct name="Tussahaw" votes="84" />
+                <Precinct name="Sandy Ridge" votes="57" />
+                <Precinct name="Westside" votes="7" />
+                <Precinct name="Lowes" votes="77" />
+                <Precinct name="Wesley Lakes" votes="19" />
+                <Precinct name="McDonough" votes="23" />
+                <Precinct name="McMullen" votes="82" />
+                <Precinct name="East Lake" votes="43" />
+                <Precinct name="Unity Grove" votes="171" />
+                <Precinct name="Shiloh" votes="17" />
+                <Precinct name="Lake Dow" votes="133" />
+                <Precinct name="Kelleytown" votes="45" />
+                <Precinct name="Mt Bethel" votes="16" />
+                <Precinct name="Grove Park" votes="54" />
+                <Precinct name="Lake Haven" votes="40" />
+                <Precinct name="McDonough Central" votes="97" />
+                <Precinct name="Timberridge" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2126">
+                <Precinct name="Locust Grove" votes="50" />
+                <Precinct name="Tussahaw" votes="205" />
+                <Precinct name="Sandy Ridge" votes="161" />
+                <Precinct name="Westside" votes="7" />
+                <Precinct name="Lowes" votes="92" />
+                <Precinct name="Wesley Lakes" votes="23" />
+                <Precinct name="McDonough" votes="45" />
+                <Precinct name="McMullen" votes="209" />
+                <Precinct name="East Lake" votes="126" />
+                <Precinct name="Unity Grove" votes="188" />
+                <Precinct name="Shiloh" votes="34" />
+                <Precinct name="Lake Dow" votes="266" />
+                <Precinct name="Kelleytown" votes="162" />
+                <Precinct name="Mt Bethel" votes="124" />
+                <Precinct name="Grove Park" votes="115" />
+                <Precinct name="Lake Haven" votes="77" />
+                <Precinct name="McDonough Central" votes="88" />
+                <Precinct name="Timberridge" votes="154" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="1" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="1" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Vernon Jones" party="REP" totalVotes="1193">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Locust Grove" votes="1" />
+                <Precinct name="Tussahaw" votes="4" />
+                <Precinct name="Sandy Ridge" votes="3" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Lowes" votes="1" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="2" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="1" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="1" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="4" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="348">
+                <Precinct name="Locust Grove" votes="44" />
+                <Precinct name="Tussahaw" votes="28" />
+                <Precinct name="Sandy Ridge" votes="12" />
+                <Precinct name="Westside" votes="8" />
+                <Precinct name="Lowes" votes="28" />
+                <Precinct name="Wesley Lakes" votes="9" />
+                <Precinct name="McDonough" votes="10" />
+                <Precinct name="McMullen" votes="26" />
+                <Precinct name="East Lake" votes="6" />
+                <Precinct name="Unity Grove" votes="51" />
+                <Precinct name="Shiloh" votes="2" />
+                <Precinct name="Lake Dow" votes="44" />
+                <Precinct name="Kelleytown" votes="5" />
+                <Precinct name="Mt Bethel" votes="4" />
+                <Precinct name="Grove Park" votes="20" />
+                <Precinct name="Lake Haven" votes="13" />
+                <Precinct name="McDonough Central" votes="21" />
+                <Precinct name="Timberridge" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="825">
+                <Precinct name="Locust Grove" votes="32" />
+                <Precinct name="Tussahaw" votes="70" />
+                <Precinct name="Sandy Ridge" votes="64" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Lowes" votes="50" />
+                <Precinct name="Wesley Lakes" votes="21" />
+                <Precinct name="McDonough" votes="20" />
+                <Precinct name="McMullen" votes="91" />
+                <Precinct name="East Lake" votes="29" />
+                <Precinct name="Unity Grove" votes="83" />
+                <Precinct name="Shiloh" votes="22" />
+                <Precinct name="Lake Dow" votes="71" />
+                <Precinct name="Kelleytown" votes="64" />
+                <Precinct name="Mt Bethel" votes="67" />
+                <Precinct name="Grove Park" votes="36" />
+                <Precinct name="Lake Haven" votes="28" />
+                <Precinct name="McDonough Central" votes="12" />
+                <Precinct name="Timberridge" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="18" precinctsReported="18">
+        <VoteType name="Undervotes" votes="81">
+            <Precinct name="Locust Grove" votes="7" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="3" />
+            <Precinct name="Westside" votes="8" />
+            <Precinct name="Lowes" votes="12" />
+            <Precinct name="Wesley Lakes" votes="5" />
+            <Precinct name="McDonough" votes="2" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="2" />
+            <Precinct name="Unity Grove" votes="4" />
+            <Precinct name="Shiloh" votes="7" />
+            <Precinct name="Lake Dow" votes="4" />
+            <Precinct name="Kelleytown" votes="5" />
+            <Precinct name="Mt Bethel" votes="3" />
+            <Precinct name="Grove Park" votes="4" />
+            <Precinct name="Lake Haven" votes="3" />
+            <Precinct name="McDonough Central" votes="9" />
+            <Precinct name="Timberridge" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="Wesley Lakes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Kelleytown" votes="0" />
+            <Precinct name="Mt Bethel" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Lake Haven" votes="0" />
+            <Precinct name="McDonough Central" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Jessica Allison Fore" party="DEM" totalVotes="677">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Locust Grove" votes="2" />
+                <Precinct name="Tussahaw" votes="2" />
+                <Precinct name="Sandy Ridge" votes="2" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Lowes" votes="8" />
+                <Precinct name="Wesley Lakes" votes="2" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="3" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="4" />
+                <Precinct name="Shiloh" votes="8" />
+                <Precinct name="Lake Dow" votes="9" />
+                <Precinct name="Kelleytown" votes="1" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="3" />
+                <Precinct name="Lake Haven" votes="7" />
+                <Precinct name="McDonough Central" votes="2" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="245">
+                <Precinct name="Locust Grove" votes="33" />
+                <Precinct name="Tussahaw" votes="8" />
+                <Precinct name="Sandy Ridge" votes="3" />
+                <Precinct name="Westside" votes="18" />
+                <Precinct name="Lowes" votes="41" />
+                <Precinct name="Wesley Lakes" votes="21" />
+                <Precinct name="McDonough" votes="7" />
+                <Precinct name="McMullen" votes="10" />
+                <Precinct name="East Lake" votes="4" />
+                <Precinct name="Unity Grove" votes="12" />
+                <Precinct name="Shiloh" votes="10" />
+                <Precinct name="Lake Dow" votes="18" />
+                <Precinct name="Kelleytown" votes="4" />
+                <Precinct name="Mt Bethel" votes="6" />
+                <Precinct name="Grove Park" votes="9" />
+                <Precinct name="Lake Haven" votes="10" />
+                <Precinct name="McDonough Central" votes="28" />
+                <Precinct name="Timberridge" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="376">
+                <Precinct name="Locust Grove" votes="37" />
+                <Precinct name="Tussahaw" votes="3" />
+                <Precinct name="Sandy Ridge" votes="9" />
+                <Precinct name="Westside" votes="24" />
+                <Precinct name="Lowes" votes="52" />
+                <Precinct name="Wesley Lakes" votes="28" />
+                <Precinct name="McDonough" votes="14" />
+                <Precinct name="McMullen" votes="13" />
+                <Precinct name="East Lake" votes="16" />
+                <Precinct name="Unity Grove" votes="24" />
+                <Precinct name="Shiloh" votes="24" />
+                <Precinct name="Lake Dow" votes="26" />
+                <Precinct name="Kelleytown" votes="23" />
+                <Precinct name="Mt Bethel" votes="18" />
+                <Precinct name="Grove Park" votes="12" />
+                <Precinct name="Lake Haven" votes="21" />
+                <Precinct name="McDonough Central" votes="14" />
+                <Precinct name="Timberridge" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="1" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Tabitha Johnson-Green" party="DEM" totalVotes="2307">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="Locust Grove" votes="8" />
+                <Precinct name="Tussahaw" votes="1" />
+                <Precinct name="Sandy Ridge" votes="5" />
+                <Precinct name="Westside" votes="14" />
+                <Precinct name="Lowes" votes="12" />
+                <Precinct name="Wesley Lakes" votes="12" />
+                <Precinct name="McDonough" votes="9" />
+                <Precinct name="McMullen" votes="6" />
+                <Precinct name="East Lake" votes="7" />
+                <Precinct name="Unity Grove" votes="6" />
+                <Precinct name="Shiloh" votes="11" />
+                <Precinct name="Lake Dow" votes="5" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="6" />
+                <Precinct name="Grove Park" votes="2" />
+                <Precinct name="Lake Haven" votes="3" />
+                <Precinct name="McDonough Central" votes="6" />
+                <Precinct name="Timberridge" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="770">
+                <Precinct name="Locust Grove" votes="80" />
+                <Precinct name="Tussahaw" votes="7" />
+                <Precinct name="Sandy Ridge" votes="19" />
+                <Precinct name="Westside" votes="81" />
+                <Precinct name="Lowes" votes="105" />
+                <Precinct name="Wesley Lakes" votes="70" />
+                <Precinct name="McDonough" votes="50" />
+                <Precinct name="McMullen" votes="36" />
+                <Precinct name="East Lake" votes="17" />
+                <Precinct name="Unity Grove" votes="30" />
+                <Precinct name="Shiloh" votes="55" />
+                <Precinct name="Lake Dow" votes="46" />
+                <Precinct name="Kelleytown" votes="25" />
+                <Precinct name="Mt Bethel" votes="6" />
+                <Precinct name="Grove Park" votes="26" />
+                <Precinct name="Lake Haven" votes="35" />
+                <Precinct name="McDonough Central" votes="56" />
+                <Precinct name="Timberridge" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1419">
+                <Precinct name="Locust Grove" votes="132" />
+                <Precinct name="Tussahaw" votes="12" />
+                <Precinct name="Sandy Ridge" votes="34" />
+                <Precinct name="Westside" votes="93" />
+                <Precinct name="Lowes" votes="214" />
+                <Precinct name="Wesley Lakes" votes="112" />
+                <Precinct name="McDonough" votes="61" />
+                <Precinct name="McMullen" votes="60" />
+                <Precinct name="East Lake" votes="57" />
+                <Precinct name="Unity Grove" votes="43" />
+                <Precinct name="Shiloh" votes="95" />
+                <Precinct name="Lake Dow" votes="109" />
+                <Precinct name="Kelleytown" votes="98" />
+                <Precinct name="Mt Bethel" votes="60" />
+                <Precinct name="Grove Park" votes="52" />
+                <Precinct name="Lake Haven" votes="65" />
+                <Precinct name="McDonough Central" votes="71" />
+                <Precinct name="Timberridge" votes="51" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="Wesley Lakes" votes="0" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Kelleytown" votes="0" />
+                <Precinct name="Mt Bethel" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Lake Haven" votes="0" />
+                <Precinct name="McDonough Central" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="State House of Representatives - District 117 - Rep" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="2" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Lowes" votes="1" />
+            <Precinct name="McDonough" votes="1" />
+            <Precinct name="McMullen" votes="1" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Unity Grove" votes="3" />
+            <Precinct name="Lake Dow" votes="4" />
+            <Precinct name="Grove Park" votes="1" />
+            <Precinct name="Timberridge" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Locust Grove" votes="0" />
+            <Precinct name="Tussahaw" votes="0" />
+            <Precinct name="Sandy Ridge" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="McDonough" votes="0" />
+            <Precinct name="McMullen" votes="0" />
+            <Precinct name="East Lake" votes="0" />
+            <Precinct name="Unity Grove" votes="0" />
+            <Precinct name="Lake Dow" votes="0" />
+            <Precinct name="Grove Park" votes="0" />
+            <Precinct name="Timberridge" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Lauren Daniel" party="REP" totalVotes="1531">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Locust Grove" votes="10" />
+                <Precinct name="Tussahaw" votes="9" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="4" />
+                <Precinct name="McDonough" votes="3" />
+                <Precinct name="McMullen" votes="10" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="2" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Grove Park" votes="7" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="578">
+                <Precinct name="Locust Grove" votes="62" />
+                <Precinct name="Tussahaw" votes="82" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="59" />
+                <Precinct name="McDonough" votes="20" />
+                <Precinct name="McMullen" votes="60" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="157" />
+                <Precinct name="Lake Dow" votes="86" />
+                <Precinct name="Grove Park" votes="42" />
+                <Precinct name="Timberridge" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="907">
+                <Precinct name="Locust Grove" votes="32" />
+                <Precinct name="Tussahaw" votes="163" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="62" />
+                <Precinct name="McDonough" votes="28" />
+                <Precinct name="McMullen" votes="144" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="130" />
+                <Precinct name="Lake Dow" votes="179" />
+                <Precinct name="Grove Park" votes="84" />
+                <Precinct name="Timberridge" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="McDonough" votes="1" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="119" text="Noelle Kahaian" party="REP" totalVotes="1365">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Locust Grove" votes="3" />
+                <Precinct name="Tussahaw" votes="3" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="5" />
+                <Precinct name="McDonough" votes="2" />
+                <Precinct name="McMullen" votes="3" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="3" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Grove Park" votes="1" />
+                <Precinct name="Timberridge" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="425">
+                <Precinct name="Locust Grove" votes="57" />
+                <Precinct name="Tussahaw" votes="32" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="43" />
+                <Precinct name="McDonough" votes="12" />
+                <Precinct name="McMullen" votes="49" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="70" />
+                <Precinct name="Lake Dow" votes="90" />
+                <Precinct name="Grove Park" votes="33" />
+                <Precinct name="Timberridge" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="914">
+                <Precinct name="Locust Grove" votes="50" />
+                <Precinct name="Tussahaw" votes="109" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="67" />
+                <Precinct name="McDonough" votes="36" />
+                <Precinct name="McMullen" votes="158" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="141" />
+                <Precinct name="Lake Dow" votes="156" />
+                <Precinct name="Grove Park" votes="66" />
+                <Precinct name="Timberridge" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Locust Grove" votes="0" />
+                <Precinct name="Tussahaw" votes="0" />
+                <Precinct name="Sandy Ridge" votes="0" />
+                <Precinct name="Lowes" votes="2" />
+                <Precinct name="McDonough" votes="0" />
+                <Precinct name="McMullen" votes="0" />
+                <Precinct name="East Lake" votes="0" />
+                <Precinct name="Unity Grove" votes="0" />
+                <Precinct name="Lake Dow" votes="0" />
+                <Precinct name="Grove Park" votes="0" />
+                <Precinct name="Timberridge" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="County Commission - District 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Westside" votes="2" />
+            <Precinct name="Lowes" votes="1" />
+            <Precinct name="North Hampton" votes="4" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Shiloh" votes="3" />
+            <Precinct name="Oakland" votes="1" />
+            <Precinct name="Dutchtown" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Lowes" votes="0" />
+            <Precinct name="North Hampton" votes="0" />
+            <Precinct name="Mount Carmel" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+            <Precinct name="Oakland" votes="0" />
+            <Precinct name="Dutchtown" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Kevin J. Lewis" party="DEM" totalVotes="983">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Westside" votes="5" />
+                <Precinct name="Lowes" votes="5" />
+                <Precinct name="North Hampton" votes="6" />
+                <Precinct name="Mount Carmel" votes="23" />
+                <Precinct name="Shiloh" votes="7" />
+                <Precinct name="Oakland" votes="15" />
+                <Precinct name="Dutchtown" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="332">
+                <Precinct name="Westside" votes="35" />
+                <Precinct name="Lowes" votes="34" />
+                <Precinct name="North Hampton" votes="77" />
+                <Precinct name="Mount Carmel" votes="93" />
+                <Precinct name="Shiloh" votes="40" />
+                <Precinct name="Oakland" votes="40" />
+                <Precinct name="Dutchtown" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="587">
+                <Precinct name="Westside" votes="39" />
+                <Precinct name="Lowes" votes="92" />
+                <Precinct name="North Hampton" votes="88" />
+                <Precinct name="Mount Carmel" votes="173" />
+                <Precinct name="Shiloh" votes="68" />
+                <Precinct name="Oakland" votes="90" />
+                <Precinct name="Dutchtown" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="1" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="135" text="Keisha V. Stubbs" party="DEM" totalVotes="702">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Westside" votes="7" />
+                <Precinct name="Lowes" votes="6" />
+                <Precinct name="North Hampton" votes="11" />
+                <Precinct name="Mount Carmel" votes="6" />
+                <Precinct name="Shiloh" votes="13" />
+                <Precinct name="Oakland" votes="10" />
+                <Precinct name="Dutchtown" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="257">
+                <Precinct name="Westside" votes="24" />
+                <Precinct name="Lowes" votes="50" />
+                <Precinct name="North Hampton" votes="42" />
+                <Precinct name="Mount Carmel" votes="57" />
+                <Precinct name="Shiloh" votes="28" />
+                <Precinct name="Oakland" votes="31" />
+                <Precinct name="Dutchtown" votes="25" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="390">
+                <Precinct name="Westside" votes="32" />
+                <Precinct name="Lowes" votes="88" />
+                <Precinct name="North Hampton" votes="43" />
+                <Precinct name="Mount Carmel" votes="91" />
+                <Precinct name="Shiloh" votes="51" />
+                <Precinct name="Oakland" votes="55" />
+                <Precinct name="Dutchtown" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Lowes" votes="0" />
+                <Precinct name="North Hampton" votes="0" />
+                <Precinct name="Mount Carmel" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+                <Precinct name="Oakland" votes="0" />
+                <Precinct name="Dutchtown" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

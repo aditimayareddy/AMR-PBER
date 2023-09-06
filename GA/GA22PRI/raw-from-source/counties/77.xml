@@ -1,0 +1,3472 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/2/2022 1:30:49 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Irwin</Region>
+    <VoterTurnout totalVoters="5855" ballotsCast="1697" voterTurnout="28.98">
+        <Precincts>
+            <Precinct name="Irwinville" totalVoters="1722" ballotsCast="593" voterTurnout="34.44" percentReporting="4" />
+            <Precinct name="Ocilla" totalVoters="3475" ballotsCast="834" voterTurnout="24.00" percentReporting="4" />
+            <Precinct name="Holt" totalVoters="658" ballotsCast="270" voterTurnout="41.03" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="8" />
+            <Precinct name="Holt" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="346">
+            <VoteType name="Election Day Votes" votes="198">
+                <Precinct name="Irwinville" votes="69" />
+                <Precinct name="Ocilla" votes="100" />
+                <Precinct name="Holt" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="138">
+                <Precinct name="Irwinville" votes="40" />
+                <Precinct name="Ocilla" votes="73" />
+                <Precinct name="Holt" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Irwinville" votes="22" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="1232">
+            <VoteType name="Election Day Votes" votes="767">
+                <Precinct name="Irwinville" votes="299" />
+                <Precinct name="Ocilla" votes="335" />
+                <Precinct name="Holt" votes="133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="443">
+                <Precinct name="Irwinville" votes="125" />
+                <Precinct name="Ocilla" votes="255" />
+                <Precinct name="Holt" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Irwinville" votes="1" />
+            <Precinct name="Ocilla" votes="10" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="255">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="103" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="115">
+                <Precinct name="Irwinville" votes="14" />
+                <Precinct name="Ocilla" votes="94" />
+                <Precinct name="Holt" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Irwinville" votes="1" />
+            <Precinct name="Ocilla" votes="4" />
+            <Precinct name="Holt" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="1090">
+            <VoteType name="Election Day Votes" votes="663">
+                <Precinct name="Irwinville" votes="242" />
+                <Precinct name="Ocilla" votes="305" />
+                <Precinct name="Holt" votes="116" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="404">
+                <Precinct name="Irwinville" votes="120" />
+                <Precinct name="Ocilla" votes="221" />
+                <Precinct name="Holt" votes="63" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="464">
+            <VoteType name="Election Day Votes" votes="282">
+                <Precinct name="Irwinville" votes="113" />
+                <Precinct name="Ocilla" votes="123" />
+                <Precinct name="Holt" votes="46" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="174">
+                <Precinct name="Irwinville" votes="47" />
+                <Precinct name="Ocilla" votes="106" />
+                <Precinct name="Holt" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Irwinville" votes="39" />
+                <Precinct name="Ocilla" votes="31" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Irwinville" votes="12" />
+                <Precinct name="Ocilla" votes="18" />
+                <Precinct name="Holt" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Irwinville" votes="1" />
+            <Precinct name="Ocilla" votes="4" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="109" />
+                <Precinct name="Holt" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="Irwinville" votes="18" />
+                <Precinct name="Ocilla" votes="101" />
+                <Precinct name="Holt" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="Irwinville" votes="49" />
+            <Precinct name="Ocilla" votes="42" />
+            <Precinct name="Holt" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="1024">
+            <VoteType name="Election Day Votes" votes="621">
+                <Precinct name="Irwinville" votes="211" />
+                <Precinct name="Ocilla" votes="297" />
+                <Precinct name="Holt" votes="113" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="384">
+                <Precinct name="Irwinville" votes="109" />
+                <Precinct name="Ocilla" votes="224" />
+                <Precinct name="Holt" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="174">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Irwinville" votes="55" />
+                <Precinct name="Ocilla" votes="46" />
+                <Precinct name="Holt" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Irwinville" votes="12" />
+                <Precinct name="Ocilla" votes="32" />
+                <Precinct name="Holt" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="294">
+            <VoteType name="Election Day Votes" votes="162">
+                <Precinct name="Irwinville" votes="76" />
+                <Precinct name="Ocilla" votes="64" />
+                <Precinct name="Holt" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="127">
+                <Precinct name="Irwinville" votes="41" />
+                <Precinct name="Ocilla" votes="64" />
+                <Precinct name="Holt" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Irwinville" votes="26" />
+                <Precinct name="Ocilla" votes="28" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="26" />
+            <Precinct name="Holt" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="19" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="23" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="18" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Irwinville" votes="29" />
+            <Precinct name="Ocilla" votes="39" />
+            <Precinct name="Holt" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="183">
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Irwinville" votes="38" />
+                <Precinct name="Ocilla" votes="56" />
+                <Precinct name="Holt" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Irwinville" votes="17" />
+                <Precinct name="Ocilla" votes="39" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="343">
+            <VoteType name="Election Day Votes" votes="215">
+                <Precinct name="Irwinville" votes="89" />
+                <Precinct name="Ocilla" votes="77" />
+                <Precinct name="Holt" votes="49" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="122">
+                <Precinct name="Irwinville" votes="33" />
+                <Precinct name="Ocilla" votes="76" />
+                <Precinct name="Holt" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="235">
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Irwinville" votes="60" />
+                <Precinct name="Ocilla" votes="57" />
+                <Precinct name="Holt" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Irwinville" votes="32" />
+                <Precinct name="Ocilla" votes="59" />
+                <Precinct name="Holt" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="853">
+            <VoteType name="Election Day Votes" votes="516">
+                <Precinct name="Irwinville" votes="191" />
+                <Precinct name="Ocilla" votes="245" />
+                <Precinct name="Holt" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="316">
+                <Precinct name="Irwinville" votes="93" />
+                <Precinct name="Ocilla" votes="170" />
+                <Precinct name="Holt" votes="53" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="23" />
+            <Precinct name="Holt" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="19" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="19" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="17" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="17" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="16" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="96">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="41" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="35" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Irwinville" votes="36" />
+            <Precinct name="Ocilla" votes="50" />
+            <Precinct name="Holt" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="1222">
+            <VoteType name="Election Day Votes" votes="716">
+                <Precinct name="Irwinville" votes="272" />
+                <Precinct name="Ocilla" votes="324" />
+                <Precinct name="Holt" votes="120" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="481">
+                <Precinct name="Irwinville" votes="137" />
+                <Precinct name="Ocilla" votes="272" />
+                <Precinct name="Holt" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="369">
+            <VoteType name="Election Day Votes" votes="242">
+                <Precinct name="Irwinville" votes="100" />
+                <Precinct name="Ocilla" votes="104" />
+                <Precinct name="Holt" votes="38" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="119">
+                <Precinct name="Irwinville" votes="37" />
+                <Precinct name="Ocilla" votes="67" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="23" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="185">
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Irwinville" votes="8" />
+                <Precinct name="Ocilla" votes="69" />
+                <Precinct name="Holt" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="86">
+                <Precinct name="Irwinville" votes="12" />
+                <Precinct name="Ocilla" votes="71" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="30" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="22" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="102">
+            <Precinct name="Irwinville" votes="43" />
+            <Precinct name="Ocilla" votes="42" />
+            <Precinct name="Holt" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="1595">
+            <VoteType name="Election Day Votes" votes="969">
+                <Precinct name="Irwinville" votes="367" />
+                <Precinct name="Ocilla" votes="439" />
+                <Precinct name="Holt" votes="163" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="594">
+                <Precinct name="Irwinville" votes="172" />
+                <Precinct name="Ocilla" votes="337" />
+                <Precinct name="Holt" votes="85" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="27" />
+            <Precinct name="Holt" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="76">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="27" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Irwinville" votes="8" />
+                <Precinct name="Ocilla" votes="23" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="122">
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="56" />
+                <Precinct name="Holt" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="46" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="135">
+            <Precinct name="Irwinville" votes="47" />
+            <Precinct name="Ocilla" votes="61" />
+            <Precinct name="Holt" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="248">
+            <VoteType name="Election Day Votes" votes="153">
+                <Precinct name="Irwinville" votes="54" />
+                <Precinct name="Ocilla" votes="75" />
+                <Precinct name="Holt" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Irwinville" votes="27" />
+                <Precinct name="Ocilla" votes="57" />
+                <Precinct name="Holt" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="1133">
+            <VoteType name="Election Day Votes" votes="671">
+                <Precinct name="Irwinville" votes="253" />
+                <Precinct name="Ocilla" votes="303" />
+                <Precinct name="Holt" votes="115" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="435">
+                <Precinct name="Irwinville" votes="124" />
+                <Precinct name="Ocilla" votes="239" />
+                <Precinct name="Holt" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="181">
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Irwinville" votes="58" />
+                <Precinct name="Ocilla" votes="44" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Irwinville" votes="20" />
+                <Precinct name="Ocilla" votes="40" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="25" />
+            <Precinct name="Holt" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="29" />
+                <Precinct name="Holt" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="22" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="124">
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="51" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="46" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="19" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="25" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="55">
+            <Precinct name="Irwinville" votes="22" />
+            <Precinct name="Ocilla" votes="22" />
+            <Precinct name="Holt" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="202">
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="Irwinville" votes="65" />
+                <Precinct name="Ocilla" votes="55" />
+                <Precinct name="Holt" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Irwinville" votes="22" />
+                <Precinct name="Ocilla" votes="35" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="1440">
+            <VoteType name="Election Day Votes" votes="859">
+                <Precinct name="Irwinville" votes="317" />
+                <Precinct name="Ocilla" votes="393" />
+                <Precinct name="Holt" votes="149" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="553">
+                <Precinct name="Irwinville" votes="157" />
+                <Precinct name="Ocilla" votes="311" />
+                <Precinct name="Holt" votes="85" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Irwinville" votes="4" />
+            <Precinct name="Ocilla" votes="26" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="16" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="57" />
+                <Precinct name="Holt" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="53" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="244">
+            <Precinct name="Irwinville" votes="88" />
+            <Precinct name="Ocilla" votes="106" />
+            <Precinct name="Holt" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="23" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="16" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="458">
+            <VoteType name="Election Day Votes" votes="259">
+                <Precinct name="Irwinville" votes="101" />
+                <Precinct name="Ocilla" votes="118" />
+                <Precinct name="Holt" votes="40" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="191">
+                <Precinct name="Irwinville" votes="54" />
+                <Precinct name="Ocilla" votes="113" />
+                <Precinct name="Holt" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="929">
+            <VoteType name="Election Day Votes" votes="575">
+                <Precinct name="Irwinville" votes="226" />
+                <Precinct name="Ocilla" votes="255" />
+                <Precinct name="Holt" votes="94" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="336">
+                <Precinct name="Irwinville" votes="94" />
+                <Precinct name="Ocilla" votes="188" />
+                <Precinct name="Holt" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="22" />
+            <Precinct name="Holt" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="19" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="23" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="70">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="31" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="30" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="20" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="199">
+            <Precinct name="Irwinville" votes="72" />
+            <Precinct name="Ocilla" votes="83" />
+            <Precinct name="Holt" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="1498">
+            <VoteType name="Election Day Votes" votes="893">
+                <Precinct name="Irwinville" votes="343" />
+                <Precinct name="Ocilla" votes="406" />
+                <Precinct name="Holt" votes="144" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="577">
+                <Precinct name="Irwinville" votes="167" />
+                <Precinct name="Ocilla" votes="331" />
+                <Precinct name="Holt" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Irwinville" votes="4" />
+            <Precinct name="Ocilla" votes="33" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="31" />
+                <Precinct name="Holt" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="42" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="133">
+            <VoteType name="Election Day Votes" votes="77">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="64" />
+                <Precinct name="Holt" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="46" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="223">
+            <Precinct name="Irwinville" votes="79" />
+            <Precinct name="Ocilla" votes="94" />
+            <Precinct name="Holt" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="1474">
+            <VoteType name="Election Day Votes" votes="885">
+                <Precinct name="Irwinville" votes="339" />
+                <Precinct name="Ocilla" votes="406" />
+                <Precinct name="Holt" votes="140" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="562">
+                <Precinct name="Irwinville" votes="164" />
+                <Precinct name="Ocilla" votes="321" />
+                <Precinct name="Holt" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="20" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="207">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="81" />
+                <Precinct name="Holt" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="97">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="82" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="134">
+            <Precinct name="Irwinville" votes="47" />
+            <Precinct name="Ocilla" votes="55" />
+            <Precinct name="Holt" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Austin Scott (I)" party="REP" totalVotes="1563">
+            <VoteType name="Election Day Votes" votes="943">
+                <Precinct name="Irwinville" votes="363" />
+                <Precinct name="Ocilla" votes="431" />
+                <Precinct name="Holt" votes="149" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="588">
+                <Precinct name="Irwinville" votes="172" />
+                <Precinct name="Ocilla" votes="332" />
+                <Precinct name="Holt" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="37" />
+            <Precinct name="Holt" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Darrius Butler" party="DEM" totalVotes="234">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="93" />
+                <Precinct name="Holt" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="108">
+                <Precinct name="Irwinville" votes="16" />
+                <Precinct name="Ocilla" votes="86" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 13 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="92">
+            <Precinct name="Irwinville" votes="37" />
+            <Precinct name="Ocilla" votes="36" />
+            <Precinct name="Holt" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Ed Perry" party="REP" totalVotes="603">
+            <VoteType name="Election Day Votes" votes="334">
+                <Precinct name="Irwinville" votes="134" />
+                <Precinct name="Ocilla" votes="153" />
+                <Precinct name="Holt" votes="47" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="259">
+                <Precinct name="Irwinville" votes="69" />
+                <Precinct name="Ocilla" votes="139" />
+                <Precinct name="Holt" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Carden H. Summers (I)" party="REP" totalVotes="861">
+            <VoteType name="Election Day Votes" votes="536">
+                <Precinct name="Irwinville" votes="193" />
+                <Precinct name="Ocilla" votes="254" />
+                <Precinct name="Holt" votes="89" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="306">
+                <Precinct name="Irwinville" votes="90" />
+                <Precinct name="Ocilla" votes="182" />
+                <Precinct name="Holt" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="George Woods" party="REP" totalVotes="141">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Irwinville" votes="41" />
+                <Precinct name="Ocilla" votes="32" />
+                <Precinct name="Holt" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Irwinville" votes="19" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 169 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="159">
+            <Precinct name="Irwinville" votes="47" />
+            <Precinct name="Ocilla" votes="74" />
+            <Precinct name="Holt" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="77" text="Clay Pirkle (I)" party="REP" totalVotes="1538">
+            <VoteType name="Election Day Votes" votes="928">
+                <Precinct name="Irwinville" votes="365" />
+                <Precinct name="Ocilla" votes="418" />
+                <Precinct name="Holt" votes="145" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="583">
+                <Precinct name="Irwinville" votes="172" />
+                <Precinct name="Ocilla" votes="329" />
+                <Precinct name="Holt" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 169 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Irwinville" votes="5" />
+            <Precinct name="Ocilla" votes="54" />
+            <Precinct name="Holt" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Mickey Brockington" party="DEM" totalVotes="216">
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="91" />
+                <Precinct name="Holt" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Irwinville" votes="15" />
+                <Precinct name="Ocilla" votes="72" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="County Commissioner D2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Irwinville" votes="1" />
+            <Precinct name="Ocilla" votes="8" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Don Hickey" party="REP" totalVotes="203">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="99" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="88">
+                <Precinct name="Irwinville" votes="25" />
+                <Precinct name="Ocilla" votes="61" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="Barron Jones (I)" party="REP" totalVotes="178">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="94" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="74">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="63" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Commissioner D4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Ocilla" votes="6" />
+            <Precinct name="Holt" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Lee Douglas" party="REP" totalVotes="149">
+            <VoteType name="Election Day Votes" votes="84">
+                <Precinct name="Ocilla" votes="39" />
+                <Precinct name="Holt" votes="45" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Ocilla" votes="43" />
+                <Precinct name="Holt" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="Christopher Paulk (I)" party="REP" totalVotes="341">
+            <VoteType name="Election Day Votes" votes="206">
+                <Precinct name="Ocilla" votes="85" />
+                <Precinct name="Holt" votes="121" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="125">
+                <Precinct name="Ocilla" votes="60" />
+                <Precinct name="Holt" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Irwinville" votes="10" />
+            <Precinct name="Ocilla" votes="6" />
+            <Precinct name="Holt" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Yes" party="REP" totalVotes="1620">
+            <VoteType name="Election Day Votes" votes="994">
+                <Precinct name="Irwinville" votes="383" />
+                <Precinct name="Ocilla" votes="444" />
+                <Precinct name="Holt" votes="167" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="594">
+                <Precinct name="Irwinville" votes="173" />
+                <Precinct name="Ocilla" votes="339" />
+                <Precinct name="Holt" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="No" party="REP" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="18" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Irwinville" votes="14" />
+            <Precinct name="Ocilla" votes="22" />
+            <Precinct name="Holt" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="81" text="Yes" party="REP" totalVotes="1210">
+            <VoteType name="Election Day Votes" votes="731">
+                <Precinct name="Irwinville" votes="301" />
+                <Precinct name="Ocilla" votes="312" />
+                <Precinct name="Holt" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="453">
+                <Precinct name="Irwinville" votes="141" />
+                <Precinct name="Ocilla" votes="250" />
+                <Precinct name="Holt" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="No" party="REP" totalVotes="437">
+            <VoteType name="Election Day Votes" votes="276">
+                <Precinct name="Irwinville" votes="88" />
+                <Precinct name="Ocilla" votes="141" />
+                <Precinct name="Holt" votes="47" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="156">
+                <Precinct name="Irwinville" votes="38" />
+                <Precinct name="Ocilla" votes="94" />
+                <Precinct name="Holt" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="78">
+            <Precinct name="Irwinville" votes="24" />
+            <Precinct name="Ocilla" votes="31" />
+            <Precinct name="Holt" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Yes" party="REP" totalVotes="1412">
+            <VoteType name="Election Day Votes" votes="852">
+                <Precinct name="Irwinville" votes="339" />
+                <Precinct name="Ocilla" votes="380" />
+                <Precinct name="Holt" votes="133" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="534">
+                <Precinct name="Irwinville" votes="162" />
+                <Precinct name="Ocilla" votes="297" />
+                <Precinct name="Holt" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="No" party="REP" totalVotes="207">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Irwinville" votes="45" />
+                <Precinct name="Ocilla" votes="72" />
+                <Precinct name="Holt" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="Irwinville" votes="13" />
+                <Precinct name="Ocilla" votes="39" />
+                <Precinct name="Holt" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="107">
+            <Precinct name="Irwinville" votes="37" />
+            <Precinct name="Ocilla" votes="42" />
+            <Precinct name="Holt" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Yes" party="REP" totalVotes="1363">
+            <VoteType name="Election Day Votes" votes="829">
+                <Precinct name="Irwinville" votes="320" />
+                <Precinct name="Ocilla" votes="375" />
+                <Precinct name="Holt" votes="134" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="505">
+                <Precinct name="Irwinville" votes="146" />
+                <Precinct name="Ocilla" votes="286" />
+                <Precinct name="Holt" votes="73" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="13" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="86" text="No" party="REP" totalVotes="227">
+            <VoteType name="Election Day Votes" votes="143">
+                <Precinct name="Irwinville" votes="52" />
+                <Precinct name="Ocilla" votes="71" />
+                <Precinct name="Holt" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Irwinville" votes="27" />
+                <Precinct name="Ocilla" votes="45" />
+                <Precinct name="Holt" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Irwinville" votes="11" />
+            <Precinct name="Ocilla" votes="15" />
+            <Precinct name="Holt" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Yes" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Irwinville" votes="6" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="No" party="REP" totalVotes="1638">
+            <VoteType name="Election Day Votes" votes="1005">
+                <Precinct name="Irwinville" votes="386" />
+                <Precinct name="Ocilla" votes="453" />
+                <Precinct name="Holt" votes="166" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="601">
+                <Precinct name="Irwinville" votes="176" />
+                <Precinct name="Ocilla" votes="338" />
+                <Precinct name="Holt" votes="87" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Irwinville" votes="15" />
+            <Precinct name="Ocilla" votes="20" />
+            <Precinct name="Holt" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Yes" party="REP" totalVotes="1615">
+            <VoteType name="Election Day Votes" votes="993">
+                <Precinct name="Irwinville" votes="380" />
+                <Precinct name="Ocilla" votes="449" />
+                <Precinct name="Holt" votes="164" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="590">
+                <Precinct name="Irwinville" votes="176" />
+                <Precinct name="Ocilla" votes="328" />
+                <Precinct name="Holt" votes="86" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="15" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="No" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Irwinville" votes="16" />
+            <Precinct name="Ocilla" votes="18" />
+            <Precinct name="Holt" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Yes" party="REP" totalVotes="1523">
+            <VoteType name="Election Day Votes" votes="933">
+                <Precinct name="Irwinville" votes="360" />
+                <Precinct name="Ocilla" votes="419" />
+                <Precinct name="Holt" votes="154" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="569">
+                <Precinct name="Irwinville" votes="167" />
+                <Precinct name="Ocilla" votes="323" />
+                <Precinct name="Holt" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="No" party="REP" totalVotes="125">
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Irwinville" votes="29" />
+                <Precinct name="Ocilla" votes="38" />
+                <Precinct name="Holt" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="6" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="100">
+            <Precinct name="Irwinville" votes="36" />
+            <Precinct name="Ocilla" votes="40" />
+            <Precinct name="Holt" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" party="REP" totalVotes="1143">
+            <VoteType name="Election Day Votes" votes="673">
+                <Precinct name="Irwinville" votes="254" />
+                <Precinct name="Ocilla" votes="312" />
+                <Precinct name="Holt" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="451">
+                <Precinct name="Irwinville" votes="131" />
+                <Precinct name="Ocilla" votes="249" />
+                <Precinct name="Holt" votes="71" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Irwinville" votes="8" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" party="REP" totalVotes="454">
+            <VoteType name="Election Day Votes" votes="301">
+                <Precinct name="Irwinville" votes="121" />
+                <Precinct name="Ocilla" votes="132" />
+                <Precinct name="Holt" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="144">
+                <Precinct name="Irwinville" votes="41" />
+                <Precinct name="Ocilla" votes="88" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="8" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Yes" party="DEM" totalVotes="236">
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Irwinville" votes="8" />
+                <Precinct name="Ocilla" votes="98" />
+                <Precinct name="Holt" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="105">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="88" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Irwinville" votes="1" />
+            <Precinct name="Ocilla" votes="10" />
+            <Precinct name="Holt" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="97" text="Yes" party="DEM" totalVotes="254">
+            <VoteType name="Election Day Votes" votes="126">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="101" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="118">
+                <Precinct name="Irwinville" votes="16" />
+                <Precinct name="Ocilla" votes="97" />
+                <Precinct name="Holt" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="No" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="11" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="99" text="Yes" party="DEM" totalVotes="257">
+            <VoteType name="Election Day Votes" votes="126">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="99" />
+                <Precinct name="Holt" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="119">
+                <Precinct name="Irwinville" votes="17" />
+                <Precinct name="Ocilla" votes="96" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="100" text="No" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="14" />
+            <Precinct name="Holt" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Yes" party="DEM" totalVotes="221">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="92" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Irwinville" votes="14" />
+                <Precinct name="Ocilla" votes="76" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="8" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="No" party="DEM" totalVotes="41">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="9" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Yes" party="DEM" totalVotes="239">
+            <VoteType name="Election Day Votes" votes="124">
+                <Precinct name="Irwinville" votes="12" />
+                <Precinct name="Ocilla" votes="97" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="105">
+                <Precinct name="Irwinville" votes="14" />
+                <Precinct name="Ocilla" votes="86" />
+                <Precinct name="Holt" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="No" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="10" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="12" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="8" />
+            <Precinct name="Holt" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="105" text="Yes" party="DEM" totalVotes="256">
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="102" />
+                <Precinct name="Holt" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="117">
+                <Precinct name="Irwinville" votes="17" />
+                <Precinct name="Ocilla" votes="95" />
+                <Precinct name="Holt" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="11" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="107" text="Yes" party="DEM" totalVotes="234">
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="90" />
+                <Precinct name="Holt" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="109">
+                <Precinct name="Irwinville" votes="15" />
+                <Precinct name="Ocilla" votes="88" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="9" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="No" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="14" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="11" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Irwinville" votes="3" />
+            <Precinct name="Ocilla" votes="6" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Yes" party="DEM" totalVotes="184">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Irwinville" votes="4" />
+                <Precinct name="Ocilla" votes="74" />
+                <Precinct name="Holt" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Irwinville" votes="13" />
+                <Precinct name="Ocilla" votes="70" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="4" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="No" party="DEM" totalVotes="87">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Irwinville" votes="7" />
+                <Precinct name="Ocilla" votes="34" />
+                <Precinct name="Holt" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="30" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="5" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="12" />
+            <Precinct name="Holt" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Yes" party="DEM" totalVotes="253">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="103" />
+                <Precinct name="Holt" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="115">
+                <Precinct name="Irwinville" votes="17" />
+                <Precinct name="Ocilla" votes="92" />
+                <Precinct name="Holt" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="112" text="No" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="2" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="7" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="234">
+            <Precinct name="Irwinville" votes="71" />
+            <Precinct name="Ocilla" votes="116" />
+            <Precinct name="Holt" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Veronica Brinson" totalVotes="440">
+            <VoteType name="Election Day Votes" votes="266">
+                <Precinct name="Irwinville" votes="94" />
+                <Precinct name="Ocilla" votes="137" />
+                <Precinct name="Holt" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="168">
+                <Precinct name="Irwinville" votes="39" />
+                <Precinct name="Ocilla" votes="111" />
+                <Precinct name="Holt" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="1" />
+                <Precinct name="Ocilla" votes="3" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="Verda M. Colvin (I)" totalVotes="1304">
+            <VoteType name="Election Day Votes" votes="766">
+                <Precinct name="Irwinville" votes="268" />
+                <Precinct name="Ocilla" votes="377" />
+                <Precinct name="Holt" votes="121" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="507">
+                <Precinct name="Irwinville" votes="142" />
+                <Precinct name="Ocilla" votes="294" />
+                <Precinct name="Holt" votes="71" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Irwinville" votes="8" />
+                <Precinct name="Ocilla" votes="20" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="297">
+            <Precinct name="Irwinville" votes="86" />
+            <Precinct name="Ocilla" votes="150" />
+            <Precinct name="Holt" votes="61" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Shawn Ellen LaGrua (I)" totalVotes="1677">
+            <VoteType name="Election Day Votes" votes="997">
+                <Precinct name="Irwinville" votes="349" />
+                <Precinct name="Ocilla" votes="500" />
+                <Precinct name="Holt" votes="148" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="645">
+                <Precinct name="Irwinville" votes="176" />
+                <Precinct name="Ocilla" votes="386" />
+                <Precinct name="Holt" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Irwinville" votes="9" />
+                <Precinct name="Ocilla" votes="22" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="288">
+            <Precinct name="Irwinville" votes="81" />
+            <Precinct name="Ocilla" votes="147" />
+            <Precinct name="Holt" votes="60" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Carla McMillian (I)" totalVotes="1689">
+            <VoteType name="Election Day Votes" votes="1004">
+                <Precinct name="Irwinville" votes="354" />
+                <Precinct name="Ocilla" votes="501" />
+                <Precinct name="Holt" votes="149" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="647">
+                <Precinct name="Irwinville" votes="177" />
+                <Precinct name="Ocilla" votes="389" />
+                <Precinct name="Holt" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="22" />
+                <Precinct name="Holt" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="304">
+            <Precinct name="Irwinville" votes="79" />
+            <Precinct name="Ocilla" votes="160" />
+            <Precinct name="Holt" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Anne Elizabeth Barnes (I)" totalVotes="1675">
+            <VoteType name="Election Day Votes" votes="995">
+                <Precinct name="Irwinville" votes="354" />
+                <Precinct name="Ocilla" votes="494" />
+                <Precinct name="Holt" votes="147" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="643">
+                <Precinct name="Irwinville" votes="177" />
+                <Precinct name="Ocilla" votes="385" />
+                <Precinct name="Holt" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="21" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="307">
+            <Precinct name="Irwinville" votes="84" />
+            <Precinct name="Ocilla" votes="158" />
+            <Precinct name="Holt" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="122" text="Chris McFadden (I)" totalVotes="1676">
+            <VoteType name="Election Day Votes" votes="995">
+                <Precinct name="Irwinville" votes="354" />
+                <Precinct name="Ocilla" votes="493" />
+                <Precinct name="Holt" votes="148" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="644">
+                <Precinct name="Irwinville" votes="176" />
+                <Precinct name="Ocilla" votes="387" />
+                <Precinct name="Holt" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="23" />
+                <Precinct name="Holt" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="327">
+            <Precinct name="Irwinville" votes="89" />
+            <Precinct name="Ocilla" votes="169" />
+            <Precinct name="Holt" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="124" text="Trea Pipkin (I)" totalVotes="1654">
+            <VoteType name="Election Day Votes" votes="985">
+                <Precinct name="Irwinville" votes="348" />
+                <Precinct name="Ocilla" votes="492" />
+                <Precinct name="Holt" votes="145" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="634">
+                <Precinct name="Irwinville" votes="176" />
+                <Precinct name="Ocilla" votes="379" />
+                <Precinct name="Holt" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Irwinville" votes="10" />
+                <Precinct name="Ocilla" votes="20" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Judge - Superior Court - Tifton Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="202">
+            <Precinct name="Irwinville" votes="51" />
+            <Precinct name="Ocilla" votes="105" />
+            <Precinct name="Holt" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Bill Reinhardt (I)" totalVotes="1766">
+            <VoteType name="Election Day Votes" votes="1039">
+                <Precinct name="Irwinville" votes="368" />
+                <Precinct name="Ocilla" votes="516" />
+                <Precinct name="Holt" votes="155" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="689">
+                <Precinct name="Irwinville" votes="186" />
+                <Precinct name="Ocilla" votes="411" />
+                <Precinct name="Holt" votes="92" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Irwinville" votes="11" />
+                <Precinct name="Ocilla" votes="22" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="County Board of Education D1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Irwinville" votes="22" />
+            <Precinct name="Ocilla" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Kurt Wilmot (I)" totalVotes="271">
+            <VoteType name="Election Day Votes" votes="172">
+                <Precinct name="Irwinville" votes="157" />
+                <Precinct name="Ocilla" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="94">
+                <Precinct name="Irwinville" votes="89" />
+                <Precinct name="Ocilla" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="132" text="Kayla Wilson" totalVotes="165">
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Irwinville" votes="106" />
+                <Precinct name="Ocilla" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Irwinville" votes="36" />
+                <Precinct name="Ocilla" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="2" />
+                <Precinct name="Ocilla" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="County Board of Education D3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Irwinville" votes="17" />
+            <Precinct name="Ocilla" votes="21" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Paige Wynn (I)" totalVotes="396">
+            <VoteType name="Election Day Votes" votes="246">
+                <Precinct name="Irwinville" votes="117" />
+                <Precinct name="Ocilla" votes="129" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Irwinville" votes="54" />
+                <Precinct name="Ocilla" votes="91" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Irwinville" votes="3" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="County Board of Education D5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Ocilla" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ocilla" votes="0" />
+        </VoteType>
+        <Choice key="134" text="James Curtis (I)" totalVotes="250">
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Ocilla" votes="121" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="118">
+                <Precinct name="Ocilla" votes="118" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Ocilla" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ocilla" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

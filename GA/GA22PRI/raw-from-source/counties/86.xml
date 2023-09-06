@@ -1,0 +1,2304 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/1/2022 8:28:05 AM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Lanier</Region>
+    <VoterTurnout totalVoters="5548" ballotsCast="1211" voterTurnout="21.83">
+        <Precincts>
+            <Precinct name="Lakeland" totalVoters="5548" ballotsCast="1211" voterTurnout="21.83" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="32">
+            <Precinct name="Lakeland" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="265">
+            <VoteType name="Election Day Votes" votes="130">
+                <Precinct name="Lakeland" votes="130" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="130">
+                <Precinct name="Lakeland" votes="130" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Lakeland" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Lakeland" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Lakeland" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="818">
+            <VoteType name="Election Day Votes" votes="424">
+                <Precinct name="Lakeland" votes="424" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="377">
+                <Precinct name="Lakeland" votes="377" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Lakeland" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Lakeland" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Lakeland" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="296">
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Lakeland" votes="138" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="154">
+                <Precinct name="Lakeland" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Lakeland" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Lakeland" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="704">
+            <VoteType name="Election Day Votes" votes="386">
+                <Precinct name="Lakeland" votes="386" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="304">
+                <Precinct name="Lakeland" votes="304" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="349">
+            <VoteType name="Election Day Votes" votes="160">
+                <Precinct name="Lakeland" votes="160" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="184">
+                <Precinct name="Lakeland" votes="184" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="123">
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Lakeland" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Lakeland" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Lakeland" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="323">
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Lakeland" votes="152" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="166">
+                <Precinct name="Lakeland" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="120">
+            <Precinct name="Lakeland" votes="120" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="456">
+            <VoteType name="Election Day Votes" votes="237">
+                <Precinct name="Lakeland" votes="237" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="209">
+                <Precinct name="Lakeland" votes="209" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="214">
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Lakeland" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Lakeland" votes="91" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="334">
+            <VoteType name="Election Day Votes" votes="159">
+                <Precinct name="Lakeland" votes="159" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="169">
+                <Precinct name="Lakeland" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Lakeland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="87">
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Lakeland" votes="38" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Lakeland" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="54">
+            <Precinct name="Lakeland" votes="54" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Lakeland" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Lakeland" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Lakeland" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Lakeland" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Lakeland" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Lakeland" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Lakeland" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Lakeland" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="73">
+            <Precinct name="Lakeland" votes="73" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="208">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Lakeland" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="123">
+                <Precinct name="Lakeland" votes="123" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="274">
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="Lakeland" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="124">
+                <Precinct name="Lakeland" votes="124" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Lakeland" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="117">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Lakeland" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Lakeland" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="539">
+            <VoteType name="Election Day Votes" votes="293">
+                <Precinct name="Lakeland" votes="293" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="234">
+                <Precinct name="Lakeland" votes="234" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Lakeland" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Lakeland" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="61">
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Lakeland" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Lakeland" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Lakeland" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Lakeland" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="94">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Lakeland" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Lakeland" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Lakeland" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="800">
+            <VoteType name="Election Day Votes" votes="415">
+                <Precinct name="Lakeland" votes="415" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="372">
+                <Precinct name="Lakeland" votes="372" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Lakeland" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="324">
+            <VoteType name="Election Day Votes" votes="154">
+                <Precinct name="Lakeland" votes="154" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="160">
+                <Precinct name="Lakeland" votes="160" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="Lakeland" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="219">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Lakeland" votes="109" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="109">
+                <Precinct name="Lakeland" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="79">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Lakeland" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Lakeland" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="156">
+            <Precinct name="Lakeland" votes="156" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="1055">
+            <VoteType name="Election Day Votes" votes="542">
+                <Precinct name="Lakeland" votes="542" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="495">
+                <Precinct name="Lakeland" votes="495" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Lakeland" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="106">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Lakeland" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Lakeland" votes="57" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="127">
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Lakeland" votes="66" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Lakeland" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Lakeland" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Lakeland" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Lakeland" votes="90" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="228">
+            <VoteType name="Election Day Votes" votes="113">
+                <Precinct name="Lakeland" votes="113" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="112">
+                <Precinct name="Lakeland" votes="112" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="759">
+            <VoteType name="Election Day Votes" votes="379">
+                <Precinct name="Lakeland" votes="379" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="366">
+                <Precinct name="Lakeland" votes="366" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="134">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Lakeland" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Lakeland" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Lakeland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Lakeland" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="103">
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Lakeland" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Lakeland" votes="44" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="154">
+            <VoteType name="Election Day Votes" votes="75">
+                <Precinct name="Lakeland" votes="75" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Lakeland" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Lakeland" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="91">
+            <Precinct name="Lakeland" votes="91" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="125">
+                <Precinct name="Lakeland" votes="125" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="143">
+                <Precinct name="Lakeland" votes="143" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="845">
+            <VoteType name="Election Day Votes" votes="437">
+                <Precinct name="Lakeland" votes="437" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="393">
+                <Precinct name="Lakeland" votes="393" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Lakeland" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="41">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Lakeland" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Lakeland" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Lakeland" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Lakeland" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="165">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Lakeland" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="83">
+                <Precinct name="Lakeland" votes="83" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Lakeland" votes="172" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="63">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Lakeland" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Lakeland" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="343">
+            <VoteType name="Election Day Votes" votes="176">
+                <Precinct name="Lakeland" votes="176" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="163">
+                <Precinct name="Lakeland" votes="163" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="633">
+            <VoteType name="Election Day Votes" votes="308">
+                <Precinct name="Lakeland" votes="308" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="307">
+                <Precinct name="Lakeland" votes="307" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Lakeland" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Lakeland" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Lakeland" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Lakeland" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Lakeland" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="59">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Lakeland" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Lakeland" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="67">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Lakeland" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Lakeland" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Lakeland" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="158">
+            <Precinct name="Lakeland" votes="158" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="1053">
+            <VoteType name="Election Day Votes" votes="531">
+                <Precinct name="Lakeland" votes="531" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="506">
+                <Precinct name="Lakeland" votes="506" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Lakeland" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Lakeland" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="174">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Lakeland" votes="79" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Lakeland" votes="91" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="127">
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="Lakeland" votes="69" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Lakeland" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Lakeland" votes="172" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="1039">
+            <VoteType name="Election Day Votes" votes="530">
+                <Precinct name="Lakeland" votes="530" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="491">
+                <Precinct name="Lakeland" votes="491" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="44">
+            <Precinct name="Lakeland" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="163">
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Lakeland" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Lakeland" votes="81" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="62">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Lakeland" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Lakeland" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Lakeland" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Lakeland" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="134">
+            <Precinct name="Lakeland" votes="134" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Austin Scott (I)" party="REP" totalVotes="1077">
+            <VoteType name="Election Day Votes" votes="547">
+                <Precinct name="Lakeland" votes="547" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="511">
+                <Precinct name="Lakeland" votes="511" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="69">
+            <Precinct name="Lakeland" votes="69" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Darrius Butler" party="DEM" totalVotes="277">
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Lakeland" votes="138" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="135">
+                <Precinct name="Lakeland" votes="135" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="141">
+            <Precinct name="Lakeland" votes="141" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Russ Goodman (I)" party="REP" totalVotes="1070">
+            <VoteType name="Election Day Votes" votes="545">
+                <Precinct name="Lakeland" votes="545" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="506">
+                <Precinct name="Lakeland" votes="506" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 176 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="152">
+            <Precinct name="Lakeland" votes="152" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="75" text="James Burchett (I)" party="REP" totalVotes="1059">
+            <VoteType name="Election Day Votes" votes="542">
+                <Precinct name="Lakeland" votes="542" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="499">
+                <Precinct name="Lakeland" votes="499" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="District Attorney - Alapaha Judicial Circuit - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Lakeland" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="76" text="Matt Bennett" party="REP" totalVotes="455">
+            <VoteType name="Election Day Votes" votes="239">
+                <Precinct name="Lakeland" votes="239" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="209">
+                <Precinct name="Lakeland" votes="209" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="Chase Studstill (I)" party="REP" totalVotes="716">
+            <VoteType name="Election Day Votes" votes="360">
+                <Precinct name="Lakeland" votes="360" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="339">
+                <Precinct name="Lakeland" votes="339" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Lakeland" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="County Commissioner D1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Lakeland" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Paul Brockington (I)" party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Lakeland" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Lakeland" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="Benny &quot;&quot;Peter&quot;&quot; Ryan" party="DEM" totalVotes="109">
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Lakeland" votes="47" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Lakeland" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="County Commissioner D2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Lakeland" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Hank J Smith (I)" party="REP" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Lakeland" votes="93" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="95">
+                <Precinct name="Lakeland" votes="95" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="132" text="Russell Zirkle" party="REP" totalVotes="176">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Lakeland" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Lakeland" votes="89" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Lakeland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Board of Education D1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Lakeland" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Erlish Locklear (I)" party="DEM" totalVotes="97">
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Lakeland" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Lakeland" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="134" text="Theba Sirmans" party="DEM" totalVotes="86">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Lakeland" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="50">
+                <Precinct name="Lakeland" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="County Board of Education D3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Lakeland" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Amy Bowling Bennett" party="REP" totalVotes="152">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Lakeland" votes="88" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Lakeland" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="136" text="Phillip C Connell (I)" party="REP" totalVotes="172">
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Lakeland" votes="91" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="74">
+                <Precinct name="Lakeland" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="County Board of Education D4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="44">
+            <Precinct name="Lakeland" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="137" text="Denny Fender (I)" party="REP" totalVotes="341">
+            <VoteType name="Election Day Votes" votes="184">
+                <Precinct name="Lakeland" votes="184" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="154">
+                <Precinct name="Lakeland" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Lakeland" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Yes" party="REP" totalVotes="1133">
+            <VoteType name="Election Day Votes" votes="582">
+                <Precinct name="Lakeland" votes="582" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="529">
+                <Precinct name="Lakeland" votes="529" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Lakeland" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="No" party="REP" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Lakeland" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Lakeland" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lakeland" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Lakeland" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Yes" party="REP" totalVotes="880">
+            <VoteType name="Election Day Votes" votes="472">
+                <Precinct name="Lakeland" votes="472" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="394">
+                <Precinct name="Lakeland" votes="394" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="No" party="REP" totalVotes="296">
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="Lakeland" votes="136" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="151">
+                <Precinct name="Lakeland" votes="151" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Lakeland" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Lakeland" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Yes" party="REP" totalVotes="990">
+            <VoteType name="Election Day Votes" votes="507">
+                <Precinct name="Lakeland" votes="507" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="464">
+                <Precinct name="Lakeland" votes="464" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="No" party="REP" totalVotes="174">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Lakeland" votes="95" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Lakeland" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Lakeland" votes="66" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Yes" party="REP" totalVotes="959">
+            <VoteType name="Election Day Votes" votes="478">
+                <Precinct name="Lakeland" votes="478" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="463">
+                <Precinct name="Lakeland" votes="463" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="No" party="REP" totalVotes="186">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Lakeland" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Lakeland" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Lakeland" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Yes" party="REP" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Lakeland" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="No" party="REP" totalVotes="1140">
+            <VoteType name="Election Day Votes" votes="590">
+                <Precinct name="Lakeland" votes="590" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="528">
+                <Precinct name="Lakeland" votes="528" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Lakeland" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Lakeland" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Yes" party="REP" totalVotes="1150">
+            <VoteType name="Election Day Votes" votes="596">
+                <Precinct name="Lakeland" votes="596" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="530">
+                <Precinct name="Lakeland" votes="530" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Lakeland" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="No" party="REP" totalVotes="28">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Lakeland" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" party="REP" totalVotes="1074">
+            <VoteType name="Election Day Votes" votes="549">
+                <Precinct name="Lakeland" votes="549" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="509">
+                <Precinct name="Lakeland" votes="509" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Lakeland" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" party="REP" totalVotes="106">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Lakeland" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="37">
+                <Precinct name="Lakeland" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Lakeland" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" party="REP" totalVotes="742">
+            <VoteType name="Election Day Votes" votes="375">
+                <Precinct name="Lakeland" votes="375" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="357">
+                <Precinct name="Lakeland" votes="357" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" party="REP" totalVotes="401">
+            <VoteType name="Election Day Votes" votes="214">
+                <Precinct name="Lakeland" votes="214" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="175">
+                <Precinct name="Lakeland" votes="175" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Lakeland" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Lakeland" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="DEM" totalVotes="284">
+            <VoteType name="Election Day Votes" votes="145">
+                <Precinct name="Lakeland" votes="145" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="134">
+                <Precinct name="Lakeland" votes="134" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="DEM" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Lakeland" votes="36" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Lakeland" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="DEM" totalVotes="308">
+            <VoteType name="Election Day Votes" votes="151">
+                <Precinct name="Lakeland" votes="151" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="154">
+                <Precinct name="Lakeland" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Lakeland" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Lakeland" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="DEM" totalVotes="313">
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Lakeland" votes="146" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="162">
+                <Precinct name="Lakeland" votes="162" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Lakeland" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Lakeland" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="DEM" totalVotes="285">
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="Lakeland" votes="136" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="145">
+                <Precinct name="Lakeland" votes="145" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Lakeland" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="DEM" totalVotes="50">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Lakeland" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Lakeland" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Lakeland" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="DEM" totalVotes="292">
+            <VoteType name="Election Day Votes" votes="147">
+                <Precinct name="Lakeland" votes="147" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="140">
+                <Precinct name="Lakeland" votes="140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="DEM" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Lakeland" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="28">
+                <Precinct name="Lakeland" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Lakeland" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="DEM" totalVotes="312">
+            <VoteType name="Election Day Votes" votes="148">
+                <Precinct name="Lakeland" votes="148" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="159">
+                <Precinct name="Lakeland" votes="159" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Lakeland" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Lakeland" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Yes" party="DEM" totalVotes="302">
+            <VoteType name="Election Day Votes" votes="145">
+                <Precinct name="Lakeland" votes="145" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="152">
+                <Precinct name="Lakeland" votes="152" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="No" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Lakeland" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Lakeland" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Lakeland" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Yes" party="DEM" totalVotes="240">
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Lakeland" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="117">
+                <Precinct name="Lakeland" votes="117" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lakeland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="No" party="DEM" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Lakeland" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Lakeland" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Lakeland" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Yes" party="DEM" totalVotes="312">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Lakeland" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="159">
+                <Precinct name="Lakeland" votes="159" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Lakeland" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="No" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Lakeland" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Lakeland" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Lakeland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="205">
+            <Precinct name="Lakeland" votes="205" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Veronica Brinson" totalVotes="458">
+            <VoteType name="Election Day Votes" votes="215">
+                <Precinct name="Lakeland" votes="215" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="236">
+                <Precinct name="Lakeland" votes="236" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Lakeland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="113" text="Verda M. Colvin (I)" totalVotes="909">
+            <VoteType name="Election Day Votes" votes="473">
+                <Precinct name="Lakeland" votes="473" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="417">
+                <Precinct name="Lakeland" votes="417" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Lakeland" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="271">
+            <Precinct name="Lakeland" votes="271" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Shawn Ellen LaGrua (I)" totalVotes="1298">
+            <VoteType name="Election Day Votes" votes="666">
+                <Precinct name="Lakeland" votes="666" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="614">
+                <Precinct name="Lakeland" votes="614" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="261">
+            <Precinct name="Lakeland" votes="261" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Carla McMillian (I)" totalVotes="1309">
+            <VoteType name="Election Day Votes" votes="665">
+                <Precinct name="Lakeland" votes="665" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="624">
+                <Precinct name="Lakeland" votes="624" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Lakeland" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="255">
+            <Precinct name="Lakeland" votes="255" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Anne Elizabeth Barnes (I)" totalVotes="1318">
+            <VoteType name="Election Day Votes" votes="674">
+                <Precinct name="Lakeland" votes="674" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="624">
+                <Precinct name="Lakeland" votes="624" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Lakeland" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="259">
+            <Precinct name="Lakeland" votes="259" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Chris McFadden (I)" totalVotes="1312">
+            <VoteType name="Election Day Votes" votes="669">
+                <Precinct name="Lakeland" votes="669" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="623">
+                <Precinct name="Lakeland" votes="623" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Lakeland" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="Lakeland" votes="272" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Trea Pipkin (I)" totalVotes="1296">
+            <VoteType name="Election Day Votes" votes="660">
+                <Precinct name="Lakeland" votes="660" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="616">
+                <Precinct name="Lakeland" votes="616" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Lakeland" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Judge - Superior Court - Alapaha Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Lakeland" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Mickey Johnson" totalVotes="423">
+            <VoteType name="Election Day Votes" votes="232">
+                <Precinct name="Lakeland" votes="232" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="185">
+                <Precinct name="Lakeland" votes="185" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Lakeland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="Dick Perryman (I)" totalVotes="1068">
+            <VoteType name="Election Day Votes" votes="520">
+                <Precinct name="Lakeland" votes="520" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="523">
+                <Precinct name="Lakeland" votes="523" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Lakeland" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="ESPLOST Renewal" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Lakeland" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lakeland" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Yes" totalVotes="1054">
+            <VoteType name="Election Day Votes" votes="535">
+                <Precinct name="Lakeland" votes="535" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="501">
+                <Precinct name="Lakeland" votes="501" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Lakeland" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="No" totalVotes="486">
+            <VoteType name="Election Day Votes" votes="254">
+                <Precinct name="Lakeland" votes="254" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="222">
+                <Precinct name="Lakeland" votes="222" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Lakeland" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lakeland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

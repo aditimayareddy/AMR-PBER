@@ -1,0 +1,712 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 7:29:53 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Appling</Region>
+    <VoterTurnout totalVoters="5" ballotsCast="211" voterTurnout="4220.00">
+        <Precincts>
+            <Precinct name="1B" totalVoters="0" ballotsCast="20" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="1C" totalVoters="0" ballotsCast="4" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="2" totalVoters="0" ballotsCast="131" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="3A1" totalVoters="5" ballotsCast="4" voterTurnout="80.00" percentReporting="4" />
+            <Precinct name="3C" totalVoters="0" ballotsCast="33" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="4B" totalVoters="0" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="4D" totalVoters="0" ballotsCast="10" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="5A" totalVoters="0" ballotsCast="3" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="5B" totalVoters="0" ballotsCast="6" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="7" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="3" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="1" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="0" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="0" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="0" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="88">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="1B" votes="1" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="7" />
+                <Precinct name="3A1" votes="2" />
+                <Precinct name="3C" votes="5" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="3" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="1B" votes="2" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="16" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="4" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="1B" votes="5" />
+                <Precinct name="1C" votes="3" />
+                <Precinct name="2" votes="17" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="9" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="4" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="112">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="1B" votes="6" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="17" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="26" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="4" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="41" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="8" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="1B" votes="1" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="8" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="5" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="2" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="0" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="0" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="0" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="88">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="9" />
+                <Precinct name="3A1" votes="3" />
+                <Precinct name="3C" votes="3" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="24" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="4" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="2" />
+                <Precinct name="2" votes="21" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="9" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="1B" votes="7" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="16" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="3" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="1B" votes="5" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="18" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="4" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="35" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="5" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="3" />
+                <Precinct name="5A" votes="2" />
+                <Precinct name="5B" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="1B" votes="1" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="6" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="5" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="1" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="0" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="0" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="0" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="85">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="8" />
+                <Precinct name="3A1" votes="2" />
+                <Precinct name="3C" votes="5" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="15" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="2" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="2" />
+                <Precinct name="2" votes="27" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="9" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="113">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="18" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="3" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="1B" votes="2" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="26" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="6" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="31" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="6" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="3" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="1B" votes="1" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="10" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="7" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="1" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="0" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="0" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="0" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="105">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="1B" votes="5" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="13" />
+                <Precinct name="3A1" votes="2" />
+                <Precinct name="3C" votes="3" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="23" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="6" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="1B" votes="5" />
+                <Precinct name="1C" votes="2" />
+                <Precinct name="2" votes="26" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="5" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="4" />
+                <Precinct name="5A" votes="2" />
+                <Precinct name="5B" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="87">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="1B" votes="2" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="11" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="2" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="1B" votes="5" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="17" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="2" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="1B" votes="2" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="31" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="8" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="1" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="3" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="2" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="1" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+            <Precinct name="2" votes="0" />
+            <Precinct name="3A1" votes="0" />
+            <Precinct name="3C" votes="0" />
+            <Precinct name="4B" votes="0" />
+            <Precinct name="4D" votes="0" />
+            <Precinct name="5A" votes="0" />
+            <Precinct name="5B" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Joyce Marie Griggs" party="DEM" totalVotes="96">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="12" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="2" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="1B" votes="1" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="24" />
+                <Precinct name="3A1" votes="1" />
+                <Precinct name="3C" votes="2" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="32" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="8" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="200" text="Wade Herring" party="DEM" totalVotes="109">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="1B" votes="3" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="14" />
+                <Precinct name="3A1" votes="2" />
+                <Precinct name="3C" votes="4" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="3" />
+                <Precinct name="5A" votes="1" />
+                <Precinct name="5B" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="1" />
+                <Precinct name="2" votes="20" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="7" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="2" />
+                <Precinct name="2" votes="26" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="8" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="2" />
+                <Precinct name="5A" votes="2" />
+                <Precinct name="5B" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+                <Precinct name="2" votes="0" />
+                <Precinct name="3A1" votes="0" />
+                <Precinct name="3C" votes="0" />
+                <Precinct name="4B" votes="0" />
+                <Precinct name="4D" votes="0" />
+                <Precinct name="5A" votes="0" />
+                <Precinct name="5B" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="103" text="County Commissioner - Dist 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+        </VoteType>
+        <Choice key="208" text="Daniel B. Carter" party="REP" totalVotes="171">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="1B" votes="15" />
+                <Precinct name="1C" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="1B" votes="36" />
+                <Precinct name="1C" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="106">
+                <Precinct name="1B" votes="64" />
+                <Precinct name="1C" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="209" text="Jimmy Crosby" party="REP" totalVotes="145">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="1B" votes="16" />
+                <Precinct name="1C" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="106">
+                <Precinct name="1B" votes="54" />
+                <Precinct name="1C" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="211" text="Randy Sellers" party="REP" totalVotes="184">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="1B" votes="4" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="1B" votes="30" />
+                <Precinct name="1C" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="1B" votes="74" />
+                <Precinct name="1C" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="99" text="Bd of Education - Dist 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="1B" votes="7" />
+            <Precinct name="1C" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="1B" votes="0" />
+            <Precinct name="1C" votes="0" />
+        </VoteType>
+        <Choice key="190" text="Mark Green" totalVotes="285">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="1B" votes="13" />
+                <Precinct name="1C" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="1B" votes="50" />
+                <Precinct name="1C" votes="20" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="199">
+                <Precinct name="1B" votes="104" />
+                <Precinct name="1C" votes="95" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="191" text="Stewart Reeves (I)" totalVotes="238">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="1B" votes="17" />
+                <Precinct name="1C" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="61">
+                <Precinct name="1B" votes="36" />
+                <Precinct name="1C" votes="25" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="1B" votes="94" />
+                <Precinct name="1C" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="1B" votes="0" />
+                <Precinct name="1C" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,814 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 5:08:28 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Bartow</Region>
+    <VoterTurnout totalVoters="73915" ballotsCast="619" voterTurnout="0.84">
+        <Precincts>
+            <Precinct name="Adairsville" totalVoters="7095" ballotsCast="54" voterTurnout="0.76" percentReporting="4" />
+            <Precinct name="Allatoona" totalVoters="4599" ballotsCast="37" voterTurnout="0.80" percentReporting="4" />
+            <Precinct name="Cartersville East" totalVoters="6682" ballotsCast="64" voterTurnout="0.96" percentReporting="4" />
+            <Precinct name="Cartersville West" totalVoters="8103" ballotsCast="105" voterTurnout="1.30" percentReporting="4" />
+            <Precinct name="Cassville" totalVoters="4414" ballotsCast="42" voterTurnout="0.95" percentReporting="4" />
+            <Precinct name="Center" totalVoters="3969" ballotsCast="26" voterTurnout="0.66" percentReporting="4" />
+            <Precinct name="Emerson" totalVoters="2976" ballotsCast="17" voterTurnout="0.57" percentReporting="4" />
+            <Precinct name="Euharlee" totalVoters="5433" ballotsCast="56" voterTurnout="1.03" percentReporting="4" />
+            <Precinct name="Folsom" totalVoters="1422" ballotsCast="10" voterTurnout="0.70" percentReporting="4" />
+            <Precinct name="Kingston" totalVoters="2751" ballotsCast="15" voterTurnout="0.55" percentReporting="4" />
+            <Precinct name="Mission Road" totalVoters="3977" ballotsCast="44" voterTurnout="1.11" percentReporting="4" />
+            <Precinct name="Pine Log" totalVoters="2133" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Taylorsville" totalVoters="2863" ballotsCast="13" voterTurnout="0.45" percentReporting="4" />
+            <Precinct name="White" totalVoters="2724" ballotsCast="10" voterTurnout="0.37" percentReporting="4" />
+            <Precinct name="Zena Drive" totalVoters="6300" ballotsCast="56" voterTurnout="0.89" percentReporting="4" />
+            <Precinct name="Hamilton Crossing" totalVoters="6639" ballotsCast="52" voterTurnout="0.78" percentReporting="4" />
+            <Precinct name="Woodland" totalVoters="1835" ballotsCast="18" voterTurnout="0.98" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Adairsville" votes="1" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="0" />
+            <Precinct name="Cartersville West" votes="1" />
+            <Precinct name="Cassville" votes="1" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="1" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adairsville" votes="0" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="0" />
+            <Precinct name="Cartersville West" votes="0" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="0" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Charlie Bailey" party="DEM" totalVotes="440">
+            <VoteType name="Absentee by Mail Votes" votes="87">
+                <Precinct name="Adairsville" votes="4" />
+                <Precinct name="Allatoona" votes="7" />
+                <Precinct name="Cartersville East" votes="10" />
+                <Precinct name="Cartersville West" votes="11" />
+                <Precinct name="Cassville" votes="9" />
+                <Precinct name="Center" votes="3" />
+                <Precinct name="Emerson" votes="6" />
+                <Precinct name="Euharlee" votes="4" />
+                <Precinct name="Folsom" votes="4" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="7" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="8" />
+                <Precinct name="Hamilton Crossing" votes="12" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="76">
+                <Precinct name="Adairsville" votes="3" />
+                <Precinct name="Allatoona" votes="3" />
+                <Precinct name="Cartersville East" votes="11" />
+                <Precinct name="Cartersville West" votes="16" />
+                <Precinct name="Cassville" votes="7" />
+                <Precinct name="Center" votes="2" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="6" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="2" />
+                <Precinct name="Zena Drive" votes="15" />
+                <Precinct name="Hamilton Crossing" votes="10" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="275">
+                <Precinct name="Adairsville" votes="22" />
+                <Precinct name="Allatoona" votes="18" />
+                <Precinct name="Cartersville East" votes="27" />
+                <Precinct name="Cartersville West" votes="46" />
+                <Precinct name="Cassville" votes="14" />
+                <Precinct name="Center" votes="14" />
+                <Precinct name="Emerson" votes="5" />
+                <Precinct name="Euharlee" votes="36" />
+                <Precinct name="Folsom" votes="2" />
+                <Precinct name="Kingston" votes="10" />
+                <Precinct name="Mission Road" votes="15" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="9" />
+                <Precinct name="White" votes="6" />
+                <Precinct name="Zena Drive" votes="20" />
+                <Precinct name="Hamilton Crossing" votes="19" />
+                <Precinct name="Woodland" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="1" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Kwanza Hall" party="DEM" totalVotes="175">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Adairsville" votes="7" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="4" />
+                <Precinct name="Cartersville West" votes="6" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="3" />
+                <Precinct name="Emerson" votes="1" />
+                <Precinct name="Euharlee" votes="3" />
+                <Precinct name="Folsom" votes="2" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="1" />
+                <Precinct name="Hamilton Crossing" votes="4" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Adairsville" votes="3" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="3" />
+                <Precinct name="Cartersville West" votes="4" />
+                <Precinct name="Cassville" votes="7" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="5" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="2" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="3" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Adairsville" votes="14" />
+                <Precinct name="Allatoona" votes="9" />
+                <Precinct name="Cartersville East" votes="9" />
+                <Precinct name="Cartersville West" votes="21" />
+                <Precinct name="Cassville" votes="4" />
+                <Precinct name="Center" votes="4" />
+                <Precinct name="Emerson" votes="5" />
+                <Precinct name="Euharlee" votes="12" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="3" />
+                <Precinct name="Mission Road" votes="9" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="1" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="9" />
+                <Precinct name="Hamilton Crossing" votes="7" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="0" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Adairsville" votes="3" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="1" />
+            <Precinct name="Cartersville West" votes="0" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="1" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adairsville" votes="0" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="0" />
+            <Precinct name="Cartersville West" votes="0" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="0" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Dee Dawkins-Haigler" party="DEM" totalVotes="110">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="1" />
+                <Precinct name="Cartersville East" votes="2" />
+                <Precinct name="Cartersville West" votes="3" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="1" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="0" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="3" />
+                <Precinct name="Hamilton Crossing" votes="5" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Adairsville" votes="2" />
+                <Precinct name="Allatoona" votes="1" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="2" />
+                <Precinct name="Cassville" votes="3" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="3" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="1" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="5" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Adairsville" votes="8" />
+                <Precinct name="Allatoona" votes="4" />
+                <Precinct name="Cartersville East" votes="6" />
+                <Precinct name="Cartersville West" votes="17" />
+                <Precinct name="Cassville" votes="3" />
+                <Precinct name="Center" votes="3" />
+                <Precinct name="Emerson" votes="2" />
+                <Precinct name="Euharlee" votes="10" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="3" />
+                <Precinct name="Mission Road" votes="5" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="3" />
+                <Precinct name="White" votes="2" />
+                <Precinct name="Zena Drive" votes="6" />
+                <Precinct name="Hamilton Crossing" votes="2" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Bee Nguyen" party="DEM" totalVotes="504">
+            <VoteType name="Absentee by Mail Votes" votes="104">
+                <Precinct name="Adairsville" votes="10" />
+                <Precinct name="Allatoona" votes="6" />
+                <Precinct name="Cartersville East" votes="11" />
+                <Precinct name="Cartersville West" votes="14" />
+                <Precinct name="Cassville" votes="9" />
+                <Precinct name="Center" votes="5" />
+                <Precinct name="Emerson" votes="7" />
+                <Precinct name="Euharlee" votes="7" />
+                <Precinct name="Folsom" votes="6" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="8" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="6" />
+                <Precinct name="Hamilton Crossing" votes="11" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="88">
+                <Precinct name="Adairsville" votes="4" />
+                <Precinct name="Allatoona" votes="2" />
+                <Precinct name="Cartersville East" votes="14" />
+                <Precinct name="Cartersville West" votes="18" />
+                <Precinct name="Cassville" votes="11" />
+                <Precinct name="Center" votes="2" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="8" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="1" />
+                <Precinct name="White" votes="2" />
+                <Precinct name="Zena Drive" votes="13" />
+                <Precinct name="Hamilton Crossing" votes="10" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="311">
+                <Precinct name="Adairsville" votes="27" />
+                <Precinct name="Allatoona" votes="23" />
+                <Precinct name="Cartersville East" votes="30" />
+                <Precinct name="Cartersville West" votes="51" />
+                <Precinct name="Cassville" votes="16" />
+                <Precinct name="Center" votes="15" />
+                <Precinct name="Emerson" votes="8" />
+                <Precinct name="Euharlee" votes="38" />
+                <Precinct name="Folsom" votes="3" />
+                <Precinct name="Kingston" votes="10" />
+                <Precinct name="Mission Road" votes="19" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="7" />
+                <Precinct name="White" votes="5" />
+                <Precinct name="Zena Drive" votes="23" />
+                <Precinct name="Hamilton Crossing" votes="24" />
+                <Precinct name="Woodland" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="1" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="0" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Adairsville" votes="3" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="1" />
+            <Precinct name="Cartersville West" votes="3" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="1" />
+            <Precinct name="Euharlee" votes="1" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="2" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="1" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adairsville" votes="0" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="0" />
+            <Precinct name="Cartersville West" votes="0" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="0" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Raphael Baker" party="DEM" totalVotes="192">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Adairsville" votes="1" />
+                <Precinct name="Allatoona" votes="3" />
+                <Precinct name="Cartersville East" votes="3" />
+                <Precinct name="Cartersville West" votes="1" />
+                <Precinct name="Cassville" votes="4" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="2" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="4" />
+                <Precinct name="Hamilton Crossing" votes="3" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="Adairsville" votes="1" />
+                <Precinct name="Allatoona" votes="1" />
+                <Precinct name="Cartersville East" votes="2" />
+                <Precinct name="Cartersville West" votes="10" />
+                <Precinct name="Cassville" votes="3" />
+                <Precinct name="Center" votes="1" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="7" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="1" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="4" />
+                <Precinct name="Hamilton Crossing" votes="4" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Adairsville" votes="17" />
+                <Precinct name="Allatoona" votes="10" />
+                <Precinct name="Cartersville East" votes="11" />
+                <Precinct name="Cartersville West" votes="23" />
+                <Precinct name="Cassville" votes="9" />
+                <Precinct name="Center" votes="3" />
+                <Precinct name="Emerson" votes="3" />
+                <Precinct name="Euharlee" votes="8" />
+                <Precinct name="Folsom" votes="2" />
+                <Precinct name="Kingston" votes="3" />
+                <Precinct name="Mission Road" votes="9" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="5" />
+                <Precinct name="White" votes="4" />
+                <Precinct name="Zena Drive" votes="13" />
+                <Precinct name="Hamilton Crossing" votes="9" />
+                <Precinct name="Woodland" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Janice Laws Robinson" party="DEM" totalVotes="414">
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Adairsville" votes="9" />
+                <Precinct name="Allatoona" votes="4" />
+                <Precinct name="Cartersville East" votes="10" />
+                <Precinct name="Cartersville West" votes="16" />
+                <Precinct name="Cassville" votes="5" />
+                <Precinct name="Center" votes="6" />
+                <Precinct name="Emerson" votes="4" />
+                <Precinct name="Euharlee" votes="7" />
+                <Precinct name="Folsom" votes="6" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="6" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="5" />
+                <Precinct name="Hamilton Crossing" votes="13" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Adairsville" votes="5" />
+                <Precinct name="Allatoona" votes="2" />
+                <Precinct name="Cartersville East" votes="12" />
+                <Precinct name="Cartersville West" votes="9" />
+                <Precinct name="Cassville" votes="11" />
+                <Precinct name="Center" votes="1" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="3" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="1" />
+                <Precinct name="White" votes="2" />
+                <Precinct name="Zena Drive" votes="14" />
+                <Precinct name="Hamilton Crossing" votes="6" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="249">
+                <Precinct name="Adairsville" votes="18" />
+                <Precinct name="Allatoona" votes="17" />
+                <Precinct name="Cartersville East" votes="25" />
+                <Precinct name="Cartersville West" votes="43" />
+                <Precinct name="Cassville" votes="10" />
+                <Precinct name="Center" votes="15" />
+                <Precinct name="Emerson" votes="7" />
+                <Precinct name="Euharlee" votes="39" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="10" />
+                <Precinct name="Mission Road" votes="15" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="5" />
+                <Precinct name="White" votes="3" />
+                <Precinct name="Zena Drive" votes="16" />
+                <Precinct name="Hamilton Crossing" votes="17" />
+                <Precinct name="Woodland" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="1" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="0" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="17" precinctsReported="17">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Adairsville" votes="5" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="2" />
+            <Precinct name="Cartersville West" votes="2" />
+            <Precinct name="Cassville" votes="2" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="1" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="1" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="1" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Adairsville" votes="0" />
+            <Precinct name="Allatoona" votes="0" />
+            <Precinct name="Cartersville East" votes="0" />
+            <Precinct name="Cartersville West" votes="0" />
+            <Precinct name="Cassville" votes="0" />
+            <Precinct name="Center" votes="0" />
+            <Precinct name="Emerson" votes="0" />
+            <Precinct name="Euharlee" votes="0" />
+            <Precinct name="Folsom" votes="0" />
+            <Precinct name="Kingston" votes="0" />
+            <Precinct name="Mission Road" votes="0" />
+            <Precinct name="Pine Log" votes="0" />
+            <Precinct name="Taylorsville" votes="0" />
+            <Precinct name="White" votes="0" />
+            <Precinct name="Zena Drive" votes="0" />
+            <Precinct name="Hamilton Crossing" votes="0" />
+            <Precinct name="Woodland" votes="0" />
+        </VoteType>
+        <Choice key="77" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="318">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Adairsville" votes="6" />
+                <Precinct name="Allatoona" votes="4" />
+                <Precinct name="Cartersville East" votes="1" />
+                <Precinct name="Cartersville West" votes="7" />
+                <Precinct name="Cassville" votes="3" />
+                <Precinct name="Center" votes="4" />
+                <Precinct name="Emerson" votes="2" />
+                <Precinct name="Euharlee" votes="1" />
+                <Precinct name="Folsom" votes="2" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="3" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="7" />
+                <Precinct name="Hamilton Crossing" votes="5" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="61">
+                <Precinct name="Adairsville" votes="6" />
+                <Precinct name="Allatoona" votes="1" />
+                <Precinct name="Cartersville East" votes="3" />
+                <Precinct name="Cartersville West" votes="12" />
+                <Precinct name="Cassville" votes="6" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="1" />
+                <Precinct name="Mission Road" votes="8" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="13" />
+                <Precinct name="Hamilton Crossing" votes="10" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="208">
+                <Precinct name="Adairsville" votes="19" />
+                <Precinct name="Allatoona" votes="13" />
+                <Precinct name="Cartersville East" votes="17" />
+                <Precinct name="Cartersville West" votes="34" />
+                <Precinct name="Cassville" votes="13" />
+                <Precinct name="Center" votes="10" />
+                <Precinct name="Emerson" votes="7" />
+                <Precinct name="Euharlee" votes="30" />
+                <Precinct name="Folsom" votes="2" />
+                <Precinct name="Kingston" votes="6" />
+                <Precinct name="Mission Road" votes="15" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="7" />
+                <Precinct name="White" votes="4" />
+                <Precinct name="Zena Drive" votes="14" />
+                <Precinct name="Hamilton Crossing" votes="11" />
+                <Precinct name="Woodland" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="1" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="1" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Nicole Horn" party="DEM" totalVotes="286">
+            <VoteType name="Absentee by Mail Votes" votes="70">
+                <Precinct name="Adairsville" votes="3" />
+                <Precinct name="Allatoona" votes="3" />
+                <Precinct name="Cartersville East" votes="12" />
+                <Precinct name="Cartersville West" votes="10" />
+                <Precinct name="Cassville" votes="6" />
+                <Precinct name="Center" votes="2" />
+                <Precinct name="Emerson" votes="5" />
+                <Precinct name="Euharlee" votes="6" />
+                <Precinct name="Folsom" votes="4" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="4" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="2" />
+                <Precinct name="Hamilton Crossing" votes="11" />
+                <Precinct name="Woodland" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="43">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="2" />
+                <Precinct name="Cartersville East" votes="10" />
+                <Precinct name="Cartersville West" votes="8" />
+                <Precinct name="Cassville" votes="7" />
+                <Precinct name="Center" votes="2" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="3" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="2" />
+                <Precinct name="White" votes="1" />
+                <Precinct name="Zena Drive" votes="5" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="173">
+                <Precinct name="Adairsville" votes="15" />
+                <Precinct name="Allatoona" votes="14" />
+                <Precinct name="Cartersville East" votes="19" />
+                <Precinct name="Cartersville West" votes="32" />
+                <Precinct name="Cassville" votes="5" />
+                <Precinct name="Center" votes="8" />
+                <Precinct name="Emerson" votes="3" />
+                <Precinct name="Euharlee" votes="18" />
+                <Precinct name="Folsom" votes="1" />
+                <Precinct name="Kingston" votes="7" />
+                <Precinct name="Mission Road" votes="9" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="3" />
+                <Precinct name="White" votes="3" />
+                <Precinct name="Zena Drive" votes="14" />
+                <Precinct name="Hamilton Crossing" votes="15" />
+                <Precinct name="Woodland" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Adairsville" votes="0" />
+                <Precinct name="Allatoona" votes="0" />
+                <Precinct name="Cartersville East" votes="0" />
+                <Precinct name="Cartersville West" votes="0" />
+                <Precinct name="Cassville" votes="0" />
+                <Precinct name="Center" votes="0" />
+                <Precinct name="Emerson" votes="0" />
+                <Precinct name="Euharlee" votes="0" />
+                <Precinct name="Folsom" votes="0" />
+                <Precinct name="Kingston" votes="0" />
+                <Precinct name="Mission Road" votes="0" />
+                <Precinct name="Pine Log" votes="0" />
+                <Precinct name="Taylorsville" votes="0" />
+                <Precinct name="White" votes="0" />
+                <Precinct name="Zena Drive" votes="0" />
+                <Precinct name="Hamilton Crossing" votes="0" />
+                <Precinct name="Woodland" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

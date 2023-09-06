@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 5:15:11 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Morgan</Region>
+    <VoterTurnout totalVoters="14937" ballotsCast="338" voterTurnout="2.26">
+        <Precincts>
+            <Precinct name="Rec Dept" totalVoters="2745" ballotsCast="142" voterTurnout="5.17" percentReporting="4" />
+            <Precinct name="Centennial" totalVoters="3002" ballotsCast="26" voterTurnout="0.87" percentReporting="4" />
+            <Precinct name="Gibbs" totalVoters="3099" ballotsCast="43" voterTurnout="1.39" percentReporting="4" />
+            <Precinct name="DFACS" totalVoters="2986" ballotsCast="67" voterTurnout="2.24" percentReporting="4" />
+            <Precinct name="Buckhead" totalVoters="3105" ballotsCast="60" voterTurnout="1.93" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="226">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Rec Dept" votes="13" />
+                <Precinct name="Centennial" votes="1" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="14" />
+                <Precinct name="Buckhead" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="105">
+                <Precinct name="Rec Dept" votes="45" />
+                <Precinct name="Centennial" votes="8" />
+                <Precinct name="Gibbs" votes="15" />
+                <Precinct name="DFACS" votes="20" />
+                <Precinct name="Buckhead" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Rec Dept" votes="29" />
+                <Precinct name="Centennial" votes="8" />
+                <Precinct name="Gibbs" votes="13" />
+                <Precinct name="DFACS" votes="17" />
+                <Precinct name="Buckhead" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="112">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Rec Dept" votes="11" />
+                <Precinct name="Centennial" votes="2" />
+                <Precinct name="Gibbs" votes="1" />
+                <Precinct name="DFACS" votes="1" />
+                <Precinct name="Buckhead" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="43">
+                <Precinct name="Rec Dept" votes="20" />
+                <Precinct name="Centennial" votes="4" />
+                <Precinct name="Gibbs" votes="4" />
+                <Precinct name="DFACS" votes="5" />
+                <Precinct name="Buckhead" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Rec Dept" votes="24" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="8" />
+                <Precinct name="DFACS" votes="10" />
+                <Precinct name="Buckhead" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="1" />
+            <Precinct name="DFACS" votes="1" />
+            <Precinct name="Buckhead" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="65">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Centennial" votes="2" />
+                <Precinct name="Gibbs" votes="1" />
+                <Precinct name="DFACS" votes="1" />
+                <Precinct name="Buckhead" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Rec Dept" votes="12" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="4" />
+                <Precinct name="Buckhead" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Rec Dept" votes="11" />
+                <Precinct name="Centennial" votes="2" />
+                <Precinct name="Gibbs" votes="5" />
+                <Precinct name="DFACS" votes="5" />
+                <Precinct name="Buckhead" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="270">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Rec Dept" votes="23" />
+                <Precinct name="Centennial" votes="1" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="14" />
+                <Precinct name="Buckhead" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="118">
+                <Precinct name="Rec Dept" votes="53" />
+                <Precinct name="Centennial" votes="9" />
+                <Precinct name="Gibbs" votes="16" />
+                <Precinct name="DFACS" votes="21" />
+                <Precinct name="Buckhead" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Rec Dept" votes="42" />
+                <Precinct name="Centennial" votes="9" />
+                <Precinct name="Gibbs" votes="16" />
+                <Precinct name="DFACS" votes="21" />
+                <Precinct name="Buckhead" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Rec Dept" votes="4" />
+            <Precinct name="Centennial" votes="2" />
+            <Precinct name="Gibbs" votes="1" />
+            <Precinct name="DFACS" votes="4" />
+            <Precinct name="Buckhead" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="124">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Rec Dept" votes="10" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="1" />
+                <Precinct name="DFACS" votes="5" />
+                <Precinct name="Buckhead" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="58">
+                <Precinct name="Rec Dept" votes="31" />
+                <Precinct name="Centennial" votes="5" />
+                <Precinct name="Gibbs" votes="8" />
+                <Precinct name="DFACS" votes="6" />
+                <Precinct name="Buckhead" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Rec Dept" votes="24" />
+                <Precinct name="Centennial" votes="6" />
+                <Precinct name="Gibbs" votes="5" />
+                <Precinct name="DFACS" votes="6" />
+                <Precinct name="Buckhead" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="201">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Rec Dept" votes="12" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="9" />
+                <Precinct name="Buckhead" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="86">
+                <Precinct name="Rec Dept" votes="34" />
+                <Precinct name="Centennial" votes="7" />
+                <Precinct name="Gibbs" votes="10" />
+                <Precinct name="DFACS" votes="18" />
+                <Precinct name="Buckhead" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Rec Dept" votes="27" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="16" />
+                <Precinct name="DFACS" votes="19" />
+                <Precinct name="Buckhead" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Rec Dept" votes="6" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="213">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Rec Dept" votes="16" />
+                <Precinct name="Centennial" votes="2" />
+                <Precinct name="Gibbs" votes="1" />
+                <Precinct name="DFACS" votes="8" />
+                <Precinct name="Buckhead" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="96">
+                <Precinct name="Rec Dept" votes="47" />
+                <Precinct name="Centennial" votes="5" />
+                <Precinct name="Gibbs" votes="11" />
+                <Precinct name="DFACS" votes="17" />
+                <Precinct name="Buckhead" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Rec Dept" votes="37" />
+                <Precinct name="Centennial" votes="4" />
+                <Precinct name="Gibbs" votes="17" />
+                <Precinct name="DFACS" votes="12" />
+                <Precinct name="Buckhead" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="118">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Rec Dept" votes="6" />
+                <Precinct name="Centennial" votes="1" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="7" />
+                <Precinct name="Buckhead" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Rec Dept" votes="18" />
+                <Precinct name="Centennial" votes="7" />
+                <Precinct name="Gibbs" votes="8" />
+                <Precinct name="DFACS" votes="8" />
+                <Precinct name="Buckhead" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Rec Dept" votes="12" />
+                <Precinct name="Centennial" votes="7" />
+                <Precinct name="Gibbs" votes="4" />
+                <Precinct name="DFACS" votes="15" />
+                <Precinct name="Buckhead" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="1" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="1181">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Rec Dept" votes="8" />
+                <Precinct name="Centennial" votes="7" />
+                <Precinct name="Gibbs" votes="18" />
+                <Precinct name="DFACS" votes="13" />
+                <Precinct name="Buckhead" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="444">
+                <Precinct name="Rec Dept" votes="78" />
+                <Precinct name="Centennial" votes="59" />
+                <Precinct name="Gibbs" votes="79" />
+                <Precinct name="DFACS" votes="156" />
+                <Precinct name="Buckhead" votes="72" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="674">
+                <Precinct name="Rec Dept" votes="58" />
+                <Precinct name="Centennial" votes="150" />
+                <Precinct name="Gibbs" votes="157" />
+                <Precinct name="DFACS" votes="149" />
+                <Precinct name="Buckhead" votes="160" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="469">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="5" />
+                <Precinct name="DFACS" votes="1" />
+                <Precinct name="Buckhead" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="123">
+                <Precinct name="Rec Dept" votes="15" />
+                <Precinct name="Centennial" votes="22" />
+                <Precinct name="Gibbs" votes="22" />
+                <Precinct name="DFACS" votes="38" />
+                <Precinct name="Buckhead" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="337">
+                <Precinct name="Rec Dept" votes="20" />
+                <Precinct name="Centennial" votes="88" />
+                <Precinct name="Gibbs" votes="78" />
+                <Precinct name="DFACS" votes="59" />
+                <Precinct name="Buckhead" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Rec Dept" votes="3" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="1" />
+            <Precinct name="DFACS" votes="3" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="86">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Rec Dept" votes="4" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="3" />
+                <Precinct name="DFACS" votes="6" />
+                <Precinct name="Buckhead" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Rec Dept" votes="18" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="5" />
+                <Precinct name="DFACS" votes="9" />
+                <Precinct name="Buckhead" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Rec Dept" votes="10" />
+                <Precinct name="Centennial" votes="2" />
+                <Precinct name="Gibbs" votes="2" />
+                <Precinct name="DFACS" votes="6" />
+                <Precinct name="Buckhead" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="245">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Rec Dept" votes="18" />
+                <Precinct name="Centennial" votes="3" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="8" />
+                <Precinct name="Buckhead" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="107">
+                <Precinct name="Rec Dept" votes="47" />
+                <Precinct name="Centennial" votes="9" />
+                <Precinct name="Gibbs" votes="13" />
+                <Precinct name="DFACS" votes="16" />
+                <Precinct name="Buckhead" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Rec Dept" votes="42" />
+                <Precinct name="Centennial" votes="9" />
+                <Precinct name="Gibbs" votes="19" />
+                <Precinct name="DFACS" votes="19" />
+                <Precinct name="Buckhead" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

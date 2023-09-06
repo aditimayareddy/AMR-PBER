@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 4:55:58 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Coffee</Region>
+    <VoterTurnout totalVoters="23409" ballotsCast="266" voterTurnout="1.14">
+        <Precincts>
+            <Precinct name="Douglas" totalVoters="15783" ballotsCast="186" voterTurnout="1.18" percentReporting="4" />
+            <Precinct name="Ambrose" totalVoters="1968" ballotsCast="17" voterTurnout="0.86" percentReporting="4" />
+            <Precinct name="Bridgetown" totalVoters="321" ballotsCast="16" voterTurnout="4.98" percentReporting="4" />
+            <Precinct name="Broxton" totalVoters="2315" ballotsCast="30" voterTurnout="1.30" percentReporting="4" />
+            <Precinct name="Nicholls" totalVoters="2088" ballotsCast="17" voterTurnout="0.81" percentReporting="4" />
+            <Precinct name="West Green" totalVoters="934" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Douglas" votes="1" />
+            <Precinct name="Ambrose" votes="1" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="1" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="0" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="170">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Douglas" votes="4" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="2" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Douglas" votes="27" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="4" />
+                <Precinct name="Nicholls" votes="1" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="Douglas" votes="91" />
+                <Precinct name="Ambrose" votes="7" />
+                <Precinct name="Bridgetown" votes="10" />
+                <Precinct name="Broxton" votes="17" />
+                <Precinct name="Nicholls" votes="6" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="1" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Douglas" votes="6" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Douglas" votes="30" />
+                <Precinct name="Ambrose" votes="4" />
+                <Precinct name="Bridgetown" votes="1" />
+                <Precinct name="Broxton" votes="3" />
+                <Precinct name="Nicholls" votes="2" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Douglas" votes="27" />
+                <Precinct name="Ambrose" votes="4" />
+                <Precinct name="Bridgetown" votes="5" />
+                <Precinct name="Broxton" votes="5" />
+                <Precinct name="Nicholls" votes="5" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Douglas" votes="4" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="2" />
+            <Precinct name="Broxton" votes="3" />
+            <Precinct name="Nicholls" votes="1" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="0" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Douglas" votes="3" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="2" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Douglas" votes="17" />
+                <Precinct name="Ambrose" votes="4" />
+                <Precinct name="Bridgetown" votes="1" />
+                <Precinct name="Broxton" votes="3" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Douglas" votes="40" />
+                <Precinct name="Ambrose" votes="3" />
+                <Precinct name="Bridgetown" votes="7" />
+                <Precinct name="Broxton" votes="8" />
+                <Precinct name="Nicholls" votes="4" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="163">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Douglas" votes="7" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="Douglas" votes="38" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="4" />
+                <Precinct name="Nicholls" votes="3" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Douglas" votes="77" />
+                <Precinct name="Ambrose" votes="8" />
+                <Precinct name="Bridgetown" votes="6" />
+                <Precinct name="Broxton" votes="12" />
+                <Precinct name="Nicholls" votes="6" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="1" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Douglas" votes="12" />
+            <Precinct name="Ambrose" votes="1" />
+            <Precinct name="Bridgetown" votes="1" />
+            <Precinct name="Broxton" votes="3" />
+            <Precinct name="Nicholls" votes="1" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="0" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="89">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Douglas" votes="2" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="2" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Douglas" votes="17" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="4" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Douglas" votes="36" />
+                <Precinct name="Ambrose" votes="4" />
+                <Precinct name="Bridgetown" votes="11" />
+                <Precinct name="Broxton" votes="8" />
+                <Precinct name="Nicholls" votes="5" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="159">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Douglas" votes="7" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Douglas" votes="38" />
+                <Precinct name="Ambrose" votes="4" />
+                <Precinct name="Bridgetown" votes="1" />
+                <Precinct name="Broxton" votes="3" />
+                <Precinct name="Nicholls" votes="3" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Douglas" votes="74" />
+                <Precinct name="Ambrose" votes="7" />
+                <Precinct name="Bridgetown" votes="3" />
+                <Precinct name="Broxton" votes="12" />
+                <Precinct name="Nicholls" votes="6" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Douglas" votes="4" />
+            <Precinct name="Ambrose" votes="1" />
+            <Precinct name="Bridgetown" votes="2" />
+            <Precinct name="Broxton" votes="3" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="0" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="181">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Douglas" votes="8" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="54">
+                <Precinct name="Douglas" votes="45" />
+                <Precinct name="Ambrose" votes="3" />
+                <Precinct name="Bridgetown" votes="1" />
+                <Precinct name="Broxton" votes="5" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Douglas" votes="80" />
+                <Precinct name="Ambrose" votes="8" />
+                <Precinct name="Bridgetown" votes="10" />
+                <Precinct name="Broxton" votes="11" />
+                <Precinct name="Nicholls" votes="8" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="1" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="75">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Douglas" votes="2" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="2" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Douglas" votes="10" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="2" />
+                <Precinct name="Nicholls" votes="3" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Douglas" votes="37" />
+                <Precinct name="Ambrose" votes="3" />
+                <Precinct name="Bridgetown" votes="3" />
+                <Precinct name="Broxton" votes="9" />
+                <Precinct name="Nicholls" votes="3" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="0" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

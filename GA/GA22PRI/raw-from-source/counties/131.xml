@@ -1,0 +1,3091 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>5/27/2022 3:29:41 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Taliaferro</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="220" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Sharon" totalVoters="0" ballotsCast="56" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Crawfordville" totalVoters="0" ballotsCast="164" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Sharon" votes="1" />
+            <Precinct name="Crawfordville" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="7">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="130">
+            <VoteType name="Election Day Votes" votes="84">
+                <Precinct name="Sharon" votes="26" />
+                <Precinct name="Crawfordville" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="39" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="254">
+            <VoteType name="Election Day Votes" votes="110">
+                <Precinct name="Sharon" votes="25" />
+                <Precinct name="Crawfordville" votes="85" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="87" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="1">
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="143">
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Sharon" votes="12" />
+                <Precinct name="Crawfordville" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="0">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="279">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Sharon" votes="31" />
+                <Precinct name="Crawfordville" votes="97" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="96" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Sharon" votes="6" />
+            <Precinct name="Crawfordville" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="140">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Sharon" votes="22" />
+                <Precinct name="Crawfordville" votes="65" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="51">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="75">
+            <Precinct name="Sharon" votes="11" />
+            <Precinct name="Crawfordville" votes="64" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="87">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Sharon" votes="3" />
+            <Precinct name="Crawfordville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="155">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="68" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="50" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Sharon" votes="14" />
+                <Precinct name="Crawfordville" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Sharon" votes="12" />
+            <Precinct name="Crawfordville" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="12">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Sharon" votes="11" />
+            <Precinct name="Crawfordville" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="144">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Sharon" votes="29" />
+                <Precinct name="Crawfordville" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="88">
+            <Precinct name="Sharon" votes="13" />
+            <Precinct name="Crawfordville" votes="75" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="156">
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Sharon" votes="18" />
+                <Precinct name="Crawfordville" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="54">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Sharon" votes="17" />
+            <Precinct name="Crawfordville" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="168">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Sharon" votes="29" />
+                <Precinct name="Crawfordville" votes="73" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Sharon" votes="11" />
+            <Precinct name="Crawfordville" votes="76" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="71">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="25">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Sharon" votes="9" />
+            <Precinct name="Crawfordville" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="130">
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="49">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="98">
+            <Precinct name="Sharon" votes="13" />
+            <Precinct name="Crawfordville" votes="85" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="92">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="90">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Sharon" votes="9" />
+            <Precinct name="Crawfordville" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="136">
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Sharon" votes="15" />
+            <Precinct name="Crawfordville" votes="82" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="45">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Sharon" votes="16" />
+            <Precinct name="Crawfordville" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="48">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Sharon" votes="20" />
+                <Precinct name="Crawfordville" votes="50" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="85">
+            <Precinct name="Sharon" votes="13" />
+            <Precinct name="Crawfordville" votes="72" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="67">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="21">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="40">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Sharon" votes="17" />
+            <Precinct name="Crawfordville" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="167">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Sharon" votes="30" />
+                <Precinct name="Crawfordville" votes="70" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="65">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="109">
+            <Precinct name="Sharon" votes="13" />
+            <Precinct name="Crawfordville" votes="96" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="102">
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Sharon" votes="12" />
+                <Precinct name="Crawfordville" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="87">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="35" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Sharon" votes="17" />
+            <Precinct name="Crawfordville" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="158">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Sharon" votes="30" />
+                <Precinct name="Crawfordville" votes="65" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="95">
+            <Precinct name="Sharon" votes="11" />
+            <Precinct name="Crawfordville" votes="84" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="134">
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Sharon" votes="16" />
+                <Precinct name="Crawfordville" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Timothy Barr" party="REP" totalVotes="33">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Paul Broun" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="17">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="David Curry" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon J. Jones" party="REP" totalVotes="58">
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Sharon" votes="13" />
+                <Precinct name="Crawfordville" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="Marc McMain" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Alan Sims" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Mitchell Swan" party="REP" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="85">
+            <Precinct name="Sharon" votes="13" />
+            <Precinct name="Crawfordville" votes="72" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson- Green" party="DEM" totalVotes="80">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Phyllis Hatcher" party="DEM" totalVotes="91">
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="39">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="37" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Femi Oduwole" party="DEM" totalVotes="8">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Paul Walton" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 23 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Sharon" votes="15" />
+            <Precinct name="Crawfordville" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Max Burns(I)" party="REP" totalVotes="171">
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="Sharon" votes="33" />
+                <Precinct name="Crawfordville" votes="72" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State House of Representatives - District 124 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Sharon" votes="12" />
+            <Precinct name="Crawfordville" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Trey Rhodes (I)" party="REP" totalVotes="184">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Sharon" votes="35" />
+                <Precinct name="Crawfordville" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="71">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="62" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 124 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="Sharon" votes="17" />
+            <Precinct name="Crawfordville" votes="96" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Kat Howkins" party="DEM" totalVotes="185">
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="Sharon" votes="17" />
+                <Precinct name="Crawfordville" votes="64" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="68">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="County Comm At Large - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Sharon" votes="7" />
+            <Precinct name="Crawfordville" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Bob Peters" party="REP" totalVotes="186">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Sharon" votes="39" />
+                <Precinct name="Crawfordville" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="County Comm At Large - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="56">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Shawanco &quot;&quot;CoCo&quot;&quot; Alexander" party="DEM" totalVotes="242">
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Sharon" votes="29" />
+                <Precinct name="Crawfordville" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Comm Post 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Sharon" votes="9" />
+            <Precinct name="Crawfordville" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Leslie Martin" party="REP" totalVotes="177">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Sharon" votes="37" />
+                <Precinct name="Crawfordville" votes="72" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="66">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="56" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="County Comm Post 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="70">
+            <Precinct name="Sharon" votes="14" />
+            <Precinct name="Crawfordville" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Crysta V. Moore" party="DEM" totalVotes="228">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Sharon" votes="20" />
+                <Precinct name="Crawfordville" votes="80" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="80" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="County Comm Post 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="Sharon" votes="14" />
+            <Precinct name="Crawfordville" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="92" text="David Cochran" party="REP" totalVotes="159">
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Sharon" votes="32" />
+                <Precinct name="Crawfordville" votes="65" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="61">
+                <Precinct name="Sharon" votes="10" />
+                <Precinct name="Crawfordville" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="County Comm Post 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Sharon" votes="7" />
+            <Precinct name="Crawfordville" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Catherine Dorsey (I)" party="DEM" totalVotes="247">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Sharon" votes="25" />
+                <Precinct name="Crawfordville" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Rep Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" party="REP" totalVotes="201">
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Sharon" votes="40" />
+                <Precinct name="Crawfordville" votes="83" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" party="REP" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Rep Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" party="REP" totalVotes="183">
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="Sharon" votes="34" />
+                <Precinct name="Crawfordville" votes="71" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="75">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="64" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" party="REP" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Rep Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Sharon" votes="1" />
+            <Precinct name="Crawfordville" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" party="REP" totalVotes="170">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Sharon" votes="33" />
+                <Precinct name="Crawfordville" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="67">
+                <Precinct name="Sharon" votes="12" />
+                <Precinct name="Crawfordville" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" party="REP" totalVotes="38">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Rep Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Sharon" votes="5" />
+            <Precinct name="Crawfordville" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="100" text="Yes" party="REP" totalVotes="161">
+            <VoteType name="Election Day Votes" votes="101">
+                <Precinct name="Sharon" votes="31" />
+                <Precinct name="Crawfordville" votes="70" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Sharon" votes="12" />
+                <Precinct name="Crawfordville" votes="45" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="101" text="No" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Rep Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Sharon" votes="1" />
+            <Precinct name="Crawfordville" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Yes" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="No" party="REP" totalVotes="206">
+            <VoteType name="Election Day Votes" votes="127">
+                <Precinct name="Sharon" votes="40" />
+                <Precinct name="Crawfordville" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="76">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Rep Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" party="REP" totalVotes="207">
+            <VoteType name="Election Day Votes" votes="126">
+                <Precinct name="Sharon" votes="40" />
+                <Precinct name="Crawfordville" votes="86" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="78">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="67" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" party="REP" totalVotes="5">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Rep Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Yes" party="REP" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Sharon" votes="37" />
+                <Precinct name="Crawfordville" votes="78" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="72">
+                <Precinct name="Sharon" votes="12" />
+                <Precinct name="Crawfordville" votes="60" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="No" party="REP" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Rep Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Yes" party="REP" totalVotes="168">
+            <VoteType name="Election Day Votes" votes="99">
+                <Precinct name="Sharon" votes="32" />
+                <Precinct name="Crawfordville" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="68">
+                <Precinct name="Sharon" votes="11" />
+                <Precinct name="Crawfordville" votes="57" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="No" party="REP" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Dem Party Question 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Yes" party="DEM" totalVotes="223">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="75" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="84">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="79" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="111" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Dem Party Question 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="112" text="Yes" party="DEM" totalVotes="228">
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Sharon" votes="26" />
+                <Precinct name="Crawfordville" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="74" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="113" text="No" party="DEM" totalVotes="29">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Dem Party Question 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="Sharon" votes="3" />
+            <Precinct name="Crawfordville" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="114" text="Yes" party="DEM" totalVotes="248">
+            <VoteType name="Election Day Votes" votes="112">
+                <Precinct name="Sharon" votes="28" />
+                <Precinct name="Crawfordville" votes="84" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="94">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="87" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="115" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="3">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Dem Party Question 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Sharon" votes="5" />
+            <Precinct name="Crawfordville" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="116" text="Yes" party="DEM" totalVotes="194">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Sharon" votes="25" />
+                <Precinct name="Crawfordville" votes="68" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="73">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="117" text="No" party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Dem Party Question 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="118" text="Yes" party="DEM" totalVotes="222">
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="81">
+                <Precinct name="Sharon" votes="6" />
+                <Precinct name="Crawfordville" votes="75" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="119" text="No" party="DEM" totalVotes="31">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Dem Party Question 6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Yes" party="DEM" totalVotes="242">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Sharon" votes="27" />
+                <Precinct name="Crawfordville" votes="82" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="121" text="No" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Dem Party Question 7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Sharon" votes="4" />
+            <Precinct name="Crawfordville" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="122" text="Yes" party="DEM" totalVotes="212">
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Sharon" votes="24" />
+                <Precinct name="Crawfordville" votes="68" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="80">
+                <Precinct name="Sharon" votes="8" />
+                <Precinct name="Crawfordville" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Dem Party Question 8" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Sharon" votes="3" />
+            <Precinct name="Crawfordville" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="124" text="Yes" party="DEM" totalVotes="206">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Sharon" votes="23" />
+                <Precinct name="Crawfordville" votes="72" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="77">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="68" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="125" text="No" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Sharon" votes="7" />
+                <Precinct name="Crawfordville" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Dem Party Question 9" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Sharon" votes="7" />
+            <Precinct name="Crawfordville" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Yes" party="DEM" totalVotes="227">
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Sharon" votes="26" />
+                <Precinct name="Crawfordville" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="86">
+                <Precinct name="Sharon" votes="9" />
+                <Precinct name="Crawfordville" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="127" text="No" party="DEM" totalVotes="11">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="165">
+            <Precinct name="Sharon" votes="23" />
+            <Precinct name="Crawfordville" votes="142" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Veronica Brinson" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Sharon" votes="17" />
+                <Precinct name="Crawfordville" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="44" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="129" text="Verda M. Colvin (I)" totalVotes="240">
+            <VoteType name="Election Day Votes" votes="135">
+                <Precinct name="Sharon" votes="44" />
+                <Precinct name="Crawfordville" votes="91" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="87">
+                <Precinct name="Sharon" votes="15" />
+                <Precinct name="Crawfordville" votes="72" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="177">
+            <Precinct name="Sharon" votes="30" />
+            <Precinct name="Crawfordville" votes="147" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Shawn Ellen LaGrua (I)" totalVotes="345">
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Sharon" votes="55" />
+                <Precinct name="Crawfordville" votes="126" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="132">
+                <Precinct name="Sharon" votes="18" />
+                <Precinct name="Crawfordville" votes="114" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="178">
+            <Precinct name="Sharon" votes="31" />
+            <Precinct name="Crawfordville" votes="147" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="131" text="Carla McMillian (I)" totalVotes="342">
+            <VoteType name="Election Day Votes" votes="182">
+                <Precinct name="Sharon" votes="54" />
+                <Precinct name="Crawfordville" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="Sharon" votes="16" />
+                <Precinct name="Crawfordville" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="177">
+            <Precinct name="Sharon" votes="31" />
+            <Precinct name="Crawfordville" votes="146" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="132" text="Anne Elizabeth Barnes (I)" totalVotes="343">
+            <VoteType name="Election Day Votes" votes="180">
+                <Precinct name="Sharon" votes="54" />
+                <Precinct name="Crawfordville" votes="126" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="129">
+                <Precinct name="Sharon" votes="16" />
+                <Precinct name="Crawfordville" votes="113" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Sharon" votes="2" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="178">
+            <Precinct name="Sharon" votes="32" />
+            <Precinct name="Crawfordville" votes="146" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="133" text="Chris McFadden (I)" totalVotes="343">
+            <VoteType name="Election Day Votes" votes="183">
+                <Precinct name="Sharon" votes="55" />
+                <Precinct name="Crawfordville" votes="128" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="127">
+                <Precinct name="Sharon" votes="16" />
+                <Precinct name="Crawfordville" votes="111" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="180">
+            <Precinct name="Sharon" votes="30" />
+            <Precinct name="Crawfordville" votes="150" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="134" text="Trea Pipkin (I)" totalVotes="341">
+            <VoteType name="Election Day Votes" votes="180">
+                <Precinct name="Sharon" votes="55" />
+                <Precinct name="Crawfordville" votes="125" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="126">
+                <Precinct name="Sharon" votes="16" />
+                <Precinct name="Crawfordville" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="County BOE Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Crawfordville" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Ruby D. Randolph (I)" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Crawfordville" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Crawfordville" votes="47" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Crawfordville" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="County BOE Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Sharon" votes="2" />
+            <Precinct name="Crawfordville" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sharon" votes="0" />
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="136" text="Ruth B. Adams (I)" totalVotes="61">
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Sharon" votes="3" />
+                <Precinct name="Crawfordville" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Sharon" votes="4" />
+                <Precinct name="Crawfordville" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Sharon" votes="1" />
+                <Precinct name="Crawfordville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="137" text="Avanell H. Peters" totalVotes="42">
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Sharon" votes="15" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Sharon" votes="5" />
+                <Precinct name="Crawfordville" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sharon" votes="0" />
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Mayor - City of Crawfordville" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Crawfordville" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Crawfordville" votes="0" />
+        </VoteType>
+        <Choice key="138" text="Derrick Harris" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Crawfordville" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Crawfordville" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="139" text="Vivian 'Pat' Stewart" totalVotes="148">
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Crawfordville" votes="74" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Crawfordville" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Crawfordville" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Crawfordville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 11:12:03 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Jefferson</Region>
+    <VoterTurnout totalVoters="10932" ballotsCast="578" voterTurnout="5.29">
+        <Precincts>
+            <Precinct name="Stapleton Crossroads" totalVoters="468" ballotsCast="26" voterTurnout="5.56" percentReporting="4" />
+            <Precinct name="Matthews" totalVoters="622" ballotsCast="19" voterTurnout="3.05" percentReporting="4" />
+            <Precinct name="Wrens" totalVoters="2753" ballotsCast="171" voterTurnout="6.21" percentReporting="4" />
+            <Precinct name="Louisville" totalVoters="3737" ballotsCast="229" voterTurnout="6.13" percentReporting="4" />
+            <Precinct name="Wadley" totalVoters="1802" ballotsCast="96" voterTurnout="5.33" percentReporting="4" />
+            <Precinct name="Bartow" totalVoters="504" ballotsCast="15" voterTurnout="2.98" percentReporting="4" />
+            <Precinct name="Stapleton" totalVoters="664" ballotsCast="17" voterTurnout="2.56" percentReporting="4" />
+            <Precinct name="Avera" totalVoters="382" ballotsCast="5" voterTurnout="1.31" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="0" />
+            <Precinct name="Louisville" votes="4" />
+            <Precinct name="Wadley" votes="1" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="0" />
+            <Precinct name="Louisville" votes="0" />
+            <Precinct name="Wadley" votes="0" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="440">
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="Stapleton Crossroads" votes="2" />
+                <Precinct name="Matthews" votes="3" />
+                <Precinct name="Wrens" votes="22" />
+                <Precinct name="Louisville" votes="26" />
+                <Precinct name="Wadley" votes="9" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="122">
+                <Precinct name="Stapleton Crossroads" votes="7" />
+                <Precinct name="Matthews" votes="2" />
+                <Precinct name="Wrens" votes="23" />
+                <Precinct name="Louisville" votes="66" />
+                <Precinct name="Wadley" votes="13" />
+                <Precinct name="Bartow" votes="7" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="251">
+                <Precinct name="Stapleton Crossroads" votes="9" />
+                <Precinct name="Matthews" votes="6" />
+                <Precinct name="Wrens" votes="97" />
+                <Precinct name="Louisville" votes="76" />
+                <Precinct name="Wadley" votes="48" />
+                <Precinct name="Bartow" votes="5" />
+                <Precinct name="Stapleton" votes="8" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="133">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Stapleton Crossroads" votes="4" />
+                <Precinct name="Matthews" votes="3" />
+                <Precinct name="Wrens" votes="6" />
+                <Precinct name="Louisville" votes="20" />
+                <Precinct name="Wadley" votes="7" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="35">
+                <Precinct name="Stapleton Crossroads" votes="2" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="4" />
+                <Precinct name="Louisville" votes="21" />
+                <Precinct name="Wadley" votes="6" />
+                <Precinct name="Bartow" votes="2" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Stapleton Crossroads" votes="2" />
+                <Precinct name="Matthews" votes="5" />
+                <Precinct name="Wrens" votes="19" />
+                <Precinct name="Louisville" votes="16" />
+                <Precinct name="Wadley" votes="12" />
+                <Precinct name="Bartow" votes="1" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="4" />
+            <Precinct name="Louisville" votes="6" />
+            <Precinct name="Wadley" votes="5" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="0" />
+            <Precinct name="Louisville" votes="0" />
+            <Precinct name="Wadley" votes="0" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="230">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Stapleton Crossroads" votes="3" />
+                <Precinct name="Matthews" votes="2" />
+                <Precinct name="Wrens" votes="10" />
+                <Precinct name="Louisville" votes="16" />
+                <Precinct name="Wadley" votes="10" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="1" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Stapleton Crossroads" votes="4" />
+                <Precinct name="Matthews" votes="2" />
+                <Precinct name="Wrens" votes="10" />
+                <Precinct name="Louisville" votes="23" />
+                <Precinct name="Wadley" votes="5" />
+                <Precinct name="Bartow" votes="6" />
+                <Precinct name="Stapleton" votes="1" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="135">
+                <Precinct name="Stapleton Crossroads" votes="4" />
+                <Precinct name="Matthews" votes="6" />
+                <Precinct name="Wrens" votes="46" />
+                <Precinct name="Louisville" votes="37" />
+                <Precinct name="Wadley" votes="32" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="8" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="333">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Stapleton Crossroads" votes="3" />
+                <Precinct name="Matthews" votes="4" />
+                <Precinct name="Wrens" votes="18" />
+                <Precinct name="Louisville" votes="30" />
+                <Precinct name="Wadley" votes="5" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="2" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="104">
+                <Precinct name="Stapleton Crossroads" votes="5" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="17" />
+                <Precinct name="Louisville" votes="63" />
+                <Precinct name="Wadley" votes="13" />
+                <Precinct name="Bartow" votes="3" />
+                <Precinct name="Stapleton" votes="2" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="167">
+                <Precinct name="Stapleton Crossroads" votes="7" />
+                <Precinct name="Matthews" votes="5" />
+                <Precinct name="Wrens" votes="66" />
+                <Precinct name="Louisville" votes="54" />
+                <Precinct name="Wadley" votes="26" />
+                <Precinct name="Bartow" votes="6" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="2" />
+            <Precinct name="Louisville" votes="9" />
+            <Precinct name="Wadley" votes="7" />
+            <Precinct name="Bartow" votes="2" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="0" />
+            <Precinct name="Louisville" votes="0" />
+            <Precinct name="Wadley" votes="0" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="167">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Stapleton Crossroads" votes="3" />
+                <Precinct name="Matthews" votes="1" />
+                <Precinct name="Wrens" votes="8" />
+                <Precinct name="Louisville" votes="12" />
+                <Precinct name="Wadley" votes="3" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="1" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Stapleton Crossroads" votes="1" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="11" />
+                <Precinct name="Louisville" votes="21" />
+                <Precinct name="Wadley" votes="3" />
+                <Precinct name="Bartow" votes="3" />
+                <Precinct name="Stapleton" votes="1" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Stapleton Crossroads" votes="2" />
+                <Precinct name="Matthews" votes="2" />
+                <Precinct name="Wrens" votes="30" />
+                <Precinct name="Louisville" votes="32" />
+                <Precinct name="Wadley" votes="23" />
+                <Precinct name="Bartow" votes="1" />
+                <Precinct name="Stapleton" votes="6" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="391">
+            <VoteType name="Absentee by Mail Votes" votes="76">
+                <Precinct name="Stapleton Crossroads" votes="3" />
+                <Precinct name="Matthews" votes="5" />
+                <Precinct name="Wrens" votes="20" />
+                <Precinct name="Louisville" votes="34" />
+                <Precinct name="Wadley" votes="12" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="2" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="114">
+                <Precinct name="Stapleton Crossroads" votes="8" />
+                <Precinct name="Matthews" votes="2" />
+                <Precinct name="Wrens" votes="16" />
+                <Precinct name="Louisville" votes="65" />
+                <Precinct name="Wadley" votes="14" />
+                <Precinct name="Bartow" votes="6" />
+                <Precinct name="Stapleton" votes="2" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="201">
+                <Precinct name="Stapleton Crossroads" votes="9" />
+                <Precinct name="Matthews" votes="9" />
+                <Precinct name="Wrens" votes="84" />
+                <Precinct name="Louisville" votes="56" />
+                <Precinct name="Wadley" votes="34" />
+                <Precinct name="Bartow" votes="3" />
+                <Precinct name="Stapleton" votes="5" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="2" />
+            <Precinct name="Louisville" votes="9" />
+            <Precinct name="Wadley" votes="4" />
+            <Precinct name="Bartow" votes="3" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Stapleton Crossroads" votes="0" />
+            <Precinct name="Matthews" votes="0" />
+            <Precinct name="Wrens" votes="0" />
+            <Precinct name="Louisville" votes="0" />
+            <Precinct name="Wadley" votes="0" />
+            <Precinct name="Bartow" votes="0" />
+            <Precinct name="Stapleton" votes="0" />
+            <Precinct name="Avera" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="401">
+            <VoteType name="Absentee by Mail Votes" votes="70">
+                <Precinct name="Stapleton Crossroads" votes="6" />
+                <Precinct name="Matthews" votes="5" />
+                <Precinct name="Wrens" votes="18" />
+                <Precinct name="Louisville" votes="29" />
+                <Precinct name="Wadley" votes="7" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="111">
+                <Precinct name="Stapleton Crossroads" votes="8" />
+                <Precinct name="Matthews" votes="1" />
+                <Precinct name="Wrens" votes="17" />
+                <Precinct name="Louisville" votes="60" />
+                <Precinct name="Wadley" votes="17" />
+                <Precinct name="Bartow" votes="4" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="220">
+                <Precinct name="Stapleton Crossroads" votes="7" />
+                <Precinct name="Matthews" votes="4" />
+                <Precinct name="Wrens" votes="88" />
+                <Precinct name="Louisville" votes="69" />
+                <Precinct name="Wadley" votes="41" />
+                <Precinct name="Bartow" votes="3" />
+                <Precinct name="Stapleton" votes="8" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="159">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="1" />
+                <Precinct name="Wrens" votes="10" />
+                <Precinct name="Louisville" votes="17" />
+                <Precinct name="Wadley" votes="7" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Stapleton Crossroads" votes="1" />
+                <Precinct name="Matthews" votes="1" />
+                <Precinct name="Wrens" votes="9" />
+                <Precinct name="Louisville" votes="25" />
+                <Precinct name="Wadley" votes="2" />
+                <Precinct name="Bartow" votes="4" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Stapleton Crossroads" votes="4" />
+                <Precinct name="Matthews" votes="7" />
+                <Precinct name="Wrens" votes="27" />
+                <Precinct name="Louisville" votes="20" />
+                <Precinct name="Wadley" votes="18" />
+                <Precinct name="Bartow" votes="1" />
+                <Precinct name="Stapleton" votes="3" />
+                <Precinct name="Avera" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Stapleton Crossroads" votes="0" />
+                <Precinct name="Matthews" votes="0" />
+                <Precinct name="Wrens" votes="0" />
+                <Precinct name="Louisville" votes="0" />
+                <Precinct name="Wadley" votes="0" />
+                <Precinct name="Bartow" votes="0" />
+                <Precinct name="Stapleton" votes="0" />
+                <Precinct name="Avera" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

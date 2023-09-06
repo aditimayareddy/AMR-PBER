@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 12:44:45 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Baker</Region>
+    <VoterTurnout totalVoters="2113" ballotsCast="130" voterTurnout="6.15">
+        <Precincts>
+            <Precinct name="Anna" totalVoters="478" ballotsCast="47" voterTurnout="9.83" percentReporting="4" />
+            <Precinct name="Elmodel" totalVoters="343" ballotsCast="14" voterTurnout="4.08" percentReporting="4" />
+            <Precinct name="Hoggards Mill" totalVoters="463" ballotsCast="41" voterTurnout="8.86" percentReporting="4" />
+            <Precinct name="Milford" totalVoters="406" ballotsCast="10" voterTurnout="2.46" percentReporting="4" />
+            <Precinct name="Newton" totalVoters="423" ballotsCast="18" voterTurnout="4.26" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Anna" votes="1" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="3" />
+            <Precinct name="Milford" votes="2" />
+            <Precinct name="Newton" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <Choice key="63" text="Charlie Bailey" party="DEM" totalVotes="71">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Anna" votes="1" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Anna" votes="25" />
+                <Precinct name="Elmodel" votes="6" />
+                <Precinct name="Hoggards Mill" votes="11" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Anna" votes="6" />
+                <Precinct name="Elmodel" votes="2" />
+                <Precinct name="Hoggards Mill" votes="8" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Kwanza Hall" party="DEM" totalVotes="52">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Anna" votes="2" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Anna" votes="6" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="7" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Anna" votes="6" />
+                <Precinct name="Elmodel" votes="3" />
+                <Precinct name="Hoggards Mill" votes="8" />
+                <Precinct name="Milford" votes="3" />
+                <Precinct name="Newton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Anna" votes="1" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="3" />
+            <Precinct name="Milford" votes="2" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Dee Dawkins-Haigler" party="DEM" totalVotes="61">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Anna" votes="2" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Anna" votes="8" />
+                <Precinct name="Elmodel" votes="4" />
+                <Precinct name="Hoggards Mill" votes="5" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Anna" votes="10" />
+                <Precinct name="Elmodel" votes="3" />
+                <Precinct name="Hoggards Mill" votes="12" />
+                <Precinct name="Milford" votes="3" />
+                <Precinct name="Newton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Bee Nguyen" party="DEM" totalVotes="63">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Anna" votes="1" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Anna" votes="22" />
+                <Precinct name="Elmodel" votes="3" />
+                <Precinct name="Hoggards Mill" votes="13" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Anna" votes="3" />
+                <Precinct name="Elmodel" votes="2" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Anna" votes="3" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="2" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Raphael Baker" party="DEM" totalVotes="65">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Anna" votes="2" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Anna" votes="15" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="14" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Anna" votes="7" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="12" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="Janice Laws Robinson" party="DEM" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="2" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Anna" votes="14" />
+                <Precinct name="Elmodel" votes="6" />
+                <Precinct name="Hoggards Mill" votes="5" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Anna" votes="6" />
+                <Precinct name="Elmodel" votes="4" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="4" />
+                <Precinct name="Newton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Anna" votes="2" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="2" />
+            <Precinct name="Milford" votes="3" />
+            <Precinct name="Newton" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <Choice key="103" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Anna" votes="1" />
+                <Precinct name="Elmodel" votes="2" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="52">
+                <Precinct name="Anna" votes="26" />
+                <Precinct name="Elmodel" votes="5" />
+                <Precinct name="Hoggards Mill" votes="15" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Anna" votes="8" />
+                <Precinct name="Elmodel" votes="4" />
+                <Precinct name="Hoggards Mill" votes="13" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="Nicole Horn" party="DEM" totalVotes="29">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Anna" votes="2" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Anna" votes="3" />
+                <Precinct name="Elmodel" votes="2" />
+                <Precinct name="Hoggards Mill" votes="4" />
+                <Precinct name="Milford" votes="1" />
+                <Precinct name="Newton" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Anna" votes="5" />
+                <Precinct name="Elmodel" votes="1" />
+                <Precinct name="Hoggards Mill" votes="3" />
+                <Precinct name="Milford" votes="2" />
+                <Precinct name="Newton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anna" votes="0" />
+            <Precinct name="Elmodel" votes="0" />
+            <Precinct name="Hoggards Mill" votes="0" />
+            <Precinct name="Milford" votes="0" />
+            <Precinct name="Newton" votes="0" />
+        </VoteType>
+        <Choice key="164" text="Jeremy Hunt" party="REP" totalVotes="82">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Anna" votes="1" />
+                <Precinct name="Elmodel" votes="9" />
+                <Precinct name="Hoggards Mill" votes="1" />
+                <Precinct name="Milford" votes="8" />
+                <Precinct name="Newton" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Anna" votes="21" />
+                <Precinct name="Elmodel" votes="4" />
+                <Precinct name="Hoggards Mill" votes="3" />
+                <Precinct name="Milford" votes="18" />
+                <Precinct name="Newton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="167" text="Chris West" party="REP" totalVotes="145">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Anna" votes="1" />
+                <Precinct name="Elmodel" votes="8" />
+                <Precinct name="Hoggards Mill" votes="2" />
+                <Precinct name="Milford" votes="6" />
+                <Precinct name="Newton" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="47">
+                <Precinct name="Anna" votes="2" />
+                <Precinct name="Elmodel" votes="15" />
+                <Precinct name="Hoggards Mill" votes="3" />
+                <Precinct name="Milford" votes="10" />
+                <Precinct name="Newton" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Anna" votes="8" />
+                <Precinct name="Elmodel" votes="18" />
+                <Precinct name="Hoggards Mill" votes="14" />
+                <Precinct name="Milford" votes="22" />
+                <Precinct name="Newton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anna" votes="0" />
+                <Precinct name="Elmodel" votes="0" />
+                <Precinct name="Hoggards Mill" votes="0" />
+                <Precinct name="Milford" votes="0" />
+                <Precinct name="Newton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,550 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 9:09:53 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>McIntosh</Region>
+    <VoterTurnout totalVoters="8924" ballotsCast="446" voterTurnout="5.00">
+        <Precincts>
+            <Precinct name="Sapelo Island" totalVoters="50" ballotsCast="8" voterTurnout="16.00" percentReporting="4" />
+            <Precinct name="Crescent" totalVoters="1982" ballotsCast="170" voterTurnout="8.58" percentReporting="4" />
+            <Precinct name="Darien" totalVoters="2224" ballotsCast="98" voterTurnout="4.41" percentReporting="4" />
+            <Precinct name="South Newport" totalVoters="2433" ballotsCast="86" voterTurnout="3.53" percentReporting="4" />
+            <Precinct name="North Darien" totalVoters="2235" ballotsCast="84" voterTurnout="3.76" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Sapelo Island" votes="1" />
+            <Precinct name="Crescent" votes="7" />
+            <Precinct name="Darien" votes="5" />
+            <Precinct name="South Newport" votes="2" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="262">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="14" />
+                <Precinct name="Darien" votes="14" />
+                <Precinct name="South Newport" votes="12" />
+                <Precinct name="North Darien" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="97">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="29" />
+                <Precinct name="Darien" votes="21" />
+                <Precinct name="South Newport" votes="25" />
+                <Precinct name="North Darien" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Sapelo Island" votes="4" />
+                <Precinct name="Crescent" votes="52" />
+                <Precinct name="Darien" votes="19" />
+                <Precinct name="South Newport" votes="24" />
+                <Precinct name="North Darien" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="169">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="10" />
+                <Precinct name="Darien" votes="7" />
+                <Precinct name="South Newport" votes="4" />
+                <Precinct name="North Darien" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="72">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="29" />
+                <Precinct name="Darien" votes="17" />
+                <Precinct name="South Newport" votes="11" />
+                <Precinct name="North Darien" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Sapelo Island" votes="2" />
+                <Precinct name="Crescent" votes="29" />
+                <Precinct name="Darien" votes="15" />
+                <Precinct name="South Newport" votes="8" />
+                <Precinct name="North Darien" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Sapelo Island" votes="2" />
+            <Precinct name="Crescent" votes="6" />
+            <Precinct name="Darien" votes="5" />
+            <Precinct name="South Newport" votes="2" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="157">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="11" />
+                <Precinct name="Darien" votes="4" />
+                <Precinct name="South Newport" votes="6" />
+                <Precinct name="North Darien" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="19" />
+                <Precinct name="Darien" votes="13" />
+                <Precinct name="South Newport" votes="6" />
+                <Precinct name="North Darien" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="36" />
+                <Precinct name="Darien" votes="18" />
+                <Precinct name="South Newport" votes="7" />
+                <Precinct name="North Darien" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="274">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="13" />
+                <Precinct name="Darien" votes="17" />
+                <Precinct name="South Newport" votes="10" />
+                <Precinct name="North Darien" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="123">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="44" />
+                <Precinct name="Darien" votes="24" />
+                <Precinct name="South Newport" votes="31" />
+                <Precinct name="North Darien" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Sapelo Island" votes="4" />
+                <Precinct name="Crescent" votes="41" />
+                <Precinct name="Darien" votes="17" />
+                <Precinct name="South Newport" votes="24" />
+                <Precinct name="North Darien" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="Sapelo Island" votes="2" />
+            <Precinct name="Crescent" votes="6" />
+            <Precinct name="Darien" votes="6" />
+            <Precinct name="South Newport" votes="2" />
+            <Precinct name="North Darien" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="237">
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="13" />
+                <Precinct name="Darien" votes="9" />
+                <Precinct name="South Newport" votes="8" />
+                <Precinct name="North Darien" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="93">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="44" />
+                <Precinct name="Darien" votes="19" />
+                <Precinct name="South Newport" votes="14" />
+                <Precinct name="North Darien" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Sapelo Island" votes="4" />
+                <Precinct name="Crescent" votes="56" />
+                <Precinct name="Darien" votes="20" />
+                <Precinct name="South Newport" votes="11" />
+                <Precinct name="North Darien" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="192">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="11" />
+                <Precinct name="Darien" votes="10" />
+                <Precinct name="South Newport" votes="8" />
+                <Precinct name="North Darien" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="76">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="15" />
+                <Precinct name="Darien" votes="18" />
+                <Precinct name="South Newport" votes="22" />
+                <Precinct name="North Darien" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="25" />
+                <Precinct name="Darien" votes="16" />
+                <Precinct name="South Newport" votes="21" />
+                <Precinct name="North Darien" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Sapelo Island" votes="2" />
+            <Precinct name="Crescent" votes="9" />
+            <Precinct name="Darien" votes="6" />
+            <Precinct name="South Newport" votes="3" />
+            <Precinct name="North Darien" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="260">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="20" />
+                <Precinct name="Darien" votes="14" />
+                <Precinct name="South Newport" votes="8" />
+                <Precinct name="North Darien" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="101">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="35" />
+                <Precinct name="Darien" votes="24" />
+                <Precinct name="South Newport" votes="21" />
+                <Precinct name="North Darien" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="110">
+                <Precinct name="Sapelo Island" votes="2" />
+                <Precinct name="Crescent" votes="54" />
+                <Precinct name="Darien" votes="21" />
+                <Precinct name="South Newport" votes="15" />
+                <Precinct name="North Darien" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="162">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="4" />
+                <Precinct name="Darien" votes="7" />
+                <Precinct name="South Newport" votes="8" />
+                <Precinct name="North Darien" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="67">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="25" />
+                <Precinct name="Darien" votes="12" />
+                <Precinct name="South Newport" votes="15" />
+                <Precinct name="North Darien" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Sapelo Island" votes="3" />
+                <Precinct name="Crescent" votes="23" />
+                <Precinct name="Darien" votes="14" />
+                <Precinct name="South Newport" votes="16" />
+                <Precinct name="North Darien" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="3" />
+            <Precinct name="Darien" votes="2" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Joyce Marie Griggs" party="DEM" totalVotes="225">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="12" />
+                <Precinct name="Darien" votes="7" />
+                <Precinct name="South Newport" votes="5" />
+                <Precinct name="North Darien" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="29" />
+                <Precinct name="Darien" votes="14" />
+                <Precinct name="South Newport" votes="13" />
+                <Precinct name="North Darien" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="122">
+                <Precinct name="Sapelo Island" votes="6" />
+                <Precinct name="Crescent" votes="53" />
+                <Precinct name="Darien" votes="23" />
+                <Precinct name="South Newport" votes="15" />
+                <Precinct name="North Darien" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="203" text="Wade Herring" party="DEM" totalVotes="217">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="13" />
+                <Precinct name="Darien" votes="14" />
+                <Precinct name="South Newport" votes="11" />
+                <Precinct name="North Darien" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="101">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="34" />
+                <Precinct name="Darien" votes="23" />
+                <Precinct name="South Newport" votes="25" />
+                <Precinct name="North Darien" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="26" />
+                <Precinct name="Darien" votes="15" />
+                <Precinct name="South Newport" votes="18" />
+                <Precinct name="North Darien" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="72" text="State Senate - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="7" />
+            <Precinct name="Darien" votes="18" />
+            <Precinct name="South Newport" votes="10" />
+            <Precinct name="North Darien" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="0" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="214" text="Mike Hodges" party="REP" totalVotes="1092">
+            <VoteType name="Absentee by Mail Votes" votes="104">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="5" />
+                <Precinct name="Darien" votes="39" />
+                <Precinct name="South Newport" votes="40" />
+                <Precinct name="North Darien" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="516">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="59" />
+                <Precinct name="Darien" votes="164" />
+                <Precinct name="South Newport" votes="130" />
+                <Precinct name="North Darien" votes="162" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="471">
+                <Precinct name="Sapelo Island" votes="2" />
+                <Precinct name="Crescent" votes="56" />
+                <Precinct name="Darien" votes="108" />
+                <Precinct name="South Newport" votes="181" />
+                <Precinct name="North Darien" votes="124" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="1" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="215" text="Jeff Jones" party="REP" totalVotes="716">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="1" />
+                <Precinct name="Darien" votes="23" />
+                <Precinct name="South Newport" votes="18" />
+                <Precinct name="North Darien" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="338">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="47" />
+                <Precinct name="Darien" votes="100" />
+                <Precinct name="South Newport" votes="70" />
+                <Precinct name="North Darien" votes="121" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="327">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="30" />
+                <Precinct name="Darien" votes="77" />
+                <Precinct name="South Newport" votes="129" />
+                <Precinct name="North Darien" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="106" text="County Commissioner - Dist 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="1" />
+            <Precinct name="Darien" votes="4" />
+            <Precinct name="South Newport" votes="1" />
+            <Precinct name="North Darien" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Sapelo Island" votes="0" />
+            <Precinct name="Crescent" votes="0" />
+            <Precinct name="Darien" votes="0" />
+            <Precinct name="South Newport" votes="1" />
+            <Precinct name="North Darien" votes="0" />
+        </VoteType>
+        <Choice key="216" text="Tim Gardner" party="REP" totalVotes="909">
+            <VoteType name="Absentee by Mail Votes" votes="61">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="4" />
+                <Precinct name="Darien" votes="26" />
+                <Precinct name="South Newport" votes="17" />
+                <Precinct name="North Darien" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="379">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="51" />
+                <Precinct name="Darien" votes="120" />
+                <Precinct name="South Newport" votes="80" />
+                <Precinct name="North Darien" votes="128" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="469">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="57" />
+                <Precinct name="Darien" votes="114" />
+                <Precinct name="South Newport" votes="164" />
+                <Precinct name="North Darien" votes="134" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="0" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="218" text="Davis Poole" party="REP" totalVotes="951">
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="2" />
+                <Precinct name="Darien" votes="35" />
+                <Precinct name="South Newport" votes="40" />
+                <Precinct name="North Darien" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="496">
+                <Precinct name="Sapelo Island" votes="1" />
+                <Precinct name="Crescent" votes="58" />
+                <Precinct name="Darien" votes="149" />
+                <Precinct name="South Newport" votes="121" />
+                <Precinct name="North Darien" votes="167" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="360">
+                <Precinct name="Sapelo Island" votes="3" />
+                <Precinct name="Crescent" votes="32" />
+                <Precinct name="Darien" votes="81" />
+                <Precinct name="South Newport" votes="154" />
+                <Precinct name="North Darien" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Sapelo Island" votes="0" />
+                <Precinct name="Crescent" votes="0" />
+                <Precinct name="Darien" votes="0" />
+                <Precinct name="South Newport" votes="1" />
+                <Precinct name="North Darien" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

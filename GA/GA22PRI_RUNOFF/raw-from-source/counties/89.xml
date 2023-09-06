@@ -1,0 +1,755 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 3:32:21 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Liberty</Region>
+    <VoterTurnout totalVoters="34542" ballotsCast="2014" voterTurnout="5.83">
+        <Precincts>
+            <Precinct name="Riceboro" totalVoters="1008" ballotsCast="155" voterTurnout="15.38" percentReporting="4" />
+            <Precinct name="Lyman Hall" totalVoters="4317" ballotsCast="283" voterTurnout="6.56" percentReporting="4" />
+            <Precinct name="Lewis Frasier" totalVoters="2306" ballotsCast="169" voterTurnout="7.33" percentReporting="4" />
+            <Precinct name="Memorial Dr" totalVoters="2261" ballotsCast="107" voterTurnout="4.73" percentReporting="4" />
+            <Precinct name="PAC" totalVoters="2996" ballotsCast="134" voterTurnout="4.47" percentReporting="4" />
+            <Precinct name="Town of Allenhurst" totalVoters="1638" ballotsCast="123" voterTurnout="7.51" percentReporting="4" />
+            <Precinct name="Hinesville" totalVoters="3205" ballotsCast="154" voterTurnout="4.80" percentReporting="4" />
+            <Precinct name="Liberty County Complex" totalVoters="4772" ballotsCast="324" voterTurnout="6.79" percentReporting="4" />
+            <Precinct name="Walthourville" totalVoters="3648" ballotsCast="242" voterTurnout="6.63" percentReporting="4" />
+            <Precinct name="Fleming East" totalVoters="2468" ballotsCast="74" voterTurnout="3.00" percentReporting="4" />
+            <Precinct name="Gum Branch" totalVoters="3389" ballotsCast="90" voterTurnout="2.66" percentReporting="4" />
+            <Precinct name="Progressive Church" totalVoters="2534" ballotsCast="159" voterTurnout="6.27" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Riceboro" votes="7" />
+            <Precinct name="Lyman Hall" votes="6" />
+            <Precinct name="Lewis Frasier" votes="4" />
+            <Precinct name="Memorial Dr" votes="3" />
+            <Precinct name="PAC" votes="3" />
+            <Precinct name="Town of Allenhurst" votes="3" />
+            <Precinct name="Hinesville" votes="2" />
+            <Precinct name="Liberty County Complex" votes="17" />
+            <Precinct name="Walthourville" votes="2" />
+            <Precinct name="Fleming East" votes="1" />
+            <Precinct name="Gum Branch" votes="1" />
+            <Precinct name="Progressive Church" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="0" />
+            <Precinct name="Memorial Dr" votes="0" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="0" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="0" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="1161">
+            <VoteType name="Absentee by Mail Votes" votes="188">
+                <Precinct name="Riceboro" votes="15" />
+                <Precinct name="Lyman Hall" votes="26" />
+                <Precinct name="Lewis Frasier" votes="14" />
+                <Precinct name="Memorial Dr" votes="13" />
+                <Precinct name="PAC" votes="18" />
+                <Precinct name="Town of Allenhurst" votes="11" />
+                <Precinct name="Hinesville" votes="14" />
+                <Precinct name="Liberty County Complex" votes="37" />
+                <Precinct name="Walthourville" votes="14" />
+                <Precinct name="Fleming East" votes="9" />
+                <Precinct name="Gum Branch" votes="6" />
+                <Precinct name="Progressive Church" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="527">
+                <Precinct name="Riceboro" votes="36" />
+                <Precinct name="Lyman Hall" votes="86" />
+                <Precinct name="Lewis Frasier" votes="45" />
+                <Precinct name="Memorial Dr" votes="27" />
+                <Precinct name="PAC" votes="31" />
+                <Precinct name="Town of Allenhurst" votes="20" />
+                <Precinct name="Hinesville" votes="31" />
+                <Precinct name="Liberty County Complex" votes="91" />
+                <Precinct name="Walthourville" votes="70" />
+                <Precinct name="Fleming East" votes="21" />
+                <Precinct name="Gum Branch" votes="28" />
+                <Precinct name="Progressive Church" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="446">
+                <Precinct name="Riceboro" votes="40" />
+                <Precinct name="Lyman Hall" votes="48" />
+                <Precinct name="Lewis Frasier" votes="31" />
+                <Precinct name="Memorial Dr" votes="24" />
+                <Precinct name="PAC" votes="35" />
+                <Precinct name="Town of Allenhurst" votes="35" />
+                <Precinct name="Hinesville" votes="26" />
+                <Precinct name="Liberty County Complex" votes="69" />
+                <Precinct name="Walthourville" votes="54" />
+                <Precinct name="Fleming East" votes="29" />
+                <Precinct name="Gum Branch" votes="19" />
+                <Precinct name="Progressive Church" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="800">
+            <VoteType name="Absentee by Mail Votes" votes="111">
+                <Precinct name="Riceboro" votes="15" />
+                <Precinct name="Lyman Hall" votes="12" />
+                <Precinct name="Lewis Frasier" votes="14" />
+                <Precinct name="Memorial Dr" votes="1" />
+                <Precinct name="PAC" votes="8" />
+                <Precinct name="Town of Allenhurst" votes="5" />
+                <Precinct name="Hinesville" votes="10" />
+                <Precinct name="Liberty County Complex" votes="13" />
+                <Precinct name="Walthourville" votes="11" />
+                <Precinct name="Fleming East" votes="1" />
+                <Precinct name="Gum Branch" votes="15" />
+                <Precinct name="Progressive Church" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="330">
+                <Precinct name="Riceboro" votes="11" />
+                <Precinct name="Lyman Hall" votes="62" />
+                <Precinct name="Lewis Frasier" votes="31" />
+                <Precinct name="Memorial Dr" votes="19" />
+                <Precinct name="PAC" votes="16" />
+                <Precinct name="Town of Allenhurst" votes="20" />
+                <Precinct name="Hinesville" votes="28" />
+                <Precinct name="Liberty County Complex" votes="47" />
+                <Precinct name="Walthourville" votes="49" />
+                <Precinct name="Fleming East" votes="7" />
+                <Precinct name="Gum Branch" votes="9" />
+                <Precinct name="Progressive Church" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="359">
+                <Precinct name="Riceboro" votes="31" />
+                <Precinct name="Lyman Hall" votes="43" />
+                <Precinct name="Lewis Frasier" votes="30" />
+                <Precinct name="Memorial Dr" votes="20" />
+                <Precinct name="PAC" votes="23" />
+                <Precinct name="Town of Allenhurst" votes="29" />
+                <Precinct name="Hinesville" votes="43" />
+                <Precinct name="Liberty County Complex" votes="50" />
+                <Precinct name="Walthourville" votes="42" />
+                <Precinct name="Fleming East" votes="6" />
+                <Precinct name="Gum Branch" votes="12" />
+                <Precinct name="Progressive Church" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Riceboro" votes="7" />
+            <Precinct name="Lyman Hall" votes="6" />
+            <Precinct name="Lewis Frasier" votes="6" />
+            <Precinct name="Memorial Dr" votes="3" />
+            <Precinct name="PAC" votes="2" />
+            <Precinct name="Town of Allenhurst" votes="3" />
+            <Precinct name="Hinesville" votes="5" />
+            <Precinct name="Liberty County Complex" votes="15" />
+            <Precinct name="Walthourville" votes="4" />
+            <Precinct name="Fleming East" votes="1" />
+            <Precinct name="Gum Branch" votes="3" />
+            <Precinct name="Progressive Church" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="0" />
+            <Precinct name="Memorial Dr" votes="0" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="0" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="0" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="678">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Riceboro" votes="6" />
+                <Precinct name="Lyman Hall" votes="11" />
+                <Precinct name="Lewis Frasier" votes="7" />
+                <Precinct name="Memorial Dr" votes="7" />
+                <Precinct name="PAC" votes="9" />
+                <Precinct name="Town of Allenhurst" votes="5" />
+                <Precinct name="Hinesville" votes="7" />
+                <Precinct name="Liberty County Complex" votes="18" />
+                <Precinct name="Walthourville" votes="9" />
+                <Precinct name="Fleming East" votes="1" />
+                <Precinct name="Gum Branch" votes="8" />
+                <Precinct name="Progressive Church" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="295">
+                <Precinct name="Riceboro" votes="17" />
+                <Precinct name="Lyman Hall" votes="46" />
+                <Precinct name="Lewis Frasier" votes="24" />
+                <Precinct name="Memorial Dr" votes="15" />
+                <Precinct name="PAC" votes="19" />
+                <Precinct name="Town of Allenhurst" votes="18" />
+                <Precinct name="Hinesville" votes="20" />
+                <Precinct name="Liberty County Complex" votes="42" />
+                <Precinct name="Walthourville" votes="44" />
+                <Precinct name="Fleming East" votes="10" />
+                <Precinct name="Gum Branch" votes="13" />
+                <Precinct name="Progressive Church" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="291">
+                <Precinct name="Riceboro" votes="22" />
+                <Precinct name="Lyman Hall" votes="34" />
+                <Precinct name="Lewis Frasier" votes="28" />
+                <Precinct name="Memorial Dr" votes="14" />
+                <Precinct name="PAC" votes="26" />
+                <Precinct name="Town of Allenhurst" votes="22" />
+                <Precinct name="Hinesville" votes="22" />
+                <Precinct name="Liberty County Complex" votes="42" />
+                <Precinct name="Walthourville" votes="33" />
+                <Precinct name="Fleming East" votes="11" />
+                <Precinct name="Gum Branch" votes="8" />
+                <Precinct name="Progressive Church" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="1274">
+            <VoteType name="Absentee by Mail Votes" votes="206">
+                <Precinct name="Riceboro" votes="24" />
+                <Precinct name="Lyman Hall" votes="25" />
+                <Precinct name="Lewis Frasier" votes="21" />
+                <Precinct name="Memorial Dr" votes="7" />
+                <Precinct name="PAC" votes="17" />
+                <Precinct name="Town of Allenhurst" votes="11" />
+                <Precinct name="Hinesville" votes="17" />
+                <Precinct name="Liberty County Complex" votes="33" />
+                <Precinct name="Walthourville" votes="16" />
+                <Precinct name="Fleming East" votes="9" />
+                <Precinct name="Gum Branch" votes="13" />
+                <Precinct name="Progressive Church" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="564">
+                <Precinct name="Riceboro" votes="32" />
+                <Precinct name="Lyman Hall" votes="104" />
+                <Precinct name="Lewis Frasier" votes="52" />
+                <Precinct name="Memorial Dr" votes="31" />
+                <Precinct name="PAC" votes="27" />
+                <Precinct name="Town of Allenhurst" votes="23" />
+                <Precinct name="Hinesville" votes="38" />
+                <Precinct name="Liberty County Complex" votes="97" />
+                <Precinct name="Walthourville" votes="75" />
+                <Precinct name="Fleming East" votes="18" />
+                <Precinct name="Gum Branch" votes="22" />
+                <Precinct name="Progressive Church" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="504">
+                <Precinct name="Riceboro" votes="47" />
+                <Precinct name="Lyman Hall" votes="57" />
+                <Precinct name="Lewis Frasier" votes="31" />
+                <Precinct name="Memorial Dr" votes="30" />
+                <Precinct name="PAC" votes="34" />
+                <Precinct name="Town of Allenhurst" votes="41" />
+                <Precinct name="Hinesville" votes="45" />
+                <Precinct name="Liberty County Complex" votes="77" />
+                <Precinct name="Walthourville" votes="61" />
+                <Precinct name="Fleming East" votes="24" />
+                <Precinct name="Gum Branch" votes="23" />
+                <Precinct name="Progressive Church" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="95">
+            <Precinct name="Riceboro" votes="9" />
+            <Precinct name="Lyman Hall" votes="8" />
+            <Precinct name="Lewis Frasier" votes="8" />
+            <Precinct name="Memorial Dr" votes="4" />
+            <Precinct name="PAC" votes="5" />
+            <Precinct name="Town of Allenhurst" votes="6" />
+            <Precinct name="Hinesville" votes="8" />
+            <Precinct name="Liberty County Complex" votes="24" />
+            <Precinct name="Walthourville" votes="11" />
+            <Precinct name="Fleming East" votes="3" />
+            <Precinct name="Gum Branch" votes="4" />
+            <Precinct name="Progressive Church" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="0" />
+            <Precinct name="Memorial Dr" votes="0" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="0" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="0" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="966">
+            <VoteType name="Absentee by Mail Votes" votes="111">
+                <Precinct name="Riceboro" votes="8" />
+                <Precinct name="Lyman Hall" votes="23" />
+                <Precinct name="Lewis Frasier" votes="14" />
+                <Precinct name="Memorial Dr" votes="8" />
+                <Precinct name="PAC" votes="6" />
+                <Precinct name="Town of Allenhurst" votes="7" />
+                <Precinct name="Hinesville" votes="11" />
+                <Precinct name="Liberty County Complex" votes="14" />
+                <Precinct name="Walthourville" votes="12" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="3" />
+                <Precinct name="Progressive Church" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="459">
+                <Precinct name="Riceboro" votes="28" />
+                <Precinct name="Lyman Hall" votes="83" />
+                <Precinct name="Lewis Frasier" votes="39" />
+                <Precinct name="Memorial Dr" votes="23" />
+                <Precinct name="PAC" votes="26" />
+                <Precinct name="Town of Allenhurst" votes="24" />
+                <Precinct name="Hinesville" votes="33" />
+                <Precinct name="Liberty County Complex" votes="69" />
+                <Precinct name="Walthourville" votes="68" />
+                <Precinct name="Fleming East" votes="12" />
+                <Precinct name="Gum Branch" votes="17" />
+                <Precinct name="Progressive Church" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="396">
+                <Precinct name="Riceboro" votes="41" />
+                <Precinct name="Lyman Hall" votes="48" />
+                <Precinct name="Lewis Frasier" votes="24" />
+                <Precinct name="Memorial Dr" votes="19" />
+                <Precinct name="PAC" votes="32" />
+                <Precinct name="Town of Allenhurst" votes="36" />
+                <Precinct name="Hinesville" votes="28" />
+                <Precinct name="Liberty County Complex" votes="61" />
+                <Precinct name="Walthourville" votes="38" />
+                <Precinct name="Fleming East" votes="19" />
+                <Precinct name="Gum Branch" votes="9" />
+                <Precinct name="Progressive Church" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="953">
+            <VoteType name="Absentee by Mail Votes" votes="179">
+                <Precinct name="Riceboro" votes="20" />
+                <Precinct name="Lyman Hall" votes="14" />
+                <Precinct name="Lewis Frasier" votes="14" />
+                <Precinct name="Memorial Dr" votes="6" />
+                <Precinct name="PAC" votes="18" />
+                <Precinct name="Town of Allenhurst" votes="10" />
+                <Precinct name="Hinesville" votes="13" />
+                <Precinct name="Liberty County Complex" votes="34" />
+                <Precinct name="Walthourville" votes="10" />
+                <Precinct name="Fleming East" votes="10" />
+                <Precinct name="Gum Branch" votes="18" />
+                <Precinct name="Progressive Church" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="386">
+                <Precinct name="Riceboro" votes="20" />
+                <Precinct name="Lyman Hall" votes="64" />
+                <Precinct name="Lewis Frasier" votes="37" />
+                <Precinct name="Memorial Dr" votes="23" />
+                <Precinct name="PAC" votes="20" />
+                <Precinct name="Town of Allenhurst" votes="15" />
+                <Precinct name="Hinesville" votes="25" />
+                <Precinct name="Liberty County Complex" votes="66" />
+                <Precinct name="Walthourville" votes="49" />
+                <Precinct name="Fleming East" votes="14" />
+                <Precinct name="Gum Branch" votes="18" />
+                <Precinct name="Progressive Church" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="388">
+                <Precinct name="Riceboro" votes="29" />
+                <Precinct name="Lyman Hall" votes="43" />
+                <Precinct name="Lewis Frasier" votes="33" />
+                <Precinct name="Memorial Dr" votes="24" />
+                <Precinct name="PAC" votes="27" />
+                <Precinct name="Town of Allenhurst" votes="25" />
+                <Precinct name="Hinesville" votes="36" />
+                <Precinct name="Liberty County Complex" votes="56" />
+                <Precinct name="Walthourville" votes="54" />
+                <Precinct name="Fleming East" votes="16" />
+                <Precinct name="Gum Branch" votes="21" />
+                <Precinct name="Progressive Church" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="82">
+            <Precinct name="Riceboro" votes="10" />
+            <Precinct name="Lyman Hall" votes="7" />
+            <Precinct name="Lewis Frasier" votes="7" />
+            <Precinct name="Memorial Dr" votes="4" />
+            <Precinct name="PAC" votes="6" />
+            <Precinct name="Town of Allenhurst" votes="6" />
+            <Precinct name="Hinesville" votes="3" />
+            <Precinct name="Liberty County Complex" votes="17" />
+            <Precinct name="Walthourville" votes="10" />
+            <Precinct name="Fleming East" votes="1" />
+            <Precinct name="Gum Branch" votes="2" />
+            <Precinct name="Progressive Church" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="0" />
+            <Precinct name="Memorial Dr" votes="0" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="0" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="0" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="1248">
+            <VoteType name="Absentee by Mail Votes" votes="215">
+                <Precinct name="Riceboro" votes="23" />
+                <Precinct name="Lyman Hall" votes="24" />
+                <Precinct name="Lewis Frasier" votes="22" />
+                <Precinct name="Memorial Dr" votes="10" />
+                <Precinct name="PAC" votes="21" />
+                <Precinct name="Town of Allenhurst" votes="11" />
+                <Precinct name="Hinesville" votes="14" />
+                <Precinct name="Liberty County Complex" votes="37" />
+                <Precinct name="Walthourville" votes="20" />
+                <Precinct name="Fleming East" votes="7" />
+                <Precinct name="Gum Branch" votes="14" />
+                <Precinct name="Progressive Church" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="574">
+                <Precinct name="Riceboro" votes="35" />
+                <Precinct name="Lyman Hall" votes="97" />
+                <Precinct name="Lewis Frasier" votes="54" />
+                <Precinct name="Memorial Dr" votes="35" />
+                <Precinct name="PAC" votes="31" />
+                <Precinct name="Town of Allenhurst" votes="26" />
+                <Precinct name="Hinesville" votes="37" />
+                <Precinct name="Liberty County Complex" votes="94" />
+                <Precinct name="Walthourville" votes="84" />
+                <Precinct name="Fleming East" votes="20" />
+                <Precinct name="Gum Branch" votes="23" />
+                <Precinct name="Progressive Church" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="459">
+                <Precinct name="Riceboro" votes="45" />
+                <Precinct name="Lyman Hall" votes="48" />
+                <Precinct name="Lewis Frasier" votes="26" />
+                <Precinct name="Memorial Dr" votes="26" />
+                <Precinct name="PAC" votes="32" />
+                <Precinct name="Town of Allenhurst" votes="38" />
+                <Precinct name="Hinesville" votes="28" />
+                <Precinct name="Liberty County Complex" votes="77" />
+                <Precinct name="Walthourville" votes="64" />
+                <Precinct name="Fleming East" votes="20" />
+                <Precinct name="Gum Branch" votes="17" />
+                <Precinct name="Progressive Church" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="684">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Riceboro" votes="7" />
+                <Precinct name="Lyman Hall" votes="13" />
+                <Precinct name="Lewis Frasier" votes="6" />
+                <Precinct name="Memorial Dr" votes="4" />
+                <Precinct name="PAC" votes="4" />
+                <Precinct name="Town of Allenhurst" votes="6" />
+                <Precinct name="Hinesville" votes="10" />
+                <Precinct name="Liberty County Complex" votes="14" />
+                <Precinct name="Walthourville" votes="3" />
+                <Precinct name="Fleming East" votes="3" />
+                <Precinct name="Gum Branch" votes="7" />
+                <Precinct name="Progressive Church" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="276">
+                <Precinct name="Riceboro" votes="11" />
+                <Precinct name="Lyman Hall" votes="54" />
+                <Precinct name="Lewis Frasier" votes="24" />
+                <Precinct name="Memorial Dr" votes="10" />
+                <Precinct name="PAC" votes="14" />
+                <Precinct name="Town of Allenhurst" votes="13" />
+                <Precinct name="Hinesville" votes="22" />
+                <Precinct name="Liberty County Complex" votes="43" />
+                <Precinct name="Walthourville" votes="33" />
+                <Precinct name="Fleming East" votes="8" />
+                <Precinct name="Gum Branch" votes="13" />
+                <Precinct name="Progressive Church" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="326">
+                <Precinct name="Riceboro" votes="24" />
+                <Precinct name="Lyman Hall" votes="40" />
+                <Precinct name="Lewis Frasier" votes="30" />
+                <Precinct name="Memorial Dr" votes="18" />
+                <Precinct name="PAC" votes="26" />
+                <Precinct name="Town of Allenhurst" votes="23" />
+                <Precinct name="Hinesville" votes="40" />
+                <Precinct name="Liberty County Complex" votes="42" />
+                <Precinct name="Walthourville" votes="28" />
+                <Precinct name="Fleming East" votes="15" />
+                <Precinct name="Gum Branch" votes="14" />
+                <Precinct name="Progressive Church" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="2" />
+            <Precinct name="Memorial Dr" votes="1" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="2" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="1" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riceboro" votes="0" />
+            <Precinct name="Lyman Hall" votes="0" />
+            <Precinct name="Lewis Frasier" votes="0" />
+            <Precinct name="Memorial Dr" votes="0" />
+            <Precinct name="PAC" votes="0" />
+            <Precinct name="Town of Allenhurst" votes="0" />
+            <Precinct name="Hinesville" votes="0" />
+            <Precinct name="Liberty County Complex" votes="0" />
+            <Precinct name="Walthourville" votes="0" />
+            <Precinct name="Fleming East" votes="0" />
+            <Precinct name="Gum Branch" votes="0" />
+            <Precinct name="Progressive Church" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Joyce Marie Griggs" party="DEM" totalVotes="847">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Riceboro" votes="10" />
+                <Precinct name="Lyman Hall" votes="17" />
+                <Precinct name="Lewis Frasier" votes="7" />
+                <Precinct name="Memorial Dr" votes="4" />
+                <Precinct name="PAC" votes="11" />
+                <Precinct name="Town of Allenhurst" votes="6" />
+                <Precinct name="Hinesville" votes="15" />
+                <Precinct name="Liberty County Complex" votes="23" />
+                <Precinct name="Walthourville" votes="12" />
+                <Precinct name="Fleming East" votes="3" />
+                <Precinct name="Gum Branch" votes="13" />
+                <Precinct name="Progressive Church" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="347">
+                <Precinct name="Riceboro" votes="17" />
+                <Precinct name="Lyman Hall" votes="49" />
+                <Precinct name="Lewis Frasier" votes="26" />
+                <Precinct name="Memorial Dr" votes="21" />
+                <Precinct name="PAC" votes="24" />
+                <Precinct name="Town of Allenhurst" votes="20" />
+                <Precinct name="Hinesville" votes="19" />
+                <Precinct name="Liberty County Complex" votes="45" />
+                <Precinct name="Walthourville" votes="64" />
+                <Precinct name="Fleming East" votes="15" />
+                <Precinct name="Gum Branch" votes="16" />
+                <Precinct name="Progressive Church" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="370">
+                <Precinct name="Riceboro" votes="27" />
+                <Precinct name="Lyman Hall" votes="44" />
+                <Precinct name="Lewis Frasier" votes="23" />
+                <Precinct name="Memorial Dr" votes="21" />
+                <Precinct name="PAC" votes="27" />
+                <Precinct name="Town of Allenhurst" votes="35" />
+                <Precinct name="Hinesville" votes="34" />
+                <Precinct name="Liberty County Complex" votes="62" />
+                <Precinct name="Walthourville" votes="32" />
+                <Precinct name="Fleming East" votes="13" />
+                <Precinct name="Gum Branch" votes="13" />
+                <Precinct name="Progressive Church" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="203" text="Wade Herring" party="DEM" totalVotes="1161">
+            <VoteType name="Absentee by Mail Votes" votes="174">
+                <Precinct name="Riceboro" votes="21" />
+                <Precinct name="Lyman Hall" votes="21" />
+                <Precinct name="Lewis Frasier" votes="21" />
+                <Precinct name="Memorial Dr" votes="10" />
+                <Precinct name="PAC" votes="15" />
+                <Precinct name="Town of Allenhurst" votes="11" />
+                <Precinct name="Hinesville" votes="10" />
+                <Precinct name="Liberty County Complex" votes="29" />
+                <Precinct name="Walthourville" votes="13" />
+                <Precinct name="Fleming East" votes="7" />
+                <Precinct name="Gum Branch" votes="8" />
+                <Precinct name="Progressive Church" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="535">
+                <Precinct name="Riceboro" votes="34" />
+                <Precinct name="Lyman Hall" votes="103" />
+                <Precinct name="Lewis Frasier" votes="52" />
+                <Precinct name="Memorial Dr" votes="28" />
+                <Precinct name="PAC" votes="24" />
+                <Precinct name="Town of Allenhurst" votes="19" />
+                <Precinct name="Hinesville" votes="40" />
+                <Precinct name="Liberty County Complex" votes="101" />
+                <Precinct name="Walthourville" votes="57" />
+                <Precinct name="Fleming East" votes="13" />
+                <Precinct name="Gum Branch" votes="21" />
+                <Precinct name="Progressive Church" votes="43" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="452">
+                <Precinct name="Riceboro" votes="46" />
+                <Precinct name="Lyman Hall" votes="49" />
+                <Precinct name="Lewis Frasier" votes="38" />
+                <Precinct name="Memorial Dr" votes="22" />
+                <Precinct name="PAC" votes="33" />
+                <Precinct name="Town of Allenhurst" votes="30" />
+                <Precinct name="Hinesville" votes="37" />
+                <Precinct name="Liberty County Complex" votes="63" />
+                <Precinct name="Walthourville" votes="64" />
+                <Precinct name="Fleming East" votes="23" />
+                <Precinct name="Gum Branch" votes="19" />
+                <Precinct name="Progressive Church" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riceboro" votes="0" />
+                <Precinct name="Lyman Hall" votes="0" />
+                <Precinct name="Lewis Frasier" votes="0" />
+                <Precinct name="Memorial Dr" votes="0" />
+                <Precinct name="PAC" votes="0" />
+                <Precinct name="Town of Allenhurst" votes="0" />
+                <Precinct name="Hinesville" votes="0" />
+                <Precinct name="Liberty County Complex" votes="0" />
+                <Precinct name="Walthourville" votes="0" />
+                <Precinct name="Fleming East" votes="0" />
+                <Precinct name="Gum Branch" votes="0" />
+                <Precinct name="Progressive Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

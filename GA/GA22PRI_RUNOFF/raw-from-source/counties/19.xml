@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 10:34:26 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Calhoun</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="189" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Leary " totalVoters="0" ballotsCast="65" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Morgan" totalVoters="0" ballotsCast="25" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Edison " totalVoters="0" ballotsCast="29" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Edison-Arlington" totalVoters="0" ballotsCast="37" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Arlington" totalVoters="0" ballotsCast="33" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Leary " votes="2" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="2" />
+            <Precinct name="Edison-Arlington" votes="2" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="0" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Charlie Bailey" party="DEM" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="3" />
+                <Precinct name="Edison " votes="3" />
+                <Precinct name="Edison-Arlington" votes="3" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Leary " votes="4" />
+                <Precinct name="Morgan" votes="8" />
+                <Precinct name="Edison " votes="1" />
+                <Precinct name="Edison-Arlington" votes="4" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Leary " votes="28" />
+                <Precinct name="Morgan" votes="6" />
+                <Precinct name="Edison " votes="14" />
+                <Precinct name="Edison-Arlington" votes="13" />
+                <Precinct name="Arlington" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="28" text="Kwanza Hall" party="DEM" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Leary " votes="4" />
+                <Precinct name="Morgan" votes="3" />
+                <Precinct name="Edison " votes="2" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Leary " votes="2" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Edison " votes="4" />
+                <Precinct name="Edison-Arlington" votes="5" />
+                <Precinct name="Arlington" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Leary " votes="20" />
+                <Precinct name="Morgan" votes="3" />
+                <Precinct name="Edison " votes="3" />
+                <Precinct name="Edison-Arlington" votes="10" />
+                <Precinct name="Arlington" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="2" />
+            <Precinct name="Edison-Arlington" votes="1" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="0" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Dee Dawkins-Haigler" party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Leary " votes="4" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Edison " votes="1" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Leary " votes="2" />
+                <Precinct name="Morgan" votes="4" />
+                <Precinct name="Edison " votes="5" />
+                <Precinct name="Edison-Arlington" votes="4" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="65">
+                <Precinct name="Leary " votes="23" />
+                <Precinct name="Morgan" votes="8" />
+                <Precinct name="Edison " votes="3" />
+                <Precinct name="Edison-Arlington" votes="18" />
+                <Precinct name="Arlington" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Bee Nguyen" party="DEM" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="4" />
+                <Precinct name="Edison-Arlington" votes="3" />
+                <Precinct name="Arlington" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="6" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="5" />
+                <Precinct name="Arlington" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Leary " votes="26" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Edison " votes="14" />
+                <Precinct name="Edison-Arlington" votes="6" />
+                <Precinct name="Arlington" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Leary " votes="2" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="1" />
+            <Precinct name="Edison-Arlington" votes="1" />
+            <Precinct name="Arlington" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="0" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Raphael Baker" party="DEM" totalVotes="71">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Leary " votes="4" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="2" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Leary " votes="1" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Edison " votes="2" />
+                <Precinct name="Edison-Arlington" votes="2" />
+                <Precinct name="Arlington" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Leary " votes="21" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="7" />
+                <Precinct name="Edison-Arlington" votes="15" />
+                <Precinct name="Arlington" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Janice Laws Robinson" party="DEM" totalVotes="113">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="6" />
+                <Precinct name="Edison " votes="3" />
+                <Precinct name="Edison-Arlington" votes="3" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="8" />
+                <Precinct name="Edison " votes="3" />
+                <Precinct name="Edison-Arlington" votes="7" />
+                <Precinct name="Arlington" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Leary " votes="27" />
+                <Precinct name="Morgan" votes="4" />
+                <Precinct name="Edison " votes="11" />
+                <Precinct name="Edison-Arlington" votes="9" />
+                <Precinct name="Arlington" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Leary " votes="2" />
+            <Precinct name="Morgan" votes="1" />
+            <Precinct name="Edison " votes="1" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="0" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <Choice key="65" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="116">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Leary " votes="9" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="4" />
+                <Precinct name="Edison-Arlington" votes="3" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Leary " votes="5" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="5" />
+                <Precinct name="Edison-Arlington" votes="8" />
+                <Precinct name="Arlington" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Leary " votes="28" />
+                <Precinct name="Morgan" votes="7" />
+                <Precinct name="Edison " votes="10" />
+                <Precinct name="Edison-Arlington" votes="12" />
+                <Precinct name="Arlington" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Nicole Horn" party="DEM" totalVotes="68">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="1" />
+                <Precinct name="Edison " votes="1" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10">
+                <Precinct name="Leary " votes="1" />
+                <Precinct name="Morgan" votes="4" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="1" />
+                <Precinct name="Arlington" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Leary " votes="20" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Edison " votes="8" />
+                <Precinct name="Edison-Arlington" votes="13" />
+                <Precinct name="Arlington" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="1" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Leary " votes="0" />
+            <Precinct name="Morgan" votes="0" />
+            <Precinct name="Edison " votes="0" />
+            <Precinct name="Edison-Arlington" votes="0" />
+            <Precinct name="Arlington" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Jeremy Hunt" party="REP" totalVotes="104">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Leary " votes="3" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Leary " votes="19" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="4" />
+                <Precinct name="Arlington" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="65">
+                <Precinct name="Leary " votes="11" />
+                <Precinct name="Morgan" votes="18" />
+                <Precinct name="Edison " votes="9" />
+                <Precinct name="Edison-Arlington" votes="22" />
+                <Precinct name="Arlington" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Chris West" party="REP" totalVotes="52">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Leary " votes="2" />
+                <Precinct name="Morgan" votes="2" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Leary " votes="11" />
+                <Precinct name="Morgan" votes="5" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="2" />
+                <Precinct name="Arlington" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Leary " votes="3" />
+                <Precinct name="Morgan" votes="8" />
+                <Precinct name="Edison " votes="5" />
+                <Precinct name="Edison-Arlington" votes="8" />
+                <Precinct name="Arlington" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Leary " votes="0" />
+                <Precinct name="Morgan" votes="0" />
+                <Precinct name="Edison " votes="0" />
+                <Precinct name="Edison-Arlington" votes="0" />
+                <Precinct name="Arlington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

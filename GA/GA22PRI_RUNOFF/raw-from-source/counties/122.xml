@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 2:37:03 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Rockdale</Region>
+    <VoterTurnout totalVoters="60582" ballotsCast="3508" voterTurnout="5.79">
+        <Precincts>
+            <Precinct name="BA" totalVoters="4489" ballotsCast="257" voterTurnout="5.73" percentReporting="4" />
+            <Precinct name="BT" totalVoters="3754" ballotsCast="131" voterTurnout="3.49" percentReporting="4" />
+            <Precinct name="CO" totalVoters="3532" ballotsCast="148" voterTurnout="4.19" percentReporting="4" />
+            <Precinct name="FI" totalVoters="5813" ballotsCast="335" voterTurnout="5.76" percentReporting="4" />
+            <Precinct name="FS" totalVoters="3641" ballotsCast="284" voterTurnout="7.80" percentReporting="4" />
+            <Precinct name="HC" totalVoters="2237" ballotsCast="98" voterTurnout="4.38" percentReporting="4" />
+            <Precinct name="HI" totalVoters="3329" ballotsCast="146" voterTurnout="4.39" percentReporting="4" />
+            <Precinct name="LA" totalVoters="1891" ballotsCast="105" voterTurnout="5.55" percentReporting="4" />
+            <Precinct name="LO" totalVoters="3729" ballotsCast="300" voterTurnout="8.05" percentReporting="4" />
+            <Precinct name="MA" totalVoters="2965" ballotsCast="147" voterTurnout="4.96" percentReporting="4" />
+            <Precinct name="MI" totalVoters="3815" ballotsCast="207" voterTurnout="5.43" percentReporting="4" />
+            <Precinct name="OT" totalVoters="5551" ballotsCast="246" voterTurnout="4.43" percentReporting="4" />
+            <Precinct name="RO" totalVoters="4386" ballotsCast="334" voterTurnout="7.62" percentReporting="4" />
+            <Precinct name="SM" totalVoters="3974" ballotsCast="321" voterTurnout="8.08" percentReporting="4" />
+            <Precinct name="SP" totalVoters="4400" ballotsCast="292" voterTurnout="6.64" percentReporting="4" />
+            <Precinct name="ST" totalVoters="3076" ballotsCast="157" voterTurnout="5.10" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="BA" votes="3" />
+            <Precinct name="BT" votes="2" />
+            <Precinct name="CO" votes="1" />
+            <Precinct name="FI" votes="1" />
+            <Precinct name="FS" votes="2" />
+            <Precinct name="HC" votes="1" />
+            <Precinct name="HI" votes="1" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="3" />
+            <Precinct name="OT" votes="2" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="1" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="0" />
+            <Precinct name="FS" votes="0" />
+            <Precinct name="HC" votes="0" />
+            <Precinct name="HI" votes="0" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="0" />
+            <Precinct name="OT" votes="0" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="0" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="2173">
+            <VoteType name="Absentee by Mail Votes" votes="188">
+                <Precinct name="BA" votes="9" />
+                <Precinct name="BT" votes="7" />
+                <Precinct name="CO" votes="5" />
+                <Precinct name="FI" votes="13" />
+                <Precinct name="FS" votes="15" />
+                <Precinct name="HC" votes="9" />
+                <Precinct name="HI" votes="5" />
+                <Precinct name="LA" votes="6" />
+                <Precinct name="LO" votes="12" />
+                <Precinct name="MA" votes="12" />
+                <Precinct name="MI" votes="12" />
+                <Precinct name="OT" votes="21" />
+                <Precinct name="RO" votes="19" />
+                <Precinct name="SM" votes="10" />
+                <Precinct name="SP" votes="16" />
+                <Precinct name="ST" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="814">
+                <Precinct name="BA" votes="52" />
+                <Precinct name="BT" votes="39" />
+                <Precinct name="CO" votes="36" />
+                <Precinct name="FI" votes="85" />
+                <Precinct name="FS" votes="66" />
+                <Precinct name="HC" votes="16" />
+                <Precinct name="HI" votes="26" />
+                <Precinct name="LA" votes="30" />
+                <Precinct name="LO" votes="57" />
+                <Precinct name="MA" votes="32" />
+                <Precinct name="MI" votes="40" />
+                <Precinct name="OT" votes="55" />
+                <Precinct name="RO" votes="90" />
+                <Precinct name="SM" votes="70" />
+                <Precinct name="SP" votes="80" />
+                <Precinct name="ST" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1169">
+                <Precinct name="BA" votes="94" />
+                <Precinct name="BT" votes="42" />
+                <Precinct name="CO" votes="42" />
+                <Precinct name="FI" votes="116" />
+                <Precinct name="FS" votes="99" />
+                <Precinct name="HC" votes="31" />
+                <Precinct name="HI" votes="44" />
+                <Precinct name="LA" votes="33" />
+                <Precinct name="LO" votes="123" />
+                <Precinct name="MA" votes="50" />
+                <Precinct name="MI" votes="72" />
+                <Precinct name="OT" votes="73" />
+                <Precinct name="RO" votes="86" />
+                <Precinct name="SM" votes="119" />
+                <Precinct name="SP" votes="92" />
+                <Precinct name="ST" votes="53" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="1" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="0" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="0" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="1315">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="BA" votes="7" />
+                <Precinct name="BT" votes="5" />
+                <Precinct name="CO" votes="9" />
+                <Precinct name="FI" votes="19" />
+                <Precinct name="FS" votes="16" />
+                <Precinct name="HC" votes="6" />
+                <Precinct name="HI" votes="7" />
+                <Precinct name="LA" votes="7" />
+                <Precinct name="LO" votes="8" />
+                <Precinct name="MA" votes="10" />
+                <Precinct name="MI" votes="13" />
+                <Precinct name="OT" votes="5" />
+                <Precinct name="RO" votes="11" />
+                <Precinct name="SM" votes="5" />
+                <Precinct name="SP" votes="12" />
+                <Precinct name="ST" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="443">
+                <Precinct name="BA" votes="34" />
+                <Precinct name="BT" votes="7" />
+                <Precinct name="CO" votes="20" />
+                <Precinct name="FI" votes="37" />
+                <Precinct name="FS" votes="31" />
+                <Precinct name="HC" votes="13" />
+                <Precinct name="HI" votes="13" />
+                <Precinct name="LA" votes="12" />
+                <Precinct name="LO" votes="26" />
+                <Precinct name="MA" votes="16" />
+                <Precinct name="MI" votes="29" />
+                <Precinct name="OT" votes="36" />
+                <Precinct name="RO" votes="59" />
+                <Precinct name="SM" votes="49" />
+                <Precinct name="SP" votes="40" />
+                <Precinct name="ST" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="726">
+                <Precinct name="BA" votes="58" />
+                <Precinct name="BT" votes="28" />
+                <Precinct name="CO" votes="35" />
+                <Precinct name="FI" votes="64" />
+                <Precinct name="FS" votes="55" />
+                <Precinct name="HC" votes="22" />
+                <Precinct name="HI" votes="50" />
+                <Precinct name="LA" votes="17" />
+                <Precinct name="LO" votes="73" />
+                <Precinct name="MA" votes="27" />
+                <Precinct name="MI" votes="38" />
+                <Precinct name="OT" votes="53" />
+                <Precinct name="RO" votes="69" />
+                <Precinct name="SM" votes="66" />
+                <Precinct name="SP" votes="49" />
+                <Precinct name="ST" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="0" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="1" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="1" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="0" />
+                <Precinct name="SP" votes="3" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="1" />
+            <Precinct name="FS" votes="2" />
+            <Precinct name="HC" votes="1" />
+            <Precinct name="HI" votes="2" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="2" />
+            <Precinct name="MA" votes="2" />
+            <Precinct name="MI" votes="2" />
+            <Precinct name="OT" votes="2" />
+            <Precinct name="RO" votes="1" />
+            <Precinct name="SM" votes="1" />
+            <Precinct name="SP" votes="2" />
+            <Precinct name="ST" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="0" />
+            <Precinct name="FS" votes="0" />
+            <Precinct name="HC" votes="0" />
+            <Precinct name="HI" votes="0" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="0" />
+            <Precinct name="OT" votes="0" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="0" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="940">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="BA" votes="2" />
+                <Precinct name="BT" votes="2" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="4" />
+                <Precinct name="FS" votes="11" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="4" />
+                <Precinct name="LA" votes="3" />
+                <Precinct name="LO" votes="3" />
+                <Precinct name="MA" votes="11" />
+                <Precinct name="MI" votes="4" />
+                <Precinct name="OT" votes="5" />
+                <Precinct name="RO" votes="9" />
+                <Precinct name="SM" votes="2" />
+                <Precinct name="SP" votes="1" />
+                <Precinct name="ST" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="289">
+                <Precinct name="BA" votes="23" />
+                <Precinct name="BT" votes="7" />
+                <Precinct name="CO" votes="15" />
+                <Precinct name="FI" votes="21" />
+                <Precinct name="FS" votes="18" />
+                <Precinct name="HC" votes="9" />
+                <Precinct name="HI" votes="8" />
+                <Precinct name="LA" votes="12" />
+                <Precinct name="LO" votes="15" />
+                <Precinct name="MA" votes="11" />
+                <Precinct name="MI" votes="24" />
+                <Precinct name="OT" votes="12" />
+                <Precinct name="RO" votes="42" />
+                <Precinct name="SM" votes="31" />
+                <Precinct name="SP" votes="27" />
+                <Precinct name="ST" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="586">
+                <Precinct name="BA" votes="50" />
+                <Precinct name="BT" votes="16" />
+                <Precinct name="CO" votes="35" />
+                <Precinct name="FI" votes="47" />
+                <Precinct name="FS" votes="52" />
+                <Precinct name="HC" votes="14" />
+                <Precinct name="HI" votes="36" />
+                <Precinct name="LA" votes="19" />
+                <Precinct name="LO" votes="46" />
+                <Precinct name="MA" votes="10" />
+                <Precinct name="MI" votes="34" />
+                <Precinct name="OT" votes="43" />
+                <Precinct name="RO" votes="50" />
+                <Precinct name="SM" votes="72" />
+                <Precinct name="SP" votes="40" />
+                <Precinct name="ST" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="0" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="1" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="0" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="0" />
+                <Precinct name="SP" votes="0" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="2549">
+            <VoteType name="Absentee by Mail Votes" votes="266">
+                <Precinct name="BA" votes="14" />
+                <Precinct name="BT" votes="12" />
+                <Precinct name="CO" votes="14" />
+                <Precinct name="FI" votes="28" />
+                <Precinct name="FS" votes="20" />
+                <Precinct name="HC" votes="15" />
+                <Precinct name="HI" votes="8" />
+                <Precinct name="LA" votes="10" />
+                <Precinct name="LO" votes="17" />
+                <Precinct name="MA" votes="11" />
+                <Precinct name="MI" votes="21" />
+                <Precinct name="OT" votes="21" />
+                <Precinct name="RO" votes="21" />
+                <Precinct name="SM" votes="13" />
+                <Precinct name="SP" votes="26" />
+                <Precinct name="ST" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="964">
+                <Precinct name="BA" votes="65" />
+                <Precinct name="BT" votes="39" />
+                <Precinct name="CO" votes="41" />
+                <Precinct name="FI" votes="100" />
+                <Precinct name="FS" votes="79" />
+                <Precinct name="HC" votes="20" />
+                <Precinct name="HI" votes="29" />
+                <Precinct name="LA" votes="30" />
+                <Precinct name="LO" votes="67" />
+                <Precinct name="MA" votes="37" />
+                <Precinct name="MI" votes="46" />
+                <Precinct name="OT" votes="79" />
+                <Precinct name="RO" votes="106" />
+                <Precinct name="SM" votes="88" />
+                <Precinct name="SP" votes="92" />
+                <Precinct name="ST" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1313">
+                <Precinct name="BA" votes="103" />
+                <Precinct name="BT" votes="54" />
+                <Precinct name="CO" votes="43" />
+                <Precinct name="FI" votes="134" />
+                <Precinct name="FS" votes="102" />
+                <Precinct name="HC" votes="39" />
+                <Precinct name="HI" votes="59" />
+                <Precinct name="LA" votes="31" />
+                <Precinct name="LO" votes="149" />
+                <Precinct name="MA" votes="65" />
+                <Precinct name="MI" votes="76" />
+                <Precinct name="OT" votes="83" />
+                <Precinct name="RO" votes="105" />
+                <Precinct name="SM" votes="113" />
+                <Precinct name="SP" votes="101" />
+                <Precinct name="ST" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="1" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="1" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="3" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="111">
+            <Precinct name="BA" votes="12" />
+            <Precinct name="BT" votes="6" />
+            <Precinct name="CO" votes="1" />
+            <Precinct name="FI" votes="6" />
+            <Precinct name="FS" votes="11" />
+            <Precinct name="HC" votes="1" />
+            <Precinct name="HI" votes="4" />
+            <Precinct name="LA" votes="1" />
+            <Precinct name="LO" votes="16" />
+            <Precinct name="MA" votes="8" />
+            <Precinct name="MI" votes="7" />
+            <Precinct name="OT" votes="10" />
+            <Precinct name="RO" votes="6" />
+            <Precinct name="SM" votes="8" />
+            <Precinct name="SP" votes="7" />
+            <Precinct name="ST" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="0" />
+            <Precinct name="FS" votes="0" />
+            <Precinct name="HC" votes="0" />
+            <Precinct name="HI" votes="0" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="0" />
+            <Precinct name="OT" votes="0" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="0" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="1199">
+            <VoteType name="Absentee by Mail Votes" votes="95">
+                <Precinct name="BA" votes="2" />
+                <Precinct name="BT" votes="4" />
+                <Precinct name="CO" votes="7" />
+                <Precinct name="FI" votes="12" />
+                <Precinct name="FS" votes="5" />
+                <Precinct name="HC" votes="3" />
+                <Precinct name="HI" votes="4" />
+                <Precinct name="LA" votes="1" />
+                <Precinct name="LO" votes="6" />
+                <Precinct name="MA" votes="7" />
+                <Precinct name="MI" votes="5" />
+                <Precinct name="OT" votes="8" />
+                <Precinct name="RO" votes="14" />
+                <Precinct name="SM" votes="4" />
+                <Precinct name="SP" votes="6" />
+                <Precinct name="ST" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="417">
+                <Precinct name="BA" votes="32" />
+                <Precinct name="BT" votes="14" />
+                <Precinct name="CO" votes="18" />
+                <Precinct name="FI" votes="40" />
+                <Precinct name="FS" votes="36" />
+                <Precinct name="HC" votes="12" />
+                <Precinct name="HI" votes="14" />
+                <Precinct name="LA" votes="10" />
+                <Precinct name="LO" votes="26" />
+                <Precinct name="MA" votes="12" />
+                <Precinct name="MI" votes="16" />
+                <Precinct name="OT" votes="28" />
+                <Precinct name="RO" votes="50" />
+                <Precinct name="SM" votes="42" />
+                <Precinct name="SP" votes="44" />
+                <Precinct name="ST" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="685">
+                <Precinct name="BA" votes="54" />
+                <Precinct name="BT" votes="23" />
+                <Precinct name="CO" votes="31" />
+                <Precinct name="FI" votes="60" />
+                <Precinct name="FS" votes="57" />
+                <Precinct name="HC" votes="11" />
+                <Precinct name="HI" votes="41" />
+                <Precinct name="LA" votes="26" />
+                <Precinct name="LO" votes="63" />
+                <Precinct name="MA" votes="29" />
+                <Precinct name="MI" votes="39" />
+                <Precinct name="OT" votes="47" />
+                <Precinct name="RO" votes="56" />
+                <Precinct name="SM" votes="73" />
+                <Precinct name="SP" votes="40" />
+                <Precinct name="ST" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="1" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="0" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="0" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="2198">
+            <VoteType name="Absentee by Mail Votes" votes="216">
+                <Precinct name="BA" votes="13" />
+                <Precinct name="BT" votes="7" />
+                <Precinct name="CO" votes="7" />
+                <Precinct name="FI" votes="19" />
+                <Precinct name="FS" votes="23" />
+                <Precinct name="HC" votes="12" />
+                <Precinct name="HI" votes="8" />
+                <Precinct name="LA" votes="12" />
+                <Precinct name="LO" votes="11" />
+                <Precinct name="MA" votes="15" />
+                <Precinct name="MI" votes="17" />
+                <Precinct name="OT" votes="15" />
+                <Precinct name="RO" votes="16" />
+                <Precinct name="SM" votes="11" />
+                <Precinct name="SP" votes="20" />
+                <Precinct name="ST" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="804">
+                <Precinct name="BA" votes="51" />
+                <Precinct name="BT" votes="30" />
+                <Precinct name="CO" votes="38" />
+                <Precinct name="FI" votes="81" />
+                <Precinct name="FS" votes="59" />
+                <Precinct name="HC" votes="17" />
+                <Precinct name="HI" votes="22" />
+                <Precinct name="LA" votes="31" />
+                <Precinct name="LO" votes="53" />
+                <Precinct name="MA" votes="33" />
+                <Precinct name="MI" votes="53" />
+                <Precinct name="OT" votes="61" />
+                <Precinct name="RO" votes="94" />
+                <Precinct name="SM" votes="74" />
+                <Precinct name="SP" votes="73" />
+                <Precinct name="ST" votes="34" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1174">
+                <Precinct name="BA" votes="93" />
+                <Precinct name="BT" votes="46" />
+                <Precinct name="CO" votes="46" />
+                <Precinct name="FI" votes="117" />
+                <Precinct name="FS" votes="93" />
+                <Precinct name="HC" votes="42" />
+                <Precinct name="HI" votes="53" />
+                <Precinct name="LA" votes="24" />
+                <Precinct name="LO" votes="125" />
+                <Precinct name="MA" votes="43" />
+                <Precinct name="MI" votes="70" />
+                <Precinct name="OT" votes="76" />
+                <Precinct name="RO" votes="98" />
+                <Precinct name="SM" votes="108" />
+                <Precinct name="SP" votes="99" />
+                <Precinct name="ST" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="0" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="1" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="0" />
+                <Precinct name="SP" votes="3" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="93">
+            <Precinct name="BA" votes="10" />
+            <Precinct name="BT" votes="5" />
+            <Precinct name="CO" votes="4" />
+            <Precinct name="FI" votes="9" />
+            <Precinct name="FS" votes="3" />
+            <Precinct name="HC" votes="1" />
+            <Precinct name="HI" votes="3" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="6" />
+            <Precinct name="MA" votes="7" />
+            <Precinct name="MI" votes="5" />
+            <Precinct name="OT" votes="10" />
+            <Precinct name="RO" votes="5" />
+            <Precinct name="SM" votes="12" />
+            <Precinct name="SP" votes="7" />
+            <Precinct name="ST" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="0" />
+            <Precinct name="FS" votes="0" />
+            <Precinct name="HC" votes="0" />
+            <Precinct name="HI" votes="0" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="0" />
+            <Precinct name="OT" votes="0" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="0" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="2367">
+            <VoteType name="Absentee by Mail Votes" votes="213">
+                <Precinct name="BA" votes="14" />
+                <Precinct name="BT" votes="6" />
+                <Precinct name="CO" votes="6" />
+                <Precinct name="FI" votes="18" />
+                <Precinct name="FS" votes="19" />
+                <Precinct name="HC" votes="8" />
+                <Precinct name="HI" votes="6" />
+                <Precinct name="LA" votes="8" />
+                <Precinct name="LO" votes="14" />
+                <Precinct name="MA" votes="14" />
+                <Precinct name="MI" votes="22" />
+                <Precinct name="OT" votes="18" />
+                <Precinct name="RO" votes="15" />
+                <Precinct name="SM" votes="14" />
+                <Precinct name="SP" votes="18" />
+                <Precinct name="ST" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="920">
+                <Precinct name="BA" votes="64" />
+                <Precinct name="BT" votes="37" />
+                <Precinct name="CO" votes="37" />
+                <Precinct name="FI" votes="90" />
+                <Precinct name="FS" votes="71" />
+                <Precinct name="HC" votes="20" />
+                <Precinct name="HI" votes="33" />
+                <Precinct name="LA" votes="32" />
+                <Precinct name="LO" votes="67" />
+                <Precinct name="MA" votes="26" />
+                <Precinct name="MI" votes="47" />
+                <Precinct name="OT" votes="61" />
+                <Precinct name="RO" votes="121" />
+                <Precinct name="SM" votes="76" />
+                <Precinct name="SP" votes="93" />
+                <Precinct name="ST" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1228">
+                <Precinct name="BA" votes="98" />
+                <Precinct name="BT" votes="42" />
+                <Precinct name="CO" votes="44" />
+                <Precinct name="FI" votes="121" />
+                <Precinct name="FS" votes="99" />
+                <Precinct name="HC" votes="42" />
+                <Precinct name="HI" votes="64" />
+                <Precinct name="LA" votes="38" />
+                <Precinct name="LO" votes="122" />
+                <Precinct name="MA" votes="40" />
+                <Precinct name="MI" votes="76" />
+                <Precinct name="OT" votes="77" />
+                <Precinct name="RO" votes="94" />
+                <Precinct name="SM" votes="130" />
+                <Precinct name="SP" votes="92" />
+                <Precinct name="ST" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="1" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="1" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="1" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="2" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="1048">
+            <VoteType name="Absentee by Mail Votes" votes="110">
+                <Precinct name="BA" votes="2" />
+                <Precinct name="BT" votes="6" />
+                <Precinct name="CO" votes="8" />
+                <Precinct name="FI" votes="13" />
+                <Precinct name="FS" votes="12" />
+                <Precinct name="HC" votes="7" />
+                <Precinct name="HI" votes="6" />
+                <Precinct name="LA" votes="5" />
+                <Precinct name="LO" votes="6" />
+                <Precinct name="MA" votes="8" />
+                <Precinct name="MI" votes="1" />
+                <Precinct name="OT" votes="6" />
+                <Precinct name="RO" votes="15" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="9" />
+                <Precinct name="ST" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="310">
+                <Precinct name="BA" votes="21" />
+                <Precinct name="BT" votes="8" />
+                <Precinct name="CO" votes="18" />
+                <Precinct name="FI" votes="29" />
+                <Precinct name="FS" votes="26" />
+                <Precinct name="HC" votes="9" />
+                <Precinct name="HI" votes="4" />
+                <Precinct name="LA" votes="10" />
+                <Precinct name="LO" votes="15" />
+                <Precinct name="MA" votes="17" />
+                <Precinct name="MI" votes="22" />
+                <Precinct name="OT" votes="29" />
+                <Precinct name="RO" votes="27" />
+                <Precinct name="SM" votes="38" />
+                <Precinct name="SP" votes="23" />
+                <Precinct name="ST" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="627">
+                <Precinct name="BA" votes="48" />
+                <Precinct name="BT" votes="26" />
+                <Precinct name="CO" votes="31" />
+                <Precinct name="FI" votes="55" />
+                <Precinct name="FS" votes="54" />
+                <Precinct name="HC" votes="11" />
+                <Precinct name="HI" votes="30" />
+                <Precinct name="LA" votes="12" />
+                <Precinct name="LO" votes="69" />
+                <Precinct name="MA" votes="35" />
+                <Precinct name="MI" votes="34" />
+                <Precinct name="OT" votes="44" />
+                <Precinct name="RO" votes="57" />
+                <Precinct name="SM" votes="49" />
+                <Precinct name="SP" votes="47" />
+                <Precinct name="ST" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="0" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="0" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="0" />
+                <Precinct name="SP" votes="1" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="70" text="County School Board - Post 2" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="136">
+            <Precinct name="BA" votes="11" />
+            <Precinct name="BT" votes="10" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="9" />
+            <Precinct name="FS" votes="10" />
+            <Precinct name="HC" votes="1" />
+            <Precinct name="HI" votes="5" />
+            <Precinct name="LA" votes="1" />
+            <Precinct name="LO" votes="13" />
+            <Precinct name="MA" votes="15" />
+            <Precinct name="MI" votes="5" />
+            <Precinct name="OT" votes="12" />
+            <Precinct name="RO" votes="15" />
+            <Precinct name="SM" votes="11" />
+            <Precinct name="SP" votes="10" />
+            <Precinct name="ST" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="BA" votes="0" />
+            <Precinct name="BT" votes="0" />
+            <Precinct name="CO" votes="0" />
+            <Precinct name="FI" votes="0" />
+            <Precinct name="FS" votes="0" />
+            <Precinct name="HC" votes="0" />
+            <Precinct name="HI" votes="0" />
+            <Precinct name="LA" votes="0" />
+            <Precinct name="LO" votes="0" />
+            <Precinct name="MA" votes="0" />
+            <Precinct name="MI" votes="0" />
+            <Precinct name="OT" votes="0" />
+            <Precinct name="RO" votes="0" />
+            <Precinct name="SM" votes="0" />
+            <Precinct name="SP" votes="0" />
+            <Precinct name="ST" votes="0" />
+        </VoteType>
+        <Choice key="159" text="Tony Dowdy" totalVotes="1439">
+            <VoteType name="Absentee by Mail Votes" votes="177">
+                <Precinct name="BA" votes="8" />
+                <Precinct name="BT" votes="11" />
+                <Precinct name="CO" votes="8" />
+                <Precinct name="FI" votes="21" />
+                <Precinct name="FS" votes="11" />
+                <Precinct name="HC" votes="13" />
+                <Precinct name="HI" votes="5" />
+                <Precinct name="LA" votes="3" />
+                <Precinct name="LO" votes="19" />
+                <Precinct name="MA" votes="9" />
+                <Precinct name="MI" votes="10" />
+                <Precinct name="OT" votes="4" />
+                <Precinct name="RO" votes="19" />
+                <Precinct name="SM" votes="5" />
+                <Precinct name="SP" votes="18" />
+                <Precinct name="ST" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="484">
+                <Precinct name="BA" votes="25" />
+                <Precinct name="BT" votes="21" />
+                <Precinct name="CO" votes="27" />
+                <Precinct name="FI" votes="35" />
+                <Precinct name="FS" votes="37" />
+                <Precinct name="HC" votes="20" />
+                <Precinct name="HI" votes="9" />
+                <Precinct name="LA" votes="14" />
+                <Precinct name="LO" votes="42" />
+                <Precinct name="MA" votes="18" />
+                <Precinct name="MI" votes="21" />
+                <Precinct name="OT" votes="41" />
+                <Precinct name="RO" votes="43" />
+                <Precinct name="SM" votes="40" />
+                <Precinct name="SP" votes="44" />
+                <Precinct name="ST" votes="47" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="777">
+                <Precinct name="BA" votes="72" />
+                <Precinct name="BT" votes="46" />
+                <Precinct name="CO" votes="40" />
+                <Precinct name="FI" votes="44" />
+                <Precinct name="FS" votes="44" />
+                <Precinct name="HC" votes="57" />
+                <Precinct name="HI" votes="36" />
+                <Precinct name="LA" votes="23" />
+                <Precinct name="LO" votes="98" />
+                <Precinct name="MA" votes="49" />
+                <Precinct name="MI" votes="30" />
+                <Precinct name="OT" votes="27" />
+                <Precinct name="RO" votes="56" />
+                <Precinct name="SM" votes="77" />
+                <Precinct name="SP" votes="38" />
+                <Precinct name="ST" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="1" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="0" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="0" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="0" />
+                <Precinct name="SP" votes="0" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="160" text="Janie Jones" totalVotes="2638">
+            <VoteType name="Absentee by Mail Votes" votes="243">
+                <Precinct name="BA" votes="14" />
+                <Precinct name="BT" votes="10" />
+                <Precinct name="CO" votes="10" />
+                <Precinct name="FI" votes="17" />
+                <Precinct name="FS" votes="25" />
+                <Precinct name="HC" votes="9" />
+                <Precinct name="HI" votes="9" />
+                <Precinct name="LA" votes="11" />
+                <Precinct name="LO" votes="15" />
+                <Precinct name="MA" votes="15" />
+                <Precinct name="MI" votes="17" />
+                <Precinct name="OT" votes="24" />
+                <Precinct name="RO" votes="19" />
+                <Precinct name="SM" votes="15" />
+                <Precinct name="SP" votes="20" />
+                <Precinct name="ST" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="952">
+                <Precinct name="BA" votes="65" />
+                <Precinct name="BT" votes="33" />
+                <Precinct name="CO" votes="42" />
+                <Precinct name="FI" votes="92" />
+                <Precinct name="FS" votes="74" />
+                <Precinct name="HC" votes="19" />
+                <Precinct name="HI" votes="30" />
+                <Precinct name="LA" votes="31" />
+                <Precinct name="LO" votes="63" />
+                <Precinct name="MA" votes="32" />
+                <Precinct name="MI" votes="60" />
+                <Precinct name="OT" votes="67" />
+                <Precinct name="RO" votes="121" />
+                <Precinct name="SM" votes="94" />
+                <Precinct name="SP" votes="91" />
+                <Precinct name="ST" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1437">
+                <Precinct name="BA" votes="113" />
+                <Precinct name="BT" votes="51" />
+                <Precinct name="CO" votes="67" />
+                <Precinct name="FI" votes="138" />
+                <Precinct name="FS" votes="117" />
+                <Precinct name="HC" votes="34" />
+                <Precinct name="HI" votes="72" />
+                <Precinct name="LA" votes="30" />
+                <Precinct name="LO" votes="146" />
+                <Precinct name="MA" votes="48" />
+                <Precinct name="MI" votes="91" />
+                <Precinct name="OT" votes="98" />
+                <Precinct name="RO" votes="126" />
+                <Precinct name="SM" votes="125" />
+                <Precinct name="SP" votes="116" />
+                <Precinct name="ST" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="BA" votes="0" />
+                <Precinct name="BT" votes="0" />
+                <Precinct name="CO" votes="0" />
+                <Precinct name="FI" votes="0" />
+                <Precinct name="FS" votes="0" />
+                <Precinct name="HC" votes="0" />
+                <Precinct name="HI" votes="0" />
+                <Precinct name="LA" votes="0" />
+                <Precinct name="LO" votes="1" />
+                <Precinct name="MA" votes="0" />
+                <Precinct name="MI" votes="0" />
+                <Precinct name="OT" votes="1" />
+                <Precinct name="RO" votes="0" />
+                <Precinct name="SM" votes="1" />
+                <Precinct name="SP" votes="3" />
+                <Precinct name="ST" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

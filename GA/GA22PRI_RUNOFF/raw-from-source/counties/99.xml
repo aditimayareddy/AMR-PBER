@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 11:44:30 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Meriwether</Region>
+    <VoterTurnout totalVoters="15259" ballotsCast="461" voterTurnout="3.02">
+        <Precincts>
+            <Precinct name="Chalybeate" totalVoters="435" ballotsCast="4" voterTurnout="0.92" percentReporting="4" />
+            <Precinct name="Gill I" totalVoters="1693" ballotsCast="32" voterTurnout="1.89" percentReporting="4" />
+            <Precinct name="Gill II" totalVoters="975" ballotsCast="77" voterTurnout="7.90" percentReporting="4" />
+            <Precinct name="7th-Odessadale" totalVoters="296" ballotsCast="17" voterTurnout="5.74" percentReporting="4" />
+            <Precinct name="8th-Greenville" totalVoters="1972" ballotsCast="71" voterTurnout="3.60" percentReporting="4" />
+            <Precinct name="Lone Oak" totalVoters="1309" ballotsCast="60" voterTurnout="4.58" percentReporting="4" />
+            <Precinct name="Luthersville" totalVoters="2760" ballotsCast="71" voterTurnout="2.57" percentReporting="4" />
+            <Precinct name="Upper 9th-Alvaton" totalVoters="1553" ballotsCast="37" voterTurnout="2.38" percentReporting="4" />
+            <Precinct name="Middle 9th-Gay" totalVoters="392" ballotsCast="6" voterTurnout="1.53" percentReporting="4" />
+            <Precinct name="Lower 9th-Woodbury" totalVoters="1335" ballotsCast="32" voterTurnout="2.40" percentReporting="4" />
+            <Precinct name="2nd-Warm Springs" totalVoters="1127" ballotsCast="27" voterTurnout="2.40" percentReporting="4" />
+            <Precinct name="Third-Durand" totalVoters="707" ballotsCast="16" voterTurnout="2.26" percentReporting="4" />
+            <Precinct name="Raleigh" totalVoters="499" ballotsCast="11" voterTurnout="2.20" percentReporting="4" />
+            <Precinct name="Cove" totalVoters="206" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="2" />
+            <Precinct name="7th-Odessadale" votes="1" />
+            <Precinct name="8th-Greenville" votes="3" />
+            <Precinct name="Lone Oak" votes="1" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="1" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="0" />
+            <Precinct name="7th-Odessadale" votes="0" />
+            <Precinct name="8th-Greenville" votes="0" />
+            <Precinct name="Lone Oak" votes="0" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="290">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="9" />
+                <Precinct name="Gill II" votes="3" />
+                <Precinct name="7th-Odessadale" votes="4" />
+                <Precinct name="8th-Greenville" votes="2" />
+                <Precinct name="Lone Oak" votes="7" />
+                <Precinct name="Luthersville" votes="9" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="2" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="4" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="2" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="14" />
+                <Precinct name="Lone Oak" votes="4" />
+                <Precinct name="Luthersville" votes="9" />
+                <Precinct name="Upper 9th-Alvaton" votes="2" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="2" />
+                <Precinct name="Raleigh" votes="2" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="212">
+                <Precinct name="Chalybeate" votes="3" />
+                <Precinct name="Gill I" votes="11" />
+                <Precinct name="Gill II" votes="39" />
+                <Precinct name="7th-Odessadale" votes="8" />
+                <Precinct name="8th-Greenville" votes="26" />
+                <Precinct name="Lone Oak" votes="28" />
+                <Precinct name="Luthersville" votes="29" />
+                <Precinct name="Upper 9th-Alvaton" votes="16" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="20" />
+                <Precinct name="2nd-Warm Springs" votes="16" />
+                <Precinct name="Third-Durand" votes="10" />
+                <Precinct name="Raleigh" votes="4" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="163">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="8" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="5" />
+                <Precinct name="Lone Oak" votes="8" />
+                <Precinct name="Luthersville" votes="6" />
+                <Precinct name="Upper 9th-Alvaton" votes="3" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="3" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="3" />
+                <Precinct name="Gill II" votes="5" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="13" />
+                <Precinct name="Lone Oak" votes="5" />
+                <Precinct name="Luthersville" votes="8" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Chalybeate" votes="1" />
+                <Precinct name="Gill I" votes="9" />
+                <Precinct name="Gill II" votes="18" />
+                <Precinct name="7th-Odessadale" votes="4" />
+                <Precinct name="8th-Greenville" votes="8" />
+                <Precinct name="Lone Oak" votes="7" />
+                <Precinct name="Luthersville" votes="10" />
+                <Precinct name="Upper 9th-Alvaton" votes="15" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="9" />
+                <Precinct name="2nd-Warm Springs" votes="8" />
+                <Precinct name="Third-Durand" votes="3" />
+                <Precinct name="Raleigh" votes="1" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="1" />
+            <Precinct name="7th-Odessadale" votes="1" />
+            <Precinct name="8th-Greenville" votes="2" />
+            <Precinct name="Lone Oak" votes="1" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="0" />
+            <Precinct name="7th-Odessadale" votes="0" />
+            <Precinct name="8th-Greenville" votes="0" />
+            <Precinct name="Lone Oak" votes="0" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="111">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="3" />
+                <Precinct name="Gill II" votes="6" />
+                <Precinct name="7th-Odessadale" votes="2" />
+                <Precinct name="8th-Greenville" votes="1" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="1" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="1" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="1" />
+                <Precinct name="Gill II" votes="5" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="6" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="6" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="5" />
+                <Precinct name="Gill II" votes="18" />
+                <Precinct name="7th-Odessadale" votes="4" />
+                <Precinct name="8th-Greenville" votes="8" />
+                <Precinct name="Lone Oak" votes="9" />
+                <Precinct name="Luthersville" votes="3" />
+                <Precinct name="Upper 9th-Alvaton" votes="8" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="8" />
+                <Precinct name="2nd-Warm Springs" votes="6" />
+                <Precinct name="Third-Durand" votes="5" />
+                <Precinct name="Raleigh" votes="2" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="345">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="6" />
+                <Precinct name="Gill II" votes="5" />
+                <Precinct name="7th-Odessadale" votes="2" />
+                <Precinct name="8th-Greenville" votes="6" />
+                <Precinct name="Lone Oak" votes="15" />
+                <Precinct name="Luthersville" votes="14" />
+                <Precinct name="Upper 9th-Alvaton" votes="4" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="2" />
+                <Precinct name="2nd-Warm Springs" votes="2" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="4" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="2" />
+                <Precinct name="Gill II" votes="2" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="21" />
+                <Precinct name="Lone Oak" votes="9" />
+                <Precinct name="Luthersville" votes="11" />
+                <Precinct name="Upper 9th-Alvaton" votes="2" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="2" />
+                <Precinct name="Raleigh" votes="2" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="232">
+                <Precinct name="Chalybeate" votes="4" />
+                <Precinct name="Gill I" votes="15" />
+                <Precinct name="Gill II" votes="40" />
+                <Precinct name="7th-Odessadale" votes="8" />
+                <Precinct name="8th-Greenville" votes="27" />
+                <Precinct name="Lone Oak" votes="26" />
+                <Precinct name="Luthersville" votes="36" />
+                <Precinct name="Upper 9th-Alvaton" votes="23" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="21" />
+                <Precinct name="2nd-Warm Springs" votes="19" />
+                <Precinct name="Third-Durand" votes="8" />
+                <Precinct name="Raleigh" votes="3" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="3" />
+            <Precinct name="7th-Odessadale" votes="1" />
+            <Precinct name="8th-Greenville" votes="2" />
+            <Precinct name="Lone Oak" votes="1" />
+            <Precinct name="Luthersville" votes="1" />
+            <Precinct name="Upper 9th-Alvaton" votes="1" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="1" />
+            <Precinct name="Third-Durand" votes="1" />
+            <Precinct name="Raleigh" votes="1" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="0" />
+            <Precinct name="7th-Odessadale" votes="0" />
+            <Precinct name="8th-Greenville" votes="0" />
+            <Precinct name="Lone Oak" votes="0" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="175">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="2" />
+                <Precinct name="Gill II" votes="2" />
+                <Precinct name="7th-Odessadale" votes="3" />
+                <Precinct name="8th-Greenville" votes="2" />
+                <Precinct name="Lone Oak" votes="5" />
+                <Precinct name="Luthersville" votes="2" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="2" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="11" />
+                <Precinct name="Lone Oak" votes="4" />
+                <Precinct name="Luthersville" votes="3" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="1" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Chalybeate" votes="1" />
+                <Precinct name="Gill I" votes="11" />
+                <Precinct name="Gill II" votes="24" />
+                <Precinct name="7th-Odessadale" votes="6" />
+                <Precinct name="8th-Greenville" votes="17" />
+                <Precinct name="Lone Oak" votes="16" />
+                <Precinct name="Luthersville" votes="9" />
+                <Precinct name="Upper 9th-Alvaton" votes="15" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="15" />
+                <Precinct name="2nd-Warm Springs" votes="9" />
+                <Precinct name="Third-Durand" votes="6" />
+                <Precinct name="Raleigh" votes="3" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="274">
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="7" />
+                <Precinct name="Gill II" votes="9" />
+                <Precinct name="7th-Odessadale" votes="1" />
+                <Precinct name="8th-Greenville" votes="5" />
+                <Precinct name="Lone Oak" votes="10" />
+                <Precinct name="Luthersville" votes="13" />
+                <Precinct name="Upper 9th-Alvaton" votes="2" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="3" />
+                <Precinct name="2nd-Warm Springs" votes="2" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="3" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="3" />
+                <Precinct name="Gill II" votes="5" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="16" />
+                <Precinct name="Lone Oak" votes="5" />
+                <Precinct name="Luthersville" votes="13" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="1" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="172">
+                <Precinct name="Chalybeate" votes="3" />
+                <Precinct name="Gill I" votes="9" />
+                <Precinct name="Gill II" votes="32" />
+                <Precinct name="7th-Odessadale" votes="6" />
+                <Precinct name="8th-Greenville" votes="18" />
+                <Precinct name="Lone Oak" votes="19" />
+                <Precinct name="Luthersville" votes="30" />
+                <Precinct name="Upper 9th-Alvaton" votes="16" />
+                <Precinct name="Middle 9th-Gay" votes="2" />
+                <Precinct name="Lower 9th-Woodbury" votes="14" />
+                <Precinct name="2nd-Warm Springs" votes="15" />
+                <Precinct name="Third-Durand" votes="6" />
+                <Precinct name="Raleigh" votes="2" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="4" />
+            <Precinct name="7th-Odessadale" votes="1" />
+            <Precinct name="8th-Greenville" votes="3" />
+            <Precinct name="Lone Oak" votes="1" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="1" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="1" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="1" />
+            <Precinct name="Raleigh" votes="1" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chalybeate" votes="0" />
+            <Precinct name="Gill I" votes="0" />
+            <Precinct name="Gill II" votes="0" />
+            <Precinct name="7th-Odessadale" votes="0" />
+            <Precinct name="8th-Greenville" votes="0" />
+            <Precinct name="Lone Oak" votes="0" />
+            <Precinct name="Luthersville" votes="0" />
+            <Precinct name="Upper 9th-Alvaton" votes="0" />
+            <Precinct name="Middle 9th-Gay" votes="0" />
+            <Precinct name="Lower 9th-Woodbury" votes="0" />
+            <Precinct name="2nd-Warm Springs" votes="0" />
+            <Precinct name="Third-Durand" votes="0" />
+            <Precinct name="Raleigh" votes="0" />
+            <Precinct name="Cove" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="321">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="6" />
+                <Precinct name="Gill II" votes="7" />
+                <Precinct name="7th-Odessadale" votes="3" />
+                <Precinct name="8th-Greenville" votes="6" />
+                <Precinct name="Lone Oak" votes="12" />
+                <Precinct name="Luthersville" votes="11" />
+                <Precinct name="Upper 9th-Alvaton" votes="2" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="2" />
+                <Precinct name="2nd-Warm Springs" votes="1" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="3" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="1" />
+                <Precinct name="Gill II" votes="3" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="18" />
+                <Precinct name="Lone Oak" votes="6" />
+                <Precinct name="Luthersville" votes="11" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="2" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="223">
+                <Precinct name="Chalybeate" votes="3" />
+                <Precinct name="Gill I" votes="12" />
+                <Precinct name="Gill II" votes="45" />
+                <Precinct name="7th-Odessadale" votes="7" />
+                <Precinct name="8th-Greenville" votes="28" />
+                <Precinct name="Lone Oak" votes="31" />
+                <Precinct name="Luthersville" votes="25" />
+                <Precinct name="Upper 9th-Alvaton" votes="19" />
+                <Precinct name="Middle 9th-Gay" votes="3" />
+                <Precinct name="Lower 9th-Woodbury" votes="17" />
+                <Precinct name="2nd-Warm Springs" votes="18" />
+                <Precinct name="Third-Durand" votes="11" />
+                <Precinct name="Raleigh" votes="4" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="127">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="3" />
+                <Precinct name="Gill II" votes="4" />
+                <Precinct name="7th-Odessadale" votes="1" />
+                <Precinct name="8th-Greenville" votes="1" />
+                <Precinct name="Lone Oak" votes="3" />
+                <Precinct name="Luthersville" votes="4" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="1" />
+                <Precinct name="2nd-Warm Springs" votes="1" />
+                <Precinct name="Third-Durand" votes="1" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="2" />
+                <Precinct name="Gill II" votes="4" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="8" />
+                <Precinct name="Lone Oak" votes="3" />
+                <Precinct name="Luthersville" votes="6" />
+                <Precinct name="Upper 9th-Alvaton" votes="1" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Chalybeate" votes="1" />
+                <Precinct name="Gill I" votes="8" />
+                <Precinct name="Gill II" votes="10" />
+                <Precinct name="7th-Odessadale" votes="5" />
+                <Precinct name="8th-Greenville" votes="7" />
+                <Precinct name="Lone Oak" votes="4" />
+                <Precinct name="Luthersville" votes="14" />
+                <Precinct name="Upper 9th-Alvaton" votes="12" />
+                <Precinct name="Middle 9th-Gay" votes="1" />
+                <Precinct name="Lower 9th-Woodbury" votes="11" />
+                <Precinct name="2nd-Warm Springs" votes="7" />
+                <Precinct name="Third-Durand" votes="2" />
+                <Precinct name="Raleigh" votes="1" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chalybeate" votes="0" />
+                <Precinct name="Gill I" votes="0" />
+                <Precinct name="Gill II" votes="0" />
+                <Precinct name="7th-Odessadale" votes="0" />
+                <Precinct name="8th-Greenville" votes="0" />
+                <Precinct name="Lone Oak" votes="0" />
+                <Precinct name="Luthersville" votes="0" />
+                <Precinct name="Upper 9th-Alvaton" votes="0" />
+                <Precinct name="Middle 9th-Gay" votes="0" />
+                <Precinct name="Lower 9th-Woodbury" votes="0" />
+                <Precinct name="2nd-Warm Springs" votes="0" />
+                <Precinct name="Third-Durand" votes="0" />
+                <Precinct name="Raleigh" votes="0" />
+                <Precinct name="Cove" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

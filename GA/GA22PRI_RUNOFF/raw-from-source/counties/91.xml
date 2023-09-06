@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 10:50:21 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Long</Region>
+    <VoterTurnout totalVoters="9488" ballotsCast="170" voterTurnout="1.79">
+        <Precincts>
+            <Precinct name="Breads Creek" totalVoters="1705" ballotsCast="41" voterTurnout="2.40" percentReporting="4" />
+            <Precinct name="Rye Patch_Oak Dale" totalVoters="2089" ballotsCast="30" voterTurnout="1.44" percentReporting="4" />
+            <Precinct name="South Ludowici" totalVoters="1899" ballotsCast="43" voterTurnout="2.26" percentReporting="4" />
+            <Precinct name="North Ludowici" totalVoters="1956" ballotsCast="32" voterTurnout="1.64" percentReporting="4" />
+            <Precinct name="Tibet" totalVoters="899" ballotsCast="15" voterTurnout="1.67" percentReporting="4" />
+            <Precinct name="Alma Flournoy" totalVoters="81" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Faith Baptist Annex" totalVoters="859" ballotsCast="9" voterTurnout="1.05" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Breads Creek" votes="3" />
+            <Precinct name="Rye Patch_Oak Dale" votes="1" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Breads Creek" votes="0" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="81">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Breads Creek" votes="8" />
+                <Precinct name="Rye Patch_Oak Dale" votes="5" />
+                <Precinct name="South Ludowici" votes="10" />
+                <Precinct name="North Ludowici" votes="5" />
+                <Precinct name="Tibet" votes="2" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Breads Creek" votes="13" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="11" />
+                <Precinct name="North Ludowici" votes="11" />
+                <Precinct name="Tibet" votes="3" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="2" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="85">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Breads Creek" votes="2" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Breads Creek" votes="8" />
+                <Precinct name="Rye Patch_Oak Dale" votes="7" />
+                <Precinct name="South Ludowici" votes="4" />
+                <Precinct name="North Ludowici" votes="7" />
+                <Precinct name="Tibet" votes="7" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="46">
+                <Precinct name="Breads Creek" votes="7" />
+                <Precinct name="Rye Patch_Oak Dale" votes="11" />
+                <Precinct name="South Ludowici" votes="15" />
+                <Precinct name="North Ludowici" votes="6" />
+                <Precinct name="Tibet" votes="3" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Breads Creek" votes="1" />
+            <Precinct name="Rye Patch_Oak Dale" votes="1" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Breads Creek" votes="0" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="67">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Breads Creek" votes="2" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Breads Creek" votes="3" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="4" />
+                <Precinct name="North Ludowici" votes="6" />
+                <Precinct name="Tibet" votes="5" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Breads Creek" votes="8" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="9" />
+                <Precinct name="North Ludowici" votes="9" />
+                <Precinct name="Tibet" votes="2" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="100">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Breads Creek" votes="15" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="10" />
+                <Precinct name="North Ludowici" votes="6" />
+                <Precinct name="Tibet" votes="4" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Breads Creek" votes="12" />
+                <Precinct name="Rye Patch_Oak Dale" votes="11" />
+                <Precinct name="South Ludowici" votes="17" />
+                <Precinct name="North Ludowici" votes="8" />
+                <Precinct name="Tibet" votes="4" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Breads Creek" votes="2" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="1" />
+            <Precinct name="North Ludowici" votes="1" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Breads Creek" votes="0" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Breads Creek" votes="2" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Breads Creek" votes="10" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="5" />
+                <Precinct name="Tibet" votes="6" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Breads Creek" votes="11" />
+                <Precinct name="Rye Patch_Oak Dale" votes="11" />
+                <Precinct name="South Ludowici" votes="13" />
+                <Precinct name="North Ludowici" votes="4" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="89">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="Breads Creek" votes="7" />
+                <Precinct name="Rye Patch_Oak Dale" votes="7" />
+                <Precinct name="South Ludowici" votes="11" />
+                <Precinct name="North Ludowici" votes="7" />
+                <Precinct name="Tibet" votes="3" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Breads Creek" votes="9" />
+                <Precinct name="Rye Patch_Oak Dale" votes="6" />
+                <Precinct name="South Ludowici" votes="12" />
+                <Precinct name="North Ludowici" votes="12" />
+                <Precinct name="Tibet" votes="6" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Breads Creek" votes="3" />
+            <Precinct name="Rye Patch_Oak Dale" votes="1" />
+            <Precinct name="South Ludowici" votes="1" />
+            <Precinct name="North Ludowici" votes="2" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Breads Creek" votes="0" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="97">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Breads Creek" votes="2" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="2" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="37">
+                <Precinct name="Breads Creek" votes="9" />
+                <Precinct name="Rye Patch_Oak Dale" votes="9" />
+                <Precinct name="South Ludowici" votes="11" />
+                <Precinct name="North Ludowici" votes="2" />
+                <Precinct name="Tibet" votes="5" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Breads Creek" votes="11" />
+                <Precinct name="Rye Patch_Oak Dale" votes="14" />
+                <Precinct name="South Ludowici" votes="13" />
+                <Precinct name="North Ludowici" votes="7" />
+                <Precinct name="Tibet" votes="3" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="2" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="65">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="1" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Breads Creek" votes="7" />
+                <Precinct name="Rye Patch_Oak Dale" votes="3" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="8" />
+                <Precinct name="Tibet" votes="4" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Breads Creek" votes="9" />
+                <Precinct name="Rye Patch_Oak Dale" votes="3" />
+                <Precinct name="South Ludowici" votes="12" />
+                <Precinct name="North Ludowici" votes="10" />
+                <Precinct name="Tibet" votes="3" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Breads Creek" votes="1" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="1" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Breads Creek" votes="0" />
+            <Precinct name="Rye Patch_Oak Dale" votes="0" />
+            <Precinct name="South Ludowici" votes="0" />
+            <Precinct name="North Ludowici" votes="0" />
+            <Precinct name="Tibet" votes="0" />
+            <Precinct name="Alma Flournoy" votes="0" />
+            <Precinct name="Faith Baptist Annex" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Joyce Marie Griggs" party="DEM" totalVotes="84">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Breads Creek" votes="2" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="3" />
+                <Precinct name="North Ludowici" votes="1" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Breads Creek" votes="9" />
+                <Precinct name="Rye Patch_Oak Dale" votes="3" />
+                <Precinct name="South Ludowici" votes="6" />
+                <Precinct name="North Ludowici" votes="5" />
+                <Precinct name="Tibet" votes="1" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Breads Creek" votes="11" />
+                <Precinct name="Rye Patch_Oak Dale" votes="5" />
+                <Precinct name="South Ludowici" votes="16" />
+                <Precinct name="North Ludowici" votes="11" />
+                <Precinct name="Tibet" votes="5" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="136" text="Wade Herring" party="DEM" totalVotes="84">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="0" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Breads Creek" votes="8" />
+                <Precinct name="Rye Patch_Oak Dale" votes="10" />
+                <Precinct name="South Ludowici" votes="8" />
+                <Precinct name="North Ludowici" votes="7" />
+                <Precinct name="Tibet" votes="8" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Breads Creek" votes="10" />
+                <Precinct name="Rye Patch_Oak Dale" votes="12" />
+                <Precinct name="South Ludowici" votes="10" />
+                <Precinct name="North Ludowici" votes="5" />
+                <Precinct name="Tibet" votes="1" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Breads Creek" votes="0" />
+                <Precinct name="Rye Patch_Oak Dale" votes="0" />
+                <Precinct name="South Ludowici" votes="0" />
+                <Precinct name="North Ludowici" votes="2" />
+                <Precinct name="Tibet" votes="0" />
+                <Precinct name="Alma Flournoy" votes="0" />
+                <Precinct name="Faith Baptist Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,1002 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 3:25:39 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Paulding</Region>
+    <VoterTurnout totalVoters="115249" ballotsCast="1713" voterTurnout="1.49">
+        <Precincts>
+            <Precinct name="Burnt Hickory Park" totalVoters="6479" ballotsCast="42" voterTurnout="0.65" percentReporting="4" />
+            <Precinct name="Crossroads Library" totalVoters="3642" ballotsCast="36" voterTurnout="0.99" percentReporting="4" />
+            <Precinct name="Shelton Elementary" totalVoters="5301" ballotsCast="71" voterTurnout="1.34" percentReporting="4" />
+            <Precinct name="Russom Elementary" totalVoters="8790" ballotsCast="112" voterTurnout="1.27" percentReporting="4" />
+            <Precinct name="Paulding Sr Center" totalVoters="6215" ballotsCast="78" voterTurnout="1.26" percentReporting="4" />
+            <Precinct name="Legacy Bapt Church" totalVoters="4476" ballotsCast="69" voterTurnout="1.54" percentReporting="4" />
+            <Precinct name="Watson Govt Cmplx" totalVoters="10457" ballotsCast="106" voterTurnout="1.01" percentReporting="4" />
+            <Precinct name="East Paulding Middle Sch" totalVoters="11592" ballotsCast="152" voterTurnout="1.31" percentReporting="4" />
+            <Precinct name="Events Place" totalVoters="4943" ballotsCast="179" voterTurnout="3.62" percentReporting="4" />
+            <Precinct name="Poplar Sprgs Bapt Church" totalVoters="4624" ballotsCast="104" voterTurnout="2.25" percentReporting="4" />
+            <Precinct name="D Wright Innovation Ctr" totalVoters="6859" ballotsCast="133" voterTurnout="1.94" percentReporting="4" />
+            <Precinct name="Taylor Farm Park" totalVoters="2676" ballotsCast="58" voterTurnout="2.17" percentReporting="4" />
+            <Precinct name="Nebo Elem School" totalVoters="9706" ballotsCast="113" voterTurnout="1.16" percentReporting="4" />
+            <Precinct name="White Oak Park" totalVoters="5794" ballotsCast="84" voterTurnout="1.45" percentReporting="4" />
+            <Precinct name="Mulberry Rock Park" totalVoters="6234" ballotsCast="46" voterTurnout="0.74" percentReporting="4" />
+            <Precinct name="Beulahland Baptist Church" totalVoters="2526" ballotsCast="19" voterTurnout="0.75" percentReporting="4" />
+            <Precinct name="Paulding County Airport" totalVoters="4346" ballotsCast="47" voterTurnout="1.08" percentReporting="4" />
+            <Precinct name="Picketts Mill Baptist Church" totalVoters="2842" ballotsCast="29" voterTurnout="1.02" percentReporting="4" />
+            <Precinct name="Dobbins Middle School" totalVoters="7747" ballotsCast="235" voterTurnout="3.03" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Burnt Hickory Park" votes="1" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="1" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="0" />
+            <Precinct name="East Paulding Middle Sch" votes="1" />
+            <Precinct name="Events Place" votes="1" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="1" />
+            <Precinct name="D Wright Innovation Ctr" votes="2" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Burnt Hickory Park" votes="0" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="0" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="0" />
+            <Precinct name="East Paulding Middle Sch" votes="0" />
+            <Precinct name="Events Place" votes="0" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="1039">
+            <VoteType name="Absentee by Mail Votes" votes="244">
+                <Precinct name="Burnt Hickory Park" votes="3" />
+                <Precinct name="Crossroads Library" votes="8" />
+                <Precinct name="Shelton Elementary" votes="12" />
+                <Precinct name="Russom Elementary" votes="42" />
+                <Precinct name="Paulding Sr Center" votes="6" />
+                <Precinct name="Legacy Bapt Church" votes="14" />
+                <Precinct name="Watson Govt Cmplx" votes="13" />
+                <Precinct name="East Paulding Middle Sch" votes="30" />
+                <Precinct name="Events Place" votes="13" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="10" />
+                <Precinct name="D Wright Innovation Ctr" votes="15" />
+                <Precinct name="Taylor Farm Park" votes="3" />
+                <Precinct name="Nebo Elem School" votes="11" />
+                <Precinct name="White Oak Park" votes="14" />
+                <Precinct name="Mulberry Rock Park" votes="6" />
+                <Precinct name="Beulahland Baptist Church" votes="4" />
+                <Precinct name="Paulding County Airport" votes="13" />
+                <Precinct name="Picketts Mill Baptist Church" votes="12" />
+                <Precinct name="Dobbins Middle School" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="203">
+                <Precinct name="Burnt Hickory Park" votes="8" />
+                <Precinct name="Crossroads Library" votes="5" />
+                <Precinct name="Shelton Elementary" votes="5" />
+                <Precinct name="Russom Elementary" votes="7" />
+                <Precinct name="Paulding Sr Center" votes="13" />
+                <Precinct name="Legacy Bapt Church" votes="14" />
+                <Precinct name="Watson Govt Cmplx" votes="13" />
+                <Precinct name="East Paulding Middle Sch" votes="13" />
+                <Precinct name="Events Place" votes="11" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="10" />
+                <Precinct name="D Wright Innovation Ctr" votes="14" />
+                <Precinct name="Taylor Farm Park" votes="6" />
+                <Precinct name="Nebo Elem School" votes="8" />
+                <Precinct name="White Oak Park" votes="10" />
+                <Precinct name="Mulberry Rock Park" votes="14" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="4" />
+                <Precinct name="Picketts Mill Baptist Church" votes="3" />
+                <Precinct name="Dobbins Middle School" votes="44" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="592">
+                <Precinct name="Burnt Hickory Park" votes="13" />
+                <Precinct name="Crossroads Library" votes="15" />
+                <Precinct name="Shelton Elementary" votes="24" />
+                <Precinct name="Russom Elementary" votes="28" />
+                <Precinct name="Paulding Sr Center" votes="26" />
+                <Precinct name="Legacy Bapt Church" votes="20" />
+                <Precinct name="Watson Govt Cmplx" votes="34" />
+                <Precinct name="East Paulding Middle Sch" votes="56" />
+                <Precinct name="Events Place" votes="71" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="37" />
+                <Precinct name="D Wright Innovation Ctr" votes="54" />
+                <Precinct name="Taylor Farm Park" votes="33" />
+                <Precinct name="Nebo Elem School" votes="55" />
+                <Precinct name="White Oak Park" votes="21" />
+                <Precinct name="Mulberry Rock Park" votes="13" />
+                <Precinct name="Beulahland Baptist Church" votes="6" />
+                <Precinct name="Paulding County Airport" votes="12" />
+                <Precinct name="Picketts Mill Baptist Church" votes="11" />
+                <Precinct name="Dobbins Middle School" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="666">
+            <VoteType name="Absentee by Mail Votes" votes="108">
+                <Precinct name="Burnt Hickory Park" votes="3" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="1" />
+                <Precinct name="Russom Elementary" votes="12" />
+                <Precinct name="Paulding Sr Center" votes="12" />
+                <Precinct name="Legacy Bapt Church" votes="5" />
+                <Precinct name="Watson Govt Cmplx" votes="13" />
+                <Precinct name="East Paulding Middle Sch" votes="7" />
+                <Precinct name="Events Place" votes="17" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="5" />
+                <Precinct name="D Wright Innovation Ctr" votes="4" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="9" />
+                <Precinct name="White Oak Park" votes="6" />
+                <Precinct name="Mulberry Rock Park" votes="4" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="2" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="138">
+                <Precinct name="Burnt Hickory Park" votes="4" />
+                <Precinct name="Crossroads Library" votes="1" />
+                <Precinct name="Shelton Elementary" votes="5" />
+                <Precinct name="Russom Elementary" votes="6" />
+                <Precinct name="Paulding Sr Center" votes="4" />
+                <Precinct name="Legacy Bapt Church" votes="7" />
+                <Precinct name="Watson Govt Cmplx" votes="10" />
+                <Precinct name="East Paulding Middle Sch" votes="20" />
+                <Precinct name="Events Place" votes="13" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="12" />
+                <Precinct name="D Wright Innovation Ctr" votes="6" />
+                <Precinct name="Taylor Farm Park" votes="2" />
+                <Precinct name="Nebo Elem School" votes="8" />
+                <Precinct name="White Oak Park" votes="11" />
+                <Precinct name="Mulberry Rock Park" votes="2" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="5" />
+                <Precinct name="Picketts Mill Baptist Church" votes="1" />
+                <Precinct name="Dobbins Middle School" votes="20" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="420">
+                <Precinct name="Burnt Hickory Park" votes="10" />
+                <Precinct name="Crossroads Library" votes="7" />
+                <Precinct name="Shelton Elementary" votes="24" />
+                <Precinct name="Russom Elementary" votes="16" />
+                <Precinct name="Paulding Sr Center" votes="17" />
+                <Precinct name="Legacy Bapt Church" votes="9" />
+                <Precinct name="Watson Govt Cmplx" votes="23" />
+                <Precinct name="East Paulding Middle Sch" votes="25" />
+                <Precinct name="Events Place" votes="53" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="29" />
+                <Precinct name="D Wright Innovation Ctr" votes="38" />
+                <Precinct name="Taylor Farm Park" votes="14" />
+                <Precinct name="Nebo Elem School" votes="22" />
+                <Precinct name="White Oak Park" votes="22" />
+                <Precinct name="Mulberry Rock Park" votes="7" />
+                <Precinct name="Beulahland Baptist Church" votes="7" />
+                <Precinct name="Paulding County Airport" votes="11" />
+                <Precinct name="Picketts Mill Baptist Church" votes="2" />
+                <Precinct name="Dobbins Middle School" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Burnt Hickory Park" votes="0" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="0" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="2" />
+            <Precinct name="East Paulding Middle Sch" votes="0" />
+            <Precinct name="Events Place" votes="3" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="2" />
+            <Precinct name="D Wright Innovation Ctr" votes="2" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="1" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Burnt Hickory Park" votes="0" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="0" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="0" />
+            <Precinct name="East Paulding Middle Sch" votes="0" />
+            <Precinct name="Events Place" votes="0" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="367">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Burnt Hickory Park" votes="1" />
+                <Precinct name="Crossroads Library" votes="3" />
+                <Precinct name="Shelton Elementary" votes="2" />
+                <Precinct name="Russom Elementary" votes="1" />
+                <Precinct name="Paulding Sr Center" votes="4" />
+                <Precinct name="Legacy Bapt Church" votes="5" />
+                <Precinct name="Watson Govt Cmplx" votes="5" />
+                <Precinct name="East Paulding Middle Sch" votes="8" />
+                <Precinct name="Events Place" votes="7" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="3" />
+                <Precinct name="D Wright Innovation Ctr" votes="3" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="4" />
+                <Precinct name="White Oak Park" votes="5" />
+                <Precinct name="Mulberry Rock Park" votes="1" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="2" />
+                <Precinct name="Picketts Mill Baptist Church" votes="9" />
+                <Precinct name="Dobbins Middle School" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Burnt Hickory Park" votes="4" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="1" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="5" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="4" />
+                <Precinct name="East Paulding Middle Sch" votes="6" />
+                <Precinct name="Events Place" votes="4" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="4" />
+                <Precinct name="D Wright Innovation Ctr" votes="1" />
+                <Precinct name="Taylor Farm Park" votes="1" />
+                <Precinct name="Nebo Elem School" votes="2" />
+                <Precinct name="White Oak Park" votes="7" />
+                <Precinct name="Mulberry Rock Park" votes="1" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="2" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="241">
+                <Precinct name="Burnt Hickory Park" votes="1" />
+                <Precinct name="Crossroads Library" votes="6" />
+                <Precinct name="Shelton Elementary" votes="18" />
+                <Precinct name="Russom Elementary" votes="9" />
+                <Precinct name="Paulding Sr Center" votes="15" />
+                <Precinct name="Legacy Bapt Church" votes="9" />
+                <Precinct name="Watson Govt Cmplx" votes="15" />
+                <Precinct name="East Paulding Middle Sch" votes="12" />
+                <Precinct name="Events Place" votes="26" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="17" />
+                <Precinct name="D Wright Innovation Ctr" votes="26" />
+                <Precinct name="Taylor Farm Park" votes="10" />
+                <Precinct name="Nebo Elem School" votes="14" />
+                <Precinct name="White Oak Park" votes="5" />
+                <Precinct name="Mulberry Rock Park" votes="2" />
+                <Precinct name="Beulahland Baptist Church" votes="7" />
+                <Precinct name="Paulding County Airport" votes="2" />
+                <Precinct name="Picketts Mill Baptist Church" votes="3" />
+                <Precinct name="Dobbins Middle School" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="1335">
+            <VoteType name="Absentee by Mail Votes" votes="281">
+                <Precinct name="Burnt Hickory Park" votes="5" />
+                <Precinct name="Crossroads Library" votes="5" />
+                <Precinct name="Shelton Elementary" votes="11" />
+                <Precinct name="Russom Elementary" votes="53" />
+                <Precinct name="Paulding Sr Center" votes="14" />
+                <Precinct name="Legacy Bapt Church" votes="14" />
+                <Precinct name="Watson Govt Cmplx" votes="21" />
+                <Precinct name="East Paulding Middle Sch" votes="29" />
+                <Precinct name="Events Place" votes="23" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="12" />
+                <Precinct name="D Wright Innovation Ctr" votes="16" />
+                <Precinct name="Taylor Farm Park" votes="3" />
+                <Precinct name="Nebo Elem School" votes="16" />
+                <Precinct name="White Oak Park" votes="15" />
+                <Precinct name="Mulberry Rock Park" votes="9" />
+                <Precinct name="Beulahland Baptist Church" votes="4" />
+                <Precinct name="Paulding County Airport" votes="13" />
+                <Precinct name="Picketts Mill Baptist Church" votes="3" />
+                <Precinct name="Dobbins Middle School" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="288">
+                <Precinct name="Burnt Hickory Park" votes="9" />
+                <Precinct name="Crossroads Library" votes="6" />
+                <Precinct name="Shelton Elementary" votes="9" />
+                <Precinct name="Russom Elementary" votes="14" />
+                <Precinct name="Paulding Sr Center" votes="12" />
+                <Precinct name="Legacy Bapt Church" votes="21" />
+                <Precinct name="Watson Govt Cmplx" votes="19" />
+                <Precinct name="East Paulding Middle Sch" votes="27" />
+                <Precinct name="Events Place" votes="20" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="18" />
+                <Precinct name="D Wright Innovation Ctr" votes="19" />
+                <Precinct name="Taylor Farm Park" votes="7" />
+                <Precinct name="Nebo Elem School" votes="14" />
+                <Precinct name="White Oak Park" votes="14" />
+                <Precinct name="Mulberry Rock Park" votes="15" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="7" />
+                <Precinct name="Picketts Mill Baptist Church" votes="4" />
+                <Precinct name="Dobbins Middle School" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="766">
+                <Precinct name="Burnt Hickory Park" votes="22" />
+                <Precinct name="Crossroads Library" votes="16" />
+                <Precinct name="Shelton Elementary" votes="30" />
+                <Precinct name="Russom Elementary" votes="35" />
+                <Precinct name="Paulding Sr Center" votes="28" />
+                <Precinct name="Legacy Bapt Church" votes="20" />
+                <Precinct name="Watson Govt Cmplx" votes="40" />
+                <Precinct name="East Paulding Middle Sch" votes="70" />
+                <Precinct name="Events Place" votes="96" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="48" />
+                <Precinct name="D Wright Innovation Ctr" votes="66" />
+                <Precinct name="Taylor Farm Park" votes="37" />
+                <Precinct name="Nebo Elem School" votes="62" />
+                <Precinct name="White Oak Park" votes="38" />
+                <Precinct name="Mulberry Rock Park" votes="18" />
+                <Precinct name="Beulahland Baptist Church" votes="6" />
+                <Precinct name="Paulding County Airport" votes="21" />
+                <Precinct name="Picketts Mill Baptist Church" votes="10" />
+                <Precinct name="Dobbins Middle School" votes="103" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Burnt Hickory Park" votes="2" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="3" />
+            <Precinct name="Russom Elementary" votes="2" />
+            <Precinct name="Paulding Sr Center" votes="5" />
+            <Precinct name="Legacy Bapt Church" votes="1" />
+            <Precinct name="Watson Govt Cmplx" votes="2" />
+            <Precinct name="East Paulding Middle Sch" votes="3" />
+            <Precinct name="Events Place" votes="7" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="2" />
+            <Precinct name="D Wright Innovation Ctr" votes="4" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="2" />
+            <Precinct name="White Oak Park" votes="1" />
+            <Precinct name="Mulberry Rock Park" votes="1" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="1" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Burnt Hickory Park" votes="0" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="0" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="0" />
+            <Precinct name="East Paulding Middle Sch" votes="0" />
+            <Precinct name="Events Place" votes="0" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="600">
+            <VoteType name="Absentee by Mail Votes" votes="99">
+                <Precinct name="Burnt Hickory Park" votes="1" />
+                <Precinct name="Crossroads Library" votes="2" />
+                <Precinct name="Shelton Elementary" votes="1" />
+                <Precinct name="Russom Elementary" votes="11" />
+                <Precinct name="Paulding Sr Center" votes="3" />
+                <Precinct name="Legacy Bapt Church" votes="12" />
+                <Precinct name="Watson Govt Cmplx" votes="7" />
+                <Precinct name="East Paulding Middle Sch" votes="10" />
+                <Precinct name="Events Place" votes="8" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="6" />
+                <Precinct name="D Wright Innovation Ctr" votes="9" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="3" />
+                <Precinct name="White Oak Park" votes="4" />
+                <Precinct name="Mulberry Rock Park" votes="5" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="7" />
+                <Precinct name="Picketts Mill Baptist Church" votes="3" />
+                <Precinct name="Dobbins Middle School" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="110">
+                <Precinct name="Burnt Hickory Park" votes="5" />
+                <Precinct name="Crossroads Library" votes="2" />
+                <Precinct name="Shelton Elementary" votes="4" />
+                <Precinct name="Russom Elementary" votes="6" />
+                <Precinct name="Paulding Sr Center" votes="7" />
+                <Precinct name="Legacy Bapt Church" votes="8" />
+                <Precinct name="Watson Govt Cmplx" votes="7" />
+                <Precinct name="East Paulding Middle Sch" votes="8" />
+                <Precinct name="Events Place" votes="6" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="7" />
+                <Precinct name="D Wright Innovation Ctr" votes="1" />
+                <Precinct name="Taylor Farm Park" votes="5" />
+                <Precinct name="Nebo Elem School" votes="5" />
+                <Precinct name="White Oak Park" votes="9" />
+                <Precinct name="Mulberry Rock Park" votes="6" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="4" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="391">
+                <Precinct name="Burnt Hickory Park" votes="8" />
+                <Precinct name="Crossroads Library" votes="11" />
+                <Precinct name="Shelton Elementary" votes="25" />
+                <Precinct name="Russom Elementary" votes="14" />
+                <Precinct name="Paulding Sr Center" votes="14" />
+                <Precinct name="Legacy Bapt Church" votes="12" />
+                <Precinct name="Watson Govt Cmplx" votes="25" />
+                <Precinct name="East Paulding Middle Sch" votes="28" />
+                <Precinct name="Events Place" votes="45" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="20" />
+                <Precinct name="D Wright Innovation Ctr" votes="34" />
+                <Precinct name="Taylor Farm Park" votes="16" />
+                <Precinct name="Nebo Elem School" votes="33" />
+                <Precinct name="White Oak Park" votes="25" />
+                <Precinct name="Mulberry Rock Park" votes="8" />
+                <Precinct name="Beulahland Baptist Church" votes="4" />
+                <Precinct name="Paulding County Airport" votes="10" />
+                <Precinct name="Picketts Mill Baptist Church" votes="2" />
+                <Precinct name="Dobbins Middle School" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="1073">
+            <VoteType name="Absentee by Mail Votes" votes="244">
+                <Precinct name="Burnt Hickory Park" votes="5" />
+                <Precinct name="Crossroads Library" votes="6" />
+                <Precinct name="Shelton Elementary" votes="9" />
+                <Precinct name="Russom Elementary" votes="42" />
+                <Precinct name="Paulding Sr Center" votes="15" />
+                <Precinct name="Legacy Bapt Church" votes="7" />
+                <Precinct name="Watson Govt Cmplx" votes="19" />
+                <Precinct name="East Paulding Middle Sch" votes="27" />
+                <Precinct name="Events Place" votes="21" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="9" />
+                <Precinct name="D Wright Innovation Ctr" votes="8" />
+                <Precinct name="Taylor Farm Park" votes="3" />
+                <Precinct name="Nebo Elem School" votes="17" />
+                <Precinct name="White Oak Park" votes="16" />
+                <Precinct name="Mulberry Rock Park" votes="4" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="7" />
+                <Precinct name="Picketts Mill Baptist Church" votes="9" />
+                <Precinct name="Dobbins Middle School" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="229">
+                <Precinct name="Burnt Hickory Park" votes="8" />
+                <Precinct name="Crossroads Library" votes="4" />
+                <Precinct name="Shelton Elementary" votes="6" />
+                <Precinct name="Russom Elementary" votes="7" />
+                <Precinct name="Paulding Sr Center" votes="9" />
+                <Precinct name="Legacy Bapt Church" votes="13" />
+                <Precinct name="Watson Govt Cmplx" votes="16" />
+                <Precinct name="East Paulding Middle Sch" votes="25" />
+                <Precinct name="Events Place" votes="17" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="15" />
+                <Precinct name="D Wright Innovation Ctr" votes="19" />
+                <Precinct name="Taylor Farm Park" votes="3" />
+                <Precinct name="Nebo Elem School" votes="11" />
+                <Precinct name="White Oak Park" votes="12" />
+                <Precinct name="Mulberry Rock Park" votes="10" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="5" />
+                <Precinct name="Picketts Mill Baptist Church" votes="4" />
+                <Precinct name="Dobbins Middle School" votes="44" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="600">
+                <Precinct name="Burnt Hickory Park" votes="13" />
+                <Precinct name="Crossroads Library" votes="11" />
+                <Precinct name="Shelton Elementary" votes="23" />
+                <Precinct name="Russom Elementary" votes="30" />
+                <Precinct name="Paulding Sr Center" votes="25" />
+                <Precinct name="Legacy Bapt Church" votes="16" />
+                <Precinct name="Watson Govt Cmplx" votes="30" />
+                <Precinct name="East Paulding Middle Sch" votes="51" />
+                <Precinct name="Events Place" votes="75" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="45" />
+                <Precinct name="D Wright Innovation Ctr" votes="58" />
+                <Precinct name="Taylor Farm Park" votes="31" />
+                <Precinct name="Nebo Elem School" votes="42" />
+                <Precinct name="White Oak Park" votes="17" />
+                <Precinct name="Mulberry Rock Park" votes="12" />
+                <Precinct name="Beulahland Baptist Church" votes="9" />
+                <Precinct name="Paulding County Airport" votes="13" />
+                <Precinct name="Picketts Mill Baptist Church" votes="11" />
+                <Precinct name="Dobbins Middle School" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Burnt Hickory Park" votes="4" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="1" />
+            <Precinct name="Russom Elementary" votes="2" />
+            <Precinct name="Paulding Sr Center" votes="4" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="3" />
+            <Precinct name="East Paulding Middle Sch" votes="2" />
+            <Precinct name="Events Place" votes="3" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="1" />
+            <Precinct name="D Wright Innovation Ctr" votes="4" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="3" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="1" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Burnt Hickory Park" votes="0" />
+            <Precinct name="Crossroads Library" votes="0" />
+            <Precinct name="Shelton Elementary" votes="0" />
+            <Precinct name="Russom Elementary" votes="0" />
+            <Precinct name="Paulding Sr Center" votes="0" />
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Watson Govt Cmplx" votes="0" />
+            <Precinct name="East Paulding Middle Sch" votes="0" />
+            <Precinct name="Events Place" votes="0" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Mulberry Rock Park" votes="0" />
+            <Precinct name="Beulahland Baptist Church" votes="0" />
+            <Precinct name="Paulding County Airport" votes="0" />
+            <Precinct name="Picketts Mill Baptist Church" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="976">
+            <VoteType name="Absentee by Mail Votes" votes="213">
+                <Precinct name="Burnt Hickory Park" votes="4" />
+                <Precinct name="Crossroads Library" votes="8" />
+                <Precinct name="Shelton Elementary" votes="9" />
+                <Precinct name="Russom Elementary" votes="26" />
+                <Precinct name="Paulding Sr Center" votes="12" />
+                <Precinct name="Legacy Bapt Church" votes="8" />
+                <Precinct name="Watson Govt Cmplx" votes="16" />
+                <Precinct name="East Paulding Middle Sch" votes="23" />
+                <Precinct name="Events Place" votes="17" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="12" />
+                <Precinct name="D Wright Innovation Ctr" votes="11" />
+                <Precinct name="Taylor Farm Park" votes="3" />
+                <Precinct name="Nebo Elem School" votes="11" />
+                <Precinct name="White Oak Park" votes="11" />
+                <Precinct name="Mulberry Rock Park" votes="7" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="11" />
+                <Precinct name="Picketts Mill Baptist Church" votes="6" />
+                <Precinct name="Dobbins Middle School" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="203">
+                <Precinct name="Burnt Hickory Park" votes="10" />
+                <Precinct name="Crossroads Library" votes="4" />
+                <Precinct name="Shelton Elementary" votes="5" />
+                <Precinct name="Russom Elementary" votes="7" />
+                <Precinct name="Paulding Sr Center" votes="9" />
+                <Precinct name="Legacy Bapt Church" votes="15" />
+                <Precinct name="Watson Govt Cmplx" votes="8" />
+                <Precinct name="East Paulding Middle Sch" votes="24" />
+                <Precinct name="Events Place" votes="15" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="12" />
+                <Precinct name="D Wright Innovation Ctr" votes="11" />
+                <Precinct name="Taylor Farm Park" votes="4" />
+                <Precinct name="Nebo Elem School" votes="10" />
+                <Precinct name="White Oak Park" votes="14" />
+                <Precinct name="Mulberry Rock Park" votes="9" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="3" />
+                <Precinct name="Picketts Mill Baptist Church" votes="2" />
+                <Precinct name="Dobbins Middle School" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="560">
+                <Precinct name="Burnt Hickory Park" votes="12" />
+                <Precinct name="Crossroads Library" votes="16" />
+                <Precinct name="Shelton Elementary" votes="32" />
+                <Precinct name="Russom Elementary" votes="28" />
+                <Precinct name="Paulding Sr Center" votes="24" />
+                <Precinct name="Legacy Bapt Church" votes="21" />
+                <Precinct name="Watson Govt Cmplx" votes="30" />
+                <Precinct name="East Paulding Middle Sch" votes="46" />
+                <Precinct name="Events Place" votes="71" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="30" />
+                <Precinct name="D Wright Innovation Ctr" votes="49" />
+                <Precinct name="Taylor Farm Park" votes="25" />
+                <Precinct name="Nebo Elem School" votes="38" />
+                <Precinct name="White Oak Park" votes="20" />
+                <Precinct name="Mulberry Rock Park" votes="11" />
+                <Precinct name="Beulahland Baptist Church" votes="11" />
+                <Precinct name="Paulding County Airport" votes="7" />
+                <Precinct name="Picketts Mill Baptist Church" votes="6" />
+                <Precinct name="Dobbins Middle School" votes="83" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="707">
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="Burnt Hickory Park" votes="2" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="3" />
+                <Precinct name="Russom Elementary" votes="27" />
+                <Precinct name="Paulding Sr Center" votes="6" />
+                <Precinct name="Legacy Bapt Church" votes="11" />
+                <Precinct name="Watson Govt Cmplx" votes="10" />
+                <Precinct name="East Paulding Middle Sch" votes="14" />
+                <Precinct name="Events Place" votes="12" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="4" />
+                <Precinct name="D Wright Innovation Ctr" votes="6" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="9" />
+                <Precinct name="White Oak Park" votes="9" />
+                <Precinct name="Mulberry Rock Park" votes="2" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="4" />
+                <Precinct name="Picketts Mill Baptist Church" votes="6" />
+                <Precinct name="Dobbins Middle School" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="139">
+                <Precinct name="Burnt Hickory Park" votes="3" />
+                <Precinct name="Crossroads Library" votes="2" />
+                <Precinct name="Shelton Elementary" votes="5" />
+                <Precinct name="Russom Elementary" votes="7" />
+                <Precinct name="Paulding Sr Center" votes="8" />
+                <Precinct name="Legacy Bapt Church" votes="6" />
+                <Precinct name="Watson Govt Cmplx" votes="15" />
+                <Precinct name="East Paulding Middle Sch" votes="9" />
+                <Precinct name="Events Place" votes="8" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="10" />
+                <Precinct name="D Wright Innovation Ctr" votes="9" />
+                <Precinct name="Taylor Farm Park" votes="4" />
+                <Precinct name="Nebo Elem School" votes="6" />
+                <Precinct name="White Oak Park" votes="7" />
+                <Precinct name="Mulberry Rock Park" votes="7" />
+                <Precinct name="Beulahland Baptist Church" votes="1" />
+                <Precinct name="Paulding County Airport" votes="6" />
+                <Precinct name="Picketts Mill Baptist Church" votes="2" />
+                <Precinct name="Dobbins Middle School" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="434">
+                <Precinct name="Burnt Hickory Park" votes="7" />
+                <Precinct name="Crossroads Library" votes="6" />
+                <Precinct name="Shelton Elementary" votes="16" />
+                <Precinct name="Russom Elementary" votes="15" />
+                <Precinct name="Paulding Sr Center" votes="15" />
+                <Precinct name="Legacy Bapt Church" votes="8" />
+                <Precinct name="Watson Govt Cmplx" votes="24" />
+                <Precinct name="East Paulding Middle Sch" votes="34" />
+                <Precinct name="Events Place" votes="53" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="35" />
+                <Precinct name="D Wright Innovation Ctr" votes="43" />
+                <Precinct name="Taylor Farm Park" votes="22" />
+                <Precinct name="Nebo Elem School" votes="36" />
+                <Precinct name="White Oak Park" votes="23" />
+                <Precinct name="Mulberry Rock Park" votes="9" />
+                <Precinct name="Beulahland Baptist Church" votes="2" />
+                <Precinct name="Paulding County Airport" votes="16" />
+                <Precinct name="Picketts Mill Baptist Church" votes="7" />
+                <Precinct name="Dobbins Middle School" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Burnt Hickory Park" votes="0" />
+                <Precinct name="Crossroads Library" votes="0" />
+                <Precinct name="Shelton Elementary" votes="0" />
+                <Precinct name="Russom Elementary" votes="0" />
+                <Precinct name="Paulding Sr Center" votes="0" />
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Watson Govt Cmplx" votes="0" />
+                <Precinct name="East Paulding Middle Sch" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Mulberry Rock Park" votes="0" />
+                <Precinct name="Beulahland Baptist Church" votes="0" />
+                <Precinct name="Paulding County Airport" votes="0" />
+                <Precinct name="Picketts Mill Baptist Church" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="REP - County Commissioner Post 3" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Events Place" votes="1" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="1" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Legacy Bapt Church" votes="0" />
+            <Precinct name="Events Place" votes="0" />
+            <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+            <Precinct name="D Wright Innovation Ctr" votes="0" />
+            <Precinct name="Taylor Farm Park" votes="0" />
+            <Precinct name="Nebo Elem School" votes="0" />
+            <Precinct name="White Oak Park" votes="0" />
+            <Precinct name="Dobbins Middle School" votes="0" />
+        </VoteType>
+        <Choice key="149" text="Glen Albright" party="REP" totalVotes="159">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="1" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="3" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="4" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="2" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="7" />
+                <Precinct name="D Wright Innovation Ctr" votes="1" />
+                <Precinct name="Taylor Farm Park" votes="7" />
+                <Precinct name="Nebo Elem School" votes="18" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="106">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="10" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="11" />
+                <Precinct name="D Wright Innovation Ctr" votes="12" />
+                <Precinct name="Taylor Farm Park" votes="8" />
+                <Precinct name="Nebo Elem School" votes="47" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="0" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="150" text="Virginia Galloway" party="REP" totalVotes="1081">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Legacy Bapt Church" votes="2" />
+                <Precinct name="Events Place" votes="9" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="9" />
+                <Precinct name="D Wright Innovation Ctr" votes="9" />
+                <Precinct name="Taylor Farm Park" votes="11" />
+                <Precinct name="Nebo Elem School" votes="15" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="309">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="20" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="39" />
+                <Precinct name="D Wright Innovation Ctr" votes="34" />
+                <Precinct name="Taylor Farm Park" votes="56" />
+                <Precinct name="Nebo Elem School" votes="100" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="60" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="697">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="46" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="85" />
+                <Precinct name="D Wright Innovation Ctr" votes="105" />
+                <Precinct name="Taylor Farm Park" votes="104" />
+                <Precinct name="Nebo Elem School" votes="188" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="169" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Legacy Bapt Church" votes="0" />
+                <Precinct name="Events Place" votes="0" />
+                <Precinct name="Poplar Sprgs Bapt Church" votes="0" />
+                <Precinct name="D Wright Innovation Ctr" votes="0" />
+                <Precinct name="Taylor Farm Park" votes="0" />
+                <Precinct name="Nebo Elem School" votes="2" />
+                <Precinct name="White Oak Park" votes="0" />
+                <Precinct name="Dobbins Middle School" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

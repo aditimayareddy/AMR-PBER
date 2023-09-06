@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 3:25:19 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Gordon</Region>
+    <VoterTurnout totalVoters="36148" ballotsCast="220" voterTurnout="0.61">
+        <Precincts>
+            <Precinct name="Sugar Valley" totalVoters="1482" ballotsCast="4" voterTurnout="0.27" percentReporting="4" />
+            <Precinct name="Plainville" totalVoters="2020" ballotsCast="11" voterTurnout="0.54" percentReporting="4" />
+            <Precinct name="Sonoraville" totalVoters="5404" ballotsCast="34" voterTurnout="0.63" percentReporting="4" />
+            <Precinct name="Pine Chapel" totalVoters="1063" ballotsCast="1" voterTurnout="0.09" percentReporting="4" />
+            <Precinct name="Oostanaula" totalVoters="655" ballotsCast="6" voterTurnout="0.92" percentReporting="4" />
+            <Precinct name="Oakman" totalVoters="1430" ballotsCast="6" voterTurnout="0.42" percentReporting="4" />
+            <Precinct name="Gordon County" totalVoters="6264" ballotsCast="29" voterTurnout="0.46" percentReporting="4" />
+            <Precinct name="Calhoun City" totalVoters="9521" ballotsCast="84" voterTurnout="0.88" percentReporting="4" />
+            <Precinct name="Lily Pond" totalVoters="1872" ballotsCast="9" voterTurnout="0.48" percentReporting="4" />
+            <Precinct name="Fairmount" totalVoters="1962" ballotsCast="13" voterTurnout="0.66" percentReporting="4" />
+            <Precinct name="Red Bud" totalVoters="2974" ballotsCast="19" voterTurnout="0.64" percentReporting="4" />
+            <Precinct name="Resaca" totalVoters="1501" ballotsCast="4" voterTurnout="0.27" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="1" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="2" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="1" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="0" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="0" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <Choice key="50" text="Charlie Bailey" party="DEM" totalVotes="144">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="1" />
+                <Precinct name="Sonoraville" votes="2" />
+                <Precinct name="Pine Chapel" votes="1" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="3" />
+                <Precinct name="Calhoun City" votes="13" />
+                <Precinct name="Lily Pond" votes="3" />
+                <Precinct name="Fairmount" votes="1" />
+                <Precinct name="Red Bud" votes="2" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Sugar Valley" votes="2" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="7" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="5" />
+                <Precinct name="Calhoun City" votes="20" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="4" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="68">
+                <Precinct name="Sugar Valley" votes="2" />
+                <Precinct name="Plainville" votes="5" />
+                <Precinct name="Sonoraville" votes="13" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="4" />
+                <Precinct name="Calhoun City" votes="22" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="8" />
+                <Precinct name="Red Bud" votes="8" />
+                <Precinct name="Resaca" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Kwanza Hall" party="DEM" totalVotes="72">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="2" />
+                <Precinct name="Sonoraville" votes="3" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="3" />
+                <Precinct name="Calhoun City" votes="5" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="3" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="2" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="4" />
+                <Precinct name="Calhoun City" votes="15" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="6" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="2" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="10" />
+                <Precinct name="Calhoun City" votes="7" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="2" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="1" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="0" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="1" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="0" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="0" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Dee Dawkins-Haigler" party="DEM" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="4" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="1" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="2" />
+                <Precinct name="Calhoun City" votes="7" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="4" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="7" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="2" />
+                <Precinct name="Red Bud" votes="1" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Bee Nguyen" party="DEM" totalVotes="187">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="5" />
+                <Precinct name="Pine Chapel" votes="1" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="6" />
+                <Precinct name="Calhoun City" votes="15" />
+                <Precinct name="Lily Pond" votes="4" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="5" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="64">
+                <Precinct name="Sugar Valley" votes="2" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="9" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="2" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="7" />
+                <Precinct name="Calhoun City" votes="29" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="4" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="5" />
+                <Precinct name="Sonoraville" votes="15" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="3" />
+                <Precinct name="Oakman" votes="3" />
+                <Precinct name="Gordon County" votes="14" />
+                <Precinct name="Calhoun City" votes="22" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="6" />
+                <Precinct name="Red Bud" votes="9" />
+                <Precinct name="Resaca" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="1" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="2" />
+            <Precinct name="Calhoun City" votes="5" />
+            <Precinct name="Lily Pond" votes="3" />
+            <Precinct name="Fairmount" votes="1" />
+            <Precinct name="Red Bud" votes="1" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="0" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="0" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Raphael Baker" party="DEM" totalVotes="73">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="1" />
+                <Precinct name="Sonoraville" votes="4" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="2" />
+                <Precinct name="Calhoun City" votes="5" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="1" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="3" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="5" />
+                <Precinct name="Calhoun City" votes="14" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="2" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Sugar Valley" votes="2" />
+                <Precinct name="Plainville" votes="1" />
+                <Precinct name="Sonoraville" votes="6" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="3" />
+                <Precinct name="Calhoun City" votes="10" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="4" />
+                <Precinct name="Resaca" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Janice Laws Robinson" party="DEM" totalVotes="134">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="2" />
+                <Precinct name="Sonoraville" votes="1" />
+                <Precinct name="Pine Chapel" votes="1" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="3" />
+                <Precinct name="Calhoun City" votes="13" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="4" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Sugar Valley" votes="2" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="6" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="4" />
+                <Precinct name="Calhoun City" votes="19" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="2" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="14" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="2" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="10" />
+                <Precinct name="Calhoun City" votes="18" />
+                <Precinct name="Lily Pond" votes="3" />
+                <Precinct name="Fairmount" votes="5" />
+                <Precinct name="Red Bud" votes="6" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="1" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="2" />
+            <Precinct name="Calhoun City" votes="2" />
+            <Precinct name="Lily Pond" votes="3" />
+            <Precinct name="Fairmount" votes="1" />
+            <Precinct name="Red Bud" votes="1" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sugar Valley" votes="0" />
+            <Precinct name="Plainville" votes="0" />
+            <Precinct name="Sonoraville" votes="0" />
+            <Precinct name="Pine Chapel" votes="0" />
+            <Precinct name="Oostanaula" votes="0" />
+            <Precinct name="Oakman" votes="0" />
+            <Precinct name="Gordon County" votes="0" />
+            <Precinct name="Calhoun City" votes="0" />
+            <Precinct name="Lily Pond" votes="0" />
+            <Precinct name="Fairmount" votes="0" />
+            <Precinct name="Red Bud" votes="0" />
+            <Precinct name="Resaca" votes="0" />
+        </VoteType>
+        <Choice key="90" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="100">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="5" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="2" />
+                <Precinct name="Calhoun City" votes="7" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="1" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="6" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="2" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="7" />
+                <Precinct name="Calhoun City" votes="17" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="1" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="10" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="1" />
+                <Precinct name="Oakman" votes="1" />
+                <Precinct name="Gordon County" votes="4" />
+                <Precinct name="Calhoun City" votes="15" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="5" />
+                <Precinct name="Resaca" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="Nicole Horn" party="DEM" totalVotes="110">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="3" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="1" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="3" />
+                <Precinct name="Calhoun City" votes="10" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="4" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="3" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="2" />
+                <Precinct name="Calhoun City" votes="19" />
+                <Precinct name="Lily Pond" votes="1" />
+                <Precinct name="Fairmount" votes="3" />
+                <Precinct name="Red Bud" votes="3" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Sugar Valley" votes="1" />
+                <Precinct name="Plainville" votes="4" />
+                <Precinct name="Sonoraville" votes="10" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="2" />
+                <Precinct name="Oakman" votes="2" />
+                <Precinct name="Gordon County" votes="9" />
+                <Precinct name="Calhoun City" votes="14" />
+                <Precinct name="Lily Pond" votes="2" />
+                <Precinct name="Fairmount" votes="5" />
+                <Precinct name="Red Bud" votes="5" />
+                <Precinct name="Resaca" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sugar Valley" votes="0" />
+                <Precinct name="Plainville" votes="0" />
+                <Precinct name="Sonoraville" votes="0" />
+                <Precinct name="Pine Chapel" votes="0" />
+                <Precinct name="Oostanaula" votes="0" />
+                <Precinct name="Oakman" votes="0" />
+                <Precinct name="Gordon County" votes="0" />
+                <Precinct name="Calhoun City" votes="0" />
+                <Precinct name="Lily Pond" votes="0" />
+                <Precinct name="Fairmount" votes="0" />
+                <Precinct name="Red Bud" votes="0" />
+                <Precinct name="Resaca" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,2807 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/1/2022 3:11:51 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Treutlen</Region>
+    <VoterTurnout totalVoters="4091" ballotsCast="1083" voterTurnout="26.47">
+        <Precincts>
+            <Precinct name="Annex" totalVoters="1899" ballotsCast="655" voterTurnout="34.49" percentReporting="4" />
+            <Precinct name="Soperton" totalVoters="2192" ballotsCast="428" voterTurnout="19.53" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="28">
+            <Precinct name="Annex" votes="4" />
+            <Precinct name="Soperton" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="27" text="Gary W. Black" party="REP" totalVotes="158">
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Annex" votes="46" />
+                <Precinct name="Soperton" votes="27" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="78">
+                <Precinct name="Annex" votes="40" />
+                <Precinct name="Soperton" votes="38" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="28" text="Josh Clark" party="REP" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="7">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Kelvin King" party="REP" totalVotes="15">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Latham Saddler" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Herschel Junior Walker" party="REP" totalVotes="845">
+            <VoteType name="Election Day Votes" votes="485">
+                <Precinct name="Annex" votes="313" />
+                <Precinct name="Soperton" votes="172" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="345">
+                <Precinct name="Annex" votes="220" />
+                <Precinct name="Soperton" votes="125" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Annex" votes="2" />
+            <Precinct name="Soperton" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Tamara Johnson-Shealey" party="DEM" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="6">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Raphael Warnock (I)" party="DEM" totalVotes="268">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Annex" votes="21" />
+                <Precinct name="Soperton" votes="86" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="141">
+                <Precinct name="Annex" votes="22" />
+                <Precinct name="Soperton" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Annex" votes="2" />
+            <Precinct name="Soperton" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Catherine Davis" party="REP" totalVotes="2">
+            <VoteType name="Election Day Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Brian Kemp (I)" party="REP" totalVotes="806">
+            <VoteType name="Election Day Votes" votes="444">
+                <Precinct name="Annex" votes="267" />
+                <Precinct name="Soperton" votes="177" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="346">
+                <Precinct name="Annex" votes="202" />
+                <Precinct name="Soperton" votes="144" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="David A. Perdue" party="REP" totalVotes="215">
+            <VoteType name="Election Day Votes" votes="127">
+                <Precinct name="Annex" votes="88" />
+                <Precinct name="Soperton" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="82">
+                <Precinct name="Annex" votes="60" />
+                <Precinct name="Soperton" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="Kandiss Taylor" party="REP" totalVotes="43">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Annex" votes="17" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="Tom Williams" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Stacey Abrams" party="DEM" totalVotes="282">
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Annex" votes="19" />
+                <Precinct name="Soperton" votes="90" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="153">
+                <Precinct name="Annex" votes="22" />
+                <Precinct name="Soperton" votes="131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Annex" votes="31" />
+            <Precinct name="Soperton" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Burt Jones" party="REP" totalVotes="449">
+            <VoteType name="Election Day Votes" votes="270">
+                <Precinct name="Annex" votes="163" />
+                <Precinct name="Soperton" votes="107" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="170">
+                <Precinct name="Annex" votes="109" />
+                <Precinct name="Soperton" votes="61" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="Mack McGregor" party="REP" totalVotes="118">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Annex" votes="38" />
+                <Precinct name="Soperton" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Annex" votes="35" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Butch Miller" party="REP" totalVotes="402">
+            <VoteType name="Election Day Votes" votes="211">
+                <Precinct name="Annex" votes="144" />
+                <Precinct name="Soperton" votes="67" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Annex" votes="104" />
+                <Precinct name="Soperton" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Jeanne Seaver" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Annex" votes="14" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Annex" votes="10" />
+            <Precinct name="Soperton" votes="58" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Erick E. Allen" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Tyrone Brooks, Jr." party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="Tony Brown" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Jason T. Hayes" party="DEM" totalVotes="4">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Derrick L. Jackson" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="R. Malik" party="DEM" totalVotes="3">
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Renitta Shannon" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Annex" votes="3" />
+            <Precinct name="Soperton" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="54" text="David C. Belle Isle" party="REP" totalVotes="13">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="8">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Jody Hice" party="REP" totalVotes="100">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Annex" votes="30" />
+                <Precinct name="Soperton" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Annex" votes="28" />
+                <Precinct name="Soperton" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="T.J. Hudson" party="REP" totalVotes="823">
+            <VoteType name="Election Day Votes" votes="465">
+                <Precinct name="Annex" votes="285" />
+                <Precinct name="Soperton" votes="180" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="339">
+                <Precinct name="Annex" votes="205" />
+                <Precinct name="Soperton" votes="134" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Brad Raffensperger (I)" party="REP" totalVotes="141">
+            <VoteType name="Election Day Votes" votes="83">
+                <Precinct name="Annex" votes="54" />
+                <Precinct name="Soperton" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Annex" votes="31" />
+                <Precinct name="Soperton" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="55">
+            <Precinct name="Annex" votes="6" />
+            <Precinct name="Soperton" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="20">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="John Eaves" party="DEM" totalVotes="19">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Floyd Griffin" party="DEM" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="65">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Michael Owens" party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="36">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="30" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Annex" votes="36" />
+            <Precinct name="Soperton" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="63" text="Chris Carr (I)" party="REP" totalVotes="780">
+            <VoteType name="Election Day Votes" votes="439">
+                <Precinct name="Annex" votes="284" />
+                <Precinct name="Soperton" votes="155" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="323">
+                <Precinct name="Annex" votes="203" />
+                <Precinct name="Soperton" votes="120" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="John Gordon" party="REP" totalVotes="220">
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Annex" votes="74" />
+                <Precinct name="Soperton" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="88">
+                <Precinct name="Annex" votes="48" />
+                <Precinct name="Soperton" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="181">
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="Annex" votes="17" />
+                <Precinct name="Soperton" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Annex" votes="14" />
+                <Precinct name="Soperton" votes="82" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Christian Wise Smith" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="24" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="189">
+            <Precinct name="Annex" votes="97" />
+            <Precinct name="Soperton" votes="92" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper" party="REP" totalVotes="894">
+            <VoteType name="Election Day Votes" votes="523">
+                <Precinct name="Annex" votes="334" />
+                <Precinct name="Soperton" votes="189" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="352">
+                <Precinct name="Annex" votes="216" />
+                <Precinct name="Soperton" votes="136" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="71">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="63" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Winfred Dukes" party="DEM" totalVotes="89">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Annex" votes="12" />
+                <Precinct name="Soperton" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Nakita Hemingway" party="DEM" totalVotes="95">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="47">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Fred Swann" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="29">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="27" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="101">
+            <Precinct name="Annex" votes="51" />
+            <Precinct name="Soperton" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="71" text="Ben Cowart" party="REP" totalVotes="155">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Annex" votes="58" />
+                <Precinct name="Soperton" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="67">
+                <Precinct name="Annex" votes="41" />
+                <Precinct name="Soperton" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="John King (I)" party="REP" totalVotes="710">
+            <VoteType name="Election Day Votes" votes="393">
+                <Precinct name="Annex" votes="251" />
+                <Precinct name="Soperton" votes="142" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="298">
+                <Precinct name="Annex" votes="182" />
+                <Precinct name="Soperton" votes="116" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Patrick Witt" party="REP" totalVotes="117">
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Annex" votes="39" />
+                <Precinct name="Soperton" votes="33" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="41">
+                <Precinct name="Annex" votes="23" />
+                <Precinct name="Soperton" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="56">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="163">
+            <VoteType name="Election Day Votes" votes="68">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="58" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="87">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="78" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="60">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Matthew Wilson" party="DEM" totalVotes="22">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="Annex" votes="46" />
+            <Precinct name="Soperton" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="77" text="John D. Barge" party="REP" totalVotes="241">
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Annex" votes="83" />
+                <Precinct name="Soperton" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="101">
+                <Precinct name="Annex" votes="60" />
+                <Precinct name="Soperton" votes="41" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="78" text="Richard Woods (I)" party="REP" totalVotes="748">
+            <VoteType name="Election Day Votes" votes="425">
+                <Precinct name="Annex" votes="270" />
+                <Precinct name="Soperton" votes="155" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="301">
+                <Precinct name="Annex" votes="186" />
+                <Precinct name="Soperton" votes="115" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="64">
+            <Precinct name="Annex" votes="9" />
+            <Precinct name="Soperton" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Currey Hitchens" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="80" text="Jaha V. Howard" party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="26" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="James Morrow, Jr." party="DEM" totalVotes="47">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="30">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Alisha Thomas Searcy" party="DEM" totalVotes="113">
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="39" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="54">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="175">
+            <Precinct name="Annex" votes="93" />
+            <Precinct name="Soperton" votes="82" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Kartik Bhatt" party="REP" totalVotes="54">
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Annex" votes="19" />
+                <Precinct name="Soperton" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Mike Coan" party="REP" totalVotes="258">
+            <VoteType name="Election Day Votes" votes="153">
+                <Precinct name="Annex" votes="98" />
+                <Precinct name="Soperton" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Annex" votes="65" />
+                <Precinct name="Soperton" votes="35" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="Bruce Thompson" party="REP" totalVotes="596">
+            <VoteType name="Election Day Votes" votes="328">
+                <Precinct name="Annex" votes="213" />
+                <Precinct name="Soperton" votes="115" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="255">
+                <Precinct name="Annex" votes="153" />
+                <Precinct name="Soperton" votes="102" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="63">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="24" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Thomas Dean" party="DEM" totalVotes="32">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="20" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="Lester G. Jackson III" party="DEM" totalVotes="69">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="32">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="Nadia Surrency" party="DEM" totalVotes="36">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="22">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="187">
+            <Precinct name="Annex" votes="101" />
+            <Precinct name="Soperton" votes="86" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Tim Echols (I)" party="REP" totalVotes="896">
+            <VoteType name="Election Day Votes" votes="519">
+                <Precinct name="Annex" votes="331" />
+                <Precinct name="Soperton" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="361">
+                <Precinct name="Annex" votes="217" />
+                <Precinct name="Soperton" votes="144" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="73">
+            <Precinct name="Annex" votes="9" />
+            <Precinct name="Soperton" votes="64" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Patty Durand" party="DEM" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Annex" votes="16" />
+                <Precinct name="Soperton" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Annex" votes="11" />
+                <Precinct name="Soperton" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="Russell Edwards" party="DEM" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="45">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="210">
+            <Precinct name="Annex" votes="112" />
+            <Precinct name="Soperton" votes="98" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Fitz Johnson (I)" party="REP" totalVotes="873">
+            <VoteType name="Election Day Votes" votes="507">
+                <Precinct name="Annex" votes="327" />
+                <Precinct name="Soperton" votes="180" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="350">
+                <Precinct name="Annex" votes="210" />
+                <Precinct name="Soperton" votes="140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Annex" votes="6" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Annex" votes="8" />
+            <Precinct name="Soperton" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Shelia Edwards" party="DEM" totalVotes="107">
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="48" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Chandra Farley" party="DEM" totalVotes="56">
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="23">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="21" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Missy Moore" party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Annex" votes="11" />
+                <Precinct name="Soperton" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 12 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="171">
+            <Precinct name="Annex" votes="95" />
+            <Precinct name="Soperton" votes="76" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="153" text="Rick W. Allen (I)" party="REP" totalVotes="912">
+            <VoteType name="Election Day Votes" votes="519">
+                <Precinct name="Annex" votes="331" />
+                <Precinct name="Soperton" votes="188" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="376">
+                <Precinct name="Annex" votes="222" />
+                <Precinct name="Soperton" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="69" text="US House of Representatives - District 12 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="Annex" votes="7" />
+            <Precinct name="Soperton" votes="77" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="174" text="Elizabeth 'Liz' Johnson" party="DEM" totalVotes="217">
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Annex" votes="20" />
+                <Precinct name="Soperton" votes="76" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="109">
+                <Precinct name="Annex" votes="22" />
+                <Precinct name="Soperton" votes="87" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="72" text="State Senate - District 20 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="193">
+            <Precinct name="Annex" votes="99" />
+            <Precinct name="Soperton" votes="94" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="175" text="Larry Walker (I)" party="REP" totalVotes="890">
+            <VoteType name="Election Day Votes" votes="511">
+                <Precinct name="Annex" votes="329" />
+                <Precinct name="Soperton" votes="182" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="361">
+                <Precinct name="Annex" votes="219" />
+                <Precinct name="Soperton" votes="142" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="82" text="State House - District 158 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="178">
+            <Precinct name="Annex" votes="99" />
+            <Precinct name="Soperton" votes="79" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="176" text="Butch Parrish (I)" party="REP" totalVotes="905">
+            <VoteType name="Election Day Votes" votes="512">
+                <Precinct name="Annex" votes="327" />
+                <Precinct name="Soperton" votes="185" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="375">
+                <Precinct name="Annex" votes="221" />
+                <Precinct name="Soperton" votes="154" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="83" text="State House - District 158 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="112">
+            <Precinct name="Annex" votes="14" />
+            <Precinct name="Soperton" votes="98" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="177" text="Madeline Ryan Smith" party="DEM" totalVotes="189">
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Annex" votes="14" />
+                <Precinct name="Soperton" votes="64" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="98">
+                <Precinct name="Annex" votes="21" />
+                <Precinct name="Soperton" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="96" text="County Commissioner - Dist 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="67">
+            <Precinct name="Annex" votes="9" />
+            <Precinct name="Soperton" votes="58" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="178" text="Cecil &quot;&quot;Phil&quot;&quot; Jennings IV" party="REP" totalVotes="192">
+            <VoteType name="Election Day Votes" votes="99">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="91" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="87">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="76" text="County Commissioner - Dist 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Soperton" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="181" text="Thalia Gillis (I)" party="DEM" totalVotes="110">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Soperton" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="68">
+                <Precinct name="Soperton" votes="68" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="99" text="Bd of Education - Dist 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="Annex" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+        </VoteType>
+        <Choice key="195" text="Alvin G. Heath (I)" party="REP" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="171">
+                <Precinct name="Annex" votes="171" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Annex" votes="100" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="100" text="Bd of Education - Dist 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="36">
+            <Precinct name="Soperton" votes="36" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="196" text="Demetria H. Noble (I)" party="DEM" totalVotes="95">
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Soperton" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="59">
+                <Precinct name="Soperton" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Party Question 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Annex" votes="6" />
+            <Precinct name="Soperton" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Yes" party="REP" totalVotes="1025">
+            <VoteType name="Election Day Votes" votes="574">
+                <Precinct name="Annex" votes="364" />
+                <Precinct name="Soperton" votes="210" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="429">
+                <Precinct name="Annex" votes="263" />
+                <Precinct name="Soperton" votes="166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="No" party="REP" totalVotes="39">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Party Question 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Annex" votes="19" />
+            <Precinct name="Soperton" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Yes" party="REP" totalVotes="800">
+            <VoteType name="Election Day Votes" votes="438">
+                <Precinct name="Annex" votes="275" />
+                <Precinct name="Soperton" votes="163" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="343">
+                <Precinct name="Annex" votes="204" />
+                <Precinct name="Soperton" votes="139" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="No" party="REP" totalVotes="245">
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Annex" votes="90" />
+                <Precinct name="Soperton" votes="60" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Annex" votes="57" />
+                <Precinct name="Soperton" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="Party Question 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Annex" votes="18" />
+            <Precinct name="Soperton" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Yes" party="REP" totalVotes="873">
+            <VoteType name="Election Day Votes" votes="485">
+                <Precinct name="Annex" votes="306" />
+                <Precinct name="Soperton" votes="179" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="368">
+                <Precinct name="Annex" votes="228" />
+                <Precinct name="Soperton" votes="140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="No" party="REP" totalVotes="160">
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Annex" votes="61" />
+                <Precinct name="Soperton" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="60">
+                <Precinct name="Annex" votes="32" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Party Question 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Annex" votes="44" />
+            <Precinct name="Soperton" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="105" text="Yes" party="REP" totalVotes="833">
+            <VoteType name="Election Day Votes" votes="470">
+                <Precinct name="Annex" votes="300" />
+                <Precinct name="Soperton" votes="170" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="342">
+                <Precinct name="Annex" votes="211" />
+                <Precinct name="Soperton" votes="131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="No" party="REP" totalVotes="163">
+            <VoteType name="Election Day Votes" votes="99">
+                <Precinct name="Annex" votes="57" />
+                <Precinct name="Soperton" votes="42" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="63">
+                <Precinct name="Annex" votes="34" />
+                <Precinct name="Soperton" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Party Question 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="30">
+            <Precinct name="Annex" votes="13" />
+            <Precinct name="Soperton" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="107" text="Yes" party="REP" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="No" party="REP" totalVotes="1019">
+            <VoteType name="Election Day Votes" votes="580">
+                <Precinct name="Annex" votes="363" />
+                <Precinct name="Soperton" votes="217" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="415">
+                <Precinct name="Annex" votes="260" />
+                <Precinct name="Soperton" votes="155" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Party Question 6 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="Annex" votes="16" />
+            <Precinct name="Soperton" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Yes" party="REP" totalVotes="1011">
+            <VoteType name="Election Day Votes" votes="576">
+                <Precinct name="Annex" votes="361" />
+                <Precinct name="Soperton" votes="215" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="412">
+                <Precinct name="Annex" votes="254" />
+                <Precinct name="Soperton" votes="158" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="No" party="REP" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="19">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Party Question 7 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="Annex" votes="13" />
+            <Precinct name="Soperton" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Yes" party="REP" totalVotes="949">
+            <VoteType name="Election Day Votes" votes="545">
+                <Precinct name="Annex" votes="351" />
+                <Precinct name="Soperton" votes="194" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="385">
+                <Precinct name="Annex" votes="243" />
+                <Precinct name="Soperton" votes="142" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="112" text="No" party="REP" totalVotes="103">
+            <VoteType name="Election Day Votes" votes="49">
+                <Precinct name="Annex" votes="18" />
+                <Precinct name="Soperton" votes="31" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Annex" votes="20" />
+                <Precinct name="Soperton" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Party Question 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="80">
+            <Precinct name="Annex" votes="40" />
+            <Precinct name="Soperton" votes="40" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Yes" party="REP" totalVotes="681">
+            <VoteType name="Election Day Votes" votes="375">
+                <Precinct name="Annex" votes="225" />
+                <Precinct name="Soperton" votes="150" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="289">
+                <Precinct name="Annex" votes="179" />
+                <Precinct name="Soperton" votes="110" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="No" party="REP" totalVotes="322">
+            <VoteType name="Election Day Votes" votes="196">
+                <Precinct name="Annex" votes="134" />
+                <Precinct name="Soperton" votes="62" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="118">
+                <Precinct name="Annex" votes="67" />
+                <Precinct name="Soperton" votes="51" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Party Question 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Annex" votes="3" />
+            <Precinct name="Soperton" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="3" text="Yes" party="DEM" totalVotes="246">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Annex" votes="19" />
+                <Precinct name="Soperton" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="131">
+                <Precinct name="Annex" votes="18" />
+                <Precinct name="Soperton" votes="113" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="No" party="DEM" totalVotes="34">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Party Question 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Annex" votes="2" />
+            <Precinct name="Soperton" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Yes" party="DEM" totalVotes="251">
+            <VoteType name="Election Day Votes" votes="101">
+                <Precinct name="Annex" votes="20" />
+                <Precinct name="Soperton" votes="81" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="132">
+                <Precinct name="Annex" votes="23" />
+                <Precinct name="Soperton" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="116" text="No" party="DEM" totalVotes="25">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Party Question 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Annex" votes="3" />
+            <Precinct name="Soperton" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Yes" party="DEM" totalVotes="261">
+            <VoteType name="Election Day Votes" votes="104">
+                <Precinct name="Annex" votes="19" />
+                <Precinct name="Soperton" votes="85" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="140">
+                <Precinct name="Annex" votes="24" />
+                <Precinct name="Soperton" votes="116" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="No" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="5">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="63" text="Party Question 4 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="Annex" votes="4" />
+            <Precinct name="Soperton" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Yes" party="DEM" totalVotes="225">
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Annex" votes="18" />
+                <Precinct name="Soperton" votes="70" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="121">
+                <Precinct name="Annex" votes="20" />
+                <Precinct name="Soperton" votes="101" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="120" text="No" party="DEM" totalVotes="35">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="18">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="64" text="Party Question 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Annex" votes="3" />
+            <Precinct name="Soperton" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Yes" party="DEM" totalVotes="241">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Annex" votes="16" />
+                <Precinct name="Soperton" votes="78" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="132">
+                <Precinct name="Annex" votes="23" />
+                <Precinct name="Soperton" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="122" text="No" party="DEM" totalVotes="37">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Annex" votes="5" />
+                <Precinct name="Soperton" votes="12" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="65" text="Party Question 6 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Annex" votes="2" />
+            <Precinct name="Soperton" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="123" text="Yes" party="DEM" totalVotes="269">
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Annex" votes="20" />
+                <Precinct name="Soperton" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="144">
+                <Precinct name="Annex" votes="25" />
+                <Precinct name="Soperton" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="No" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="66" text="Party Question 7 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Annex" votes="3" />
+            <Precinct name="Soperton" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Yes" party="DEM" totalVotes="241">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Annex" votes="18" />
+                <Precinct name="Soperton" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="128">
+                <Precinct name="Annex" votes="22" />
+                <Precinct name="Soperton" votes="106" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="126" text="No" party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="67" text="Party Question 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="28">
+            <Precinct name="Annex" votes="1" />
+            <Precinct name="Soperton" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="127" text="Yes" party="DEM" totalVotes="180">
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Annex" votes="14" />
+                <Precinct name="Soperton" votes="68" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="91">
+                <Precinct name="Annex" votes="15" />
+                <Precinct name="Soperton" votes="76" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="128" text="No" party="DEM" totalVotes="93">
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="22" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="53">
+                <Precinct name="Annex" votes="10" />
+                <Precinct name="Soperton" votes="43" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Annex" votes="2" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="68" text="Party Question 9 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Annex" votes="4" />
+            <Precinct name="Soperton" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="129" text="Yes" party="DEM" totalVotes="243">
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Annex" votes="19" />
+                <Precinct name="Soperton" votes="77" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="130">
+                <Precinct name="Annex" votes="23" />
+                <Precinct name="Soperton" votes="107" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="130" text="No" party="DEM" totalVotes="20">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="223">
+            <Precinct name="Annex" votes="91" />
+            <Precinct name="Soperton" votes="132" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Veronica Brinson" totalVotes="348">
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Annex" votes="82" />
+                <Precinct name="Soperton" votes="99" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="162">
+                <Precinct name="Annex" votes="70" />
+                <Precinct name="Soperton" votes="92" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Annex" votes="3" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Verda M. Colvin (I)" totalVotes="814">
+            <VoteType name="Election Day Votes" votes="450">
+                <Precinct name="Annex" votes="270" />
+                <Precinct name="Soperton" votes="180" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="334">
+                <Precinct name="Annex" votes="181" />
+                <Precinct name="Soperton" votes="153" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Justice - Supreme Court of Georgia (Lagura)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="308">
+            <Precinct name="Annex" votes="133" />
+            <Precinct name="Soperton" votes="175" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Shawn Ellen LaGrua (I)" totalVotes="1077">
+            <VoteType name="Election Day Votes" votes="587">
+                <Precinct name="Annex" votes="334" />
+                <Precinct name="Soperton" votes="253" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="460">
+                <Precinct name="Annex" votes="228" />
+                <Precinct name="Soperton" votes="232" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="302">
+            <Precinct name="Annex" votes="131" />
+            <Precinct name="Soperton" votes="171" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Carla McMillian (I)" totalVotes="1083">
+            <VoteType name="Election Day Votes" votes="590">
+                <Precinct name="Annex" votes="335" />
+                <Precinct name="Soperton" votes="255" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="463">
+                <Precinct name="Annex" votes="231" />
+                <Precinct name="Soperton" votes="232" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="305">
+            <Precinct name="Annex" votes="130" />
+            <Precinct name="Soperton" votes="175" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="22" text="Anne Elizabeth Barnes (I)" totalVotes="1082">
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Annex" votes="335" />
+                <Precinct name="Soperton" votes="253" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="463">
+                <Precinct name="Annex" votes="231" />
+                <Precinct name="Soperton" votes="232" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Annex" votes="9" />
+                <Precinct name="Soperton" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="316">
+            <Precinct name="Annex" votes="137" />
+            <Precinct name="Soperton" votes="179" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="24" text="Chris McFadden (I)" totalVotes="1071">
+            <VoteType name="Election Day Votes" votes="587">
+                <Precinct name="Annex" votes="334" />
+                <Precinct name="Soperton" votes="253" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="456">
+                <Precinct name="Annex" votes="228" />
+                <Precinct name="Soperton" votes="228" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="327">
+            <Precinct name="Annex" votes="139" />
+            <Precinct name="Soperton" votes="188" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Trea Pipkin (I)" totalVotes="1059">
+            <VoteType name="Election Day Votes" votes="578">
+                <Precinct name="Annex" votes="334" />
+                <Precinct name="Soperton" votes="244" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="453">
+                <Precinct name="Annex" votes="226" />
+                <Precinct name="Soperton" votes="227" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="91" text="TSPLOST - Heart of Georgia Altamaha" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="88">
+            <Precinct name="Annex" votes="21" />
+            <Precinct name="Soperton" votes="67" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="172" text="Yes" totalVotes="802">
+            <VoteType name="Election Day Votes" votes="422">
+                <Precinct name="Annex" votes="232" />
+                <Precinct name="Soperton" votes="190" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="353">
+                <Precinct name="Annex" votes="169" />
+                <Precinct name="Soperton" votes="184" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="173" text="No" totalVotes="501">
+            <VoteType name="Election Day Votes" votes="276">
+                <Precinct name="Annex" votes="158" />
+                <Precinct name="Soperton" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="212">
+                <Precinct name="Annex" votes="115" />
+                <Precinct name="Soperton" votes="97" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="101" text="Treutlen County ESPLOST" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="64">
+            <Precinct name="Annex" votes="16" />
+            <Precinct name="Soperton" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="197" text="Yes" totalVotes="833">
+            <VoteType name="Election Day Votes" votes="438">
+                <Precinct name="Annex" votes="244" />
+                <Precinct name="Soperton" votes="194" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="363">
+                <Precinct name="Annex" votes="165" />
+                <Precinct name="Soperton" votes="198" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Annex" votes="8" />
+                <Precinct name="Soperton" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="198" text="No" totalVotes="494">
+            <VoteType name="Election Day Votes" votes="270">
+                <Precinct name="Annex" votes="148" />
+                <Precinct name="Soperton" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="216">
+                <Precinct name="Annex" votes="122" />
+                <Precinct name="Soperton" votes="94" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Annex" votes="4" />
+                <Precinct name="Soperton" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

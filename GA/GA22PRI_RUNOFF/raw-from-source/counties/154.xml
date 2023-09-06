@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 11:14:17 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>White</Region>
+    <VoterTurnout totalVoters="20616" ballotsCast="137" voterTurnout="0.66">
+        <Precincts>
+            <Precinct name="Blue Creek" totalVoters="2415" ballotsCast="33" voterTurnout="1.37" percentReporting="4" />
+            <Precinct name="Blue Ridge" totalVoters="1005" ballotsCast="5" voterTurnout="0.50" percentReporting="4" />
+            <Precinct name="Robertstown-Helen" totalVoters="980" ballotsCast="9" voterTurnout="0.92" percentReporting="4" />
+            <Precinct name="Mossy Creek" totalVoters="3201" ballotsCast="18" voterTurnout="0.56" percentReporting="4" />
+            <Precinct name="Mt Yonah" totalVoters="4502" ballotsCast="24" voterTurnout="0.53" percentReporting="4" />
+            <Precinct name="Nacoochee" totalVoters="1431" ballotsCast="24" voterTurnout="1.68" percentReporting="4" />
+            <Precinct name="Shoal Creek" totalVoters="2477" ballotsCast="5" voterTurnout="0.20" percentReporting="4" />
+            <Precinct name="Tesnatee" totalVoters="1174" ballotsCast="4" voterTurnout="0.34" percentReporting="4" />
+            <Precinct name="Town Creek" totalVoters="1647" ballotsCast="11" voterTurnout="0.67" percentReporting="4" />
+            <Precinct name="White Creek" totalVoters="1784" ballotsCast="4" voterTurnout="0.22" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="112">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Blue Creek" votes="5" />
+                <Precinct name="Blue Ridge" votes="2" />
+                <Precinct name="Robertstown-Helen" votes="3" />
+                <Precinct name="Mossy Creek" votes="6" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="2" />
+                <Precinct name="Town Creek" votes="6" />
+                <Precinct name="White Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="Blue Creek" votes="11" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="1" />
+                <Precinct name="Mossy Creek" votes="2" />
+                <Precinct name="Mt Yonah" votes="8" />
+                <Precinct name="Nacoochee" votes="2" />
+                <Precinct name="Shoal Creek" votes="2" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Blue Creek" votes="14" />
+                <Precinct name="Blue Ridge" votes="2" />
+                <Precinct name="Robertstown-Helen" votes="3" />
+                <Precinct name="Mossy Creek" votes="8" />
+                <Precinct name="Mt Yonah" votes="3" />
+                <Precinct name="Nacoochee" votes="16" />
+                <Precinct name="Shoal Creek" votes="3" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="White Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="25">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Blue Creek" votes="2" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="3" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="5" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Blue Creek" votes="1" />
+                <Precinct name="Blue Ridge" votes="1" />
+                <Precinct name="Robertstown-Helen" votes="2" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="4" />
+                <Precinct name="Nacoochee" votes="2" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="12">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Blue Creek" votes="2" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="1" />
+                <Precinct name="Nacoochee" votes="3" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="125">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Blue Creek" votes="7" />
+                <Precinct name="Blue Ridge" votes="2" />
+                <Precinct name="Robertstown-Helen" votes="3" />
+                <Precinct name="Mossy Creek" votes="7" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="3" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="2" />
+                <Precinct name="Town Creek" votes="6" />
+                <Precinct name="White Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Blue Creek" votes="11" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="1" />
+                <Precinct name="Mossy Creek" votes="3" />
+                <Precinct name="Mt Yonah" votes="13" />
+                <Precinct name="Nacoochee" votes="2" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Blue Creek" votes="13" />
+                <Precinct name="Blue Ridge" votes="3" />
+                <Precinct name="Robertstown-Helen" votes="5" />
+                <Precinct name="Mossy Creek" votes="8" />
+                <Precinct name="Mt Yonah" votes="6" />
+                <Precinct name="Nacoochee" votes="15" />
+                <Precinct name="Shoal Creek" votes="2" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="White Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Blue Creek" votes="2" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="1" />
+            <Precinct name="Mossy Creek" votes="2" />
+            <Precinct name="Mt Yonah" votes="2" />
+            <Precinct name="Nacoochee" votes="2" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="35">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Blue Creek" votes="1" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="1" />
+                <Precinct name="Nacoochee" votes="1" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="2" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Blue Creek" votes="5" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="6" />
+                <Precinct name="Nacoochee" votes="1" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Blue Creek" votes="4" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="2" />
+                <Precinct name="Mossy Creek" votes="3" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="2" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="92">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Blue Creek" votes="6" />
+                <Precinct name="Blue Ridge" votes="2" />
+                <Precinct name="Robertstown-Helen" votes="3" />
+                <Precinct name="Mossy Creek" votes="6" />
+                <Precinct name="Mt Yonah" votes="3" />
+                <Precinct name="Nacoochee" votes="3" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="7" />
+                <Precinct name="White Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Blue Creek" votes="5" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="1" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="7" />
+                <Precinct name="Nacoochee" votes="1" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Blue Creek" votes="10" />
+                <Precinct name="Blue Ridge" votes="3" />
+                <Precinct name="Robertstown-Helen" votes="2" />
+                <Precinct name="Mossy Creek" votes="4" />
+                <Precinct name="Mt Yonah" votes="3" />
+                <Precinct name="Nacoochee" votes="14" />
+                <Precinct name="Shoal Creek" votes="2" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="3" />
+                <Precinct name="White Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Blue Creek" votes="2" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="1" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blue Creek" votes="0" />
+            <Precinct name="Blue Ridge" votes="0" />
+            <Precinct name="Robertstown-Helen" votes="0" />
+            <Precinct name="Mossy Creek" votes="0" />
+            <Precinct name="Mt Yonah" votes="0" />
+            <Precinct name="Nacoochee" votes="0" />
+            <Precinct name="Shoal Creek" votes="0" />
+            <Precinct name="Tesnatee" votes="0" />
+            <Precinct name="Town Creek" votes="0" />
+            <Precinct name="White Creek" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="65">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Blue Creek" votes="4" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="5" />
+                <Precinct name="Mt Yonah" votes="3" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="2" />
+                <Precinct name="Town Creek" votes="1" />
+                <Precinct name="White Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Blue Creek" votes="6" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="1" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="7" />
+                <Precinct name="Nacoochee" votes="2" />
+                <Precinct name="Shoal Creek" votes="2" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Blue Creek" votes="6" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="4" />
+                <Precinct name="Mossy Creek" votes="2" />
+                <Precinct name="Mt Yonah" votes="2" />
+                <Precinct name="Nacoochee" votes="10" />
+                <Precinct name="Shoal Creek" votes="1" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="4" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="69">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Blue Creek" votes="3" />
+                <Precinct name="Blue Ridge" votes="2" />
+                <Precinct name="Robertstown-Helen" votes="3" />
+                <Precinct name="Mossy Creek" votes="2" />
+                <Precinct name="Mt Yonah" votes="1" />
+                <Precinct name="Nacoochee" votes="4" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="6" />
+                <Precinct name="White Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Blue Creek" votes="4" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="1" />
+                <Precinct name="Mt Yonah" votes="6" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Blue Creek" votes="8" />
+                <Precinct name="Blue Ridge" votes="3" />
+                <Precinct name="Robertstown-Helen" votes="1" />
+                <Precinct name="Mossy Creek" votes="6" />
+                <Precinct name="Mt Yonah" votes="5" />
+                <Precinct name="Nacoochee" votes="8" />
+                <Precinct name="Shoal Creek" votes="2" />
+                <Precinct name="Tesnatee" votes="1" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blue Creek" votes="0" />
+                <Precinct name="Blue Ridge" votes="0" />
+                <Precinct name="Robertstown-Helen" votes="0" />
+                <Precinct name="Mossy Creek" votes="0" />
+                <Precinct name="Mt Yonah" votes="0" />
+                <Precinct name="Nacoochee" votes="0" />
+                <Precinct name="Shoal Creek" votes="0" />
+                <Precinct name="Tesnatee" votes="0" />
+                <Precinct name="Town Creek" votes="0" />
+                <Precinct name="White Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 12:34:14 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Toombs</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="219" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="15361 Lyons" totalVoters="0" ballotsCast="45" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="39 Newbranch" totalVoters="0" ballotsCast="6" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="43 Cedar Crossing" totalVoters="0" ballotsCast="3" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="513 VPD" totalVoters="0" ballotsCast="95" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="514 STIALC" totalVoters="0" ballotsCast="70" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="15361 Lyons" votes="1" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="15361 Lyons" votes="0" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Charlie Bailey" party="DEM" totalVotes="87">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="15361 Lyons" votes="4" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="6" />
+                <Precinct name="514 STIALC" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="15361 Lyons" votes="8" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="2" />
+                <Precinct name="513 VPD" votes="12" />
+                <Precinct name="514 STIALC" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="15361 Lyons" votes="13" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="15" />
+                <Precinct name="514 STIALC" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Kwanza Hall" party="DEM" totalVotes="131">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="15361 Lyons" votes="5" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="8" />
+                <Precinct name="514 STIALC" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="15361 Lyons" votes="3" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="17" />
+                <Precinct name="514 STIALC" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="15361 Lyons" votes="11" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="1" />
+                <Precinct name="513 VPD" votes="37" />
+                <Precinct name="514 STIALC" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="15361 Lyons" votes="1" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="15361 Lyons" votes="0" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <Choice key="58" text="Dee Dawkins-Haigler" party="DEM" totalVotes="95">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="15361 Lyons" votes="3" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="3" />
+                <Precinct name="514 STIALC" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="15361 Lyons" votes="6" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="14" />
+                <Precinct name="514 STIALC" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="15361 Lyons" votes="13" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="1" />
+                <Precinct name="513 VPD" votes="28" />
+                <Precinct name="514 STIALC" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Bee Nguyen" party="DEM" totalVotes="122">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="15361 Lyons" votes="6" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="11" />
+                <Precinct name="514 STIALC" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="15361 Lyons" votes="5" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="2" />
+                <Precinct name="513 VPD" votes="15" />
+                <Precinct name="514 STIALC" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="15361 Lyons" votes="11" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="24" />
+                <Precinct name="514 STIALC" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="15361 Lyons" votes="1" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="2" />
+            <Precinct name="514 STIALC" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="15361 Lyons" votes="0" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Raphael Baker" party="DEM" totalVotes="92">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="15361 Lyons" votes="4" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="3" />
+                <Precinct name="514 STIALC" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="13" />
+                <Precinct name="514 STIALC" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="15361 Lyons" votes="12" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="1" />
+                <Precinct name="513 VPD" votes="25" />
+                <Precinct name="514 STIALC" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="Janice Laws Robinson" party="DEM" totalVotes="118">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="15361 Lyons" votes="5" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="11" />
+                <Precinct name="514 STIALC" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="15361 Lyons" votes="11" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="2" />
+                <Precinct name="513 VPD" votes="15" />
+                <Precinct name="514 STIALC" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="15361 Lyons" votes="12" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="26" />
+                <Precinct name="514 STIALC" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="15361 Lyons" votes="1" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="1" />
+            <Precinct name="514 STIALC" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="15361 Lyons" votes="0" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <Choice key="86" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="125">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="15361 Lyons" votes="6" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="6" />
+                <Precinct name="514 STIALC" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="54">
+                <Precinct name="15361 Lyons" votes="10" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="2" />
+                <Precinct name="513 VPD" votes="15" />
+                <Precinct name="514 STIALC" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="15361 Lyons" votes="11" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="1" />
+                <Precinct name="513 VPD" votes="31" />
+                <Precinct name="514 STIALC" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="Nicole Horn" party="DEM" totalVotes="88">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="15361 Lyons" votes="3" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="8" />
+                <Precinct name="514 STIALC" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="22">
+                <Precinct name="15361 Lyons" votes="1" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="14" />
+                <Precinct name="514 STIALC" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="48">
+                <Precinct name="15361 Lyons" votes="13" />
+                <Precinct name="39 Newbranch" votes="1" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="20" />
+                <Precinct name="514 STIALC" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="0" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

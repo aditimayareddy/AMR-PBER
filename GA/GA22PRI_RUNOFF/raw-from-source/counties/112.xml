@@ -1,0 +1,735 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 4:04:37 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Pickens</Region>
+    <VoterTurnout totalVoters="23740" ballotsCast="173" voterTurnout="0.73">
+        <Precincts>
+            <Precinct name="Yellow Creek" totalVoters="3540" ballotsCast="38" voterTurnout="1.07" percentReporting="4" />
+            <Precinct name="Sharptop" totalVoters="2631" ballotsCast="38" voterTurnout="1.44" percentReporting="4" />
+            <Precinct name="Appalachian" totalVoters="1922" ballotsCast="12" voterTurnout="0.62" percentReporting="4" />
+            <Precinct name="Refuge" totalVoters="2428" ballotsCast="5" voterTurnout="0.21" percentReporting="4" />
+            <Precinct name="Hill City" totalVoters="2100" ballotsCast="13" voterTurnout="0.62" percentReporting="4" />
+            <Precinct name="Hinton" totalVoters="887" ballotsCast="1" voterTurnout="0.11" percentReporting="4" />
+            <Precinct name="Jerusalem" totalVoters="1157" ballotsCast="4" voterTurnout="0.35" percentReporting="4" />
+            <Precinct name="Ludville" totalVoters="722" ballotsCast="2" voterTurnout="0.28" percentReporting="4" />
+            <Precinct name="Nelson" totalVoters="1488" ballotsCast="19" voterTurnout="1.28" percentReporting="4" />
+            <Precinct name="Talking Rock" totalVoters="1777" ballotsCast="10" voterTurnout="0.56" percentReporting="4" />
+            <Precinct name="Jasper" totalVoters="2422" ballotsCast="20" voterTurnout="0.83" percentReporting="4" />
+            <Precinct name="Tate" totalVoters="2666" ballotsCast="11" voterTurnout="0.41" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="3" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="140">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Yellow Creek" votes="6" />
+                <Precinct name="Sharptop" votes="5" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="4" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Yellow Creek" votes="13" />
+                <Precinct name="Sharptop" votes="10" />
+                <Precinct name="Appalachian" votes="5" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="1" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="7" />
+                <Precinct name="Tate" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Yellow Creek" votes="13" />
+                <Precinct name="Sharptop" votes="18" />
+                <Precinct name="Appalachian" votes="3" />
+                <Precinct name="Refuge" votes="4" />
+                <Precinct name="Hill City" votes="5" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="6" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="29">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="1" />
+                <Precinct name="Tate" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Yellow Creek" votes="3" />
+                <Precinct name="Sharptop" votes="4" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="1" />
+                <Precinct name="Hill City" votes="1" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="2" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="3" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="11">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="1" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="1" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="1" />
+                <Precinct name="Talking Rock" votes="3" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="159">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Yellow Creek" votes="7" />
+                <Precinct name="Sharptop" votes="4" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="4" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="52">
+                <Precinct name="Yellow Creek" votes="14" />
+                <Precinct name="Sharptop" votes="10" />
+                <Precinct name="Appalachian" votes="6" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="1" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="7" />
+                <Precinct name="Tate" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="74">
+                <Precinct name="Yellow Creek" votes="16" />
+                <Precinct name="Sharptop" votes="21" />
+                <Precinct name="Appalachian" votes="3" />
+                <Precinct name="Refuge" votes="4" />
+                <Precinct name="Hill City" votes="6" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="3" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="3" />
+                <Precinct name="Jasper" votes="8" />
+                <Precinct name="Tate" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Yellow Creek" votes="2" />
+            <Precinct name="Sharptop" votes="2" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="4" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="3" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="40">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Yellow Creek" votes="2" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="1" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="1" />
+                <Precinct name="Jasper" votes="2" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="3" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="1" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="2" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="25">
+                <Precinct name="Yellow Creek" votes="6" />
+                <Precinct name="Sharptop" votes="6" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="3" />
+                <Precinct name="Hill City" votes="1" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="122">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Yellow Creek" votes="5" />
+                <Precinct name="Sharptop" votes="3" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="5" />
+                <Precinct name="Talking Rock" votes="1" />
+                <Precinct name="Jasper" votes="1" />
+                <Precinct name="Tate" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="43">
+                <Precinct name="Yellow Creek" votes="11" />
+                <Precinct name="Sharptop" votes="7" />
+                <Precinct name="Appalachian" votes="7" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="1" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="4" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="5" />
+                <Precinct name="Tate" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="54">
+                <Precinct name="Yellow Creek" votes="10" />
+                <Precinct name="Sharptop" votes="16" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="2" />
+                <Precinct name="Hill City" votes="5" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="2" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="2" />
+                <Precinct name="Talking Rock" votes="4" />
+                <Precinct name="Jasper" votes="7" />
+                <Precinct name="Tate" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="4" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="2" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Yellow Creek" votes="0" />
+            <Precinct name="Sharptop" votes="0" />
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="82">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Yellow Creek" votes="6" />
+                <Precinct name="Sharptop" votes="4" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="1" />
+                <Precinct name="Jasper" votes="1" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Yellow Creek" votes="6" />
+                <Precinct name="Sharptop" votes="7" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="2" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="2" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="5" />
+                <Precinct name="Tate" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Yellow Creek" votes="7" />
+                <Precinct name="Sharptop" votes="15" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="1" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="2" />
+                <Precinct name="Talking Rock" votes="3" />
+                <Precinct name="Jasper" votes="2" />
+                <Precinct name="Tate" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Yellow Creek" votes="0" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="85">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="1" />
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="1" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="2" />
+                <Precinct name="Talking Rock" votes="1" />
+                <Precinct name="Jasper" votes="3" />
+                <Precinct name="Tate" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="Yellow Creek" votes="8" />
+                <Precinct name="Sharptop" votes="4" />
+                <Precinct name="Appalachian" votes="5" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="1" />
+                <Precinct name="Hinton" votes="1" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="2" />
+                <Precinct name="Tate" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Yellow Creek" votes="9" />
+                <Precinct name="Sharptop" votes="7" />
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="4" />
+                <Precinct name="Hill City" votes="3" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="3" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="3" />
+                <Precinct name="Talking Rock" votes="3" />
+                <Precinct name="Jasper" votes="5" />
+                <Precinct name="Tate" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Yellow Creek" votes="1" />
+                <Precinct name="Sharptop" votes="0" />
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="REP - County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Appalachian" votes="0" />
+            <Precinct name="Refuge" votes="0" />
+            <Precinct name="Hill City" votes="0" />
+            <Precinct name="Hinton" votes="0" />
+            <Precinct name="Jerusalem" votes="0" />
+            <Precinct name="Ludville" votes="0" />
+            <Precinct name="Nelson" votes="0" />
+            <Precinct name="Talking Rock" votes="0" />
+            <Precinct name="Jasper" votes="0" />
+            <Precinct name="Tate" votes="0" />
+        </VoteType>
+        <Choice key="126" text="David Shouse" party="REP" totalVotes="440">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="1" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="1" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="94">
+                <Precinct name="Appalachian" votes="1" />
+                <Precinct name="Refuge" votes="19" />
+                <Precinct name="Hill City" votes="35" />
+                <Precinct name="Hinton" votes="2" />
+                <Precinct name="Jerusalem" votes="4" />
+                <Precinct name="Ludville" votes="4" />
+                <Precinct name="Nelson" votes="9" />
+                <Precinct name="Talking Rock" votes="5" />
+                <Precinct name="Jasper" votes="3" />
+                <Precinct name="Tate" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="338">
+                <Precinct name="Appalachian" votes="13" />
+                <Precinct name="Refuge" votes="41" />
+                <Precinct name="Hill City" votes="58" />
+                <Precinct name="Hinton" votes="45" />
+                <Precinct name="Jerusalem" votes="59" />
+                <Precinct name="Ludville" votes="30" />
+                <Precinct name="Nelson" votes="22" />
+                <Precinct name="Talking Rock" votes="20" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Josh Tippens" party="REP" totalVotes="1092">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Appalachian" votes="2" />
+                <Precinct name="Refuge" votes="11" />
+                <Precinct name="Hill City" votes="8" />
+                <Precinct name="Hinton" votes="2" />
+                <Precinct name="Jerusalem" votes="1" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="2" />
+                <Precinct name="Talking Rock" votes="2" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="345">
+                <Precinct name="Appalachian" votes="5" />
+                <Precinct name="Refuge" votes="107" />
+                <Precinct name="Hill City" votes="59" />
+                <Precinct name="Hinton" votes="16" />
+                <Precinct name="Jerusalem" votes="23" />
+                <Precinct name="Ludville" votes="13" />
+                <Precinct name="Nelson" votes="19" />
+                <Precinct name="Talking Rock" votes="16" />
+                <Precinct name="Jasper" votes="6" />
+                <Precinct name="Tate" votes="81" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="704">
+                <Precinct name="Appalachian" votes="15" />
+                <Precinct name="Refuge" votes="115" />
+                <Precinct name="Hill City" votes="96" />
+                <Precinct name="Hinton" votes="119" />
+                <Precinct name="Jerusalem" votes="128" />
+                <Precinct name="Ludville" votes="46" />
+                <Precinct name="Nelson" votes="44" />
+                <Precinct name="Talking Rock" votes="42" />
+                <Precinct name="Jasper" votes="4" />
+                <Precinct name="Tate" votes="95" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Appalachian" votes="0" />
+                <Precinct name="Refuge" votes="0" />
+                <Precinct name="Hill City" votes="0" />
+                <Precinct name="Hinton" votes="0" />
+                <Precinct name="Jerusalem" votes="0" />
+                <Precinct name="Ludville" votes="0" />
+                <Precinct name="Nelson" votes="0" />
+                <Precinct name="Talking Rock" votes="0" />
+                <Precinct name="Jasper" votes="0" />
+                <Precinct name="Tate" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

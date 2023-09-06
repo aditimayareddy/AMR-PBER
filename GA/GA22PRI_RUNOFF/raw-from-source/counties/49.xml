@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 8:55:48 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Early</Region>
+    <VoterTurnout totalVoters="7037" ballotsCast="313" voterTurnout="4.45">
+        <Precincts>
+            <Precinct name="Arlington " totalVoters="873" ballotsCast="73" voterTurnout="8.36" percentReporting="4" />
+            <Precinct name="Blakely" totalVoters="3290" ballotsCast="142" voterTurnout="4.32" percentReporting="4" />
+            <Precinct name="Cedar Springs " totalVoters="1083" ballotsCast="32" voterTurnout="2.95" percentReporting="4" />
+            <Precinct name="Cuba" totalVoters="1134" ballotsCast="48" voterTurnout="4.23" percentReporting="4" />
+            <Precinct name="Urquhart" totalVoters="657" ballotsCast="18" voterTurnout="2.74" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Arlington " votes="2" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="1" />
+            <Precinct name="Cuba" votes="1" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="208">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Arlington " votes="6" />
+                <Precinct name="Blakely" votes="8" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Arlington " votes="7" />
+                <Precinct name="Blakely" votes="16" />
+                <Precinct name="Cedar Springs " votes="4" />
+                <Precinct name="Cuba" votes="16" />
+                <Precinct name="Urquhart" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Arlington " votes="42" />
+                <Precinct name="Blakely" votes="53" />
+                <Precinct name="Cedar Springs " votes="21" />
+                <Precinct name="Cuba" votes="21" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="101">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Arlington " votes="1" />
+                <Precinct name="Blakely" votes="3" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="3" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="22">
+                <Precinct name="Arlington " votes="1" />
+                <Precinct name="Blakely" votes="17" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Arlington " votes="14" />
+                <Precinct name="Blakely" votes="45" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="6" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Arlington " votes="2" />
+            <Precinct name="Blakely" votes="1" />
+            <Precinct name="Cedar Springs " votes="1" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="119">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Arlington " votes="1" />
+                <Precinct name="Blakely" votes="4" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Arlington " votes="2" />
+                <Precinct name="Blakely" votes="13" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="3" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Arlington " votes="22" />
+                <Precinct name="Blakely" votes="44" />
+                <Precinct name="Cedar Springs " votes="7" />
+                <Precinct name="Cuba" votes="14" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="190">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Arlington " votes="6" />
+                <Precinct name="Blakely" votes="7" />
+                <Precinct name="Cedar Springs " votes="4" />
+                <Precinct name="Cuba" votes="2" />
+                <Precinct name="Urquhart" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Arlington " votes="6" />
+                <Precinct name="Blakely" votes="19" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="14" />
+                <Precinct name="Urquhart" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Arlington " votes="34" />
+                <Precinct name="Blakely" votes="54" />
+                <Precinct name="Cedar Springs " votes="16" />
+                <Precinct name="Cuba" votes="14" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Arlington " votes="2" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="1" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="125">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Arlington " votes="2" />
+                <Precinct name="Blakely" votes="3" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Arlington " votes="6" />
+                <Precinct name="Blakely" votes="9" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="6" />
+                <Precinct name="Urquhart" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Arlington " votes="27" />
+                <Precinct name="Blakely" votes="38" />
+                <Precinct name="Cedar Springs " votes="13" />
+                <Precinct name="Cuba" votes="13" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="185">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Arlington " votes="5" />
+                <Precinct name="Blakely" votes="8" />
+                <Precinct name="Cedar Springs " votes="4" />
+                <Precinct name="Cuba" votes="2" />
+                <Precinct name="Urquhart" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Arlington " votes="2" />
+                <Precinct name="Blakely" votes="24" />
+                <Precinct name="Cedar Springs " votes="4" />
+                <Precinct name="Cuba" votes="11" />
+                <Precinct name="Urquhart" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="Arlington " votes="29" />
+                <Precinct name="Blakely" votes="60" />
+                <Precinct name="Cedar Springs " votes="10" />
+                <Precinct name="Cuba" votes="15" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Arlington " votes="2" />
+            <Precinct name="Blakely" votes="3" />
+            <Precinct name="Cedar Springs " votes="1" />
+            <Precinct name="Cuba" votes="1" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="231">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Arlington " votes="5" />
+                <Precinct name="Blakely" votes="11" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="56">
+                <Precinct name="Arlington " votes="7" />
+                <Precinct name="Blakely" votes="23" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="15" />
+                <Precinct name="Urquhart" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="154">
+                <Precinct name="Arlington " votes="40" />
+                <Precinct name="Blakely" votes="67" />
+                <Precinct name="Cedar Springs " votes="18" />
+                <Precinct name="Cuba" votes="26" />
+                <Precinct name="Urquhart" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="75">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Arlington " votes="2" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="2" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="10" />
+                <Precinct name="Cedar Springs " votes="2" />
+                <Precinct name="Cuba" votes="2" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Arlington " votes="17" />
+                <Precinct name="Blakely" votes="28" />
+                <Precinct name="Cedar Springs " votes="5" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="1" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arlington " votes="0" />
+            <Precinct name="Blakely" votes="0" />
+            <Precinct name="Cedar Springs " votes="0" />
+            <Precinct name="Cuba" votes="0" />
+            <Precinct name="Urquhart" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Jeremy Hunt" party="REP" totalVotes="143">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Arlington " votes="1" />
+                <Precinct name="Blakely" votes="1" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Arlington " votes="4" />
+                <Precinct name="Blakely" votes="15" />
+                <Precinct name="Cedar Springs " votes="13" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="99">
+                <Precinct name="Arlington " votes="23" />
+                <Precinct name="Blakely" votes="27" />
+                <Precinct name="Cedar Springs " votes="24" />
+                <Precinct name="Cuba" votes="18" />
+                <Precinct name="Urquhart" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="1" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Chris West" party="REP" totalVotes="523">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Arlington " votes="5" />
+                <Precinct name="Blakely" votes="5" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="3" />
+                <Precinct name="Urquhart" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="196">
+                <Precinct name="Arlington " votes="12" />
+                <Precinct name="Blakely" votes="101" />
+                <Precinct name="Cedar Springs " votes="25" />
+                <Precinct name="Cuba" votes="27" />
+                <Precinct name="Urquhart" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="309">
+                <Precinct name="Arlington " votes="30" />
+                <Precinct name="Blakely" votes="94" />
+                <Precinct name="Cedar Springs " votes="50" />
+                <Precinct name="Cuba" votes="73" />
+                <Precinct name="Urquhart" votes="62" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arlington " votes="0" />
+                <Precinct name="Blakely" votes="0" />
+                <Precinct name="Cedar Springs " votes="0" />
+                <Precinct name="Cuba" votes="0" />
+                <Precinct name="Urquhart" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

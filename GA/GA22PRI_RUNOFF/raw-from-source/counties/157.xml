@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 1:04:14 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Wilkes</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="296" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Senior Citizen Center" totalVoters="0" ballotsCast="97" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Young Famer's Bldg" totalVoters="0" ballotsCast="17" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Metasville Fire Sta" totalVoters="0" ballotsCast="17" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Edward B Pope Center" totalVoters="0" ballotsCast="69" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Rayle City Hall" totalVoters="0" ballotsCast="25" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Courthouse" totalVoters="0" ballotsCast="35" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Tignall Sch Lunch Rm" totalVoters="0" ballotsCast="36" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Senior Citizen Center" votes="1" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="1" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Citizen Center" votes="0" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="0" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="189">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Senior Citizen Center" votes="16" />
+                <Precinct name="Young Famer's Bldg" votes="5" />
+                <Precinct name="Metasville Fire Sta" votes="8" />
+                <Precinct name="Edward B Pope Center" votes="3" />
+                <Precinct name="Rayle City Hall" votes="4" />
+                <Precinct name="Courthouse" votes="9" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Senior Citizen Center" votes="17" />
+                <Precinct name="Young Famer's Bldg" votes="3" />
+                <Precinct name="Metasville Fire Sta" votes="3" />
+                <Precinct name="Edward B Pope Center" votes="10" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Senior Citizen Center" votes="22" />
+                <Precinct name="Young Famer's Bldg" votes="3" />
+                <Precinct name="Metasville Fire Sta" votes="4" />
+                <Precinct name="Edward B Pope Center" votes="25" />
+                <Precinct name="Rayle City Hall" votes="15" />
+                <Precinct name="Courthouse" votes="6" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="1" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="104">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Senior Citizen Center" votes="16" />
+                <Precinct name="Young Famer's Bldg" votes="1" />
+                <Precinct name="Metasville Fire Sta" votes="1" />
+                <Precinct name="Edward B Pope Center" votes="7" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="10" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="27">
+                <Precinct name="Senior Citizen Center" votes="13" />
+                <Precinct name="Young Famer's Bldg" votes="3" />
+                <Precinct name="Metasville Fire Sta" votes="1" />
+                <Precinct name="Edward B Pope Center" votes="6" />
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Senior Citizen Center" votes="12" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="16" />
+                <Precinct name="Rayle City Hall" votes="3" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="0" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Senior Citizen Center" votes="0" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="2" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Citizen Center" votes="0" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="0" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="96">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Senior Citizen Center" votes="15" />
+                <Precinct name="Young Famer's Bldg" votes="1" />
+                <Precinct name="Metasville Fire Sta" votes="2" />
+                <Precinct name="Edward B Pope Center" votes="6" />
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="7" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Senior Citizen Center" votes="6" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="1" />
+                <Precinct name="Edward B Pope Center" votes="7" />
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Senior Citizen Center" votes="11" />
+                <Precinct name="Young Famer's Bldg" votes="1" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="13" />
+                <Precinct name="Rayle City Hall" votes="8" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="1" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="197">
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Senior Citizen Center" votes="17" />
+                <Precinct name="Young Famer's Bldg" votes="5" />
+                <Precinct name="Metasville Fire Sta" votes="7" />
+                <Precinct name="Edward B Pope Center" votes="5" />
+                <Precinct name="Rayle City Hall" votes="3" />
+                <Precinct name="Courthouse" votes="12" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Senior Citizen Center" votes="24" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="3" />
+                <Precinct name="Edward B Pope Center" votes="8" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Senior Citizen Center" votes="24" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="4" />
+                <Precinct name="Edward B Pope Center" votes="27" />
+                <Precinct name="Rayle City Hall" votes="10" />
+                <Precinct name="Courthouse" votes="7" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="0" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Senior Citizen Center" votes="7" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="6" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Citizen Center" votes="0" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="0" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="114">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Senior Citizen Center" votes="8" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="2" />
+                <Precinct name="Edward B Pope Center" votes="2" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="9" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Senior Citizen Center" votes="7" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="3" />
+                <Precinct name="Edward B Pope Center" votes="7" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Senior Citizen Center" votes="21" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="13" />
+                <Precinct name="Rayle City Hall" votes="12" />
+                <Precinct name="Courthouse" votes="6" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="1" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="166">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Senior Citizen Center" votes="24" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="7" />
+                <Precinct name="Edward B Pope Center" votes="8" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="10" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Senior Citizen Center" votes="20" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="1" />
+                <Precinct name="Edward B Pope Center" votes="8" />
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="4" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Senior Citizen Center" votes="10" />
+                <Precinct name="Young Famer's Bldg" votes="3" />
+                <Precinct name="Metasville Fire Sta" votes="4" />
+                <Precinct name="Edward B Pope Center" votes="24" />
+                <Precinct name="Rayle City Hall" votes="6" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="0" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Senior Citizen Center" votes="3" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="3" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Citizen Center" votes="0" />
+            <Precinct name="Young Famer's Bldg" votes="0" />
+            <Precinct name="Metasville Fire Sta" votes="0" />
+            <Precinct name="Edward B Pope Center" votes="0" />
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="211">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Senior Citizen Center" votes="19" />
+                <Precinct name="Young Famer's Bldg" votes="6" />
+                <Precinct name="Metasville Fire Sta" votes="9" />
+                <Precinct name="Edward B Pope Center" votes="8" />
+                <Precinct name="Rayle City Hall" votes="4" />
+                <Precinct name="Courthouse" votes="10" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="53">
+                <Precinct name="Senior Citizen Center" votes="24" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="4" />
+                <Precinct name="Edward B Pope Center" votes="12" />
+                <Precinct name="Rayle City Hall" votes="2" />
+                <Precinct name="Courthouse" votes="5" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Senior Citizen Center" votes="25" />
+                <Precinct name="Young Famer's Bldg" votes="4" />
+                <Precinct name="Metasville Fire Sta" votes="4" />
+                <Precinct name="Edward B Pope Center" votes="23" />
+                <Precinct name="Rayle City Hall" votes="13" />
+                <Precinct name="Courthouse" votes="6" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="0" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="77">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Senior Citizen Center" votes="13" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="2" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="9" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Senior Citizen Center" votes="6" />
+                <Precinct name="Young Famer's Bldg" votes="2" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="3" />
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Senior Citizen Center" votes="7" />
+                <Precinct name="Young Famer's Bldg" votes="1" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="17" />
+                <Precinct name="Rayle City Hall" votes="5" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Citizen Center" votes="0" />
+                <Precinct name="Young Famer's Bldg" votes="0" />
+                <Precinct name="Metasville Fire Sta" votes="0" />
+                <Precinct name="Edward B Pope Center" votes="1" />
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="Rayle City Hall" votes="1" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Rayle City Hall" votes="12" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="23">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Rayle City Hall" votes="13" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rayle City Hall" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="8">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Rayle City Hall" votes="5" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Rayle City Hall" votes="4" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Rayle City Hall" votes="3" />
+                <Precinct name="Courthouse" votes="2" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Rayle City Hall" votes="13" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rayle City Hall" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Tignall Sch Lunch Rm" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

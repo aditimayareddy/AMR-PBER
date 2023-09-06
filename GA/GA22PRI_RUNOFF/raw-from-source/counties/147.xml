@@ -1,0 +1,1450 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 1:49:47 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Walton</Region>
+    <VoterTurnout totalVoters="69435" ballotsCast="845" voterTurnout="1.22">
+        <Precincts>
+            <Precinct name="Bold Springs" totalVoters="4733" ballotsCast="43" voterTurnout="0.91" percentReporting="4" />
+            <Precinct name="Whatley" totalVoters="1422" ballotsCast="10" voterTurnout="0.70" percentReporting="4" />
+            <Precinct name="Walker Park" totalVoters="3875" ballotsCast="30" voterTurnout="0.77" percentReporting="4" />
+            <Precinct name="Gratis" totalVoters="1269" ballotsCast="11" voterTurnout="0.87" percentReporting="4" />
+            <Precinct name="Between" totalVoters="4968" ballotsCast="42" voterTurnout="0.85" percentReporting="4" />
+            <Precinct name="Walnut Grove" totalVoters="2617" ballotsCast="28" voterTurnout="1.07" percentReporting="4" />
+            <Precinct name="Loganvile North" totalVoters="4860" ballotsCast="51" voterTurnout="1.05" percentReporting="4" />
+            <Precinct name="Social Circle" totalVoters="4648" ballotsCast="62" voterTurnout="1.33" percentReporting="4" />
+            <Precinct name="South Monroe" totalVoters="3880" ballotsCast="49" voterTurnout="1.26" percentReporting="4" />
+            <Precinct name="North Monroe" totalVoters="4678" ballotsCast="124" voterTurnout="2.65" percentReporting="4" />
+            <Precinct name="Loganville South" totalVoters="3418" ballotsCast="34" voterTurnout="0.99" percentReporting="4" />
+            <Precinct name="West Walton" totalVoters="4082" ballotsCast="51" voterTurnout="1.25" percentReporting="4" />
+            <Precinct name="Broken Arrow" totalVoters="4179" ballotsCast="19" voterTurnout="0.45" percentReporting="4" />
+            <Precinct name="Bay Creek" totalVoters="3395" ballotsCast="23" voterTurnout="0.68" percentReporting="4" />
+            <Precinct name="E Monroe" totalVoters="4123" ballotsCast="77" voterTurnout="1.87" percentReporting="4" />
+            <Precinct name="W Monroe" totalVoters="2102" ballotsCast="34" voterTurnout="1.62" percentReporting="4" />
+            <Precinct name="Tara" totalVoters="3949" ballotsCast="76" voterTurnout="1.92" percentReporting="4" />
+            <Precinct name="Mountain" totalVoters="1751" ballotsCast="15" voterTurnout="0.86" percentReporting="4" />
+            <Precinct name="Jersey" totalVoters="1969" ballotsCast="12" voterTurnout="0.61" percentReporting="4" />
+            <Precinct name="Blasingame" totalVoters="1110" ballotsCast="20" voterTurnout="1.80" percentReporting="4" />
+            <Precinct name="Good Hope" totalVoters="2407" ballotsCast="34" voterTurnout="1.41" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="2" />
+            <Precinct name="North Monroe" votes="1" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="1" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="1" />
+            <Precinct name="Tara" votes="1" />
+            <Precinct name="Mountain" votes="1" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="536">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Bold Springs" votes="4" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="5" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="4" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="3" />
+                <Precinct name="Social Circle" votes="5" />
+                <Precinct name="South Monroe" votes="2" />
+                <Precinct name="North Monroe" votes="8" />
+                <Precinct name="Loganville South" votes="7" />
+                <Precinct name="West Walton" votes="4" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="4" />
+                <Precinct name="E Monroe" votes="2" />
+                <Precinct name="W Monroe" votes="3" />
+                <Precinct name="Tara" votes="5" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="157">
+                <Precinct name="Bold Springs" votes="3" />
+                <Precinct name="Whatley" votes="4" />
+                <Precinct name="Walker Park" votes="6" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="10" />
+                <Precinct name="Walnut Grove" votes="6" />
+                <Precinct name="Loganvile North" votes="7" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="13" />
+                <Precinct name="North Monroe" votes="15" />
+                <Precinct name="Loganville South" votes="10" />
+                <Precinct name="West Walton" votes="15" />
+                <Precinct name="Broken Arrow" votes="7" />
+                <Precinct name="Bay Creek" votes="8" />
+                <Precinct name="E Monroe" votes="15" />
+                <Precinct name="W Monroe" votes="6" />
+                <Precinct name="Tara" votes="12" />
+                <Precinct name="Mountain" votes="4" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="308">
+                <Precinct name="Bold Springs" votes="20" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="9" />
+                <Precinct name="Gratis" votes="6" />
+                <Precinct name="Between" votes="14" />
+                <Precinct name="Walnut Grove" votes="10" />
+                <Precinct name="Loganvile North" votes="21" />
+                <Precinct name="Social Circle" votes="33" />
+                <Precinct name="South Monroe" votes="18" />
+                <Precinct name="North Monroe" votes="43" />
+                <Precinct name="Loganville South" votes="8" />
+                <Precinct name="West Walton" votes="18" />
+                <Precinct name="Broken Arrow" votes="3" />
+                <Precinct name="Bay Creek" votes="5" />
+                <Precinct name="E Monroe" votes="25" />
+                <Precinct name="W Monroe" votes="14" />
+                <Precinct name="Tara" votes="25" />
+                <Precinct name="Mountain" votes="7" />
+                <Precinct name="Jersey" votes="7" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="302">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Bold Springs" votes="5" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="1" />
+                <Precinct name="Walnut Grove" votes="2" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="4" />
+                <Precinct name="South Monroe" votes="2" />
+                <Precinct name="North Monroe" votes="12" />
+                <Precinct name="Loganville South" votes="1" />
+                <Precinct name="West Walton" votes="1" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="3" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="1" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="6" />
+                <Precinct name="Good Hope" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="94">
+                <Precinct name="Bold Springs" votes="1" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="3" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="5" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="7" />
+                <Precinct name="Social Circle" votes="7" />
+                <Precinct name="South Monroe" votes="7" />
+                <Precinct name="North Monroe" votes="18" />
+                <Precinct name="Loganville South" votes="3" />
+                <Precinct name="West Walton" votes="4" />
+                <Precinct name="Broken Arrow" votes="4" />
+                <Precinct name="Bay Creek" votes="1" />
+                <Precinct name="E Monroe" votes="11" />
+                <Precinct name="W Monroe" votes="3" />
+                <Precinct name="Tara" votes="14" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="166">
+                <Precinct name="Bold Springs" votes="10" />
+                <Precinct name="Whatley" votes="1" />
+                <Precinct name="Walker Park" votes="7" />
+                <Precinct name="Gratis" votes="4" />
+                <Precinct name="Between" votes="8" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="13" />
+                <Precinct name="Social Circle" votes="13" />
+                <Precinct name="South Monroe" votes="5" />
+                <Precinct name="North Monroe" votes="27" />
+                <Precinct name="Loganville South" votes="5" />
+                <Precinct name="West Walton" votes="9" />
+                <Precinct name="Broken Arrow" votes="3" />
+                <Precinct name="Bay Creek" votes="4" />
+                <Precinct name="E Monroe" votes="21" />
+                <Precinct name="W Monroe" votes="7" />
+                <Precinct name="Tara" votes="18" />
+                <Precinct name="Mountain" votes="1" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="1" />
+                <Precinct name="Good Hope" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Bold Springs" votes="1" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="1" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="2" />
+            <Precinct name="North Monroe" votes="3" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="1" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="1" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="191">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Bold Springs" votes="2" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="1" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="5" />
+                <Precinct name="Loganville South" votes="3" />
+                <Precinct name="West Walton" votes="1" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="2" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="2" />
+                <Precinct name="Good Hope" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="1" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="2" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="3" />
+                <Precinct name="Social Circle" votes="2" />
+                <Precinct name="South Monroe" votes="4" />
+                <Precinct name="North Monroe" votes="10" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="1" />
+                <Precinct name="Broken Arrow" votes="2" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="10" />
+                <Precinct name="W Monroe" votes="1" />
+                <Precinct name="Tara" votes="3" />
+                <Precinct name="Mountain" votes="1" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="125">
+                <Precinct name="Bold Springs" votes="6" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="4" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="7" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="11" />
+                <Precinct name="Social Circle" votes="11" />
+                <Precinct name="South Monroe" votes="7" />
+                <Precinct name="North Monroe" votes="29" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="3" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="2" />
+                <Precinct name="E Monroe" votes="14" />
+                <Precinct name="W Monroe" votes="4" />
+                <Precinct name="Tara" votes="9" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="645">
+            <VoteType name="Absentee by Mail Votes" votes="91">
+                <Precinct name="Bold Springs" votes="7" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="5" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="5" />
+                <Precinct name="Walnut Grove" votes="6" />
+                <Precinct name="Loganvile North" votes="3" />
+                <Precinct name="Social Circle" votes="8" />
+                <Precinct name="South Monroe" votes="4" />
+                <Precinct name="North Monroe" votes="15" />
+                <Precinct name="Loganville South" votes="5" />
+                <Precinct name="West Walton" votes="4" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="3" />
+                <Precinct name="E Monroe" votes="3" />
+                <Precinct name="W Monroe" votes="2" />
+                <Precinct name="Tara" votes="5" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="7" />
+                <Precinct name="Good Hope" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="206">
+                <Precinct name="Bold Springs" votes="4" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="8" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="13" />
+                <Precinct name="Walnut Grove" votes="9" />
+                <Precinct name="Loganvile North" votes="11" />
+                <Precinct name="Social Circle" votes="5" />
+                <Precinct name="South Monroe" votes="16" />
+                <Precinct name="North Monroe" votes="23" />
+                <Precinct name="Loganville South" votes="13" />
+                <Precinct name="West Walton" votes="18" />
+                <Precinct name="Broken Arrow" votes="9" />
+                <Precinct name="Bay Creek" votes="9" />
+                <Precinct name="E Monroe" votes="16" />
+                <Precinct name="W Monroe" votes="8" />
+                <Precinct name="Tara" votes="23" />
+                <Precinct name="Mountain" votes="3" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="348">
+                <Precinct name="Bold Springs" votes="23" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="12" />
+                <Precinct name="Gratis" votes="8" />
+                <Precinct name="Between" votes="15" />
+                <Precinct name="Walnut Grove" votes="10" />
+                <Precinct name="Loganvile North" votes="23" />
+                <Precinct name="Social Circle" votes="35" />
+                <Precinct name="South Monroe" votes="16" />
+                <Precinct name="North Monroe" votes="39" />
+                <Precinct name="Loganville South" votes="13" />
+                <Precinct name="West Walton" votes="24" />
+                <Precinct name="Broken Arrow" votes="6" />
+                <Precinct name="Bay Creek" votes="8" />
+                <Precinct name="E Monroe" votes="32" />
+                <Precinct name="W Monroe" votes="18" />
+                <Precinct name="Tara" votes="34" />
+                <Precinct name="Mountain" votes="7" />
+                <Precinct name="Jersey" votes="5" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Bold Springs" votes="2" />
+            <Precinct name="Whatley" votes="1" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="2" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="3" />
+            <Precinct name="Social Circle" votes="2" />
+            <Precinct name="South Monroe" votes="1" />
+            <Precinct name="North Monroe" votes="3" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="2" />
+            <Precinct name="E Monroe" votes="1" />
+            <Precinct name="W Monroe" votes="1" />
+            <Precinct name="Tara" votes="1" />
+            <Precinct name="Mountain" votes="1" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="2" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="316">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Bold Springs" votes="2" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="1" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="1" />
+                <Precinct name="Walnut Grove" votes="1" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="5" />
+                <Precinct name="South Monroe" votes="1" />
+                <Precinct name="North Monroe" votes="6" />
+                <Precinct name="Loganville South" votes="4" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="2" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="1" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="96">
+                <Precinct name="Bold Springs" votes="1" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="2" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="10" />
+                <Precinct name="Walnut Grove" votes="2" />
+                <Precinct name="Loganvile North" votes="8" />
+                <Precinct name="Social Circle" votes="2" />
+                <Precinct name="South Monroe" votes="8" />
+                <Precinct name="North Monroe" votes="20" />
+                <Precinct name="Loganville South" votes="1" />
+                <Precinct name="West Walton" votes="2" />
+                <Precinct name="Broken Arrow" votes="5" />
+                <Precinct name="Bay Creek" votes="3" />
+                <Precinct name="E Monroe" votes="11" />
+                <Precinct name="W Monroe" votes="3" />
+                <Precinct name="Tara" votes="8" />
+                <Precinct name="Mountain" votes="4" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="190">
+                <Precinct name="Bold Springs" votes="10" />
+                <Precinct name="Whatley" votes="1" />
+                <Precinct name="Walker Park" votes="4" />
+                <Precinct name="Gratis" votes="5" />
+                <Precinct name="Between" votes="8" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="12" />
+                <Precinct name="Social Circle" votes="16" />
+                <Precinct name="South Monroe" votes="9" />
+                <Precinct name="North Monroe" votes="38" />
+                <Precinct name="Loganville South" votes="4" />
+                <Precinct name="West Walton" votes="9" />
+                <Precinct name="Broken Arrow" votes="2" />
+                <Precinct name="Bay Creek" votes="2" />
+                <Precinct name="E Monroe" votes="26" />
+                <Precinct name="W Monroe" votes="7" />
+                <Precinct name="Tara" votes="16" />
+                <Precinct name="Mountain" votes="5" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="4" />
+                <Precinct name="Good Hope" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="507">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="Bold Springs" votes="7" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="4" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="4" />
+                <Precinct name="Walnut Grove" votes="5" />
+                <Precinct name="Loganvile North" votes="3" />
+                <Precinct name="Social Circle" votes="4" />
+                <Precinct name="South Monroe" votes="3" />
+                <Precinct name="North Monroe" votes="14" />
+                <Precinct name="Loganville South" votes="4" />
+                <Precinct name="West Walton" votes="5" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="1" />
+                <Precinct name="E Monroe" votes="5" />
+                <Precinct name="W Monroe" votes="2" />
+                <Precinct name="Tara" votes="5" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="7" />
+                <Precinct name="Good Hope" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="150">
+                <Precinct name="Bold Springs" votes="3" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="7" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="3" />
+                <Precinct name="Walnut Grove" votes="7" />
+                <Precinct name="Loganvile North" votes="4" />
+                <Precinct name="Social Circle" votes="5" />
+                <Precinct name="South Monroe" votes="13" />
+                <Precinct name="North Monroe" votes="12" />
+                <Precinct name="Loganville South" votes="12" />
+                <Precinct name="West Walton" votes="17" />
+                <Precinct name="Broken Arrow" votes="6" />
+                <Precinct name="Bay Creek" votes="6" />
+                <Precinct name="E Monroe" votes="14" />
+                <Precinct name="W Monroe" votes="6" />
+                <Precinct name="Tara" votes="18" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="276">
+                <Precinct name="Bold Springs" votes="18" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="12" />
+                <Precinct name="Gratis" votes="5" />
+                <Precinct name="Between" votes="14" />
+                <Precinct name="Walnut Grove" votes="9" />
+                <Precinct name="Loganvile North" votes="21" />
+                <Precinct name="Social Circle" votes="28" />
+                <Precinct name="South Monroe" votes="14" />
+                <Precinct name="North Monroe" votes="31" />
+                <Precinct name="Loganville South" votes="9" />
+                <Precinct name="West Walton" votes="18" />
+                <Precinct name="Broken Arrow" votes="4" />
+                <Precinct name="Bay Creek" votes="7" />
+                <Precinct name="E Monroe" votes="20" />
+                <Precinct name="W Monroe" votes="14" />
+                <Precinct name="Tara" votes="26" />
+                <Precinct name="Mountain" votes="3" />
+                <Precinct name="Jersey" votes="5" />
+                <Precinct name="Blasingame" votes="2" />
+                <Precinct name="Good Hope" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Bold Springs" votes="2" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="1" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="3" />
+            <Precinct name="Social Circle" votes="1" />
+            <Precinct name="South Monroe" votes="2" />
+            <Precinct name="North Monroe" votes="6" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="3" />
+            <Precinct name="E Monroe" votes="1" />
+            <Precinct name="W Monroe" votes="1" />
+            <Precinct name="Tara" votes="1" />
+            <Precinct name="Mountain" votes="1" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="465">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Bold Springs" votes="2" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="3" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="5" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="2" />
+                <Precinct name="Social Circle" votes="3" />
+                <Precinct name="South Monroe" votes="1" />
+                <Precinct name="North Monroe" votes="13" />
+                <Precinct name="Loganville South" votes="6" />
+                <Precinct name="West Walton" votes="3" />
+                <Precinct name="Broken Arrow" votes="2" />
+                <Precinct name="Bay Creek" votes="2" />
+                <Precinct name="E Monroe" votes="4" />
+                <Precinct name="W Monroe" votes="1" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="150">
+                <Precinct name="Bold Springs" votes="3" />
+                <Precinct name="Whatley" votes="5" />
+                <Precinct name="Walker Park" votes="6" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="9" />
+                <Precinct name="Walnut Grove" votes="6" />
+                <Precinct name="Loganvile North" votes="5" />
+                <Precinct name="Social Circle" votes="6" />
+                <Precinct name="South Monroe" votes="13" />
+                <Precinct name="North Monroe" votes="26" />
+                <Precinct name="Loganville South" votes="7" />
+                <Precinct name="West Walton" votes="12" />
+                <Precinct name="Broken Arrow" votes="4" />
+                <Precinct name="Bay Creek" votes="3" />
+                <Precinct name="E Monroe" votes="12" />
+                <Precinct name="W Monroe" votes="6" />
+                <Precinct name="Tara" votes="12" />
+                <Precinct name="Mountain" votes="4" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="252">
+                <Precinct name="Bold Springs" votes="17" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="11" />
+                <Precinct name="Gratis" votes="5" />
+                <Precinct name="Between" votes="11" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="20" />
+                <Precinct name="Social Circle" votes="28" />
+                <Precinct name="South Monroe" votes="14" />
+                <Precinct name="North Monroe" votes="29" />
+                <Precinct name="Loganville South" votes="10" />
+                <Precinct name="West Walton" votes="12" />
+                <Precinct name="Broken Arrow" votes="2" />
+                <Precinct name="Bay Creek" votes="5" />
+                <Precinct name="E Monroe" votes="32" />
+                <Precinct name="W Monroe" votes="9" />
+                <Precinct name="Tara" votes="22" />
+                <Precinct name="Mountain" votes="4" />
+                <Precinct name="Jersey" votes="5" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="358">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Bold Springs" votes="7" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="2" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="1" />
+                <Precinct name="Social Circle" votes="6" />
+                <Precinct name="South Monroe" votes="3" />
+                <Precinct name="North Monroe" votes="7" />
+                <Precinct name="Loganville South" votes="2" />
+                <Precinct name="West Walton" votes="2" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="1" />
+                <Precinct name="W Monroe" votes="2" />
+                <Precinct name="Tara" votes="4" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="4" />
+                <Precinct name="Good Hope" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="96">
+                <Precinct name="Bold Springs" votes="1" />
+                <Precinct name="Whatley" votes="1" />
+                <Precinct name="Walker Park" votes="3" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="5" />
+                <Precinct name="Walnut Grove" votes="3" />
+                <Precinct name="Loganvile North" votes="6" />
+                <Precinct name="Social Circle" votes="1" />
+                <Precinct name="South Monroe" votes="8" />
+                <Precinct name="North Monroe" votes="6" />
+                <Precinct name="Loganville South" votes="6" />
+                <Precinct name="West Walton" votes="7" />
+                <Precinct name="Broken Arrow" votes="7" />
+                <Precinct name="Bay Creek" votes="6" />
+                <Precinct name="E Monroe" votes="13" />
+                <Precinct name="W Monroe" votes="3" />
+                <Precinct name="Tara" votes="14" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="2" />
+                <Precinct name="Good Hope" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="214">
+                <Precinct name="Bold Springs" votes="11" />
+                <Precinct name="Whatley" votes="1" />
+                <Precinct name="Walker Park" votes="5" />
+                <Precinct name="Gratis" votes="5" />
+                <Precinct name="Between" votes="11" />
+                <Precinct name="Walnut Grove" votes="9" />
+                <Precinct name="Loganvile North" votes="14" />
+                <Precinct name="Social Circle" votes="17" />
+                <Precinct name="South Monroe" votes="8" />
+                <Precinct name="North Monroe" votes="37" />
+                <Precinct name="Loganville South" votes="3" />
+                <Precinct name="West Walton" votes="15" />
+                <Precinct name="Broken Arrow" votes="4" />
+                <Precinct name="Bay Creek" votes="4" />
+                <Precinct name="E Monroe" votes="14" />
+                <Precinct name="W Monroe" votes="12" />
+                <Precinct name="Tara" votes="21" />
+                <Precinct name="Mountain" votes="4" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="1" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="1" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="1" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="5041">
+            <VoteType name="Absentee by Mail Votes" votes="398">
+                <Precinct name="Bold Springs" votes="24" />
+                <Precinct name="Whatley" votes="12" />
+                <Precinct name="Walker Park" votes="31" />
+                <Precinct name="Gratis" votes="5" />
+                <Precinct name="Between" votes="32" />
+                <Precinct name="Walnut Grove" votes="12" />
+                <Precinct name="Loganvile North" votes="32" />
+                <Precinct name="Social Circle" votes="23" />
+                <Precinct name="South Monroe" votes="39" />
+                <Precinct name="North Monroe" votes="14" />
+                <Precinct name="Loganville South" votes="28" />
+                <Precinct name="West Walton" votes="19" />
+                <Precinct name="Broken Arrow" votes="22" />
+                <Precinct name="Bay Creek" votes="23" />
+                <Precinct name="E Monroe" votes="23" />
+                <Precinct name="W Monroe" votes="8" />
+                <Precinct name="Tara" votes="11" />
+                <Precinct name="Mountain" votes="15" />
+                <Precinct name="Jersey" votes="9" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1313">
+                <Precinct name="Bold Springs" votes="66" />
+                <Precinct name="Whatley" votes="51" />
+                <Precinct name="Walker Park" votes="87" />
+                <Precinct name="Gratis" votes="28" />
+                <Precinct name="Between" votes="124" />
+                <Precinct name="Walnut Grove" votes="35" />
+                <Precinct name="Loganvile North" votes="76" />
+                <Precinct name="Social Circle" votes="58" />
+                <Precinct name="South Monroe" votes="168" />
+                <Precinct name="North Monroe" votes="44" />
+                <Precinct name="Loganville South" votes="70" />
+                <Precinct name="West Walton" votes="82" />
+                <Precinct name="Broken Arrow" votes="55" />
+                <Precinct name="Bay Creek" votes="76" />
+                <Precinct name="E Monroe" votes="56" />
+                <Precinct name="W Monroe" votes="85" />
+                <Precinct name="Tara" votes="62" />
+                <Precinct name="Mountain" votes="24" />
+                <Precinct name="Jersey" votes="21" />
+                <Precinct name="Blasingame" votes="22" />
+                <Precinct name="Good Hope" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3329">
+                <Precinct name="Bold Springs" votes="288" />
+                <Precinct name="Whatley" votes="116" />
+                <Precinct name="Walker Park" votes="199" />
+                <Precinct name="Gratis" votes="163" />
+                <Precinct name="Between" votes="244" />
+                <Precinct name="Walnut Grove" votes="119" />
+                <Precinct name="Loganvile North" votes="137" />
+                <Precinct name="Social Circle" votes="212" />
+                <Precinct name="South Monroe" votes="165" />
+                <Precinct name="North Monroe" votes="81" />
+                <Precinct name="Loganville South" votes="110" />
+                <Precinct name="West Walton" votes="248" />
+                <Precinct name="Broken Arrow" votes="210" />
+                <Precinct name="Bay Creek" votes="113" />
+                <Precinct name="E Monroe" votes="131" />
+                <Precinct name="W Monroe" votes="153" />
+                <Precinct name="Tara" votes="101" />
+                <Precinct name="Mountain" votes="93" />
+                <Precinct name="Jersey" votes="118" />
+                <Precinct name="Blasingame" votes="114" />
+                <Precinct name="Good Hope" votes="214" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="1467">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Bold Springs" votes="3" />
+                <Precinct name="Whatley" votes="3" />
+                <Precinct name="Walker Park" votes="2" />
+                <Precinct name="Gratis" votes="2" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="5" />
+                <Precinct name="Social Circle" votes="3" />
+                <Precinct name="South Monroe" votes="1" />
+                <Precinct name="North Monroe" votes="4" />
+                <Precinct name="Loganville South" votes="1" />
+                <Precinct name="West Walton" votes="3" />
+                <Precinct name="Broken Arrow" votes="3" />
+                <Precinct name="Bay Creek" votes="4" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="1" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="1" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="322">
+                <Precinct name="Bold Springs" votes="25" />
+                <Precinct name="Whatley" votes="10" />
+                <Precinct name="Walker Park" votes="19" />
+                <Precinct name="Gratis" votes="6" />
+                <Precinct name="Between" votes="19" />
+                <Precinct name="Walnut Grove" votes="7" />
+                <Precinct name="Loganvile North" votes="23" />
+                <Precinct name="Social Circle" votes="18" />
+                <Precinct name="South Monroe" votes="27" />
+                <Precinct name="North Monroe" votes="19" />
+                <Precinct name="Loganville South" votes="25" />
+                <Precinct name="West Walton" votes="27" />
+                <Precinct name="Broken Arrow" votes="21" />
+                <Precinct name="Bay Creek" votes="4" />
+                <Precinct name="E Monroe" votes="13" />
+                <Precinct name="W Monroe" votes="17" />
+                <Precinct name="Tara" votes="18" />
+                <Precinct name="Mountain" votes="7" />
+                <Precinct name="Jersey" votes="4" />
+                <Precinct name="Blasingame" votes="5" />
+                <Precinct name="Good Hope" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1101">
+                <Precinct name="Bold Springs" votes="93" />
+                <Precinct name="Whatley" votes="24" />
+                <Precinct name="Walker Park" votes="89" />
+                <Precinct name="Gratis" votes="35" />
+                <Precinct name="Between" votes="93" />
+                <Precinct name="Walnut Grove" votes="35" />
+                <Precinct name="Loganvile North" votes="53" />
+                <Precinct name="Social Circle" votes="64" />
+                <Precinct name="South Monroe" votes="61" />
+                <Precinct name="North Monroe" votes="30" />
+                <Precinct name="Loganville South" votes="42" />
+                <Precinct name="West Walton" votes="62" />
+                <Precinct name="Broken Arrow" votes="71" />
+                <Precinct name="Bay Creek" votes="59" />
+                <Precinct name="E Monroe" votes="37" />
+                <Precinct name="W Monroe" votes="33" />
+                <Precinct name="Tara" votes="26" />
+                <Precinct name="Mountain" votes="40" />
+                <Precinct name="Jersey" votes="48" />
+                <Precinct name="Blasingame" votes="36" />
+                <Precinct name="Good Hope" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="2" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="21" precinctsReported="21">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Bold Springs" votes="1" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="1" />
+            <Precinct name="Between" votes="1" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="3" />
+            <Precinct name="Social Circle" votes="1" />
+            <Precinct name="South Monroe" votes="3" />
+            <Precinct name="North Monroe" votes="5" />
+            <Precinct name="Loganville South" votes="1" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="2" />
+            <Precinct name="E Monroe" votes="1" />
+            <Precinct name="W Monroe" votes="1" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="1" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="2" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bold Springs" votes="0" />
+            <Precinct name="Whatley" votes="0" />
+            <Precinct name="Walker Park" votes="0" />
+            <Precinct name="Gratis" votes="0" />
+            <Precinct name="Between" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Loganvile North" votes="0" />
+            <Precinct name="Social Circle" votes="0" />
+            <Precinct name="South Monroe" votes="0" />
+            <Precinct name="North Monroe" votes="0" />
+            <Precinct name="Loganville South" votes="0" />
+            <Precinct name="West Walton" votes="0" />
+            <Precinct name="Broken Arrow" votes="0" />
+            <Precinct name="Bay Creek" votes="0" />
+            <Precinct name="E Monroe" votes="0" />
+            <Precinct name="W Monroe" votes="0" />
+            <Precinct name="Tara" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Jersey" votes="0" />
+            <Precinct name="Blasingame" votes="0" />
+            <Precinct name="Good Hope" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="262">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Bold Springs" votes="7" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="2" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="2" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="1" />
+                <Precinct name="Social Circle" votes="4" />
+                <Precinct name="South Monroe" votes="1" />
+                <Precinct name="North Monroe" votes="4" />
+                <Precinct name="Loganville South" votes="5" />
+                <Precinct name="West Walton" votes="3" />
+                <Precinct name="Broken Arrow" votes="1" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="1" />
+                <Precinct name="W Monroe" votes="1" />
+                <Precinct name="Tara" votes="5" />
+                <Precinct name="Mountain" votes="2" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="1" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="78">
+                <Precinct name="Bold Springs" votes="1" />
+                <Precinct name="Whatley" votes="1" />
+                <Precinct name="Walker Park" votes="5" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="4" />
+                <Precinct name="Walnut Grove" votes="5" />
+                <Precinct name="Loganvile North" votes="4" />
+                <Precinct name="Social Circle" votes="1" />
+                <Precinct name="South Monroe" votes="9" />
+                <Precinct name="North Monroe" votes="8" />
+                <Precinct name="Loganville South" votes="4" />
+                <Precinct name="West Walton" votes="5" />
+                <Precinct name="Broken Arrow" votes="6" />
+                <Precinct name="Bay Creek" votes="3" />
+                <Precinct name="E Monroe" votes="9" />
+                <Precinct name="W Monroe" votes="2" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="1" />
+                <Precinct name="Jersey" votes="2" />
+                <Precinct name="Blasingame" votes="1" />
+                <Precinct name="Good Hope" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Bold Springs" votes="6" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="5" />
+                <Precinct name="Gratis" votes="3" />
+                <Precinct name="Between" votes="8" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="12" />
+                <Precinct name="Social Circle" votes="16" />
+                <Precinct name="South Monroe" votes="7" />
+                <Precinct name="North Monroe" votes="21" />
+                <Precinct name="Loganville South" votes="4" />
+                <Precinct name="West Walton" votes="5" />
+                <Precinct name="Broken Arrow" votes="3" />
+                <Precinct name="Bay Creek" votes="2" />
+                <Precinct name="E Monroe" votes="10" />
+                <Precinct name="W Monroe" votes="6" />
+                <Precinct name="Tara" votes="9" />
+                <Precinct name="Mountain" votes="5" />
+                <Precinct name="Jersey" votes="3" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="562">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Bold Springs" votes="2" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="3" />
+                <Precinct name="Gratis" votes="1" />
+                <Precinct name="Between" votes="3" />
+                <Precinct name="Walnut Grove" votes="2" />
+                <Precinct name="Loganvile North" votes="2" />
+                <Precinct name="Social Circle" votes="5" />
+                <Precinct name="South Monroe" votes="3" />
+                <Precinct name="North Monroe" votes="16" />
+                <Precinct name="Loganville South" votes="3" />
+                <Precinct name="West Walton" votes="2" />
+                <Precinct name="Broken Arrow" votes="2" />
+                <Precinct name="Bay Creek" votes="3" />
+                <Precinct name="E Monroe" votes="4" />
+                <Precinct name="W Monroe" votes="2" />
+                <Precinct name="Tara" votes="2" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="1" />
+                <Precinct name="Blasingame" votes="6" />
+                <Precinct name="Good Hope" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="166">
+                <Precinct name="Bold Springs" votes="3" />
+                <Precinct name="Whatley" votes="5" />
+                <Precinct name="Walker Park" votes="4" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="10" />
+                <Precinct name="Walnut Grove" votes="4" />
+                <Precinct name="Loganvile North" votes="8" />
+                <Precinct name="Social Circle" votes="6" />
+                <Precinct name="South Monroe" votes="10" />
+                <Precinct name="North Monroe" votes="23" />
+                <Precinct name="Loganville South" votes="9" />
+                <Precinct name="West Walton" votes="14" />
+                <Precinct name="Broken Arrow" votes="5" />
+                <Precinct name="Bay Creek" votes="6" />
+                <Precinct name="E Monroe" votes="16" />
+                <Precinct name="W Monroe" votes="7" />
+                <Precinct name="Tara" votes="24" />
+                <Precinct name="Mountain" votes="3" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="4" />
+                <Precinct name="Good Hope" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="330">
+                <Precinct name="Bold Springs" votes="23" />
+                <Precinct name="Whatley" votes="2" />
+                <Precinct name="Walker Park" votes="11" />
+                <Precinct name="Gratis" votes="6" />
+                <Precinct name="Between" votes="14" />
+                <Precinct name="Walnut Grove" votes="9" />
+                <Precinct name="Loganvile North" votes="21" />
+                <Precinct name="Social Circle" votes="29" />
+                <Precinct name="South Monroe" votes="16" />
+                <Precinct name="North Monroe" votes="47" />
+                <Precinct name="Loganville South" votes="8" />
+                <Precinct name="West Walton" votes="23" />
+                <Precinct name="Broken Arrow" votes="3" />
+                <Precinct name="Bay Creek" votes="7" />
+                <Precinct name="E Monroe" votes="36" />
+                <Precinct name="W Monroe" votes="15" />
+                <Precinct name="Tara" votes="34" />
+                <Precinct name="Mountain" votes="3" />
+                <Precinct name="Jersey" votes="4" />
+                <Precinct name="Blasingame" votes="3" />
+                <Precinct name="Good Hope" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bold Springs" votes="0" />
+                <Precinct name="Whatley" votes="0" />
+                <Precinct name="Walker Park" votes="0" />
+                <Precinct name="Gratis" votes="0" />
+                <Precinct name="Between" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Loganvile North" votes="0" />
+                <Precinct name="Social Circle" votes="0" />
+                <Precinct name="South Monroe" votes="0" />
+                <Precinct name="North Monroe" votes="0" />
+                <Precinct name="Loganville South" votes="0" />
+                <Precinct name="West Walton" votes="0" />
+                <Precinct name="Broken Arrow" votes="0" />
+                <Precinct name="Bay Creek" votes="0" />
+                <Precinct name="E Monroe" votes="0" />
+                <Precinct name="W Monroe" votes="0" />
+                <Precinct name="Tara" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Jersey" votes="0" />
+                <Precinct name="Blasingame" votes="0" />
+                <Precinct name="Good Hope" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

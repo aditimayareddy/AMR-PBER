@@ -1,0 +1,1112 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 1:19:11 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Lowndes</Region>
+    <VoterTurnout totalVoters="70808" ballotsCast="1707" voterTurnout="2.41">
+        <Precincts>
+            <Precinct name="Hahira Train Depot" totalVoters="2821" ballotsCast="37" voterTurnout="1.31" percentReporting="4" />
+            <Precinct name="Hahira Historical Society " totalVoters="1604" ballotsCast="19" voterTurnout="1.18" percentReporting="4" />
+            <Precinct name="Hahira Community Center " totalVoters="1120" ballotsCast="23" voterTurnout="2.05" percentReporting="4" />
+            <Precinct name="Pine Grove Church" totalVoters="1676" ballotsCast="41" voterTurnout="2.45" percentReporting="4" />
+            <Precinct name="Wiregrass College" totalVoters="6411" ballotsCast="113" voterTurnout="1.76" percentReporting="4" />
+            <Precinct name="Trinity Church" totalVoters="3501" ballotsCast="83" voterTurnout="2.37" percentReporting="4" />
+            <Precinct name="Nazarene Church" totalVoters="5621" ballotsCast="120" voterTurnout="2.13" percentReporting="4" />
+            <Precinct name="Mathis Auditorium " totalVoters="10831" ballotsCast="274" voterTurnout="2.53" percentReporting="4" />
+            <Precinct name="Jaycee Community Center" totalVoters="1995" ballotsCast="79" voterTurnout="3.96" percentReporting="4" />
+            <Precinct name="Lowndes Civic Center " totalVoters="9622" ballotsCast="271" voterTurnout="2.82" percentReporting="4" />
+            <Precinct name="Naylor Community Center" totalVoters="1294" ballotsCast="60" voterTurnout="4.64" percentReporting="4" />
+            <Precinct name="Rainwater Conference Center" totalVoters="9424" ballotsCast="254" voterTurnout="2.70" percentReporting="4" />
+            <Precinct name="VSU UC" totalVoters="209" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Mt. Calvary Church" totalVoters="2253" ballotsCast="40" voterTurnout="1.78" percentReporting="4" />
+            <Precinct name="Mildred Community Center" totalVoters="2453" ballotsCast="147" voterTurnout="5.99" percentReporting="4" />
+            <Precinct name="Paper Mill Union" totalVoters="2444" ballotsCast="31" voterTurnout="1.27" percentReporting="4" />
+            <Precinct name="Dasher City Hall" totalVoters="2202" ballotsCast="46" voterTurnout="2.09" percentReporting="4" />
+            <Precinct name="Lake Park Civic Center" totalVoters="3344" ballotsCast="49" voterTurnout="1.47" percentReporting="4" />
+            <Precinct name="South Lowndes Recreation Center" totalVoters="1983" ballotsCast="20" voterTurnout="1.01" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Hahira Train Depot" votes="1" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="1" />
+            <Precinct name="Wiregrass College" votes="5" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="8" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="4" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="8" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="2" />
+            <Precinct name="Mildred Community Center" votes="2" />
+            <Precinct name="Paper Mill Union" votes="1" />
+            <Precinct name="Dasher City Hall" votes="2" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hahira Train Depot" votes="0" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="0" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="0" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="0" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="0" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="0" />
+            <Precinct name="Mildred Community Center" votes="0" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="758">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="Hahira Train Depot" votes="5" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="2" />
+                <Precinct name="Trinity Church" votes="1" />
+                <Precinct name="Nazarene Church" votes="1" />
+                <Precinct name="Mathis Auditorium " votes="17" />
+                <Precinct name="Jaycee Community Center" votes="1" />
+                <Precinct name="Lowndes Civic Center " votes="2" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="12" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="1" />
+                <Precinct name="Mildred Community Center" votes="9" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="7" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="224">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="2" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="9" />
+                <Precinct name="Wiregrass College" votes="15" />
+                <Precinct name="Trinity Church" votes="9" />
+                <Precinct name="Nazarene Church" votes="12" />
+                <Precinct name="Mathis Auditorium " votes="58" />
+                <Precinct name="Jaycee Community Center" votes="13" />
+                <Precinct name="Lowndes Civic Center " votes="33" />
+                <Precinct name="Naylor Community Center" votes="6" />
+                <Precinct name="Rainwater Conference Center" votes="32" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="6" />
+                <Precinct name="Mildred Community Center" votes="15" />
+                <Precinct name="Paper Mill Union" votes="2" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="456">
+                <Precinct name="Hahira Train Depot" votes="9" />
+                <Precinct name="Hahira Historical Society " votes="6" />
+                <Precinct name="Hahira Community Center " votes="6" />
+                <Precinct name="Pine Grove Church" votes="14" />
+                <Precinct name="Wiregrass College" votes="29" />
+                <Precinct name="Trinity Church" votes="24" />
+                <Precinct name="Nazarene Church" votes="37" />
+                <Precinct name="Mathis Auditorium " votes="69" />
+                <Precinct name="Jaycee Community Center" votes="17" />
+                <Precinct name="Lowndes Civic Center " votes="66" />
+                <Precinct name="Naylor Community Center" votes="18" />
+                <Precinct name="Rainwater Conference Center" votes="83" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="6" />
+                <Precinct name="Mildred Community Center" votes="32" />
+                <Precinct name="Paper Mill Union" votes="12" />
+                <Precinct name="Dasher City Hall" votes="10" />
+                <Precinct name="Lake Park Civic Center" votes="15" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="1" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="3" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="0" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="915">
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="3" />
+                <Precinct name="Trinity Church" votes="7" />
+                <Precinct name="Nazarene Church" votes="7" />
+                <Precinct name="Mathis Auditorium " votes="9" />
+                <Precinct name="Jaycee Community Center" votes="2" />
+                <Precinct name="Lowndes Civic Center " votes="13" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="17" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="2" />
+                <Precinct name="Mildred Community Center" votes="13" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="2" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="339">
+                <Precinct name="Hahira Train Depot" votes="4" />
+                <Precinct name="Hahira Historical Society " votes="2" />
+                <Precinct name="Hahira Community Center " votes="4" />
+                <Precinct name="Pine Grove Church" votes="5" />
+                <Precinct name="Wiregrass College" votes="35" />
+                <Precinct name="Trinity Church" votes="22" />
+                <Precinct name="Nazarene Church" votes="17" />
+                <Precinct name="Mathis Auditorium " votes="57" />
+                <Precinct name="Jaycee Community Center" votes="23" />
+                <Precinct name="Lowndes Civic Center " votes="66" />
+                <Precinct name="Naylor Community Center" votes="8" />
+                <Precinct name="Rainwater Conference Center" votes="49" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="12" />
+                <Precinct name="Mildred Community Center" votes="22" />
+                <Precinct name="Paper Mill Union" votes="1" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="7" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="483">
+                <Precinct name="Hahira Train Depot" votes="17" />
+                <Precinct name="Hahira Historical Society " votes="9" />
+                <Precinct name="Hahira Community Center " votes="9" />
+                <Precinct name="Pine Grove Church" votes="10" />
+                <Precinct name="Wiregrass College" votes="24" />
+                <Precinct name="Trinity Church" votes="20" />
+                <Precinct name="Nazarene Church" votes="44" />
+                <Precinct name="Mathis Auditorium " votes="56" />
+                <Precinct name="Jaycee Community Center" votes="23" />
+                <Precinct name="Lowndes Civic Center " votes="81" />
+                <Precinct name="Naylor Community Center" votes="25" />
+                <Precinct name="Rainwater Conference Center" votes="51" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="11" />
+                <Precinct name="Mildred Community Center" votes="54" />
+                <Precinct name="Paper Mill Union" votes="9" />
+                <Precinct name="Dasher City Hall" votes="19" />
+                <Precinct name="Lake Park Civic Center" votes="15" />
+                <Precinct name="South Lowndes Recreation Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="7">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="1" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="3" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="2" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Hahira Train Depot" votes="1" />
+            <Precinct name="Hahira Historical Society " votes="1" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="5" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="6" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="4" />
+            <Precinct name="Naylor Community Center" votes="1" />
+            <Precinct name="Rainwater Conference Center" votes="7" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="1" />
+            <Precinct name="Mildred Community Center" votes="5" />
+            <Precinct name="Paper Mill Union" votes="1" />
+            <Precinct name="Dasher City Hall" votes="2" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hahira Train Depot" votes="0" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="0" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="0" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="0" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="0" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="0" />
+            <Precinct name="Mildred Community Center" votes="0" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="757">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Hahira Train Depot" votes="2" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="2" />
+                <Precinct name="Trinity Church" votes="3" />
+                <Precinct name="Nazarene Church" votes="5" />
+                <Precinct name="Mathis Auditorium " votes="5" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="7" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="14" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="1" />
+                <Precinct name="Mildred Community Center" votes="8" />
+                <Precinct name="Paper Mill Union" votes="6" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="6" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="225">
+                <Precinct name="Hahira Train Depot" votes="3" />
+                <Precinct name="Hahira Historical Society " votes="1" />
+                <Precinct name="Hahira Community Center " votes="4" />
+                <Precinct name="Pine Grove Church" votes="3" />
+                <Precinct name="Wiregrass College" votes="24" />
+                <Precinct name="Trinity Church" votes="12" />
+                <Precinct name="Nazarene Church" votes="9" />
+                <Precinct name="Mathis Auditorium " votes="45" />
+                <Precinct name="Jaycee Community Center" votes="14" />
+                <Precinct name="Lowndes Civic Center " votes="43" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="33" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="6" />
+                <Precinct name="Mildred Community Center" votes="16" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="458">
+                <Precinct name="Hahira Train Depot" votes="13" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="9" />
+                <Precinct name="Pine Grove Church" votes="14" />
+                <Precinct name="Wiregrass College" votes="18" />
+                <Precinct name="Trinity Church" votes="21" />
+                <Precinct name="Nazarene Church" votes="38" />
+                <Precinct name="Mathis Auditorium " votes="57" />
+                <Precinct name="Jaycee Community Center" votes="23" />
+                <Precinct name="Lowndes Civic Center " votes="76" />
+                <Precinct name="Naylor Community Center" votes="11" />
+                <Precinct name="Rainwater Conference Center" votes="71" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="10" />
+                <Precinct name="Mildred Community Center" votes="45" />
+                <Precinct name="Paper Mill Union" votes="13" />
+                <Precinct name="Dasher City Hall" votes="19" />
+                <Precinct name="Lake Park Civic Center" votes="16" />
+                <Precinct name="South Lowndes Recreation Center" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="1" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="5" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="916">
+            <VoteType name="Absentee by Mail Votes" votes="93">
+                <Precinct name="Hahira Train Depot" votes="4" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="3" />
+                <Precinct name="Trinity Church" votes="5" />
+                <Precinct name="Nazarene Church" votes="3" />
+                <Precinct name="Mathis Auditorium " votes="21" />
+                <Precinct name="Jaycee Community Center" votes="3" />
+                <Precinct name="Lowndes Civic Center " votes="8" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="15" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="2" />
+                <Precinct name="Mildred Community Center" votes="13" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="6" />
+                <Precinct name="Lake Park Civic Center" votes="2" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="334">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="2" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="11" />
+                <Precinct name="Wiregrass College" votes="26" />
+                <Precinct name="Trinity Church" votes="19" />
+                <Precinct name="Nazarene Church" votes="20" />
+                <Precinct name="Mathis Auditorium " votes="72" />
+                <Precinct name="Jaycee Community Center" votes="22" />
+                <Precinct name="Lowndes Civic Center " votes="55" />
+                <Precinct name="Naylor Community Center" votes="10" />
+                <Precinct name="Rainwater Conference Center" votes="46" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="12" />
+                <Precinct name="Mildred Community Center" votes="20" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="7" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="486">
+                <Precinct name="Hahira Train Depot" votes="13" />
+                <Precinct name="Hahira Historical Society " votes="15" />
+                <Precinct name="Hahira Community Center " votes="6" />
+                <Precinct name="Pine Grove Church" votes="11" />
+                <Precinct name="Wiregrass College" votes="35" />
+                <Precinct name="Trinity Church" votes="23" />
+                <Precinct name="Nazarene Church" votes="43" />
+                <Precinct name="Mathis Auditorium " votes="68" />
+                <Precinct name="Jaycee Community Center" votes="17" />
+                <Precinct name="Lowndes Civic Center " votes="72" />
+                <Precinct name="Naylor Community Center" votes="32" />
+                <Precinct name="Rainwater Conference Center" votes="66" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="8" />
+                <Precinct name="Mildred Community Center" votes="40" />
+                <Precinct name="Paper Mill Union" votes="8" />
+                <Precinct name="Dasher City Hall" votes="10" />
+                <Precinct name="Lake Park Civic Center" votes="14" />
+                <Precinct name="South Lowndes Recreation Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="1" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="1" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Hahira Train Depot" votes="3" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="2" />
+            <Precinct name="Wiregrass College" votes="6" />
+            <Precinct name="Trinity Church" votes="1" />
+            <Precinct name="Nazarene Church" votes="3" />
+            <Precinct name="Mathis Auditorium " votes="15" />
+            <Precinct name="Jaycee Community Center" votes="4" />
+            <Precinct name="Lowndes Civic Center " votes="7" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="10" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="3" />
+            <Precinct name="Mildred Community Center" votes="6" />
+            <Precinct name="Paper Mill Union" votes="1" />
+            <Precinct name="Dasher City Hall" votes="4" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hahira Train Depot" votes="0" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="0" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="0" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="0" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="0" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="0" />
+            <Precinct name="Mildred Community Center" votes="0" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="599">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="2" />
+                <Precinct name="Trinity Church" votes="1" />
+                <Precinct name="Nazarene Church" votes="2" />
+                <Precinct name="Mathis Auditorium " votes="4" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="2" />
+                <Precinct name="Naylor Community Center" votes="1" />
+                <Precinct name="Rainwater Conference Center" votes="12" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="7" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="166">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="1" />
+                <Precinct name="Hahira Community Center " votes="3" />
+                <Precinct name="Pine Grove Church" votes="3" />
+                <Precinct name="Wiregrass College" votes="17" />
+                <Precinct name="Trinity Church" votes="9" />
+                <Precinct name="Nazarene Church" votes="3" />
+                <Precinct name="Mathis Auditorium " votes="30" />
+                <Precinct name="Jaycee Community Center" votes="6" />
+                <Precinct name="Lowndes Civic Center " votes="31" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="27" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="7" />
+                <Precinct name="Mildred Community Center" votes="15" />
+                <Precinct name="Paper Mill Union" votes="2" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="2" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="390">
+                <Precinct name="Hahira Train Depot" votes="14" />
+                <Precinct name="Hahira Historical Society " votes="9" />
+                <Precinct name="Hahira Community Center " votes="3" />
+                <Precinct name="Pine Grove Church" votes="9" />
+                <Precinct name="Wiregrass College" votes="18" />
+                <Precinct name="Trinity Church" votes="13" />
+                <Precinct name="Nazarene Church" votes="24" />
+                <Precinct name="Mathis Auditorium " votes="51" />
+                <Precinct name="Jaycee Community Center" votes="19" />
+                <Precinct name="Lowndes Civic Center " votes="76" />
+                <Precinct name="Naylor Community Center" votes="22" />
+                <Precinct name="Rainwater Conference Center" votes="60" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="6" />
+                <Precinct name="Mildred Community Center" votes="29" />
+                <Precinct name="Paper Mill Union" votes="10" />
+                <Precinct name="Dasher City Hall" votes="10" />
+                <Precinct name="Lake Park Civic Center" votes="14" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="0" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="4" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="1043">
+            <VoteType name="Absentee by Mail Votes" votes="117">
+                <Precinct name="Hahira Train Depot" votes="5" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="3" />
+                <Precinct name="Trinity Church" votes="7" />
+                <Precinct name="Nazarene Church" votes="5" />
+                <Precinct name="Mathis Auditorium " votes="22" />
+                <Precinct name="Jaycee Community Center" votes="2" />
+                <Precinct name="Lowndes Civic Center " votes="13" />
+                <Precinct name="Naylor Community Center" votes="2" />
+                <Precinct name="Rainwater Conference Center" votes="17" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="3" />
+                <Precinct name="Mildred Community Center" votes="12" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="9" />
+                <Precinct name="Lake Park Civic Center" votes="8" />
+                <Precinct name="South Lowndes Recreation Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="384">
+                <Precinct name="Hahira Train Depot" votes="3" />
+                <Precinct name="Hahira Historical Society " votes="3" />
+                <Precinct name="Hahira Community Center " votes="3" />
+                <Precinct name="Pine Grove Church" votes="10" />
+                <Precinct name="Wiregrass College" votes="33" />
+                <Precinct name="Trinity Church" votes="22" />
+                <Precinct name="Nazarene Church" votes="26" />
+                <Precinct name="Mathis Auditorium " votes="82" />
+                <Precinct name="Jaycee Community Center" votes="27" />
+                <Precinct name="Lowndes Civic Center " votes="65" />
+                <Precinct name="Naylor Community Center" votes="11" />
+                <Precinct name="Rainwater Conference Center" votes="51" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="10" />
+                <Precinct name="Mildred Community Center" votes="23" />
+                <Precinct name="Paper Mill Union" votes="1" />
+                <Precinct name="Dasher City Hall" votes="3" />
+                <Precinct name="Lake Park Civic Center" votes="9" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="536">
+                <Precinct name="Hahira Train Depot" votes="10" />
+                <Precinct name="Hahira Historical Society " votes="6" />
+                <Precinct name="Hahira Community Center " votes="12" />
+                <Precinct name="Pine Grove Church" votes="15" />
+                <Precinct name="Wiregrass College" votes="34" />
+                <Precinct name="Trinity Church" votes="30" />
+                <Precinct name="Nazarene Church" votes="55" />
+                <Precinct name="Mathis Auditorium " votes="70" />
+                <Precinct name="Jaycee Community Center" votes="21" />
+                <Precinct name="Lowndes Civic Center " votes="71" />
+                <Precinct name="Naylor Community Center" votes="21" />
+                <Precinct name="Rainwater Conference Center" votes="75" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="11" />
+                <Precinct name="Mildred Community Center" votes="55" />
+                <Precinct name="Paper Mill Union" votes="11" />
+                <Precinct name="Dasher City Hall" votes="17" />
+                <Precinct name="Lake Park Civic Center" votes="16" />
+                <Precinct name="South Lowndes Recreation Center" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="2" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="2" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="67">
+            <Precinct name="Hahira Train Depot" votes="2" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="1" />
+            <Precinct name="Pine Grove Church" votes="1" />
+            <Precinct name="Wiregrass College" votes="7" />
+            <Precinct name="Trinity Church" votes="2" />
+            <Precinct name="Nazarene Church" votes="2" />
+            <Precinct name="Mathis Auditorium " votes="16" />
+            <Precinct name="Jaycee Community Center" votes="4" />
+            <Precinct name="Lowndes Civic Center " votes="7" />
+            <Precinct name="Naylor Community Center" votes="1" />
+            <Precinct name="Rainwater Conference Center" votes="7" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="5" />
+            <Precinct name="Mildred Community Center" votes="7" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="3" />
+            <Precinct name="Lake Park Civic Center" votes="2" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hahira Train Depot" votes="0" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="0" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="0" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="0" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="0" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="0" />
+            <Precinct name="Mildred Community Center" votes="0" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="980">
+            <VoteType name="Absentee by Mail Votes" votes="95">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="4" />
+                <Precinct name="Trinity Church" votes="6" />
+                <Precinct name="Nazarene Church" votes="5" />
+                <Precinct name="Mathis Auditorium " votes="14" />
+                <Precinct name="Jaycee Community Center" votes="2" />
+                <Precinct name="Lowndes Civic Center " votes="10" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="19" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="3" />
+                <Precinct name="Mildred Community Center" votes="12" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="4" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="322">
+                <Precinct name="Hahira Train Depot" votes="1" />
+                <Precinct name="Hahira Historical Society " votes="3" />
+                <Precinct name="Hahira Community Center " votes="3" />
+                <Precinct name="Pine Grove Church" votes="10" />
+                <Precinct name="Wiregrass College" votes="24" />
+                <Precinct name="Trinity Church" votes="18" />
+                <Precinct name="Nazarene Church" votes="17" />
+                <Precinct name="Mathis Auditorium " votes="67" />
+                <Precinct name="Jaycee Community Center" votes="26" />
+                <Precinct name="Lowndes Civic Center " votes="56" />
+                <Precinct name="Naylor Community Center" votes="10" />
+                <Precinct name="Rainwater Conference Center" votes="47" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="6" />
+                <Precinct name="Mildred Community Center" votes="20" />
+                <Precinct name="Paper Mill Union" votes="2" />
+                <Precinct name="Dasher City Hall" votes="5" />
+                <Precinct name="Lake Park Civic Center" votes="4" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="558">
+                <Precinct name="Hahira Train Depot" votes="18" />
+                <Precinct name="Hahira Historical Society " votes="7" />
+                <Precinct name="Hahira Community Center " votes="6" />
+                <Precinct name="Pine Grove Church" votes="17" />
+                <Precinct name="Wiregrass College" votes="33" />
+                <Precinct name="Trinity Church" votes="25" />
+                <Precinct name="Nazarene Church" votes="47" />
+                <Precinct name="Mathis Auditorium " votes="64" />
+                <Precinct name="Jaycee Community Center" votes="27" />
+                <Precinct name="Lowndes Civic Center " votes="89" />
+                <Precinct name="Naylor Community Center" votes="25" />
+                <Precinct name="Rainwater Conference Center" votes="87" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="11" />
+                <Precinct name="Mildred Community Center" votes="52" />
+                <Precinct name="Paper Mill Union" votes="13" />
+                <Precinct name="Dasher City Hall" votes="18" />
+                <Precinct name="Lake Park Civic Center" votes="15" />
+                <Precinct name="South Lowndes Recreation Center" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="0" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="4" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="660">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Hahira Train Depot" votes="5" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="1" />
+                <Precinct name="Trinity Church" votes="2" />
+                <Precinct name="Nazarene Church" votes="3" />
+                <Precinct name="Mathis Auditorium " votes="12" />
+                <Precinct name="Jaycee Community Center" votes="1" />
+                <Precinct name="Lowndes Civic Center " votes="5" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="10" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="10" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="5" />
+                <Precinct name="Lake Park Civic Center" votes="3" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="220">
+                <Precinct name="Hahira Train Depot" votes="3" />
+                <Precinct name="Hahira Historical Society " votes="1" />
+                <Precinct name="Hahira Community Center " votes="3" />
+                <Precinct name="Pine Grove Church" votes="3" />
+                <Precinct name="Wiregrass College" votes="25" />
+                <Precinct name="Trinity Church" votes="13" />
+                <Precinct name="Nazarene Church" votes="12" />
+                <Precinct name="Mathis Auditorium " votes="41" />
+                <Precinct name="Jaycee Community Center" votes="6" />
+                <Precinct name="Lowndes Civic Center " votes="41" />
+                <Precinct name="Naylor Community Center" votes="4" />
+                <Precinct name="Rainwater Conference Center" votes="33" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="10" />
+                <Precinct name="Mildred Community Center" votes="15" />
+                <Precinct name="Paper Mill Union" votes="1" />
+                <Precinct name="Dasher City Hall" votes="1" />
+                <Precinct name="Lake Park Civic Center" votes="6" />
+                <Precinct name="South Lowndes Recreation Center" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="370">
+                <Precinct name="Hahira Train Depot" votes="7" />
+                <Precinct name="Hahira Historical Society " votes="8" />
+                <Precinct name="Hahira Community Center " votes="8" />
+                <Precinct name="Pine Grove Church" votes="8" />
+                <Precinct name="Wiregrass College" votes="19" />
+                <Precinct name="Trinity Church" votes="17" />
+                <Precinct name="Nazarene Church" votes="32" />
+                <Precinct name="Mathis Auditorium " votes="60" />
+                <Precinct name="Jaycee Community Center" votes="13" />
+                <Precinct name="Lowndes Civic Center " votes="57" />
+                <Precinct name="Naylor Community Center" votes="17" />
+                <Precinct name="Rainwater Conference Center" votes="49" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="5" />
+                <Precinct name="Mildred Community Center" votes="31" />
+                <Precinct name="Paper Mill Union" votes="9" />
+                <Precinct name="Dasher City Hall" votes="10" />
+                <Precinct name="Lake Park Civic Center" votes="15" />
+                <Precinct name="South Lowndes Recreation Center" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="2" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="2" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="62" text="Judge - Superior Court - Southern Judicial Circuit (Hardy)" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="37">
+            <Precinct name="Hahira Train Depot" votes="1" />
+            <Precinct name="Hahira Historical Society " votes="1" />
+            <Precinct name="Hahira Community Center " votes="1" />
+            <Precinct name="Pine Grove Church" votes="1" />
+            <Precinct name="Wiregrass College" votes="4" />
+            <Precinct name="Trinity Church" votes="1" />
+            <Precinct name="Nazarene Church" votes="2" />
+            <Precinct name="Mathis Auditorium " votes="1" />
+            <Precinct name="Jaycee Community Center" votes="3" />
+            <Precinct name="Lowndes Civic Center " votes="6" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="5" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="2" />
+            <Precinct name="Mildred Community Center" votes="8" />
+            <Precinct name="Paper Mill Union" votes="1" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hahira Train Depot" votes="0" />
+            <Precinct name="Hahira Historical Society " votes="0" />
+            <Precinct name="Hahira Community Center " votes="0" />
+            <Precinct name="Pine Grove Church" votes="0" />
+            <Precinct name="Wiregrass College" votes="0" />
+            <Precinct name="Trinity Church" votes="0" />
+            <Precinct name="Nazarene Church" votes="0" />
+            <Precinct name="Mathis Auditorium " votes="0" />
+            <Precinct name="Jaycee Community Center" votes="0" />
+            <Precinct name="Lowndes Civic Center " votes="0" />
+            <Precinct name="Naylor Community Center" votes="0" />
+            <Precinct name="Rainwater Conference Center" votes="0" />
+            <Precinct name="VSU UC" votes="0" />
+            <Precinct name="Mt. Calvary Church" votes="0" />
+            <Precinct name="Mildred Community Center" votes="0" />
+            <Precinct name="Paper Mill Union" votes="0" />
+            <Precinct name="Dasher City Hall" votes="0" />
+            <Precinct name="Lake Park Civic Center" votes="0" />
+            <Precinct name="South Lowndes Recreation Center" votes="0" />
+        </VoteType>
+        <Choice key="142" text="Catherine Mims Smith" totalVotes="1708">
+            <VoteType name="Absentee by Mail Votes" votes="144">
+                <Precinct name="Hahira Train Depot" votes="4" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="2" />
+                <Precinct name="Wiregrass College" votes="13" />
+                <Precinct name="Trinity Church" votes="5" />
+                <Precinct name="Nazarene Church" votes="6" />
+                <Precinct name="Mathis Auditorium " votes="24" />
+                <Precinct name="Jaycee Community Center" votes="4" />
+                <Precinct name="Lowndes Civic Center " votes="12" />
+                <Precinct name="Naylor Community Center" votes="3" />
+                <Precinct name="Rainwater Conference Center" votes="25" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="1" />
+                <Precinct name="Mildred Community Center" votes="14" />
+                <Precinct name="Paper Mill Union" votes="6" />
+                <Precinct name="Dasher City Hall" votes="11" />
+                <Precinct name="Lake Park Civic Center" votes="9" />
+                <Precinct name="South Lowndes Recreation Center" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="630">
+                <Precinct name="Hahira Train Depot" votes="11" />
+                <Precinct name="Hahira Historical Society " votes="10" />
+                <Precinct name="Hahira Community Center " votes="8" />
+                <Precinct name="Pine Grove Church" votes="12" />
+                <Precinct name="Wiregrass College" votes="70" />
+                <Precinct name="Trinity Church" votes="31" />
+                <Precinct name="Nazarene Church" votes="45" />
+                <Precinct name="Mathis Auditorium " votes="138" />
+                <Precinct name="Jaycee Community Center" votes="28" />
+                <Precinct name="Lowndes Civic Center " votes="82" />
+                <Precinct name="Naylor Community Center" votes="19" />
+                <Precinct name="Rainwater Conference Center" votes="88" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="15" />
+                <Precinct name="Mildred Community Center" votes="35" />
+                <Precinct name="Paper Mill Union" votes="3" />
+                <Precinct name="Dasher City Hall" votes="7" />
+                <Precinct name="Lake Park Civic Center" votes="19" />
+                <Precinct name="South Lowndes Recreation Center" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="923">
+                <Precinct name="Hahira Train Depot" votes="47" />
+                <Precinct name="Hahira Historical Society " votes="26" />
+                <Precinct name="Hahira Community Center " votes="23" />
+                <Precinct name="Pine Grove Church" votes="22" />
+                <Precinct name="Wiregrass College" votes="72" />
+                <Precinct name="Trinity Church" votes="41" />
+                <Precinct name="Nazarene Church" votes="73" />
+                <Precinct name="Mathis Auditorium " votes="151" />
+                <Precinct name="Jaycee Community Center" votes="31" />
+                <Precinct name="Lowndes Civic Center " votes="101" />
+                <Precinct name="Naylor Community Center" votes="36" />
+                <Precinct name="Rainwater Conference Center" votes="95" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="14" />
+                <Precinct name="Mildred Community Center" votes="61" />
+                <Precinct name="Paper Mill Union" votes="30" />
+                <Precinct name="Dasher City Hall" votes="45" />
+                <Precinct name="Lake Park Civic Center" votes="35" />
+                <Precinct name="South Lowndes Recreation Center" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="11">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="0" />
+                <Precinct name="Trinity Church" votes="0" />
+                <Precinct name="Nazarene Church" votes="2" />
+                <Precinct name="Mathis Auditorium " votes="0" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="7" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="0" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="144" text="William Long Whitesell" totalVotes="3781">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="Hahira Train Depot" votes="7" />
+                <Precinct name="Hahira Historical Society " votes="1" />
+                <Precinct name="Hahira Community Center " votes="2" />
+                <Precinct name="Pine Grove Church" votes="1" />
+                <Precinct name="Wiregrass College" votes="7" />
+                <Precinct name="Trinity Church" votes="4" />
+                <Precinct name="Nazarene Church" votes="13" />
+                <Precinct name="Mathis Auditorium " votes="45" />
+                <Precinct name="Jaycee Community Center" votes="1" />
+                <Precinct name="Lowndes Civic Center " votes="12" />
+                <Precinct name="Naylor Community Center" votes="4" />
+                <Precinct name="Rainwater Conference Center" votes="18" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="2" />
+                <Precinct name="Mildred Community Center" votes="5" />
+                <Precinct name="Paper Mill Union" votes="1" />
+                <Precinct name="Dasher City Hall" votes="4" />
+                <Precinct name="Lake Park Civic Center" votes="10" />
+                <Precinct name="South Lowndes Recreation Center" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1206">
+                <Precinct name="Hahira Train Depot" votes="53" />
+                <Precinct name="Hahira Historical Society " votes="20" />
+                <Precinct name="Hahira Community Center " votes="22" />
+                <Precinct name="Pine Grove Church" votes="23" />
+                <Precinct name="Wiregrass College" votes="171" />
+                <Precinct name="Trinity Church" votes="29" />
+                <Precinct name="Nazarene Church" votes="72" />
+                <Precinct name="Mathis Auditorium " votes="489" />
+                <Precinct name="Jaycee Community Center" votes="10" />
+                <Precinct name="Lowndes Civic Center " votes="43" />
+                <Precinct name="Naylor Community Center" votes="15" />
+                <Precinct name="Rainwater Conference Center" votes="144" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="17" />
+                <Precinct name="Mildred Community Center" votes="4" />
+                <Precinct name="Paper Mill Union" votes="8" />
+                <Precinct name="Dasher City Hall" votes="31" />
+                <Precinct name="Lake Park Civic Center" votes="32" />
+                <Precinct name="South Lowndes Recreation Center" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2425">
+                <Precinct name="Hahira Train Depot" votes="133" />
+                <Precinct name="Hahira Historical Society " votes="74" />
+                <Precinct name="Hahira Community Center " votes="59" />
+                <Precinct name="Pine Grove Church" votes="28" />
+                <Precinct name="Wiregrass College" votes="273" />
+                <Precinct name="Trinity Church" votes="57" />
+                <Precinct name="Nazarene Church" votes="147" />
+                <Precinct name="Mathis Auditorium " votes="666" />
+                <Precinct name="Jaycee Community Center" votes="22" />
+                <Precinct name="Lowndes Civic Center " votes="95" />
+                <Precinct name="Naylor Community Center" votes="61" />
+                <Precinct name="Rainwater Conference Center" votes="338" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="14" />
+                <Precinct name="Mildred Community Center" votes="24" />
+                <Precinct name="Paper Mill Union" votes="61" />
+                <Precinct name="Dasher City Hall" votes="107" />
+                <Precinct name="Lake Park Civic Center" votes="173" />
+                <Precinct name="South Lowndes Recreation Center" votes="93" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="Hahira Train Depot" votes="0" />
+                <Precinct name="Hahira Historical Society " votes="0" />
+                <Precinct name="Hahira Community Center " votes="0" />
+                <Precinct name="Pine Grove Church" votes="0" />
+                <Precinct name="Wiregrass College" votes="1" />
+                <Precinct name="Trinity Church" votes="1" />
+                <Precinct name="Nazarene Church" votes="2" />
+                <Precinct name="Mathis Auditorium " votes="1" />
+                <Precinct name="Jaycee Community Center" votes="0" />
+                <Precinct name="Lowndes Civic Center " votes="2" />
+                <Precinct name="Naylor Community Center" votes="0" />
+                <Precinct name="Rainwater Conference Center" votes="1" />
+                <Precinct name="VSU UC" votes="0" />
+                <Precinct name="Mt. Calvary Church" votes="0" />
+                <Precinct name="Mildred Community Center" votes="0" />
+                <Precinct name="Paper Mill Union" votes="1" />
+                <Precinct name="Dasher City Hall" votes="0" />
+                <Precinct name="Lake Park Civic Center" votes="0" />
+                <Precinct name="South Lowndes Recreation Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,2861 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/3/2022 2:15:39 PM EDT</Timestamp>
+    <ElectionName>May 24, 2022 - General Primary -Nonpartisan General Election</ElectionName>
+    <ElectionDate>5/24/2022</ElectionDate>
+    <Region>Towns</Region>
+    <VoterTurnout totalVoters="11165" ballotsCast="3437" voterTurnout="30.78">
+        <Precincts>
+            <Precinct name="Young Harris" totalVoters="3338" ballotsCast="1064" voterTurnout="31.88" percentReporting="4" />
+            <Precinct name="Hiawassee" totalVoters="7827" ballotsCast="2373" voterTurnout="30.32" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="Young Harris" votes="35" />
+            <Precinct name="Hiawassee" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Gary W. Black" party="REP" totalVotes="350">
+            <VoteType name="Election Day Votes" votes="104">
+                <Precinct name="Young Harris" votes="39" />
+                <Precinct name="Hiawassee" votes="65" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="222">
+                <Precinct name="Young Harris" votes="49" />
+                <Precinct name="Hiawassee" votes="173" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Josh Clark" party="REP" totalVotes="133">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="30" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Young Harris" votes="20" />
+                <Precinct name="Hiawassee" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Kelvin King" party="REP" totalVotes="121">
+            <VoteType name="Election Day Votes" votes="53">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="34" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="64">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="4" text="Jonathan &quot;&quot;Jon&quot;&quot; McColumn" party="REP" totalVotes="76">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Latham Saddler" party="REP" totalVotes="275">
+            <VoteType name="Election Day Votes" votes="140">
+                <Precinct name="Young Harris" votes="45" />
+                <Precinct name="Hiawassee" votes="95" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="124">
+                <Precinct name="Young Harris" votes="28" />
+                <Precinct name="Hiawassee" votes="96" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Herschel Junior Walker" party="REP" totalVotes="2388">
+            <VoteType name="Election Day Votes" votes="1021">
+                <Precinct name="Young Harris" votes="356" />
+                <Precinct name="Hiawassee" votes="665" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1297">
+                <Precinct name="Young Harris" votes="341" />
+                <Precinct name="Hiawassee" votes="956" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="Young Harris" votes="25" />
+                <Precinct name="Hiawassee" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="US Senate - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Young Harris" votes="2" />
+            <Precinct name="Hiawassee" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Tamara Johnson-Shealey" party="DEM" totalVotes="16">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Raphael Warnock (I)" party="DEM" totalVotes="368">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Young Harris" votes="41" />
+                <Precinct name="Hiawassee" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="210">
+                <Precinct name="Young Harris" votes="81" />
+                <Precinct name="Hiawassee" votes="129" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Young Harris" votes="1" />
+            <Precinct name="Hiawassee" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Catherine Davis" party="REP" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Brian Kemp (I)" party="REP" totalVotes="2234">
+            <VoteType name="Election Day Votes" votes="916">
+                <Precinct name="Young Harris" votes="340" />
+                <Precinct name="Hiawassee" votes="576" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1226">
+                <Precinct name="Young Harris" votes="303" />
+                <Precinct name="Hiawassee" votes="923" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Young Harris" votes="32" />
+                <Precinct name="Hiawassee" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="David A. Perdue" party="REP" totalVotes="1042">
+            <VoteType name="Election Day Votes" votes="452">
+                <Precinct name="Young Harris" votes="156" />
+                <Precinct name="Hiawassee" votes="296" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="567">
+                <Precinct name="Young Harris" votes="169" />
+                <Precinct name="Hiawassee" votes="398" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Kandiss Taylor" party="REP" totalVotes="119">
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Young Harris" votes="17" />
+                <Precinct name="Hiawassee" votes="45" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Young Harris" votes="24" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Tom Williams" party="REP" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Young Harris" votes="10" />
+            <Precinct name="Hiawassee" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Stacey Abrams" party="DEM" totalVotes="362">
+            <VoteType name="Election Day Votes" votes="93">
+                <Precinct name="Young Harris" votes="41" />
+                <Precinct name="Hiawassee" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="209">
+                <Precinct name="Young Harris" votes="78" />
+                <Precinct name="Hiawassee" votes="131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="197">
+            <Precinct name="Young Harris" votes="61" />
+            <Precinct name="Hiawassee" votes="136" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Burt Jones" party="REP" totalVotes="1869">
+            <VoteType name="Election Day Votes" votes="805">
+                <Precinct name="Young Harris" votes="296" />
+                <Precinct name="Hiawassee" votes="509" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1011">
+                <Precinct name="Young Harris" votes="280" />
+                <Precinct name="Hiawassee" votes="731" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Young Harris" votes="17" />
+                <Precinct name="Hiawassee" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Mack McGregor" party="REP" totalVotes="293">
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Young Harris" votes="52" />
+                <Precinct name="Hiawassee" votes="87" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="146">
+                <Precinct name="Young Harris" votes="41" />
+                <Precinct name="Hiawassee" votes="105" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Butch Miller" party="REP" totalVotes="884">
+            <VoteType name="Election Day Votes" votes="320">
+                <Precinct name="Young Harris" votes="111" />
+                <Precinct name="Hiawassee" votes="209" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="520">
+                <Precinct name="Young Harris" votes="122" />
+                <Precinct name="Hiawassee" votes="398" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jeanne Seaver" party="REP" totalVotes="194">
+            <VoteType name="Election Day Votes" votes="84">
+                <Precinct name="Young Harris" votes="28" />
+                <Precinct name="Hiawassee" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="103">
+                <Precinct name="Young Harris" votes="36" />
+                <Precinct name="Hiawassee" votes="67" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Young Harris" votes="13" />
+            <Precinct name="Hiawassee" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="19" text="Erick E. Allen" party="DEM" totalVotes="53">
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Young Harris" votes="6" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="105">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="16" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="55">
+                <Precinct name="Young Harris" votes="23" />
+                <Precinct name="Hiawassee" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Tyrone Brooks, Jr." party="DEM" totalVotes="27">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="15">
+                <Precinct name="Young Harris" votes="6" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Tony Brown" party="DEM" totalVotes="14">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="9">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Young Harris" votes="18" />
+                <Precinct name="Hiawassee" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Jason T. Hayes" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="16">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="12" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Derrick L. Jackson" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="3">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="R. Malik" party="DEM" totalVotes="9">
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="4">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Renitta Shannon" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="16" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Young Harris" votes="31" />
+            <Precinct name="Hiawassee" votes="75" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David C. Belle Isle" party="REP" totalVotes="325">
+            <VoteType name="Election Day Votes" votes="105">
+                <Precinct name="Young Harris" votes="32" />
+                <Precinct name="Hiawassee" votes="73" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="216">
+                <Precinct name="Young Harris" votes="51" />
+                <Precinct name="Hiawassee" votes="165" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Jody Hice" party="REP" totalVotes="1291">
+            <VoteType name="Election Day Votes" votes="559">
+                <Precinct name="Young Harris" votes="214" />
+                <Precinct name="Hiawassee" votes="345" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="691">
+                <Precinct name="Young Harris" votes="225" />
+                <Precinct name="Hiawassee" votes="466" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="T.J. Hudson" party="REP" totalVotes="197">
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Young Harris" votes="29" />
+                <Precinct name="Hiawassee" votes="57" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="103">
+                <Precinct name="Young Harris" votes="35" />
+                <Precinct name="Hiawassee" votes="68" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Brad Raffensperger (I)" party="REP" totalVotes="1518">
+            <VoteType name="Election Day Votes" votes="650">
+                <Precinct name="Young Harris" votes="226" />
+                <Precinct name="Hiawassee" votes="424" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="807">
+                <Precinct name="Young Harris" votes="180" />
+                <Precinct name="Hiawassee" votes="627" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="61">
+                <Precinct name="Young Harris" votes="20" />
+                <Precinct name="Hiawassee" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Young Harris" votes="12" />
+            <Precinct name="Hiawassee" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="55">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Young Harris" votes="10" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="33">
+                <Precinct name="Young Harris" votes="10" />
+                <Precinct name="Hiawassee" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="John Eaves" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Floyd Griffin" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="13">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="202">
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Young Harris" votes="22" />
+                <Precinct name="Hiawassee" votes="37" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="111">
+                <Precinct name="Young Harris" votes="52" />
+                <Precinct name="Hiawassee" votes="59" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael Owens" party="DEM" totalVotes="57">
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Young Harris" votes="10" />
+                <Precinct name="Hiawassee" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="200">
+            <Precinct name="Young Harris" votes="63" />
+            <Precinct name="Hiawassee" votes="137" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Chris Carr (I)" party="REP" totalVotes="2189">
+            <VoteType name="Election Day Votes" votes="886">
+                <Precinct name="Young Harris" votes="305" />
+                <Precinct name="Hiawassee" votes="581" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1220">
+                <Precinct name="Young Harris" votes="291" />
+                <Precinct name="Hiawassee" votes="929" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Young Harris" votes="29" />
+                <Precinct name="Hiawassee" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="John Gordon" party="REP" totalVotes="1048">
+            <VoteType name="Election Day Votes" votes="482">
+                <Precinct name="Young Harris" votes="187" />
+                <Precinct name="Hiawassee" votes="295" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="541">
+                <Precinct name="Young Harris" votes="181" />
+                <Precinct name="Hiawassee" votes="360" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="Attorney General - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="Young Harris" votes="10" />
+            <Precinct name="Hiawassee" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan" party="DEM" totalVotes="312">
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="47" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="180">
+                <Precinct name="Young Harris" votes="72" />
+                <Precinct name="Hiawassee" votes="108" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Christian Wise Smith" party="DEM" totalVotes="49">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Young Harris" votes="6" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="26">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="18" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="496">
+            <Precinct name="Young Harris" votes="147" />
+            <Precinct name="Hiawassee" votes="349" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tyler Harper" party="REP" totalVotes="2941">
+            <VoteType name="Election Day Votes" votes="1247">
+                <Precinct name="Young Harris" votes="452" />
+                <Precinct name="Hiawassee" votes="795" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1599">
+                <Precinct name="Young Harris" votes="432" />
+                <Precinct name="Hiawassee" votes="1167" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="Commissioner of Agriculture - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="Young Harris" votes="16" />
+            <Precinct name="Hiawassee" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Winfred Dukes" party="DEM" totalVotes="97">
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="56">
+                <Precinct name="Young Harris" votes="23" />
+                <Precinct name="Hiawassee" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Nakita Hemingway" party="DEM" totalVotes="120">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="25" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="62">
+                <Precinct name="Young Harris" votes="28" />
+                <Precinct name="Hiawassee" votes="34" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Fred Swann" party="DEM" totalVotes="125">
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="15" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="80">
+                <Precinct name="Young Harris" votes="25" />
+                <Precinct name="Hiawassee" votes="55" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Young Harris" votes="6" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="258">
+            <Precinct name="Young Harris" votes="74" />
+            <Precinct name="Hiawassee" votes="184" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Ben Cowart" party="REP" totalVotes="427">
+            <VoteType name="Election Day Votes" votes="177">
+                <Precinct name="Young Harris" votes="55" />
+                <Precinct name="Hiawassee" votes="122" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="241">
+                <Precinct name="Young Harris" votes="69" />
+                <Precinct name="Hiawassee" votes="172" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="John King (I)" party="REP" totalVotes="2130">
+            <VoteType name="Election Day Votes" votes="856">
+                <Precinct name="Young Harris" votes="293" />
+                <Precinct name="Hiawassee" votes="563" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1195">
+                <Precinct name="Young Harris" votes="306" />
+                <Precinct name="Hiawassee" votes="889" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="Young Harris" votes="25" />
+                <Precinct name="Hiawassee" votes="53" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="Patrick Witt" party="REP" totalVotes="622">
+            <VoteType name="Election Day Votes" votes="308">
+                <Precinct name="Young Harris" votes="133" />
+                <Precinct name="Hiawassee" votes="175" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="296">
+                <Precinct name="Young Harris" votes="97" />
+                <Precinct name="Hiawassee" votes="199" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="Young Harris" votes="14" />
+            <Precinct name="Hiawassee" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="74">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="46">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="162">
+            <VoteType name="Election Day Votes" votes="42">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="23" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="93">
+                <Precinct name="Young Harris" votes="35" />
+                <Precinct name="Hiawassee" votes="58" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="Matthew Wilson" party="DEM" totalVotes="104">
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="18" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="57">
+                <Precinct name="Young Harris" votes="26" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="289">
+            <Precinct name="Young Harris" votes="91" />
+            <Precinct name="Hiawassee" votes="198" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="51" text="John D. Barge" party="REP" totalVotes="846">
+            <VoteType name="Election Day Votes" votes="370">
+                <Precinct name="Young Harris" votes="137" />
+                <Precinct name="Hiawassee" votes="233" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="458">
+                <Precinct name="Young Harris" votes="138" />
+                <Precinct name="Hiawassee" votes="320" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Richard Woods (I)" party="REP" totalVotes="2302">
+            <VoteType name="Election Day Votes" votes="946">
+                <Precinct name="Young Harris" votes="332" />
+                <Precinct name="Hiawassee" votes="614" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1270">
+                <Precinct name="Young Harris" votes="329" />
+                <Precinct name="Hiawassee" votes="941" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State School Superintendent - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="Young Harris" votes="17" />
+            <Precinct name="Hiawassee" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Currey Hitchens" party="DEM" totalVotes="54">
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="34">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Jaha V. Howard" party="DEM" totalVotes="23">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="James Morrow, Jr." party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="44">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="31" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Alisha Thomas Searcy" party="DEM" totalVotes="183">
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Young Harris" votes="24" />
+                <Precinct name="Hiawassee" votes="32" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="100">
+                <Precinct name="Young Harris" votes="39" />
+                <Precinct name="Hiawassee" votes="61" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="508">
+            <Precinct name="Young Harris" votes="151" />
+            <Precinct name="Hiawassee" votes="357" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Kartik Bhatt" party="REP" totalVotes="143">
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Young Harris" votes="21" />
+                <Precinct name="Hiawassee" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="84">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="65" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mike Coan" party="REP" totalVotes="909">
+            <VoteType name="Election Day Votes" votes="383">
+                <Precinct name="Young Harris" votes="132" />
+                <Precinct name="Hiawassee" votes="251" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="490">
+                <Precinct name="Young Harris" votes="139" />
+                <Precinct name="Hiawassee" votes="351" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="59" text="Bruce Thompson" party="REP" totalVotes="1877">
+            <VoteType name="Election Day Votes" votes="794">
+                <Precinct name="Young Harris" votes="289" />
+                <Precinct name="Hiawassee" votes="505" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1023">
+                <Precinct name="Young Harris" votes="280" />
+                <Precinct name="Hiawassee" votes="743" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Young Harris" votes="18" />
+                <Precinct name="Hiawassee" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Young Harris" votes="20" />
+            <Precinct name="Hiawassee" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="73">
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="38">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Thomas Dean" party="DEM" totalVotes="52">
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="24">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="17" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="141">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Young Harris" votes="17" />
+                <Precinct name="Hiawassee" votes="19" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="89">
+                <Precinct name="Young Harris" votes="40" />
+                <Precinct name="Hiawassee" votes="49" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Lester G. Jackson III" party="DEM" totalVotes="26">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="14">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Nadia Surrency" party="DEM" totalVotes="46">
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Young Harris" votes="6" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="27">
+                <Precinct name="Young Harris" votes="12" />
+                <Precinct name="Hiawassee" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="PSC - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="505">
+            <Precinct name="Young Harris" votes="143" />
+            <Precinct name="Hiawassee" votes="362" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Tim Echols (I)" party="REP" totalVotes="2932">
+            <VoteType name="Election Day Votes" votes="1241">
+                <Precinct name="Young Harris" votes="453" />
+                <Precinct name="Hiawassee" votes="788" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1601">
+                <Precinct name="Young Harris" votes="435" />
+                <Precinct name="Hiawassee" votes="1166" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="PSC - District 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="56">
+            <Precinct name="Young Harris" votes="24" />
+            <Precinct name="Hiawassee" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="66" text="Patty Durand" party="DEM" totalVotes="258">
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Young Harris" votes="27" />
+                <Precinct name="Hiawassee" votes="36" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="150">
+                <Precinct name="Young Harris" votes="57" />
+                <Precinct name="Hiawassee" votes="93" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Young Harris" votes="12" />
+                <Precinct name="Hiawassee" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Russell Edwards" party="DEM" totalVotes="74">
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="28" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="PSC - District 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="585">
+            <Precinct name="Young Harris" votes="157" />
+            <Precinct name="Hiawassee" votes="428" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Fitz Johnson (I)" party="REP" totalVotes="2852">
+            <VoteType name="Election Day Votes" votes="1207">
+                <Precinct name="Young Harris" votes="450" />
+                <Precinct name="Hiawassee" votes="757" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1554">
+                <Precinct name="Young Harris" votes="423" />
+                <Precinct name="Hiawassee" votes="1131" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="Young Harris" votes="34" />
+                <Precinct name="Hiawassee" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="PSC - District 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="Young Harris" votes="27" />
+            <Precinct name="Hiawassee" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Shelia Edwards" party="DEM" totalVotes="176">
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Young Harris" votes="17" />
+                <Precinct name="Hiawassee" votes="26" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="104">
+                <Precinct name="Young Harris" votes="38" />
+                <Precinct name="Hiawassee" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Chandra Farley" party="DEM" totalVotes="74">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Young Harris" votes="10" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="42">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="23" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Missy Moore" party="DEM" totalVotes="77">
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="11" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="43">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="32" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 9 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="179">
+            <Precinct name="Young Harris" votes="49" />
+            <Precinct name="Hiawassee" votes="130" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Michael Boggus" party="REP" totalVotes="116">
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Young Harris" votes="16" />
+                <Precinct name="Hiawassee" votes="28" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="69">
+                <Precinct name="Young Harris" votes="15" />
+                <Precinct name="Hiawassee" votes="54" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Andrew Clyde (I)" party="REP" totalVotes="2655">
+            <VoteType name="Election Day Votes" votes="1111">
+                <Precinct name="Young Harris" votes="395" />
+                <Precinct name="Hiawassee" votes="716" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1448">
+                <Precinct name="Young Harris" votes="393" />
+                <Precinct name="Hiawassee" votes="1055" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="95">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="62" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="J. Gregory Howard" party="REP" totalVotes="88">
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="21" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="52">
+                <Precinct name="Young Harris" votes="12" />
+                <Precinct name="Hiawassee" votes="40" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="John London" party="REP" totalVotes="84">
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Young Harris" votes="23" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="48">
+                <Precinct name="Young Harris" votes="19" />
+                <Precinct name="Hiawassee" votes="29" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Ben Souther" party="REP" totalVotes="315">
+            <VoteType name="Election Day Votes" votes="145">
+                <Precinct name="Young Harris" votes="49" />
+                <Precinct name="Hiawassee" votes="96" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="159">
+                <Precinct name="Young Harris" votes="41" />
+                <Precinct name="Hiawassee" votes="118" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 9 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="Young Harris" votes="18" />
+            <Precinct name="Hiawassee" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="77" text="Michael &quot;&quot;Mike&quot;&quot; Ford" party="DEM" totalVotes="339">
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Young Harris" votes="38" />
+                <Precinct name="Hiawassee" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="197">
+                <Precinct name="Young Harris" votes="73" />
+                <Precinct name="Hiawassee" votes="124" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 50 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="444">
+            <Precinct name="Young Harris" votes="123" />
+            <Precinct name="Hiawassee" votes="321" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="78" text="Bo Hatchett (I)" party="REP" totalVotes="2993">
+            <VoteType name="Election Day Votes" votes="1263">
+                <Precinct name="Young Harris" votes="461" />
+                <Precinct name="Hiawassee" votes="802" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1636">
+                <Precinct name="Young Harris" votes="447" />
+                <Precinct name="Hiawassee" votes="1189" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="93">
+                <Precinct name="Young Harris" votes="33" />
+                <Precinct name="Hiawassee" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="State Senate - District 50 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Young Harris" votes="19" />
+            <Precinct name="Hiawassee" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Paulette Williams" party="DEM" totalVotes="335">
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="Young Harris" votes="38" />
+                <Precinct name="Hiawassee" votes="49" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="193">
+                <Precinct name="Young Harris" votes="72" />
+                <Precinct name="Hiawassee" votes="121" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="440">
+            <Precinct name="Young Harris" votes="110" />
+            <Precinct name="Hiawassee" votes="330" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Stan Gunter (I)" party="REP" totalVotes="2997">
+            <VoteType name="Election Day Votes" votes="1259">
+                <Precinct name="Young Harris" votes="470" />
+                <Precinct name="Hiawassee" votes="789" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1643">
+                <Precinct name="Young Harris" votes="450" />
+                <Precinct name="Hiawassee" votes="1193" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Young Harris" votes="34" />
+                <Precinct name="Hiawassee" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="State House of Representatives - District 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="47">
+            <Precinct name="Young Harris" votes="19" />
+            <Precinct name="Hiawassee" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="81" text="June Krise" party="DEM" totalVotes="341">
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="Young Harris" votes="38" />
+                <Precinct name="Hiawassee" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="195">
+                <Precinct name="Young Harris" votes="72" />
+                <Precinct name="Hiawassee" votes="123" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="District Attorney - Enotah Judicial Circuit - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="493">
+            <Precinct name="Young Harris" votes="128" />
+            <Precinct name="Hiawassee" votes="365" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Jeff Langley (I)" party="REP" totalVotes="2944">
+            <VoteType name="Election Day Votes" votes="1238">
+                <Precinct name="Young Harris" votes="459" />
+                <Precinct name="Hiawassee" votes="779" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1615">
+                <Precinct name="Young Harris" votes="442" />
+                <Precinct name="Hiawassee" votes="1173" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="Young Harris" votes="35" />
+                <Precinct name="Hiawassee" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="Party Question 1 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="Young Harris" votes="16" />
+            <Precinct name="Hiawassee" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Yes" party="REP" totalVotes="3237">
+            <VoteType name="Election Day Votes" votes="1378">
+                <Precinct name="Young Harris" votes="487" />
+                <Precinct name="Hiawassee" votes="891" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1757">
+                <Precinct name="Young Harris" votes="465" />
+                <Precinct name="Hiawassee" votes="1292" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="101">
+                <Precinct name="Young Harris" votes="34" />
+                <Precinct name="Hiawassee" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="No" party="REP" totalVotes="162">
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Young Harris" votes="28" />
+                <Precinct name="Hiawassee" votes="29" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="96">
+                <Precinct name="Young Harris" votes="30" />
+                <Precinct name="Hiawassee" votes="66" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Party Question 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="Young Harris" votes="30" />
+            <Precinct name="Hiawassee" votes="83" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Yes" party="REP" totalVotes="2620">
+            <VoteType name="Election Day Votes" votes="1134">
+                <Precinct name="Young Harris" votes="417" />
+                <Precinct name="Hiawassee" votes="717" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1411">
+                <Precinct name="Young Harris" votes="387" />
+                <Precinct name="Hiawassee" votes="1024" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="Young Harris" votes="29" />
+                <Precinct name="Hiawassee" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="86" text="No" party="REP" totalVotes="704">
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Young Harris" votes="85" />
+                <Precinct name="Hiawassee" votes="180" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="405">
+                <Precinct name="Young Harris" votes="105" />
+                <Precinct name="Hiawassee" votes="300" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Party Question 3 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="126">
+            <Precinct name="Young Harris" votes="28" />
+            <Precinct name="Hiawassee" votes="98" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Yes" party="REP" totalVotes="2885">
+            <VoteType name="Election Day Votes" votes="1223">
+                <Precinct name="Young Harris" votes="442" />
+                <Precinct name="Hiawassee" votes="781" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1575">
+                <Precinct name="Young Harris" votes="435" />
+                <Precinct name="Hiawassee" votes="1140" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Young Harris" votes="32" />
+                <Precinct name="Hiawassee" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="No" party="REP" totalVotes="426">
+            <VoteType name="Election Day Votes" votes="172">
+                <Precinct name="Young Harris" votes="60" />
+                <Precinct name="Hiawassee" votes="112" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="232">
+                <Precinct name="Young Harris" votes="58" />
+                <Precinct name="Hiawassee" votes="174" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Party Question 4 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="179">
+            <Precinct name="Young Harris" votes="50" />
+            <Precinct name="Hiawassee" votes="129" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Yes" party="REP" totalVotes="2895">
+            <VoteType name="Election Day Votes" votes="1210">
+                <Precinct name="Young Harris" votes="442" />
+                <Precinct name="Hiawassee" votes="768" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1588">
+                <Precinct name="Young Harris" votes="427" />
+                <Precinct name="Hiawassee" votes="1161" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="96">
+                <Precinct name="Young Harris" votes="32" />
+                <Precinct name="Hiawassee" votes="64" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="No" party="REP" totalVotes="363">
+            <VoteType name="Election Day Votes" votes="152">
+                <Precinct name="Young Harris" votes="46" />
+                <Precinct name="Hiawassee" votes="106" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="200">
+                <Precinct name="Young Harris" votes="62" />
+                <Precinct name="Hiawassee" votes="138" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Party Question 5 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Young Harris" votes="24" />
+            <Precinct name="Hiawassee" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Yes" party="REP" totalVotes="85">
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="58">
+                <Precinct name="Young Harris" votes="16" />
+                <Precinct name="Hiawassee" votes="42" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="No" party="REP" totalVotes="3286">
+            <VoteType name="Election Day Votes" votes="1404">
+                <Precinct name="Young Harris" votes="503" />
+                <Precinct name="Hiawassee" votes="901" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1776">
+                <Precinct name="Young Harris" votes="475" />
+                <Precinct name="Hiawassee" votes="1301" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="105">
+                <Precinct name="Young Harris" votes="37" />
+                <Precinct name="Hiawassee" votes="68" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Party Question 6 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Young Harris" votes="20" />
+            <Precinct name="Hiawassee" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" party="REP" totalVotes="3252">
+            <VoteType name="Election Day Votes" votes="1382">
+                <Precinct name="Young Harris" votes="493" />
+                <Precinct name="Hiawassee" votes="889" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1768">
+                <Precinct name="Young Harris" votes="476" />
+                <Precinct name="Hiawassee" votes="1292" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="101">
+                <Precinct name="Young Harris" votes="34" />
+                <Precinct name="Hiawassee" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" party="REP" totalVotes="113">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="20" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="67">
+                <Precinct name="Young Harris" votes="21" />
+                <Precinct name="Hiawassee" votes="46" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Party Question 7 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="64">
+            <Precinct name="Young Harris" votes="22" />
+            <Precinct name="Hiawassee" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Yes" party="REP" totalVotes="2998">
+            <VoteType name="Election Day Votes" votes="1294">
+                <Precinct name="Young Harris" votes="453" />
+                <Precinct name="Hiawassee" votes="841" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1618">
+                <Precinct name="Young Harris" votes="437" />
+                <Precinct name="Hiawassee" votes="1181" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Young Harris" votes="30" />
+                <Precinct name="Hiawassee" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="No" party="REP" totalVotes="375">
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Young Harris" votes="51" />
+                <Precinct name="Hiawassee" votes="70" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="227">
+                <Precinct name="Young Harris" votes="60" />
+                <Precinct name="Hiawassee" votes="167" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Party Question 8 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="191">
+            <Precinct name="Young Harris" votes="61" />
+            <Precinct name="Hiawassee" votes="130" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="97" text="Yes" party="REP" totalVotes="2764">
+            <VoteType name="Election Day Votes" votes="1160">
+                <Precinct name="Young Harris" votes="403" />
+                <Precinct name="Hiawassee" votes="757" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1512">
+                <Precinct name="Young Harris" votes="423" />
+                <Precinct name="Hiawassee" votes="1089" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="91">
+                <Precinct name="Young Harris" votes="35" />
+                <Precinct name="Hiawassee" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="No" party="REP" totalVotes="482">
+            <VoteType name="Election Day Votes" votes="197">
+                <Precinct name="Young Harris" votes="79" />
+                <Precinct name="Hiawassee" votes="118" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="270">
+                <Precinct name="Young Harris" votes="61" />
+                <Precinct name="Hiawassee" votes="209" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Party Question 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Young Harris" votes="3" />
+            <Precinct name="Hiawassee" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="99" text="Yes" party="DEM" totalVotes="232">
+            <VoteType name="Election Day Votes" votes="70">
+                <Precinct name="Young Harris" votes="27" />
+                <Precinct name="Hiawassee" votes="43" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="135">
+                <Precinct name="Young Harris" votes="51" />
+                <Precinct name="Hiawassee" votes="84" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="100" text="No" party="DEM" totalVotes="148">
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Young Harris" votes="16" />
+                <Precinct name="Hiawassee" votes="17" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="84">
+                <Precinct name="Young Harris" votes="32" />
+                <Precinct name="Hiawassee" votes="52" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Party Question 2 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Yes" party="DEM" totalVotes="356">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Young Harris" votes="41" />
+                <Precinct name="Hiawassee" votes="54" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="209">
+                <Precinct name="Young Harris" votes="82" />
+                <Precinct name="Hiawassee" votes="127" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="No" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="12">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Party Question 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Young Harris" votes="2" />
+            <Precinct name="Hiawassee" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Yes" party="DEM" totalVotes="348">
+            <VoteType name="Election Day Votes" votes="95">
+                <Precinct name="Young Harris" votes="42" />
+                <Precinct name="Hiawassee" votes="53" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="203">
+                <Precinct name="Young Harris" votes="76" />
+                <Precinct name="Hiawassee" votes="127" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Young Harris" votes="12" />
+                <Precinct name="Hiawassee" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="No" party="DEM" totalVotes="30">
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="17">
+                <Precinct name="Young Harris" votes="9" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Party Question 4 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="12">
+            <Precinct name="Young Harris" votes="1" />
+            <Precinct name="Hiawassee" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="105" text="Yes" party="DEM" totalVotes="325">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Young Harris" votes="43" />
+                <Precinct name="Hiawassee" votes="51" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="188">
+                <Precinct name="Young Harris" votes="72" />
+                <Precinct name="Hiawassee" votes="116" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="No" party="DEM" totalVotes="51">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="6" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="31">
+                <Precinct name="Young Harris" votes="12" />
+                <Precinct name="Hiawassee" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Party Question 5 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Young Harris" votes="1" />
+            <Precinct name="Hiawassee" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="107" text="Yes" party="DEM" totalVotes="296">
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Young Harris" votes="30" />
+                <Precinct name="Hiawassee" votes="48" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="173">
+                <Precinct name="Young Harris" votes="64" />
+                <Precinct name="Hiawassee" votes="109" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Young Harris" votes="11" />
+                <Precinct name="Hiawassee" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="108" text="No" party="DEM" totalVotes="83">
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="9" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="45">
+                <Precinct name="Young Harris" votes="20" />
+                <Precinct name="Hiawassee" votes="25" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Party Question 6 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Young Harris" votes="2" />
+            <Precinct name="Hiawassee" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="109" text="Yes" party="DEM" totalVotes="356">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Young Harris" votes="39" />
+                <Precinct name="Hiawassee" votes="55" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="206">
+                <Precinct name="Young Harris" votes="80" />
+                <Precinct name="Hiawassee" votes="126" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="110" text="No" party="DEM" totalVotes="24">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Young Harris" votes="5" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="11">
+                <Precinct name="Young Harris" votes="3" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Party Question 7 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Young Harris" votes="2" />
+            <Precinct name="Hiawassee" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="111" text="Yes" party="DEM" totalVotes="364">
+            <VoteType name="Election Day Votes" votes="96">
+                <Precinct name="Young Harris" votes="40" />
+                <Precinct name="Hiawassee" votes="56" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="208">
+                <Precinct name="Young Harris" votes="81" />
+                <Precinct name="Hiawassee" votes="127" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Young Harris" votes="14" />
+                <Precinct name="Hiawassee" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="112" text="No" party="DEM" totalVotes="18">
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Young Harris" votes="4" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="10">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="8" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Party Question 8 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Young Harris" votes="1" />
+            <Precinct name="Hiawassee" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Yes" party="DEM" totalVotes="316">
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Young Harris" votes="42" />
+                <Precinct name="Hiawassee" votes="52" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="183">
+                <Precinct name="Young Harris" votes="71" />
+                <Precinct name="Hiawassee" votes="112" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="114" text="No" party="DEM" totalVotes="66">
+            <VoteType name="Election Day Votes" votes="9">
+                <Precinct name="Young Harris" votes="2" />
+                <Precinct name="Hiawassee" votes="7" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="35">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="22" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Young Harris" votes="7" />
+                <Precinct name="Hiawassee" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="46" text="Party Question 9 - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Young Harris" votes="2" />
+            <Precinct name="Hiawassee" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Yes" party="DEM" totalVotes="376">
+            <VoteType name="Election Day Votes" votes="100">
+                <Precinct name="Young Harris" votes="43" />
+                <Precinct name="Hiawassee" votes="57" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="217">
+                <Precinct name="Young Harris" votes="84" />
+                <Precinct name="Hiawassee" votes="133" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Young Harris" votes="13" />
+                <Precinct name="Hiawassee" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="116" text="No" party="DEM" totalVotes="6">
+            <VoteType name="Election Day Votes" votes="4">
+                <Precinct name="Young Harris" votes="1" />
+                <Precinct name="Hiawassee" votes="3" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="2">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Justice - Supreme Court of Georgia (Colvin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="547">
+            <Precinct name="Young Harris" votes="167" />
+            <Precinct name="Hiawassee" votes="380" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Veronica Brinson" totalVotes="875">
+            <VoteType name="Election Day Votes" votes="360">
+                <Precinct name="Young Harris" votes="126" />
+                <Precinct name="Hiawassee" votes="234" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="488">
+                <Precinct name="Young Harris" votes="156" />
+                <Precinct name="Hiawassee" votes="332" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Young Harris" votes="8" />
+                <Precinct name="Hiawassee" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="118" text="Verda M. Colvin (I)" totalVotes="2402">
+            <VoteType name="Election Day Votes" votes="964">
+                <Precinct name="Young Harris" votes="354" />
+                <Precinct name="Hiawassee" votes="610" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1313">
+                <Precinct name="Young Harris" votes="351" />
+                <Precinct name="Hiawassee" votes="962" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="Young Harris" votes="42" />
+                <Precinct name="Hiawassee" votes="82" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="Justice - Supreme Court of Georgia (LaGrua)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="712">
+            <Precinct name="Young Harris" votes="221" />
+            <Precinct name="Hiawassee" votes="491" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Shawn Ellen LaGrua (I)" totalVotes="3101">
+            <VoteType name="Election Day Votes" votes="1270">
+                <Precinct name="Young Harris" votes="473" />
+                <Precinct name="Hiawassee" votes="797" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1687">
+                <Precinct name="Young Harris" votes="463" />
+                <Precinct name="Hiawassee" votes="1224" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="143">
+                <Precinct name="Young Harris" votes="44" />
+                <Precinct name="Hiawassee" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Justice - Supreme Court of Georgia (McMillian)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="700">
+            <Precinct name="Young Harris" votes="217" />
+            <Precinct name="Hiawassee" votes="483" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="122" text="Carla McMillian (I)" totalVotes="3124">
+            <VoteType name="Election Day Votes" votes="1270">
+                <Precinct name="Young Harris" votes="472" />
+                <Precinct name="Hiawassee" votes="798" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1711">
+                <Precinct name="Young Harris" votes="472" />
+                <Precinct name="Hiawassee" votes="1239" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Young Harris" votes="44" />
+                <Precinct name="Hiawassee" votes="98" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="Judge - Court of Appeals of Georgia (Barnes)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="748">
+            <Precinct name="Young Harris" votes="224" />
+            <Precinct name="Hiawassee" votes="524" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="124" text="Anne Elizabeth Barnes (I)" totalVotes="3085">
+            <VoteType name="Election Day Votes" votes="1253">
+                <Precinct name="Young Harris" votes="471" />
+                <Precinct name="Hiawassee" votes="782" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1690">
+                <Precinct name="Young Harris" votes="471" />
+                <Precinct name="Hiawassee" votes="1219" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="Young Harris" votes="43" />
+                <Precinct name="Hiawassee" votes="98" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Judge - Court of Appeals of Georgia (McFadden)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="737">
+            <Precinct name="Young Harris" votes="215" />
+            <Precinct name="Hiawassee" votes="522" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Chris McFadden (I)" totalVotes="3099">
+            <VoteType name="Election Day Votes" votes="1260">
+                <Precinct name="Young Harris" votes="477" />
+                <Precinct name="Hiawassee" votes="783" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1696">
+                <Precinct name="Young Harris" votes="473" />
+                <Precinct name="Hiawassee" votes="1223" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Young Harris" votes="44" />
+                <Precinct name="Hiawassee" votes="98" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="52" text="Judge - Court of Appeals of Georgia (Pipkin)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="773">
+            <Precinct name="Young Harris" votes="230" />
+            <Precinct name="Hiawassee" votes="543" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Trea Pipkin (I)" totalVotes="3061">
+            <VoteType name="Election Day Votes" votes="1242">
+                <Precinct name="Young Harris" votes="468" />
+                <Precinct name="Hiawassee" votes="774" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1678">
+                <Precinct name="Young Harris" votes="467" />
+                <Precinct name="Hiawassee" votes="1211" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="Young Harris" votes="43" />
+                <Precinct name="Hiawassee" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="Judge - Superior Court - Enotah Judicial Circuit (George)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="724">
+            <Precinct name="Young Harris" votes="218" />
+            <Precinct name="Hiawassee" votes="506" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Raymond E. George (I)" totalVotes="3111">
+            <VoteType name="Election Day Votes" votes="1259">
+                <Precinct name="Young Harris" votes="474" />
+                <Precinct name="Hiawassee" votes="785" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1709">
+                <Precinct name="Young Harris" votes="470" />
+                <Precinct name="Hiawassee" votes="1239" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Young Harris" votes="45" />
+                <Precinct name="Hiawassee" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="Judge - Superior Court - Enotah Judicial Circuit (Levins)" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="734">
+            <Precinct name="Young Harris" votes="220" />
+            <Precinct name="Hiawassee" votes="514" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="131" text="T. Buckley Levins (I)" totalVotes="3102">
+            <VoteType name="Election Day Votes" votes="1264">
+                <Precinct name="Young Harris" votes="473" />
+                <Precinct name="Hiawassee" votes="791" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1697">
+                <Precinct name="Young Harris" votes="471" />
+                <Precinct name="Hiawassee" votes="1226" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="Young Harris" votes="43" />
+                <Precinct name="Hiawassee" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="County BOE - Post 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="597">
+            <Precinct name="Young Harris" votes="188" />
+            <Precinct name="Hiawassee" votes="409" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="132" text="Sara C. Rogers (I)" totalVotes="3232">
+            <VoteType name="Election Day Votes" votes="1318">
+                <Precinct name="Young Harris" votes="487" />
+                <Precinct name="Hiawassee" votes="831" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1770">
+                <Precinct name="Young Harris" votes="491" />
+                <Precinct name="Hiawassee" votes="1279" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="144">
+                <Precinct name="Young Harris" votes="44" />
+                <Precinct name="Hiawassee" votes="100" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="County BOE - Post 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="635">
+            <Precinct name="Young Harris" votes="206" />
+            <Precinct name="Hiawassee" votes="429" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Young Harris" votes="0" />
+            <Precinct name="Hiawassee" votes="0" />
+        </VoteType>
+        <Choice key="133" text="David Phillips" totalVotes="3192">
+            <VoteType name="Election Day Votes" votes="1299">
+                <Precinct name="Young Harris" votes="475" />
+                <Precinct name="Hiawassee" votes="824" />
+            </VoteType>
+            <VoteType name="Advanced Voting Votes" votes="1756">
+                <Precinct name="Young Harris" votes="485" />
+                <Precinct name="Hiawassee" votes="1271" />
+            </VoteType>
+            <VoteType name="Absentee by Mail Votes" votes="136">
+                <Precinct name="Young Harris" votes="42" />
+                <Precinct name="Hiawassee" votes="94" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Young Harris" votes="0" />
+                <Precinct name="Hiawassee" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

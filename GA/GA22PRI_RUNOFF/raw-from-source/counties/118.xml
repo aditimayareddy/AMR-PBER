@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 11:19:37 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Quitman</Region>
+    <VoterTurnout totalVoters="1476" ballotsCast="60" voterTurnout="4.07">
+        <Precincts>
+            <Precinct name="Georgetown " totalVoters="1390" ballotsCast="51" voterTurnout="3.67" percentReporting="4" />
+            <Precinct name="Morris" totalVoters="86" ballotsCast="9" voterTurnout="10.47" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Georgetown " votes="5" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="33">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Georgetown " votes="2" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Georgetown " votes="7" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Georgetown " votes="20" />
+                <Precinct name="Morris" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Georgetown " votes="6" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Georgetown " votes="11" />
+                <Precinct name="Morris" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Georgetown " votes="5" />
+            <Precinct name="Morris" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Georgetown " votes="4" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Georgetown " votes="15" />
+                <Precinct name="Morris" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Georgetown " votes="2" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Georgetown " votes="9" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Georgetown " votes="16" />
+                <Precinct name="Morris" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Georgetown " votes="8" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="30">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Georgetown " votes="2" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Georgetown " votes="8" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Georgetown " votes="14" />
+                <Precinct name="Morris" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Georgetown " votes="4" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Georgetown " votes="15" />
+                <Precinct name="Morris" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Georgetown " votes="3" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="42">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Georgetown " votes="2" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Georgetown " votes="12" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Georgetown " votes="26" />
+                <Precinct name="Morris" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="15">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Georgetown " votes="2" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Georgetown " votes="6" />
+                <Precinct name="Morris" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Jeremy Hunt" party="REP" totalVotes="105">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Georgetown " votes="5" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Georgetown " votes="17" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="Georgetown " votes="73" />
+                <Precinct name="Morris" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Chris West" party="REP" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Georgetown " votes="1" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Georgetown " votes="5" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Georgetown " votes="16" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

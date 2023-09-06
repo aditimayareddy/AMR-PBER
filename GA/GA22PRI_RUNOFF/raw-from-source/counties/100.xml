@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 2:12:44 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Miller</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="35" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Colquitt-Miller" totalVoters="0" ballotsCast="35" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Colquitt-Miller" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="23">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Colquitt-Miller" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="11">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Colquitt-Miller" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="14">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="19">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Colquitt-Miller" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Colquitt-Miller" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="14">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Colquitt-Miller" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Colquitt-Miller" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="17">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Colquitt-Miller" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Colquitt-Miller" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Colquitt-Miller" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="20">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Colquitt-Miller" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4">
+                <Precinct name="Colquitt-Miller" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Colquitt-Miller" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="11">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Colquitt-Miller" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Colquitt-Miller" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Jeremy Hunt" party="REP" totalVotes="256">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="97">
+                <Precinct name="Colquitt-Miller" votes="97" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="154">
+                <Precinct name="Colquitt-Miller" votes="154" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="124" text="Chris West" party="REP" totalVotes="145">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colquitt-Miller" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Colquitt-Miller" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Colquitt-Miller" votes="89" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

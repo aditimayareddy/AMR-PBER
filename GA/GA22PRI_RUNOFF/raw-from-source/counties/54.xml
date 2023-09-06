@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 11:21:22 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Evans</Region>
+    <VoterTurnout totalVoters="6089" ballotsCast="147" voterTurnout="2.41">
+        <Precincts>
+            <Precinct name="Veterans Community Center" totalVoters="6089" ballotsCast="147" voterTurnout="2.41" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Veterans Community Center" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="83">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Veterans Community Center" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="Veterans Community Center" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="62">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Veterans Community Center" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Veterans Community Center" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Veterans Community Center" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="63">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Veterans Community Center" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Veterans Community Center" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="Veterans Community Center" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="80">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Veterans Community Center" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="Veterans Community Center" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Veterans Community Center" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="88">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Veterans Community Center" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="37">
+                <Precinct name="Veterans Community Center" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Veterans Community Center" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Veterans Community Center" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Veterans Community Center" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Veterans Community Center" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="98">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Veterans Community Center" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Veterans Community Center" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Veterans Community Center" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="49">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Veterans Community Center" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10">
+                <Precinct name="Veterans Community Center" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Veterans Community Center" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Veterans Community Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

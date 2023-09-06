@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/22/2022 3:21:57 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Pierce</Region>
+    <VoterTurnout totalVoters="12375" ballotsCast="106" voterTurnout="0.86">
+        <Precincts>
+            <Precinct name="Hacklebarney/Cason " totalVoters="3149" ballotsCast="44" voterTurnout="1.40" percentReporting="4" />
+            <Precinct name="Blackshear" totalVoters="3086" ballotsCast="13" voterTurnout="0.42" percentReporting="4" />
+            <Precinct name="St. Johns/Blackshear" totalVoters="1378" ballotsCast="10" voterTurnout="0.73" percentReporting="4" />
+            <Precinct name="Otter Creek" totalVoters="1656" ballotsCast="16" voterTurnout="0.97" percentReporting="4" />
+            <Precinct name="Patterson" totalVoters="1073" ballotsCast="21" voterTurnout="1.96" percentReporting="4" />
+            <Precinct name="Mershon" totalVoters="478" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Alabaha" totalVoters="1052" ballotsCast="2" voterTurnout="0.19" percentReporting="4" />
+            <Precinct name="Sunset/Sweat" totalVoters="503" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Hacklebarney/Cason " votes="1" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Hacklebarney/Cason " votes="10" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="3" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Hacklebarney/Cason " votes="7" />
+                <Precinct name="Blackshear" votes="1" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="2" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Hacklebarney/Cason " votes="12" />
+                <Precinct name="Blackshear" votes="5" />
+                <Precinct name="St. Johns/Blackshear" votes="6" />
+                <Precinct name="Otter Creek" votes="4" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="2" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="47">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Hacklebarney/Cason " votes="2" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="4" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Hacklebarney/Cason " votes="3" />
+                <Precinct name="Blackshear" votes="4" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="4" />
+                <Precinct name="Patterson" votes="3" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Hacklebarney/Cason " votes="9" />
+                <Precinct name="Blackshear" votes="1" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="6" />
+                <Precinct name="Patterson" votes="9" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Hacklebarney/Cason " votes="3" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="44">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Hacklebarney/Cason " votes="3" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="6" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Hacklebarney/Cason " votes="3" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="5" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Hacklebarney/Cason " votes="11" />
+                <Precinct name="Blackshear" votes="1" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="5" />
+                <Precinct name="Patterson" votes="6" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="59">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Hacklebarney/Cason " votes="8" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Hacklebarney/Cason " votes="6" />
+                <Precinct name="Blackshear" votes="5" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="4" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Hacklebarney/Cason " votes="10" />
+                <Precinct name="Blackshear" votes="5" />
+                <Precinct name="St. Johns/Blackshear" votes="6" />
+                <Precinct name="Otter Creek" votes="5" />
+                <Precinct name="Patterson" votes="3" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="2" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Hacklebarney/Cason " votes="3" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="1" />
+            <Precinct name="Patterson" votes="1" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="43">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Hacklebarney/Cason " votes="6" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="2" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Hacklebarney/Cason " votes="3" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="2" />
+                <Precinct name="Patterson" votes="2" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Hacklebarney/Cason " votes="11" />
+                <Precinct name="Blackshear" votes="3" />
+                <Precinct name="St. Johns/Blackshear" votes="5" />
+                <Precinct name="Otter Creek" votes="2" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="1" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Hacklebarney/Cason " votes="6" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="4" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17">
+                <Precinct name="Hacklebarney/Cason " votes="5" />
+                <Precinct name="Blackshear" votes="5" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="3" />
+                <Precinct name="Patterson" votes="3" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Hacklebarney/Cason " votes="10" />
+                <Precinct name="Blackshear" votes="3" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="7" />
+                <Precinct name="Patterson" votes="8" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="1" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Hacklebarney/Cason " votes="1" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="2" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="57">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Hacklebarney/Cason " votes="7" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Hacklebarney/Cason " votes="7" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Hacklebarney/Cason " votes="13" />
+                <Precinct name="Blackshear" votes="4" />
+                <Precinct name="St. Johns/Blackshear" votes="6" />
+                <Precinct name="Otter Creek" votes="2" />
+                <Precinct name="Patterson" votes="8" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="2" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="46">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Hacklebarney/Cason " votes="5" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="6" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Hacklebarney/Cason " votes="3" />
+                <Precinct name="Blackshear" votes="3" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="4" />
+                <Precinct name="Patterson" votes="4" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="Hacklebarney/Cason " votes="8" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="6" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 1 - Dem" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="1" />
+            <Precinct name="Patterson" votes="1" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Joyce Marie Griggs" party="DEM" totalVotes="63">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Hacklebarney/Cason " votes="7" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="7" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Hacklebarney/Cason " votes="6" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="2" />
+                <Precinct name="Otter Creek" votes="3" />
+                <Precinct name="Patterson" votes="4" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Hacklebarney/Cason " votes="15" />
+                <Precinct name="Blackshear" votes="3" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="5" />
+                <Precinct name="Patterson" votes="9" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="1" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Wade Herring" party="DEM" totalVotes="41">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Hacklebarney/Cason " votes="5" />
+                <Precinct name="Blackshear" votes="2" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="1" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Hacklebarney/Cason " votes="4" />
+                <Precinct name="Blackshear" votes="5" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="2" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Hacklebarney/Cason " votes="7" />
+                <Precinct name="Blackshear" votes="3" />
+                <Precinct name="St. Johns/Blackshear" votes="6" />
+                <Precinct name="Otter Creek" votes="4" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="1" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

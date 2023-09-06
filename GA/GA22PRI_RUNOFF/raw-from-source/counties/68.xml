@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 9:47:51 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Habersham</Region>
+    <VoterTurnout totalVoters="28093" ballotsCast="265" voterTurnout="0.94">
+        <Precincts>
+            <Precinct name="Habersham North" totalVoters="9114" ballotsCast="99" voterTurnout="1.09" percentReporting="4" />
+            <Precinct name="Habersham South" totalVoters="6020" ballotsCast="65" voterTurnout="1.08" percentReporting="4" />
+            <Precinct name="Demorest" totalVoters="4878" ballotsCast="27" voterTurnout="0.55" percentReporting="4" />
+            <Precinct name="Town of Mount Airy" totalVoters="773" ballotsCast="6" voterTurnout="0.78" percentReporting="4" />
+            <Precinct name="City of Baldwin" totalVoters="1260" ballotsCast="10" voterTurnout="0.79" percentReporting="4" />
+            <Precinct name="Mud Creek" totalVoters="4485" ballotsCast="22" voterTurnout="0.49" percentReporting="4" />
+            <Precinct name="Amys Creek" totalVoters="1563" ballotsCast="36" voterTurnout="2.30" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="0" />
+            <Precinct name="Demorest" votes="1" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="1" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="0" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="0" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="205">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Habersham North" votes="14" />
+                <Precinct name="Habersham South" votes="12" />
+                <Precinct name="Demorest" votes="7" />
+                <Precinct name="Town of Mount Airy" votes="2" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="5" />
+                <Precinct name="Amys Creek" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="Habersham North" votes="33" />
+                <Precinct name="Habersham South" votes="13" />
+                <Precinct name="Demorest" votes="8" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="4" />
+                <Precinct name="Mud Creek" votes="5" />
+                <Precinct name="Amys Creek" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Habersham North" votes="34" />
+                <Precinct name="Habersham South" votes="20" />
+                <Precinct name="Demorest" votes="6" />
+                <Precinct name="Town of Mount Airy" votes="3" />
+                <Precinct name="City of Baldwin" votes="4" />
+                <Precinct name="Mud Creek" votes="7" />
+                <Precinct name="Amys Creek" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="57">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Habersham North" votes="5" />
+                <Precinct name="Habersham South" votes="6" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="3" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Habersham North" votes="8" />
+                <Precinct name="Habersham South" votes="5" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="1" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="1" />
+                <Precinct name="Amys Creek" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Habersham North" votes="5" />
+                <Precinct name="Habersham South" votes="9" />
+                <Precinct name="Demorest" votes="2" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="1" />
+                <Precinct name="Amys Creek" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="1" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="0" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="0" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="0" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Habersham North" votes="3" />
+                <Precinct name="Habersham South" votes="1" />
+                <Precinct name="Demorest" votes="4" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="3" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Habersham North" votes="1" />
+                <Precinct name="Habersham South" votes="2" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="1" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Habersham North" votes="4" />
+                <Precinct name="Habersham South" votes="7" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="1" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="231">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="Habersham North" votes="16" />
+                <Precinct name="Habersham South" votes="17" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="2" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="5" />
+                <Precinct name="Amys Creek" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="81">
+                <Precinct name="Habersham North" votes="40" />
+                <Precinct name="Habersham South" votes="16" />
+                <Precinct name="Demorest" votes="9" />
+                <Precinct name="Town of Mount Airy" votes="1" />
+                <Precinct name="City of Baldwin" votes="4" />
+                <Precinct name="Mud Creek" votes="5" />
+                <Precinct name="Amys Creek" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Habersham North" votes="35" />
+                <Precinct name="Habersham South" votes="21" />
+                <Precinct name="Demorest" votes="8" />
+                <Precinct name="Town of Mount Airy" votes="2" />
+                <Precinct name="City of Baldwin" votes="5" />
+                <Precinct name="Mud Creek" votes="8" />
+                <Precinct name="Amys Creek" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Habersham North" votes="7" />
+            <Precinct name="Habersham South" votes="3" />
+            <Precinct name="Demorest" votes="1" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="1" />
+            <Precinct name="Mud Creek" votes="2" />
+            <Precinct name="Amys Creek" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="0" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="0" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="74">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Habersham North" votes="5" />
+                <Precinct name="Habersham South" votes="2" />
+                <Precinct name="Demorest" votes="4" />
+                <Precinct name="Town of Mount Airy" votes="2" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="2" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="Habersham North" votes="18" />
+                <Precinct name="Habersham South" votes="4" />
+                <Precinct name="Demorest" votes="1" />
+                <Precinct name="Town of Mount Airy" votes="1" />
+                <Precinct name="City of Baldwin" votes="2" />
+                <Precinct name="Mud Creek" votes="4" />
+                <Precinct name="Amys Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="27">
+                <Precinct name="Habersham North" votes="12" />
+                <Precinct name="Habersham South" votes="7" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="175">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Habersham North" votes="11" />
+                <Precinct name="Habersham South" votes="16" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="6" />
+                <Precinct name="Amys Creek" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Habersham North" votes="22" />
+                <Precinct name="Habersham South" votes="14" />
+                <Precinct name="Demorest" votes="10" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="1" />
+                <Precinct name="Amys Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Habersham North" votes="24" />
+                <Precinct name="Habersham South" votes="19" />
+                <Precinct name="Demorest" votes="5" />
+                <Precinct name="Town of Mount Airy" votes="3" />
+                <Precinct name="City of Baldwin" votes="4" />
+                <Precinct name="Mud Creek" votes="7" />
+                <Precinct name="Amys Creek" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Habersham North" votes="3" />
+            <Precinct name="Habersham South" votes="1" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="1" />
+            <Precinct name="City of Baldwin" votes="1" />
+            <Precinct name="Mud Creek" votes="1" />
+            <Precinct name="Amys Creek" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Habersham North" votes="0" />
+            <Precinct name="Habersham South" votes="0" />
+            <Precinct name="Demorest" votes="0" />
+            <Precinct name="Town of Mount Airy" votes="0" />
+            <Precinct name="City of Baldwin" votes="0" />
+            <Precinct name="Mud Creek" votes="0" />
+            <Precinct name="Amys Creek" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="134">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Habersham North" votes="9" />
+                <Precinct name="Habersham South" votes="9" />
+                <Precinct name="Demorest" votes="4" />
+                <Precinct name="Town of Mount Airy" votes="2" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="6" />
+                <Precinct name="Amys Creek" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Habersham North" votes="20" />
+                <Precinct name="Habersham South" votes="12" />
+                <Precinct name="Demorest" votes="6" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="3" />
+                <Precinct name="Amys Creek" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Habersham North" votes="16" />
+                <Precinct name="Habersham South" votes="14" />
+                <Precinct name="Demorest" votes="6" />
+                <Precinct name="Town of Mount Airy" votes="3" />
+                <Precinct name="City of Baldwin" votes="3" />
+                <Precinct name="Mud Creek" votes="2" />
+                <Precinct name="Amys Creek" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="121">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Habersham North" votes="10" />
+                <Precinct name="Habersham South" votes="9" />
+                <Precinct name="Demorest" votes="3" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="1" />
+                <Precinct name="Mud Creek" votes="2" />
+                <Precinct name="Amys Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="Habersham North" votes="19" />
+                <Precinct name="Habersham South" votes="6" />
+                <Precinct name="Demorest" votes="6" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="2" />
+                <Precinct name="Mud Creek" votes="3" />
+                <Precinct name="Amys Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Habersham North" votes="22" />
+                <Precinct name="Habersham South" votes="14" />
+                <Precinct name="Demorest" votes="2" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="2" />
+                <Precinct name="Mud Creek" votes="5" />
+                <Precinct name="Amys Creek" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Habersham North" votes="0" />
+                <Precinct name="Habersham South" votes="0" />
+                <Precinct name="Demorest" votes="0" />
+                <Precinct name="Town of Mount Airy" votes="0" />
+                <Precinct name="City of Baldwin" votes="0" />
+                <Precinct name="Mud Creek" votes="0" />
+                <Precinct name="Amys Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,1025 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 5:15:09 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Houston</Region>
+    <VoterTurnout totalVoters="105539" ballotsCast="3610" voterTurnout="3.42">
+        <Precincts>
+            <Precinct name="ANNX" totalVoters="4595" ballotsCast="152" voterTurnout="3.31" percentReporting="4" />
+            <Precinct name="BMS" totalVoters="9805" ballotsCast="286" voterTurnout="2.92" percentReporting="4" />
+            <Precinct name="CENT" totalVoters="7788" ballotsCast="255" voterTurnout="3.27" percentReporting="4" />
+            <Precinct name="CGTC" totalVoters="4823" ballotsCast="160" voterTurnout="3.32" percentReporting="4" />
+            <Precinct name="FMMS" totalVoters="8749" ballotsCast="305" voterTurnout="3.49" percentReporting="4" />
+            <Precinct name="HAFS" totalVoters="1859" ballotsCast="46" voterTurnout="2.47" percentReporting="4" />
+            <Precinct name="HCTC" totalVoters="6032" ballotsCast="142" voterTurnout="2.35" percentReporting="4" />
+            <Precinct name="HEFS" totalVoters="1394" ballotsCast="28" voterTurnout="2.01" percentReporting="4" />
+            <Precinct name="HHPC" totalVoters="9421" ballotsCast="374" voterTurnout="3.97" percentReporting="4" />
+            <Precinct name="MCMS" totalVoters="9228" ballotsCast="262" voterTurnout="2.84" percentReporting="4" />
+            <Precinct name="NHSC" totalVoters="2443" ballotsCast="124" voterTurnout="5.08" percentReporting="4" />
+            <Precinct name="ROZR" totalVoters="14147" ballotsCast="362" voterTurnout="2.56" percentReporting="4" />
+            <Precinct name="TMS" totalVoters="5188" ballotsCast="216" voterTurnout="4.16" percentReporting="4" />
+            <Precinct name="TWPK" totalVoters="4346" ballotsCast="163" voterTurnout="3.75" percentReporting="4" />
+            <Precinct name="VHS" totalVoters="6692" ballotsCast="184" voterTurnout="2.75" percentReporting="4" />
+            <Precinct name="WELL" totalVoters="9029" ballotsCast="551" voterTurnout="6.10" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="ANNX" votes="1" />
+            <Precinct name="BMS" votes="2" />
+            <Precinct name="CENT" votes="1" />
+            <Precinct name="CGTC" votes="1" />
+            <Precinct name="FMMS" votes="3" />
+            <Precinct name="HAFS" votes="2" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="3" />
+            <Precinct name="HHPC" votes="12" />
+            <Precinct name="MCMS" votes="1" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="6" />
+            <Precinct name="TMS" votes="2" />
+            <Precinct name="TWPK" votes="2" />
+            <Precinct name="VHS" votes="2" />
+            <Precinct name="WELL" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ANNX" votes="0" />
+            <Precinct name="BMS" votes="0" />
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="0" />
+            <Precinct name="HAFS" votes="0" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="MCMS" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="0" />
+            <Precinct name="TMS" votes="0" />
+            <Precinct name="TWPK" votes="0" />
+            <Precinct name="VHS" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="1805">
+            <VoteType name="Absentee by Mail Votes" votes="199">
+                <Precinct name="ANNX" votes="10" />
+                <Precinct name="BMS" votes="15" />
+                <Precinct name="CENT" votes="10" />
+                <Precinct name="CGTC" votes="7" />
+                <Precinct name="FMMS" votes="8" />
+                <Precinct name="HAFS" votes="2" />
+                <Precinct name="HCTC" votes="6" />
+                <Precinct name="HEFS" votes="2" />
+                <Precinct name="HHPC" votes="22" />
+                <Precinct name="MCMS" votes="7" />
+                <Precinct name="NHSC" votes="11" />
+                <Precinct name="ROZR" votes="54" />
+                <Precinct name="TMS" votes="5" />
+                <Precinct name="TWPK" votes="9" />
+                <Precinct name="VHS" votes="6" />
+                <Precinct name="WELL" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="654">
+                <Precinct name="ANNX" votes="21" />
+                <Precinct name="BMS" votes="53" />
+                <Precinct name="CENT" votes="47" />
+                <Precinct name="CGTC" votes="27" />
+                <Precinct name="FMMS" votes="49" />
+                <Precinct name="HAFS" votes="7" />
+                <Precinct name="HCTC" votes="24" />
+                <Precinct name="HEFS" votes="3" />
+                <Precinct name="HHPC" votes="103" />
+                <Precinct name="MCMS" votes="39" />
+                <Precinct name="NHSC" votes="20" />
+                <Precinct name="ROZR" votes="67" />
+                <Precinct name="TMS" votes="42" />
+                <Precinct name="TWPK" votes="31" />
+                <Precinct name="VHS" votes="32" />
+                <Precinct name="WELL" votes="89" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="948">
+                <Precinct name="ANNX" votes="37" />
+                <Precinct name="BMS" votes="75" />
+                <Precinct name="CENT" votes="77" />
+                <Precinct name="CGTC" votes="43" />
+                <Precinct name="FMMS" votes="94" />
+                <Precinct name="HAFS" votes="14" />
+                <Precinct name="HCTC" votes="41" />
+                <Precinct name="HEFS" votes="14" />
+                <Precinct name="HHPC" votes="81" />
+                <Precinct name="MCMS" votes="79" />
+                <Precinct name="NHSC" votes="34" />
+                <Precinct name="ROZR" votes="86" />
+                <Precinct name="TMS" votes="59" />
+                <Precinct name="TWPK" votes="54" />
+                <Precinct name="VHS" votes="49" />
+                <Precinct name="WELL" votes="111" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="1" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="1753">
+            <VoteType name="Absentee by Mail Votes" votes="239">
+                <Precinct name="ANNX" votes="21" />
+                <Precinct name="BMS" votes="19" />
+                <Precinct name="CENT" votes="19" />
+                <Precinct name="CGTC" votes="6" />
+                <Precinct name="FMMS" votes="10" />
+                <Precinct name="HAFS" votes="4" />
+                <Precinct name="HCTC" votes="13" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="12" />
+                <Precinct name="MCMS" votes="16" />
+                <Precinct name="NHSC" votes="8" />
+                <Precinct name="ROZR" votes="42" />
+                <Precinct name="TMS" votes="16" />
+                <Precinct name="TWPK" votes="7" />
+                <Precinct name="VHS" votes="7" />
+                <Precinct name="WELL" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="697">
+                <Precinct name="ANNX" votes="36" />
+                <Precinct name="BMS" votes="42" />
+                <Precinct name="CENT" votes="42" />
+                <Precinct name="CGTC" votes="35" />
+                <Precinct name="FMMS" votes="62" />
+                <Precinct name="HAFS" votes="1" />
+                <Precinct name="HCTC" votes="33" />
+                <Precinct name="HEFS" votes="1" />
+                <Precinct name="HHPC" votes="62" />
+                <Precinct name="MCMS" votes="54" />
+                <Precinct name="NHSC" votes="27" />
+                <Precinct name="ROZR" votes="62" />
+                <Precinct name="TMS" votes="43" />
+                <Precinct name="TWPK" votes="20" />
+                <Precinct name="VHS" votes="41" />
+                <Precinct name="WELL" votes="136" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="816">
+                <Precinct name="ANNX" votes="26" />
+                <Precinct name="BMS" votes="80" />
+                <Precinct name="CENT" votes="59" />
+                <Precinct name="CGTC" votes="41" />
+                <Precinct name="FMMS" votes="78" />
+                <Precinct name="HAFS" votes="16" />
+                <Precinct name="HCTC" votes="24" />
+                <Precinct name="HEFS" votes="5" />
+                <Precinct name="HHPC" votes="82" />
+                <Precinct name="MCMS" votes="64" />
+                <Precinct name="NHSC" votes="24" />
+                <Precinct name="ROZR" votes="45" />
+                <Precinct name="TMS" votes="49" />
+                <Precinct name="TWPK" votes="40" />
+                <Precinct name="VHS" votes="47" />
+                <Precinct name="WELL" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="0" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="0" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="ANNX" votes="1" />
+            <Precinct name="BMS" votes="2" />
+            <Precinct name="CENT" votes="3" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="4" />
+            <Precinct name="HAFS" votes="4" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="4" />
+            <Precinct name="HHPC" votes="8" />
+            <Precinct name="MCMS" votes="1" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="3" />
+            <Precinct name="TMS" votes="6" />
+            <Precinct name="TWPK" votes="3" />
+            <Precinct name="VHS" votes="5" />
+            <Precinct name="WELL" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ANNX" votes="0" />
+            <Precinct name="BMS" votes="0" />
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="0" />
+            <Precinct name="HAFS" votes="0" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="MCMS" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="0" />
+            <Precinct name="TMS" votes="0" />
+            <Precinct name="TWPK" votes="0" />
+            <Precinct name="VHS" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="797">
+            <VoteType name="Absentee by Mail Votes" votes="132">
+                <Precinct name="ANNX" votes="8" />
+                <Precinct name="BMS" votes="12" />
+                <Precinct name="CENT" votes="13" />
+                <Precinct name="CGTC" votes="3" />
+                <Precinct name="FMMS" votes="6" />
+                <Precinct name="HAFS" votes="3" />
+                <Precinct name="HCTC" votes="5" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="10" />
+                <Precinct name="MCMS" votes="12" />
+                <Precinct name="NHSC" votes="4" />
+                <Precinct name="ROZR" votes="24" />
+                <Precinct name="TMS" votes="9" />
+                <Precinct name="TWPK" votes="7" />
+                <Precinct name="VHS" votes="2" />
+                <Precinct name="WELL" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="286">
+                <Precinct name="ANNX" votes="14" />
+                <Precinct name="BMS" votes="14" />
+                <Precinct name="CENT" votes="20" />
+                <Precinct name="CGTC" votes="14" />
+                <Precinct name="FMMS" votes="23" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="12" />
+                <Precinct name="HEFS" votes="3" />
+                <Precinct name="HHPC" votes="31" />
+                <Precinct name="MCMS" votes="18" />
+                <Precinct name="NHSC" votes="8" />
+                <Precinct name="ROZR" votes="32" />
+                <Precinct name="TMS" votes="19" />
+                <Precinct name="TWPK" votes="9" />
+                <Precinct name="VHS" votes="17" />
+                <Precinct name="WELL" votes="52" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="379">
+                <Precinct name="ANNX" votes="15" />
+                <Precinct name="BMS" votes="34" />
+                <Precinct name="CENT" votes="27" />
+                <Precinct name="CGTC" votes="18" />
+                <Precinct name="FMMS" votes="41" />
+                <Precinct name="HAFS" votes="3" />
+                <Precinct name="HCTC" votes="13" />
+                <Precinct name="HEFS" votes="6" />
+                <Precinct name="HHPC" votes="29" />
+                <Precinct name="MCMS" votes="30" />
+                <Precinct name="NHSC" votes="13" />
+                <Precinct name="ROZR" votes="26" />
+                <Precinct name="TMS" votes="21" />
+                <Precinct name="TWPK" votes="19" />
+                <Precinct name="VHS" votes="29" />
+                <Precinct name="WELL" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="0" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="0" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="0" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="2761">
+            <VoteType name="Absentee by Mail Votes" votes="308">
+                <Precinct name="ANNX" votes="23" />
+                <Precinct name="BMS" votes="23" />
+                <Precinct name="CENT" votes="15" />
+                <Precinct name="CGTC" votes="10" />
+                <Precinct name="FMMS" votes="12" />
+                <Precinct name="HAFS" votes="3" />
+                <Precinct name="HCTC" votes="14" />
+                <Precinct name="HEFS" votes="2" />
+                <Precinct name="HHPC" votes="25" />
+                <Precinct name="MCMS" votes="11" />
+                <Precinct name="NHSC" votes="15" />
+                <Precinct name="ROZR" votes="72" />
+                <Precinct name="TMS" votes="12" />
+                <Precinct name="TWPK" votes="9" />
+                <Precinct name="VHS" votes="11" />
+                <Precinct name="WELL" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1061">
+                <Precinct name="ANNX" votes="43" />
+                <Precinct name="BMS" votes="80" />
+                <Precinct name="CENT" votes="68" />
+                <Precinct name="CGTC" votes="48" />
+                <Precinct name="FMMS" votes="86" />
+                <Precinct name="HAFS" votes="8" />
+                <Precinct name="HCTC" votes="45" />
+                <Precinct name="HEFS" votes="1" />
+                <Precinct name="HHPC" votes="137" />
+                <Precinct name="MCMS" votes="76" />
+                <Precinct name="NHSC" votes="39" />
+                <Precinct name="ROZR" votes="99" />
+                <Precinct name="TMS" votes="62" />
+                <Precinct name="TWPK" votes="41" />
+                <Precinct name="VHS" votes="53" />
+                <Precinct name="WELL" votes="175" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1388">
+                <Precinct name="ANNX" votes="48" />
+                <Precinct name="BMS" votes="121" />
+                <Precinct name="CENT" votes="109" />
+                <Precinct name="CGTC" votes="67" />
+                <Precinct name="FMMS" votes="132" />
+                <Precinct name="HAFS" votes="25" />
+                <Precinct name="HCTC" votes="52" />
+                <Precinct name="HEFS" votes="12" />
+                <Precinct name="HHPC" votes="134" />
+                <Precinct name="MCMS" votes="113" />
+                <Precinct name="NHSC" votes="45" />
+                <Precinct name="ROZR" votes="106" />
+                <Precinct name="TMS" votes="87" />
+                <Precinct name="TWPK" votes="75" />
+                <Precinct name="VHS" votes="67" />
+                <Precinct name="WELL" votes="195" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="1" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="128">
+            <Precinct name="ANNX" votes="2" />
+            <Precinct name="BMS" votes="5" />
+            <Precinct name="CENT" votes="5" />
+            <Precinct name="CGTC" votes="4" />
+            <Precinct name="FMMS" votes="13" />
+            <Precinct name="HAFS" votes="5" />
+            <Precinct name="HCTC" votes="1" />
+            <Precinct name="HEFS" votes="4" />
+            <Precinct name="HHPC" votes="20" />
+            <Precinct name="MCMS" votes="9" />
+            <Precinct name="NHSC" votes="6" />
+            <Precinct name="ROZR" votes="6" />
+            <Precinct name="TMS" votes="10" />
+            <Precinct name="TWPK" votes="4" />
+            <Precinct name="VHS" votes="12" />
+            <Precinct name="WELL" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ANNX" votes="0" />
+            <Precinct name="BMS" votes="0" />
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="0" />
+            <Precinct name="HAFS" votes="0" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="MCMS" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="0" />
+            <Precinct name="TMS" votes="0" />
+            <Precinct name="TWPK" votes="0" />
+            <Precinct name="VHS" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="1180">
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="ANNX" votes="11" />
+                <Precinct name="BMS" votes="8" />
+                <Precinct name="CENT" votes="9" />
+                <Precinct name="CGTC" votes="3" />
+                <Precinct name="FMMS" votes="5" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="8" />
+                <Precinct name="MCMS" votes="5" />
+                <Precinct name="NHSC" votes="2" />
+                <Precinct name="ROZR" votes="27" />
+                <Precinct name="TMS" votes="1" />
+                <Precinct name="TWPK" votes="2" />
+                <Precinct name="VHS" votes="4" />
+                <Precinct name="WELL" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="452">
+                <Precinct name="ANNX" votes="13" />
+                <Precinct name="BMS" votes="32" />
+                <Precinct name="CENT" votes="17" />
+                <Precinct name="CGTC" votes="26" />
+                <Precinct name="FMMS" votes="47" />
+                <Precinct name="HAFS" votes="1" />
+                <Precinct name="HCTC" votes="18" />
+                <Precinct name="HEFS" votes="2" />
+                <Precinct name="HHPC" votes="63" />
+                <Precinct name="MCMS" votes="28" />
+                <Precinct name="NHSC" votes="14" />
+                <Precinct name="ROZR" votes="44" />
+                <Precinct name="TMS" votes="29" />
+                <Precinct name="TWPK" votes="16" />
+                <Precinct name="VHS" votes="25" />
+                <Precinct name="WELL" votes="77" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="633">
+                <Precinct name="ANNX" votes="21" />
+                <Precinct name="BMS" votes="48" />
+                <Precinct name="CENT" votes="62" />
+                <Precinct name="CGTC" votes="28" />
+                <Precinct name="FMMS" votes="72" />
+                <Precinct name="HAFS" votes="8" />
+                <Precinct name="HCTC" votes="23" />
+                <Precinct name="HEFS" votes="6" />
+                <Precinct name="HHPC" votes="48" />
+                <Precinct name="MCMS" votes="56" />
+                <Precinct name="NHSC" votes="23" />
+                <Precinct name="ROZR" votes="45" />
+                <Precinct name="TMS" votes="37" />
+                <Precinct name="TWPK" votes="33" />
+                <Precinct name="VHS" votes="40" />
+                <Precinct name="WELL" votes="83" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="0" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="0" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="2302">
+            <VoteType name="Absentee by Mail Votes" votes="341">
+                <Precinct name="ANNX" votes="20" />
+                <Precinct name="BMS" votes="27" />
+                <Precinct name="CENT" votes="19" />
+                <Precinct name="CGTC" votes="10" />
+                <Precinct name="FMMS" votes="13" />
+                <Precinct name="HAFS" votes="6" />
+                <Precinct name="HCTC" votes="17" />
+                <Precinct name="HEFS" votes="2" />
+                <Precinct name="HHPC" votes="27" />
+                <Precinct name="MCMS" votes="16" />
+                <Precinct name="NHSC" votes="17" />
+                <Precinct name="ROZR" votes="69" />
+                <Precinct name="TMS" votes="20" />
+                <Precinct name="TWPK" votes="13" />
+                <Precinct name="VHS" votes="9" />
+                <Precinct name="WELL" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="866">
+                <Precinct name="ANNX" votes="43" />
+                <Precinct name="BMS" votes="60" />
+                <Precinct name="CENT" votes="70" />
+                <Precinct name="CGTC" votes="36" />
+                <Precinct name="FMMS" votes="60" />
+                <Precinct name="HAFS" votes="7" />
+                <Precinct name="HCTC" votes="39" />
+                <Precinct name="HEFS" votes="2" />
+                <Precinct name="HHPC" votes="96" />
+                <Precinct name="MCMS" votes="62" />
+                <Precinct name="NHSC" votes="32" />
+                <Precinct name="ROZR" votes="84" />
+                <Precinct name="TMS" votes="51" />
+                <Precinct name="TWPK" votes="34" />
+                <Precinct name="VHS" votes="43" />
+                <Precinct name="WELL" votes="147" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1092">
+                <Precinct name="ANNX" votes="42" />
+                <Precinct name="BMS" votes="106" />
+                <Precinct name="CENT" votes="73" />
+                <Precinct name="CGTC" votes="53" />
+                <Precinct name="FMMS" votes="94" />
+                <Precinct name="HAFS" votes="19" />
+                <Precinct name="HCTC" votes="42" />
+                <Precinct name="HEFS" votes="12" />
+                <Precinct name="HHPC" votes="112" />
+                <Precinct name="MCMS" votes="85" />
+                <Precinct name="NHSC" votes="30" />
+                <Precinct name="ROZR" votes="87" />
+                <Precinct name="TMS" votes="68" />
+                <Precinct name="TWPK" votes="61" />
+                <Precinct name="VHS" votes="51" />
+                <Precinct name="WELL" votes="157" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="1" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="0" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="100">
+            <Precinct name="ANNX" votes="1" />
+            <Precinct name="BMS" votes="4" />
+            <Precinct name="CENT" votes="3" />
+            <Precinct name="CGTC" votes="4" />
+            <Precinct name="FMMS" votes="10" />
+            <Precinct name="HAFS" votes="6" />
+            <Precinct name="HCTC" votes="1" />
+            <Precinct name="HEFS" votes="5" />
+            <Precinct name="HHPC" votes="12" />
+            <Precinct name="MCMS" votes="6" />
+            <Precinct name="NHSC" votes="2" />
+            <Precinct name="ROZR" votes="7" />
+            <Precinct name="TMS" votes="11" />
+            <Precinct name="TWPK" votes="4" />
+            <Precinct name="VHS" votes="8" />
+            <Precinct name="WELL" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ANNX" votes="0" />
+            <Precinct name="BMS" votes="0" />
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="0" />
+            <Precinct name="HAFS" votes="0" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="MCMS" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="0" />
+            <Precinct name="TMS" votes="0" />
+            <Precinct name="TWPK" votes="0" />
+            <Precinct name="VHS" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="2227">
+            <VoteType name="Absentee by Mail Votes" votes="292">
+                <Precinct name="ANNX" votes="24" />
+                <Precinct name="BMS" votes="21" />
+                <Precinct name="CENT" votes="20" />
+                <Precinct name="CGTC" votes="7" />
+                <Precinct name="FMMS" votes="12" />
+                <Precinct name="HAFS" votes="2" />
+                <Precinct name="HCTC" votes="9" />
+                <Precinct name="HEFS" votes="1" />
+                <Precinct name="HHPC" votes="27" />
+                <Precinct name="MCMS" votes="15" />
+                <Precinct name="NHSC" votes="14" />
+                <Precinct name="ROZR" votes="58" />
+                <Precinct name="TMS" votes="14" />
+                <Precinct name="TWPK" votes="9" />
+                <Precinct name="VHS" votes="6" />
+                <Precinct name="WELL" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="905">
+                <Precinct name="ANNX" votes="28" />
+                <Precinct name="BMS" votes="64" />
+                <Precinct name="CENT" votes="64" />
+                <Precinct name="CGTC" votes="39" />
+                <Precinct name="FMMS" votes="71" />
+                <Precinct name="HAFS" votes="7" />
+                <Precinct name="HCTC" votes="33" />
+                <Precinct name="HEFS" votes="1" />
+                <Precinct name="HHPC" votes="129" />
+                <Precinct name="MCMS" votes="72" />
+                <Precinct name="NHSC" votes="29" />
+                <Precinct name="ROZR" votes="85" />
+                <Precinct name="TMS" votes="50" />
+                <Precinct name="TWPK" votes="35" />
+                <Precinct name="VHS" votes="44" />
+                <Precinct name="WELL" votes="154" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1027">
+                <Precinct name="ANNX" votes="37" />
+                <Precinct name="BMS" votes="93" />
+                <Precinct name="CENT" votes="80" />
+                <Precinct name="CGTC" votes="44" />
+                <Precinct name="FMMS" votes="107" />
+                <Precinct name="HAFS" votes="13" />
+                <Precinct name="HCTC" votes="38" />
+                <Precinct name="HEFS" votes="10" />
+                <Precinct name="HHPC" votes="88" />
+                <Precinct name="MCMS" votes="78" />
+                <Precinct name="NHSC" votes="33" />
+                <Precinct name="ROZR" votes="79" />
+                <Precinct name="TMS" votes="60" />
+                <Precinct name="TWPK" votes="58" />
+                <Precinct name="VHS" votes="58" />
+                <Precinct name="WELL" votes="151" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="0" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="1283">
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="ANNX" votes="7" />
+                <Precinct name="BMS" votes="14" />
+                <Precinct name="CENT" votes="8" />
+                <Precinct name="CGTC" votes="6" />
+                <Precinct name="FMMS" votes="6" />
+                <Precinct name="HAFS" votes="4" />
+                <Precinct name="HCTC" votes="10" />
+                <Precinct name="HEFS" votes="1" />
+                <Precinct name="HHPC" votes="8" />
+                <Precinct name="MCMS" votes="8" />
+                <Precinct name="NHSC" votes="5" />
+                <Precinct name="ROZR" votes="36" />
+                <Precinct name="TMS" votes="7" />
+                <Precinct name="TWPK" votes="7" />
+                <Precinct name="VHS" votes="7" />
+                <Precinct name="WELL" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="430">
+                <Precinct name="ANNX" votes="29" />
+                <Precinct name="BMS" votes="29" />
+                <Precinct name="CENT" votes="25" />
+                <Precinct name="CGTC" votes="23" />
+                <Precinct name="FMMS" votes="38" />
+                <Precinct name="HAFS" votes="1" />
+                <Precinct name="HCTC" votes="24" />
+                <Precinct name="HEFS" votes="3" />
+                <Precinct name="HHPC" votes="36" />
+                <Precinct name="MCMS" votes="20" />
+                <Precinct name="NHSC" votes="18" />
+                <Precinct name="ROZR" votes="45" />
+                <Precinct name="TMS" votes="29" />
+                <Precinct name="TWPK" votes="15" />
+                <Precinct name="VHS" votes="25" />
+                <Precinct name="WELL" votes="70" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="706">
+                <Precinct name="ANNX" votes="26" />
+                <Precinct name="BMS" votes="61" />
+                <Precinct name="CENT" votes="55" />
+                <Precinct name="CGTC" votes="37" />
+                <Precinct name="FMMS" votes="60" />
+                <Precinct name="HAFS" votes="13" />
+                <Precinct name="HCTC" votes="26" />
+                <Precinct name="HEFS" votes="7" />
+                <Precinct name="HHPC" votes="74" />
+                <Precinct name="MCMS" votes="62" />
+                <Precinct name="NHSC" votes="23" />
+                <Precinct name="ROZR" votes="52" />
+                <Precinct name="TMS" votes="45" />
+                <Precinct name="TWPK" votes="35" />
+                <Precinct name="VHS" votes="36" />
+                <Precinct name="WELL" votes="94" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="1" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="0" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="0" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="CENT" votes="2" />
+            <Precinct name="HHPC" votes="4" />
+            <Precinct name="NHSC" votes="1" />
+            <Precinct name="WELL" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Jeremy Hunt" party="REP" totalVotes="519">
+            <VoteType name="Absentee by Mail Votes" votes="61">
+                <Precinct name="CENT" votes="25" />
+                <Precinct name="HHPC" votes="11" />
+                <Precinct name="NHSC" votes="13" />
+                <Precinct name="WELL" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="142">
+                <Precinct name="CENT" votes="38" />
+                <Precinct name="HHPC" votes="60" />
+                <Precinct name="NHSC" votes="23" />
+                <Precinct name="WELL" votes="21" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="316">
+                <Precinct name="CENT" votes="125" />
+                <Precinct name="HHPC" votes="111" />
+                <Precinct name="NHSC" votes="45" />
+                <Precinct name="WELL" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Chris West" party="REP" totalVotes="652">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="CENT" votes="20" />
+                <Precinct name="HHPC" votes="20" />
+                <Precinct name="NHSC" votes="4" />
+                <Precinct name="WELL" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="241">
+                <Precinct name="CENT" votes="64" />
+                <Precinct name="HHPC" votes="103" />
+                <Precinct name="NHSC" votes="44" />
+                <Precinct name="WELL" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="359">
+                <Precinct name="CENT" votes="175" />
+                <Precinct name="HHPC" votes="97" />
+                <Precinct name="NHSC" votes="63" />
+                <Precinct name="WELL" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="67" text="County BOE Dist 6 - At Large" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="139">
+            <Precinct name="ANNX" votes="4" />
+            <Precinct name="BMS" votes="7" />
+            <Precinct name="CENT" votes="27" />
+            <Precinct name="CGTC" votes="2" />
+            <Precinct name="FMMS" votes="3" />
+            <Precinct name="HAFS" votes="5" />
+            <Precinct name="HCTC" votes="4" />
+            <Precinct name="HEFS" votes="2" />
+            <Precinct name="HHPC" votes="25" />
+            <Precinct name="MCMS" votes="9" />
+            <Precinct name="NHSC" votes="14" />
+            <Precinct name="ROZR" votes="9" />
+            <Precinct name="TMS" votes="2" />
+            <Precinct name="TWPK" votes="4" />
+            <Precinct name="VHS" votes="8" />
+            <Precinct name="WELL" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ANNX" votes="0" />
+            <Precinct name="BMS" votes="0" />
+            <Precinct name="CENT" votes="0" />
+            <Precinct name="CGTC" votes="0" />
+            <Precinct name="FMMS" votes="0" />
+            <Precinct name="HAFS" votes="0" />
+            <Precinct name="HCTC" votes="0" />
+            <Precinct name="HEFS" votes="0" />
+            <Precinct name="HHPC" votes="0" />
+            <Precinct name="MCMS" votes="0" />
+            <Precinct name="NHSC" votes="0" />
+            <Precinct name="ROZR" votes="0" />
+            <Precinct name="TMS" votes="0" />
+            <Precinct name="TWPK" votes="0" />
+            <Precinct name="VHS" votes="0" />
+            <Precinct name="WELL" votes="0" />
+        </VoteType>
+        <Choice key="145" text="Tim Baggerly" totalVotes="2390">
+            <VoteType name="Absentee by Mail Votes" votes="330">
+                <Precinct name="ANNX" votes="28" />
+                <Precinct name="BMS" votes="45" />
+                <Precinct name="CENT" votes="32" />
+                <Precinct name="CGTC" votes="17" />
+                <Precinct name="FMMS" votes="19" />
+                <Precinct name="HAFS" votes="3" />
+                <Precinct name="HCTC" votes="22" />
+                <Precinct name="HEFS" votes="3" />
+                <Precinct name="HHPC" votes="41" />
+                <Precinct name="MCMS" votes="13" />
+                <Precinct name="NHSC" votes="6" />
+                <Precinct name="ROZR" votes="60" />
+                <Precinct name="TMS" votes="11" />
+                <Precinct name="TWPK" votes="8" />
+                <Precinct name="VHS" votes="6" />
+                <Precinct name="WELL" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="673">
+                <Precinct name="ANNX" votes="39" />
+                <Precinct name="BMS" votes="52" />
+                <Precinct name="CENT" votes="68" />
+                <Precinct name="CGTC" votes="31" />
+                <Precinct name="FMMS" votes="43" />
+                <Precinct name="HAFS" votes="8" />
+                <Precinct name="HCTC" votes="29" />
+                <Precinct name="HEFS" votes="3" />
+                <Precinct name="HHPC" votes="128" />
+                <Precinct name="MCMS" votes="47" />
+                <Precinct name="NHSC" votes="37" />
+                <Precinct name="ROZR" votes="67" />
+                <Precinct name="TMS" votes="24" />
+                <Precinct name="TWPK" votes="10" />
+                <Precinct name="VHS" votes="46" />
+                <Precinct name="WELL" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1385">
+                <Precinct name="ANNX" votes="63" />
+                <Precinct name="BMS" votes="136" />
+                <Precinct name="CENT" votes="205" />
+                <Precinct name="CGTC" votes="75" />
+                <Precinct name="FMMS" votes="110" />
+                <Precinct name="HAFS" votes="31" />
+                <Precinct name="HCTC" votes="49" />
+                <Precinct name="HEFS" votes="18" />
+                <Precinct name="HHPC" votes="165" />
+                <Precinct name="MCMS" votes="85" />
+                <Precinct name="NHSC" votes="72" />
+                <Precinct name="ROZR" votes="129" />
+                <Precinct name="TMS" votes="38" />
+                <Precinct name="TWPK" votes="78" />
+                <Precinct name="VHS" votes="77" />
+                <Precinct name="WELL" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="1" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="0" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="149" text="Mark Ivory" totalVotes="4108">
+            <VoteType name="Absentee by Mail Votes" votes="476">
+                <Precinct name="ANNX" votes="31" />
+                <Precinct name="BMS" votes="42" />
+                <Precinct name="CENT" votes="39" />
+                <Precinct name="CGTC" votes="13" />
+                <Precinct name="FMMS" votes="14" />
+                <Precinct name="HAFS" votes="7" />
+                <Precinct name="HCTC" votes="22" />
+                <Precinct name="HEFS" votes="5" />
+                <Precinct name="HHPC" votes="25" />
+                <Precinct name="MCMS" votes="21" />
+                <Precinct name="NHSC" votes="30" />
+                <Precinct name="ROZR" votes="101" />
+                <Precinct name="TMS" votes="27" />
+                <Precinct name="TWPK" votes="17" />
+                <Precinct name="VHS" votes="15" />
+                <Precinct name="WELL" votes="67" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1556">
+                <Precinct name="ANNX" votes="76" />
+                <Precinct name="BMS" votes="110" />
+                <Precinct name="CENT" votes="117" />
+                <Precinct name="CGTC" votes="70" />
+                <Precinct name="FMMS" votes="115" />
+                <Precinct name="HAFS" votes="10" />
+                <Precinct name="HCTC" votes="55" />
+                <Precinct name="HEFS" votes="11" />
+                <Precinct name="HHPC" votes="199" />
+                <Precinct name="MCMS" votes="103" />
+                <Precinct name="NHSC" votes="74" />
+                <Precinct name="ROZR" votes="157" />
+                <Precinct name="TMS" votes="82" />
+                <Precinct name="TWPK" votes="61" />
+                <Precinct name="VHS" votes="78" />
+                <Precinct name="WELL" votes="238" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2073">
+                <Precinct name="ANNX" votes="88" />
+                <Precinct name="BMS" votes="159" />
+                <Precinct name="CENT" votes="226" />
+                <Precinct name="CGTC" votes="90" />
+                <Precinct name="FMMS" votes="186" />
+                <Precinct name="HAFS" votes="42" />
+                <Precinct name="HCTC" votes="69" />
+                <Precinct name="HEFS" votes="27" />
+                <Precinct name="HHPC" votes="206" />
+                <Precinct name="MCMS" votes="167" />
+                <Precinct name="NHSC" votes="87" />
+                <Precinct name="ROZR" votes="164" />
+                <Precinct name="TMS" votes="100" />
+                <Precinct name="TWPK" votes="112" />
+                <Precinct name="VHS" votes="97" />
+                <Precinct name="WELL" votes="253" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="ANNX" votes="0" />
+                <Precinct name="BMS" votes="0" />
+                <Precinct name="CENT" votes="0" />
+                <Precinct name="CGTC" votes="0" />
+                <Precinct name="FMMS" votes="0" />
+                <Precinct name="HAFS" votes="0" />
+                <Precinct name="HCTC" votes="1" />
+                <Precinct name="HEFS" votes="0" />
+                <Precinct name="HHPC" votes="0" />
+                <Precinct name="MCMS" votes="1" />
+                <Precinct name="NHSC" votes="0" />
+                <Precinct name="ROZR" votes="0" />
+                <Precinct name="TMS" votes="0" />
+                <Precinct name="TWPK" votes="0" />
+                <Precinct name="VHS" votes="0" />
+                <Precinct name="WELL" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/27/2022 1:25:28 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Crisp</Region>
+    <VoterTurnout totalVoters="12335" ballotsCast="443" voterTurnout="3.59">
+        <Precincts>
+            <Precinct name="Arabi" totalVoters="779" ballotsCast="5" voterTurnout="0.64" percentReporting="4" />
+            <Precinct name="Coney" totalVoters="824" ballotsCast="4" voterTurnout="0.49" percentReporting="4" />
+            <Precinct name="Cordele" totalVoters="8724" ballotsCast="430" voterTurnout="4.93" percentReporting="4" />
+            <Precinct name="Jamestown" totalVoters="1185" ballotsCast="4" voterTurnout="0.34" percentReporting="4" />
+            <Precinct name="Listonia" totalVoters="823" ballotsCast="0" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Arabi" votes="1" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="59" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="0" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="176">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="19" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="49" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="107">
+                <Precinct name="Arabi" votes="2" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="104" />
+                <Precinct name="Jamestown" votes="1" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="207">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="25" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="79">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="1" />
+                <Precinct name="Cordele" votes="75" />
+                <Precinct name="Jamestown" votes="3" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="103">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="3" />
+                <Precinct name="Cordele" votes="99" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="61" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="0" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="213">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="21" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="77">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="77" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="3" />
+                <Precinct name="Cordele" votes="111" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="169">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Arabi" votes="2" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="22" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="1" />
+                <Precinct name="Cordele" votes="51" />
+                <Precinct name="Jamestown" votes="3" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="Arabi" votes="2" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="87" />
+                <Precinct name="Jamestown" votes="1" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="53">
+            <Precinct name="Arabi" votes="1" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="52" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="0" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="152">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="18" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="55">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="54" />
+                <Precinct name="Jamestown" votes="1" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="77" />
+                <Precinct name="Jamestown" votes="1" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="238">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Arabi" votes="2" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="25" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="79">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="1" />
+                <Precinct name="Cordele" votes="76" />
+                <Precinct name="Jamestown" votes="2" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="3" />
+                <Precinct name="Cordele" votes="128" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="62" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arabi" votes="0" />
+            <Precinct name="Coney" votes="0" />
+            <Precinct name="Cordele" votes="0" />
+            <Precinct name="Jamestown" votes="0" />
+            <Precinct name="Listonia" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="172">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="21" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="56">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="1" />
+                <Precinct name="Cordele" votes="55" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="94">
+                <Precinct name="Arabi" votes="2" />
+                <Precinct name="Coney" votes="2" />
+                <Precinct name="Cordele" votes="90" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="209">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="23" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="67" />
+                <Precinct name="Jamestown" votes="3" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Arabi" votes="1" />
+                <Precinct name="Coney" votes="1" />
+                <Precinct name="Cordele" votes="112" />
+                <Precinct name="Jamestown" votes="1" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabi" votes="0" />
+                <Precinct name="Coney" votes="0" />
+                <Precinct name="Cordele" votes="0" />
+                <Precinct name="Jamestown" votes="0" />
+                <Precinct name="Listonia" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="County BOE Dist 3 - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Cordele" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cordele" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Anna Granville" party="DEM" totalVotes="142">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Cordele" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="50">
+                <Precinct name="Cordele" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Cordele" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cordele" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="86" text="Curtis Lucas, Jr." party="DEM" totalVotes="135">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Cordele" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Cordele" votes="70" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Cordele" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cordele" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

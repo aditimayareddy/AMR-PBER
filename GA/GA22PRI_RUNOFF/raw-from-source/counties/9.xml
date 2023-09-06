@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/24/2022 4:06:06 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Ben Hill</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="238" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="East" totalVoters="0" ballotsCast="238" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="East" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="120">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="East" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="East" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="75">
+                <Precinct name="East" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="114">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="East" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="East" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="East" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="104">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="East" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="East" votes="25" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="East" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="131">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="East" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="37">
+                <Precinct name="East" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="82">
+                <Precinct name="East" votes="82" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="East" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="101">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="East" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="East" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="131">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="East" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="East" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="81">
+                <Precinct name="East" votes="81" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="East" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="East" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="122">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="East" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="East" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="73">
+                <Precinct name="East" votes="73" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="East" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="110">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="East" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="East" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="East" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="East" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

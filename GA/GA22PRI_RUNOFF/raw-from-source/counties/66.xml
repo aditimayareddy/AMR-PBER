@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/30/2022 2:35:49 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Greene</Region>
+    <VoterTurnout totalVoters="14662" ballotsCast="456" voterTurnout="3.11">
+        <Precincts>
+            <Precinct name="Greensboro" totalVoters="4020" ballotsCast="160" voterTurnout="3.98" percentReporting="4" />
+            <Precinct name="Union Point" totalVoters="1821" ballotsCast="77" voterTurnout="4.23" percentReporting="4" />
+            <Precinct name="Siloam" totalVoters="982" ballotsCast="55" voterTurnout="5.60" percentReporting="4" />
+            <Precinct name="White Plains" totalVoters="378" ballotsCast="32" voterTurnout="8.47" percentReporting="4" />
+            <Precinct name="Old Salem" totalVoters="7461" ballotsCast="132" voterTurnout="1.77" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Greensboro" votes="1" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="274">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Greensboro" votes="19" />
+                <Precinct name="Union Point" votes="4" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="90">
+                <Precinct name="Greensboro" votes="35" />
+                <Precinct name="Union Point" votes="9" />
+                <Precinct name="Siloam" votes="5" />
+                <Precinct name="White Plains" votes="3" />
+                <Precinct name="Old Salem" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Greensboro" votes="38" />
+                <Precinct name="Union Point" votes="28" />
+                <Precinct name="Siloam" votes="13" />
+                <Precinct name="White Plains" votes="10" />
+                <Precinct name="Old Salem" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="178">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Greensboro" votes="8" />
+                <Precinct name="Union Point" votes="3" />
+                <Precinct name="Siloam" votes="3" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="69">
+                <Precinct name="Greensboro" votes="29" />
+                <Precinct name="Union Point" votes="10" />
+                <Precinct name="Siloam" votes="9" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Old Salem" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Greensboro" votes="30" />
+                <Precinct name="Union Point" votes="22" />
+                <Precinct name="Siloam" votes="19" />
+                <Precinct name="White Plains" votes="9" />
+                <Precinct name="Old Salem" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Greensboro" votes="2" />
+            <Precinct name="Union Point" votes="1" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="2" />
+            <Precinct name="Old Salem" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="105">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Greensboro" votes="3" />
+                <Precinct name="Union Point" votes="3" />
+                <Precinct name="Siloam" votes="2" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Old Salem" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Greensboro" votes="11" />
+                <Precinct name="Union Point" votes="6" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Greensboro" votes="16" />
+                <Precinct name="Union Point" votes="18" />
+                <Precinct name="Siloam" votes="13" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Old Salem" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="344">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Greensboro" votes="23" />
+                <Precinct name="Union Point" votes="4" />
+                <Precinct name="Siloam" votes="7" />
+                <Precinct name="White Plains" votes="3" />
+                <Precinct name="Old Salem" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="132">
+                <Precinct name="Greensboro" votes="53" />
+                <Precinct name="Union Point" votes="13" />
+                <Precinct name="Siloam" votes="8" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Old Salem" votes="52" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="161">
+                <Precinct name="Greensboro" votes="52" />
+                <Precinct name="Union Point" votes="31" />
+                <Precinct name="Siloam" votes="19" />
+                <Precinct name="White Plains" votes="10" />
+                <Precinct name="Old Salem" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Greensboro" votes="4" />
+            <Precinct name="Union Point" votes="1" />
+            <Precinct name="Siloam" votes="2" />
+            <Precinct name="White Plains" votes="1" />
+            <Precinct name="Old Salem" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="161">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Greensboro" votes="4" />
+                <Precinct name="Union Point" votes="4" />
+                <Precinct name="Siloam" votes="4" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Old Salem" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="52">
+                <Precinct name="Greensboro" votes="22" />
+                <Precinct name="Union Point" votes="7" />
+                <Precinct name="Siloam" votes="8" />
+                <Precinct name="White Plains" votes="3" />
+                <Precinct name="Old Salem" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="92">
+                <Precinct name="Greensboro" votes="29" />
+                <Precinct name="Union Point" votes="23" />
+                <Precinct name="Siloam" votes="15" />
+                <Precinct name="White Plains" votes="7" />
+                <Precinct name="Old Salem" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="282">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Greensboro" votes="23" />
+                <Precinct name="Union Point" votes="3" />
+                <Precinct name="Siloam" votes="4" />
+                <Precinct name="White Plains" votes="3" />
+                <Precinct name="Old Salem" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="106">
+                <Precinct name="Greensboro" votes="42" />
+                <Precinct name="Union Point" votes="12" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Old Salem" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Greensboro" votes="36" />
+                <Precinct name="Union Point" votes="26" />
+                <Precinct name="Siloam" votes="16" />
+                <Precinct name="White Plains" votes="11" />
+                <Precinct name="Old Salem" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Greensboro" votes="6" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="2" />
+            <Precinct name="White Plains" votes="1" />
+            <Precinct name="Old Salem" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="249">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Greensboro" votes="18" />
+                <Precinct name="Union Point" votes="6" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="4" />
+                <Precinct name="Old Salem" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="84">
+                <Precinct name="Greensboro" votes="36" />
+                <Precinct name="Union Point" votes="9" />
+                <Precinct name="Siloam" votes="8" />
+                <Precinct name="White Plains" votes="7" />
+                <Precinct name="Old Salem" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Greensboro" votes="35" />
+                <Precinct name="Union Point" votes="31" />
+                <Precinct name="Siloam" votes="21" />
+                <Precinct name="White Plains" votes="11" />
+                <Precinct name="Old Salem" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="193">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Greensboro" votes="9" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="2" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="73">
+                <Precinct name="Greensboro" votes="27" />
+                <Precinct name="Union Point" votes="10" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="97">
+                <Precinct name="Greensboro" votes="29" />
+                <Precinct name="Union Point" votes="19" />
+                <Precinct name="Siloam" votes="10" />
+                <Precinct name="White Plains" votes="7" />
+                <Precinct name="Old Salem" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 10 - Rep" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Greensboro" votes="1" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Mike Collins" party="REP" totalVotes="1346">
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="Greensboro" votes="11" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="2" />
+                <Precinct name="White Plains" votes="1" />
+                <Precinct name="Old Salem" votes="63" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="507">
+                <Precinct name="Greensboro" votes="89" />
+                <Precinct name="Union Point" votes="24" />
+                <Precinct name="Siloam" votes="13" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Old Salem" votes="373" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="761">
+                <Precinct name="Greensboro" votes="96" />
+                <Precinct name="Union Point" votes="54" />
+                <Precinct name="Siloam" votes="39" />
+                <Precinct name="White Plains" votes="17" />
+                <Precinct name="Old Salem" votes="555" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Vernon Jones" party="REP" totalVotes="590">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Greensboro" votes="3" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="190">
+                <Precinct name="Greensboro" votes="41" />
+                <Precinct name="Union Point" votes="13" />
+                <Precinct name="Siloam" votes="7" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="129" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="378">
+                <Precinct name="Greensboro" votes="45" />
+                <Precinct name="Union Point" votes="26" />
+                <Precinct name="Siloam" votes="20" />
+                <Precinct name="White Plains" votes="9" />
+                <Precinct name="Old Salem" votes="278" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="US House of Representatives - District 10 - Dem" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Greensboro" votes="3" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="1" />
+            <Precinct name="White Plains" votes="1" />
+            <Precinct name="Old Salem" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Jessica Allison Fore" party="DEM" totalVotes="122">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Greensboro" votes="3" />
+                <Precinct name="Union Point" votes="2" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="Greensboro" votes="10" />
+                <Precinct name="Union Point" votes="2" />
+                <Precinct name="Siloam" votes="3" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Greensboro" votes="13" />
+                <Precinct name="Union Point" votes="10" />
+                <Precinct name="Siloam" votes="9" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Tabitha Johnson-Green" party="DEM" totalVotes="323">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Greensboro" votes="24" />
+                <Precinct name="Union Point" votes="5" />
+                <Precinct name="Siloam" votes="8" />
+                <Precinct name="White Plains" votes="2" />
+                <Precinct name="Old Salem" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="116">
+                <Precinct name="Greensboro" votes="53" />
+                <Precinct name="Union Point" votes="17" />
+                <Precinct name="Siloam" votes="11" />
+                <Precinct name="White Plains" votes="8" />
+                <Precinct name="Old Salem" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="161">
+                <Precinct name="Greensboro" votes="54" />
+                <Precinct name="Union Point" votes="40" />
+                <Precinct name="Siloam" votes="23" />
+                <Precinct name="White Plains" votes="17" />
+                <Precinct name="Old Salem" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="1" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

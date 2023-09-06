@@ -1,0 +1,1389 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/23/2022 12:59:56 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Thomas</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="1118" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Barwick" totalVoters="0" ballotsCast="10" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Boston" totalVoters="0" ballotsCast="76" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Central" totalVoters="0" ballotsCast="91" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Coolidge" totalVoters="0" ballotsCast="23" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Douglass" totalVoters="0" ballotsCast="174" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" totalVoters="0" ballotsCast="22" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Fire Station #2" totalVoters="0" ballotsCast="46" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Gatlin Creek" totalVoters="0" ballotsCast="32" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Harper" totalVoters="0" ballotsCast="141" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Jerger" totalVoters="0" ballotsCast="72" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Meigs" totalVoters="0" ballotsCast="29" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Merrillville" totalVoters="0" ballotsCast="22" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Metcalfe" totalVoters="0" ballotsCast="3" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="New Covenant" totalVoters="0" ballotsCast="55" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Ochlocknee" totalVoters="0" ballotsCast="13" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Pavo" totalVoters="0" ballotsCast="1" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Patten" totalVoters="0" ballotsCast="12" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Remington Esc" totalVoters="0" ballotsCast="66" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Resource Center" totalVoters="0" ballotsCast="129" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Scott" totalVoters="0" ballotsCast="101" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="6" text="Lieutenant Governor - Dem" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="1" />
+            <Precinct name="Central" votes="3" />
+            <Precinct name="Coolidge" votes="2" />
+            <Precinct name="Douglass" votes="7" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="2" />
+            <Precinct name="Fire Station #2" votes="3" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="1" />
+            <Precinct name="Jerger" votes="4" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="1" />
+            <Precinct name="Ochlocknee" votes="2" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="6" />
+            <Precinct name="Resource Center" votes="2" />
+            <Precinct name="Scott" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Charlie Bailey" party="DEM" totalVotes="564">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="3" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="6" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="9" />
+                <Precinct name="Jerger" votes="3" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="2" />
+                <Precinct name="New Covenant" votes="1" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="2" />
+                <Precinct name="Resource Center" votes="7" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="203">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="9" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="21" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="5" />
+                <Precinct name="Fire Station #2" votes="9" />
+                <Precinct name="Gatlin Creek" votes="5" />
+                <Precinct name="Harper" votes="31" />
+                <Precinct name="Jerger" votes="17" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="6" />
+                <Precinct name="Metcalfe" votes="1" />
+                <Precinct name="New Covenant" votes="13" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="2" />
+                <Precinct name="Remington Esc" votes="11" />
+                <Precinct name="Resource Center" votes="24" />
+                <Precinct name="Scott" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="318">
+                <Precinct name="Barwick" votes="6" />
+                <Precinct name="Boston" votes="38" />
+                <Precinct name="Central" votes="18" />
+                <Precinct name="Coolidge" votes="9" />
+                <Precinct name="Douglass" votes="47" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="1" />
+                <Precinct name="Fire Station #2" votes="13" />
+                <Precinct name="Gatlin Creek" votes="11" />
+                <Precinct name="Harper" votes="39" />
+                <Precinct name="Jerger" votes="16" />
+                <Precinct name="Meigs" votes="15" />
+                <Precinct name="Merrillville" votes="8" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="7" />
+                <Precinct name="Ochlocknee" votes="4" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="4" />
+                <Precinct name="Remington Esc" votes="14" />
+                <Precinct name="Resource Center" votes="36" />
+                <Precinct name="Scott" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="Kwanza Hall" party="DEM" totalVotes="514">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="3" />
+                <Precinct name="Douglass" votes="4" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="6" />
+                <Precinct name="Jerger" votes="3" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="1" />
+                <Precinct name="Resource Center" votes="9" />
+                <Precinct name="Scott" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="177">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="5" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="26" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="5" />
+                <Precinct name="Fire Station #2" votes="5" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="22" />
+                <Precinct name="Jerger" votes="19" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="11" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="15" />
+                <Precinct name="Resource Center" votes="19" />
+                <Precinct name="Scott" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="299">
+                <Precinct name="Barwick" votes="3" />
+                <Precinct name="Boston" votes="20" />
+                <Precinct name="Central" votes="24" />
+                <Precinct name="Coolidge" votes="5" />
+                <Precinct name="Douglass" votes="63" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="9" />
+                <Precinct name="Fire Station #2" votes="14" />
+                <Precinct name="Gatlin Creek" votes="13" />
+                <Precinct name="Harper" votes="33" />
+                <Precinct name="Jerger" votes="10" />
+                <Precinct name="Meigs" votes="11" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="20" />
+                <Precinct name="Ochlocknee" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="2" />
+                <Precinct name="Remington Esc" votes="17" />
+                <Precinct name="Resource Center" votes="32" />
+                <Precinct name="Scott" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Secretary of State - Dem" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="1" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="Coolidge" votes="2" />
+            <Precinct name="Douglass" votes="5" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="1" />
+            <Precinct name="Fire Station #2" votes="3" />
+            <Precinct name="Gatlin Creek" votes="1" />
+            <Precinct name="Harper" votes="2" />
+            <Precinct name="Jerger" votes="5" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="2" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="1" />
+            <Precinct name="Ochlocknee" votes="2" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="8" />
+            <Precinct name="Resource Center" votes="3" />
+            <Precinct name="Scott" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Dee Dawkins-Haigler" party="DEM" totalVotes="386">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="2" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="5" />
+                <Precinct name="Jerger" votes="2" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="2" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="1" />
+                <Precinct name="Resource Center" votes="6" />
+                <Precinct name="Scott" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="93">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="5" />
+                <Precinct name="Central" votes="10" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="12" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="4" />
+                <Precinct name="Fire Station #2" votes="4" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="15" />
+                <Precinct name="Jerger" votes="12" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="1" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="6" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="4" />
+                <Precinct name="Resource Center" votes="7" />
+                <Precinct name="Scott" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="266">
+                <Precinct name="Barwick" votes="7" />
+                <Precinct name="Boston" votes="25" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="Coolidge" votes="3" />
+                <Precinct name="Douglass" votes="52" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="6" />
+                <Precinct name="Fire Station #2" votes="7" />
+                <Precinct name="Gatlin Creek" votes="8" />
+                <Precinct name="Harper" votes="36" />
+                <Precinct name="Jerger" votes="8" />
+                <Precinct name="Meigs" votes="17" />
+                <Precinct name="Merrillville" votes="5" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="11" />
+                <Precinct name="Ochlocknee" votes="5" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="9" />
+                <Precinct name="Resource Center" votes="25" />
+                <Precinct name="Scott" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Bee Nguyen" party="DEM" totalVotes="686">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="3" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="4" />
+                <Precinct name="Douglass" votes="8" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="9" />
+                <Precinct name="Jerger" votes="3" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="4" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="1" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="2" />
+                <Precinct name="Resource Center" votes="10" />
+                <Precinct name="Scott" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="286">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="9" />
+                <Precinct name="Central" votes="31" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="36" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="6" />
+                <Precinct name="Fire Station #2" votes="10" />
+                <Precinct name="Gatlin Creek" votes="3" />
+                <Precinct name="Harper" votes="38" />
+                <Precinct name="Jerger" votes="24" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="7" />
+                <Precinct name="Metcalfe" votes="1" />
+                <Precinct name="New Covenant" votes="18" />
+                <Precinct name="Ochlocknee" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="5" />
+                <Precinct name="Remington Esc" votes="21" />
+                <Precinct name="Resource Center" votes="36" />
+                <Precinct name="Scott" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="348">
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Boston" votes="33" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="Coolidge" votes="11" />
+                <Precinct name="Douglass" votes="59" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="5" />
+                <Precinct name="Fire Station #2" votes="20" />
+                <Precinct name="Gatlin Creek" votes="16" />
+                <Precinct name="Harper" votes="36" />
+                <Precinct name="Jerger" votes="18" />
+                <Precinct name="Meigs" votes="9" />
+                <Precinct name="Merrillville" votes="3" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="16" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="5" />
+                <Precinct name="Remington Esc" votes="21" />
+                <Precinct name="Resource Center" votes="42" />
+                <Precinct name="Scott" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Commissioner of Insurance - Dem" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="58">
+            <Precinct name="Barwick" votes="2" />
+            <Precinct name="Boston" votes="2" />
+            <Precinct name="Central" votes="4" />
+            <Precinct name="Coolidge" votes="4" />
+            <Precinct name="Douglass" votes="9" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="7" />
+            <Precinct name="Gatlin Creek" votes="1" />
+            <Precinct name="Harper" votes="3" />
+            <Precinct name="Jerger" votes="7" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="1" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="2" />
+            <Precinct name="Ochlocknee" votes="2" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="6" />
+            <Precinct name="Resource Center" votes="2" />
+            <Precinct name="Scott" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Raphael Baker" party="DEM" totalVotes="451">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="3" />
+                <Precinct name="Douglass" votes="1" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="6" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="1" />
+                <Precinct name="Metcalfe" votes="2" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="8" />
+                <Precinct name="Scott" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="120">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="3" />
+                <Precinct name="Central" votes="8" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="16" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="3" />
+                <Precinct name="Fire Station #2" votes="3" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="21" />
+                <Precinct name="Jerger" votes="13" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="3" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="10" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="9" />
+                <Precinct name="Resource Center" votes="10" />
+                <Precinct name="Scott" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="302">
+                <Precinct name="Barwick" votes="5" />
+                <Precinct name="Boston" votes="31" />
+                <Precinct name="Central" votes="19" />
+                <Precinct name="Coolidge" votes="8" />
+                <Precinct name="Douglass" votes="56" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="8" />
+                <Precinct name="Fire Station #2" votes="8" />
+                <Precinct name="Gatlin Creek" votes="6" />
+                <Precinct name="Harper" votes="38" />
+                <Precinct name="Jerger" votes="11" />
+                <Precinct name="Meigs" votes="10" />
+                <Precinct name="Merrillville" votes="6" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="13" />
+                <Precinct name="Ochlocknee" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="4" />
+                <Precinct name="Remington Esc" votes="14" />
+                <Precinct name="Resource Center" votes="37" />
+                <Precinct name="Scott" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Janice Laws Robinson" party="DEM" totalVotes="609">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="3" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="9" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="8" />
+                <Precinct name="Jerger" votes="5" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="3" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="1" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="3" />
+                <Precinct name="Resource Center" votes="8" />
+                <Precinct name="Scott" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="256">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="10" />
+                <Precinct name="Central" votes="33" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="31" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="7" />
+                <Precinct name="Fire Station #2" votes="10" />
+                <Precinct name="Gatlin Creek" votes="4" />
+                <Precinct name="Harper" votes="32" />
+                <Precinct name="Jerger" votes="23" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="5" />
+                <Precinct name="Metcalfe" votes="1" />
+                <Precinct name="New Covenant" votes="14" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="4" />
+                <Precinct name="Remington Esc" votes="17" />
+                <Precinct name="Resource Center" votes="33" />
+                <Precinct name="Scott" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="303">
+                <Precinct name="Barwick" votes="3" />
+                <Precinct name="Boston" votes="27" />
+                <Precinct name="Central" votes="22" />
+                <Precinct name="Coolidge" votes="4" />
+                <Precinct name="Douglass" votes="52" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="4" />
+                <Precinct name="Fire Station #2" votes="16" />
+                <Precinct name="Gatlin Creek" votes="18" />
+                <Precinct name="Harper" votes="33" />
+                <Precinct name="Jerger" votes="13" />
+                <Precinct name="Meigs" votes="16" />
+                <Precinct name="Merrillville" votes="3" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="13" />
+                <Precinct name="Ochlocknee" votes="4" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="2" />
+                <Precinct name="Remington Esc" votes="17" />
+                <Precinct name="Resource Center" votes="31" />
+                <Precinct name="Scott" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Commissioner of Labor - Dem" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="58">
+            <Precinct name="Barwick" votes="1" />
+            <Precinct name="Boston" votes="1" />
+            <Precinct name="Central" votes="5" />
+            <Precinct name="Coolidge" votes="2" />
+            <Precinct name="Douglass" votes="5" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="1" />
+            <Precinct name="Fire Station #2" votes="6" />
+            <Precinct name="Gatlin Creek" votes="1" />
+            <Precinct name="Harper" votes="7" />
+            <Precinct name="Jerger" votes="6" />
+            <Precinct name="Meigs" votes="1" />
+            <Precinct name="Merrillville" votes="1" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="2" />
+            <Precinct name="Ochlocknee" votes="2" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="6" />
+            <Precinct name="Resource Center" votes="5" />
+            <Precinct name="Scott" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="60" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="695">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="3" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="3" />
+                <Precinct name="Douglass" votes="9" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="10" />
+                <Precinct name="Jerger" votes="3" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="3" />
+                <Precinct name="Metcalfe" votes="2" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="2" />
+                <Precinct name="Resource Center" votes="7" />
+                <Precinct name="Scott" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="271">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="12" />
+                <Precinct name="Central" votes="27" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="39" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="6" />
+                <Precinct name="Fire Station #2" votes="8" />
+                <Precinct name="Gatlin Creek" votes="4" />
+                <Precinct name="Harper" votes="36" />
+                <Precinct name="Jerger" votes="27" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="6" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="17" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="2" />
+                <Precinct name="Remington Esc" votes="19" />
+                <Precinct name="Resource Center" votes="37" />
+                <Precinct name="Scott" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="369">
+                <Precinct name="Barwick" votes="6" />
+                <Precinct name="Boston" votes="41" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="Coolidge" votes="12" />
+                <Precinct name="Douglass" votes="65" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="6" />
+                <Precinct name="Fire Station #2" votes="11" />
+                <Precinct name="Gatlin Creek" votes="13" />
+                <Precinct name="Harper" votes="49" />
+                <Precinct name="Jerger" votes="15" />
+                <Precinct name="Meigs" votes="10" />
+                <Precinct name="Merrillville" votes="6" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="16" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="16" />
+                <Precinct name="Resource Center" votes="47" />
+                <Precinct name="Scott" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="Nicole Horn" party="DEM" totalVotes="365">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="2" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="4" />
+                <Precinct name="Jerger" votes="2" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="1" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="1" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="1" />
+                <Precinct name="Resource Center" votes="9" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="105">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="2" />
+                <Precinct name="Central" votes="14" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="9" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="4" />
+                <Precinct name="Fire Station #2" votes="6" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="15" />
+                <Precinct name="Jerger" votes="9" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="1" />
+                <Precinct name="Metcalfe" votes="1" />
+                <Precinct name="New Covenant" votes="7" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="7" />
+                <Precinct name="Resource Center" votes="4" />
+                <Precinct name="Scott" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="235">
+                <Precinct name="Barwick" votes="2" />
+                <Precinct name="Boston" votes="17" />
+                <Precinct name="Central" votes="20" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="45" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="5" />
+                <Precinct name="Fire Station #2" votes="13" />
+                <Precinct name="Gatlin Creek" votes="10" />
+                <Precinct name="Harper" votes="20" />
+                <Precinct name="Jerger" votes="10" />
+                <Precinct name="Meigs" votes="15" />
+                <Precinct name="Merrillville" votes="4" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="10" />
+                <Precinct name="Ochlocknee" votes="5" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="15" />
+                <Precinct name="Resource Center" votes="20" />
+                <Precinct name="Scott" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2 - Rep" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="3" />
+            <Precinct name="Central" votes="2" />
+            <Precinct name="Coolidge" votes="2" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="1" />
+            <Precinct name="Fire Station #2" votes="1" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="1" />
+            <Precinct name="Jerger" votes="2" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="1" />
+            <Precinct name="Ochlocknee" votes="3" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="2" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Jeremy Hunt" party="REP" totalVotes="1281">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="2" />
+                <Precinct name="Central" votes="5" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="2" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="2" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="5" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="4" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="425">
+                <Precinct name="Barwick" votes="9" />
+                <Precinct name="Boston" votes="17" />
+                <Precinct name="Central" votes="50" />
+                <Precinct name="Coolidge" votes="9" />
+                <Precinct name="Douglass" votes="12" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="11" />
+                <Precinct name="Fire Station #2" votes="27" />
+                <Precinct name="Gatlin Creek" votes="36" />
+                <Precinct name="Harper" votes="18" />
+                <Precinct name="Jerger" votes="80" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="7" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="28" />
+                <Precinct name="Ochlocknee" votes="13" />
+                <Precinct name="Pavo" votes="7" />
+                <Precinct name="Patten" votes="2" />
+                <Precinct name="Remington Esc" votes="25" />
+                <Precinct name="Resource Center" votes="2" />
+                <Precinct name="Scott" votes="70" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="819">
+                <Precinct name="Barwick" votes="19" />
+                <Precinct name="Boston" votes="38" />
+                <Precinct name="Central" votes="94" />
+                <Precinct name="Coolidge" votes="49" />
+                <Precinct name="Douglass" votes="4" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="47" />
+                <Precinct name="Fire Station #2" votes="60" />
+                <Precinct name="Gatlin Creek" votes="60" />
+                <Precinct name="Harper" votes="33" />
+                <Precinct name="Jerger" votes="74" />
+                <Precinct name="Meigs" votes="20" />
+                <Precinct name="Merrillville" votes="17" />
+                <Precinct name="Metcalfe" votes="13" />
+                <Precinct name="New Covenant" votes="58" />
+                <Precinct name="Ochlocknee" votes="46" />
+                <Precinct name="Pavo" votes="10" />
+                <Precinct name="Patten" votes="43" />
+                <Precinct name="Remington Esc" votes="57" />
+                <Precinct name="Resource Center" votes="6" />
+                <Precinct name="Scott" votes="71" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="2" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="133" text="Chris West" party="REP" totalVotes="2583">
+            <VoteType name="Absentee by Mail Votes" votes="76">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="1" />
+                <Precinct name="Central" votes="11" />
+                <Precinct name="Coolidge" votes="1" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="3" />
+                <Precinct name="Fire Station #2" votes="6" />
+                <Precinct name="Gatlin Creek" votes="11" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="5" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="2" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="11" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="13" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="950">
+                <Precinct name="Barwick" votes="23" />
+                <Precinct name="Boston" votes="22" />
+                <Precinct name="Central" votes="169" />
+                <Precinct name="Coolidge" votes="13" />
+                <Precinct name="Douglass" votes="17" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="32" />
+                <Precinct name="Fire Station #2" votes="77" />
+                <Precinct name="Gatlin Creek" votes="94" />
+                <Precinct name="Harper" votes="24" />
+                <Precinct name="Jerger" votes="98" />
+                <Precinct name="Meigs" votes="13" />
+                <Precinct name="Merrillville" votes="11" />
+                <Precinct name="Metcalfe" votes="5" />
+                <Precinct name="New Covenant" votes="70" />
+                <Precinct name="Ochlocknee" votes="22" />
+                <Precinct name="Pavo" votes="23" />
+                <Precinct name="Patten" votes="19" />
+                <Precinct name="Remington Esc" votes="82" />
+                <Precinct name="Resource Center" votes="5" />
+                <Precinct name="Scott" votes="131" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1554">
+                <Precinct name="Barwick" votes="48" />
+                <Precinct name="Boston" votes="92" />
+                <Precinct name="Central" votes="152" />
+                <Precinct name="Coolidge" votes="65" />
+                <Precinct name="Douglass" votes="32" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="103" />
+                <Precinct name="Fire Station #2" votes="107" />
+                <Precinct name="Gatlin Creek" votes="138" />
+                <Precinct name="Harper" votes="33" />
+                <Precinct name="Jerger" votes="100" />
+                <Precinct name="Meigs" votes="51" />
+                <Precinct name="Merrillville" votes="42" />
+                <Precinct name="Metcalfe" votes="41" />
+                <Precinct name="New Covenant" votes="145" />
+                <Precinct name="Ochlocknee" votes="108" />
+                <Precinct name="Pavo" votes="14" />
+                <Precinct name="Patten" votes="59" />
+                <Precinct name="Remington Esc" votes="86" />
+                <Precinct name="Resource Center" votes="2" />
+                <Precinct name="Scott" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="0" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="1" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Judge - Superior Court - Southern Judicial Circuit (Hardy)" voteFor="1" isQuestion="false" precinctsReporting="20" precinctsReported="20">
+        <VoteType name="Undervotes" votes="70">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="3" />
+            <Precinct name="Central" votes="10" />
+            <Precinct name="Coolidge" votes="4" />
+            <Precinct name="Douglass" votes="6" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="2" />
+            <Precinct name="Fire Station #2" votes="5" />
+            <Precinct name="Gatlin Creek" votes="5" />
+            <Precinct name="Harper" votes="6" />
+            <Precinct name="Jerger" votes="4" />
+            <Precinct name="Meigs" votes="1" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="1" />
+            <Precinct name="New Covenant" votes="5" />
+            <Precinct name="Ochlocknee" votes="5" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="3" />
+            <Precinct name="Remington Esc" votes="2" />
+            <Precinct name="Resource Center" votes="2" />
+            <Precinct name="Scott" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Barwick" votes="0" />
+            <Precinct name="Boston" votes="0" />
+            <Precinct name="Central" votes="0" />
+            <Precinct name="Coolidge" votes="0" />
+            <Precinct name="Douglass" votes="0" />
+            <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+            <Precinct name="Fire Station #2" votes="0" />
+            <Precinct name="Gatlin Creek" votes="0" />
+            <Precinct name="Harper" votes="0" />
+            <Precinct name="Jerger" votes="0" />
+            <Precinct name="Meigs" votes="0" />
+            <Precinct name="Merrillville" votes="0" />
+            <Precinct name="Metcalfe" votes="0" />
+            <Precinct name="New Covenant" votes="0" />
+            <Precinct name="Ochlocknee" votes="0" />
+            <Precinct name="Pavo" votes="0" />
+            <Precinct name="Patten" votes="0" />
+            <Precinct name="Remington Esc" votes="0" />
+            <Precinct name="Resource Center" votes="0" />
+            <Precinct name="Scott" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Catherine Mims Smith" totalVotes="4222">
+            <VoteType name="Absentee by Mail Votes" votes="165">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="5" />
+                <Precinct name="Central" votes="16" />
+                <Precinct name="Coolidge" votes="4" />
+                <Precinct name="Douglass" votes="8" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="4" />
+                <Precinct name="Fire Station #2" votes="8" />
+                <Precinct name="Gatlin Creek" votes="15" />
+                <Precinct name="Harper" votes="15" />
+                <Precinct name="Jerger" votes="13" />
+                <Precinct name="Meigs" votes="2" />
+                <Precinct name="Merrillville" votes="7" />
+                <Precinct name="Metcalfe" votes="2" />
+                <Precinct name="New Covenant" votes="11" />
+                <Precinct name="Ochlocknee" votes="3" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="21" />
+                <Precinct name="Resource Center" votes="12" />
+                <Precinct name="Scott" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1576">
+                <Precinct name="Barwick" votes="33" />
+                <Precinct name="Boston" votes="44" />
+                <Precinct name="Central" votes="235" />
+                <Precinct name="Coolidge" votes="15" />
+                <Precinct name="Douglass" votes="71" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="47" />
+                <Precinct name="Fire Station #2" votes="110" />
+                <Precinct name="Gatlin Creek" votes="119" />
+                <Precinct name="Harper" votes="88" />
+                <Precinct name="Jerger" votes="202" />
+                <Precinct name="Meigs" votes="14" />
+                <Precinct name="Merrillville" votes="21" />
+                <Precinct name="Metcalfe" votes="3" />
+                <Precinct name="New Covenant" votes="106" />
+                <Precinct name="Ochlocknee" votes="36" />
+                <Precinct name="Pavo" votes="24" />
+                <Precinct name="Patten" votes="23" />
+                <Precinct name="Remington Esc" votes="124" />
+                <Precinct name="Resource Center" votes="48" />
+                <Precinct name="Scott" votes="213" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2469">
+                <Precinct name="Barwick" votes="62" />
+                <Precinct name="Boston" votes="159" />
+                <Precinct name="Central" votes="233" />
+                <Precinct name="Coolidge" votes="97" />
+                <Precinct name="Douglass" votes="124" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="128" />
+                <Precinct name="Fire Station #2" votes="172" />
+                <Precinct name="Gatlin Creek" votes="177" />
+                <Precinct name="Harper" votes="113" />
+                <Precinct name="Jerger" votes="169" />
+                <Precinct name="Meigs" votes="80" />
+                <Precinct name="Merrillville" votes="52" />
+                <Precinct name="Metcalfe" votes="47" />
+                <Precinct name="New Covenant" votes="186" />
+                <Precinct name="Ochlocknee" votes="124" />
+                <Precinct name="Pavo" votes="22" />
+                <Precinct name="Patten" votes="82" />
+                <Precinct name="Remington Esc" votes="158" />
+                <Precinct name="Resource Center" votes="70" />
+                <Precinct name="Scott" votes="214" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Barwick" votes="1" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="2" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="1" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="1" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="3" />
+                <Precinct name="Ochlocknee" votes="1" />
+                <Precinct name="Pavo" votes="1" />
+                <Precinct name="Patten" votes="1" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="121" text="William Long Whitesell" totalVotes="780">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="3" />
+                <Precinct name="Coolidge" votes="2" />
+                <Precinct name="Douglass" votes="2" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="2" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="3" />
+                <Precinct name="Meigs" votes="0" />
+                <Precinct name="Merrillville" votes="1" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="3" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="1" />
+                <Precinct name="Resource Center" votes="4" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="196">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="10" />
+                <Precinct name="Central" votes="27" />
+                <Precinct name="Coolidge" votes="10" />
+                <Precinct name="Douglass" votes="6" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="8" />
+                <Precinct name="Fire Station #2" votes="10" />
+                <Precinct name="Gatlin Creek" votes="15" />
+                <Precinct name="Harper" votes="8" />
+                <Precinct name="Jerger" votes="15" />
+                <Precinct name="Meigs" votes="3" />
+                <Precinct name="Merrillville" votes="5" />
+                <Precinct name="Metcalfe" votes="3" />
+                <Precinct name="New Covenant" votes="15" />
+                <Precinct name="Ochlocknee" votes="2" />
+                <Precinct name="Pavo" votes="6" />
+                <Precinct name="Patten" votes="3" />
+                <Precinct name="Remington Esc" votes="13" />
+                <Precinct name="Resource Center" votes="2" />
+                <Precinct name="Scott" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="561">
+                <Precinct name="Barwick" votes="15" />
+                <Precinct name="Boston" votes="32" />
+                <Precinct name="Central" votes="57" />
+                <Precinct name="Coolidge" votes="32" />
+                <Precinct name="Douglass" votes="24" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="38" />
+                <Precinct name="Fire Station #2" votes="22" />
+                <Precinct name="Gatlin Creek" votes="49" />
+                <Precinct name="Harper" votes="18" />
+                <Precinct name="Jerger" votes="38" />
+                <Precinct name="Meigs" votes="21" />
+                <Precinct name="Merrillville" votes="21" />
+                <Precinct name="Metcalfe" votes="7" />
+                <Precinct name="New Covenant" votes="44" />
+                <Precinct name="Ochlocknee" votes="37" />
+                <Precinct name="Pavo" votes="3" />
+                <Precinct name="Patten" votes="24" />
+                <Precinct name="Remington Esc" votes="29" />
+                <Precinct name="Resource Center" votes="6" />
+                <Precinct name="Scott" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Barwick" votes="0" />
+                <Precinct name="Boston" votes="0" />
+                <Precinct name="Central" votes="1" />
+                <Precinct name="Coolidge" votes="0" />
+                <Precinct name="Douglass" votes="0" />
+                <Precinct name="LIttle Ochlocknee Baptist Church" votes="0" />
+                <Precinct name="Fire Station #2" votes="0" />
+                <Precinct name="Gatlin Creek" votes="0" />
+                <Precinct name="Harper" votes="0" />
+                <Precinct name="Jerger" votes="0" />
+                <Precinct name="Meigs" votes="1" />
+                <Precinct name="Merrillville" votes="0" />
+                <Precinct name="Metcalfe" votes="0" />
+                <Precinct name="New Covenant" votes="0" />
+                <Precinct name="Ochlocknee" votes="0" />
+                <Precinct name="Pavo" votes="0" />
+                <Precinct name="Patten" votes="0" />
+                <Precinct name="Remington Esc" votes="0" />
+                <Precinct name="Resource Center" votes="0" />
+                <Precinct name="Scott" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

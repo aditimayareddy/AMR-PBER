@@ -1,0 +1,704 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/30/2022 9:38:32 AM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Sumter</Region>
+    <VoterTurnout totalVoters="0" ballotsCast="709" voterTurnout="0.00">
+        <Precincts>
+            <Precinct name="Agri-Center" totalVoters="0" ballotsCast="74" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Airport" totalVoters="0" ballotsCast="70" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Andersonville" totalVoters="0" ballotsCast="5" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Browns Mill" totalVoters="0" ballotsCast="35" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Concord" totalVoters="0" ballotsCast="4" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="GSW Conf Center" totalVoters="0" ballotsCast="89" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Leslie" totalVoters="0" ballotsCast="68" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Plains" totalVoters="0" ballotsCast="47" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Rec Dept" totalVoters="0" ballotsCast="168" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Reese Park" totalVoters="0" ballotsCast="129" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Thompson" totalVoters="0" ballotsCast="20" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Agri-Center" votes="1" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="1" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="3" />
+            <Precinct name="Plains" votes="1" />
+            <Precinct name="Rec Dept" votes="2" />
+            <Precinct name="Reese Park" votes="1" />
+            <Precinct name="Thompson" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="0" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Charlie Bailey" party="DEM" totalVotes="385">
+            <VoteType name="Absentee by Mail Votes" votes="73">
+                <Precinct name="Agri-Center" votes="14" />
+                <Precinct name="Airport" votes="4" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="1" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="8" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="8" />
+                <Precinct name="Rec Dept" votes="19" />
+                <Precinct name="Reese Park" votes="16" />
+                <Precinct name="Thompson" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="123">
+                <Precinct name="Agri-Center" votes="12" />
+                <Precinct name="Airport" votes="11" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="24" />
+                <Precinct name="Leslie" votes="7" />
+                <Precinct name="Plains" votes="3" />
+                <Precinct name="Rec Dept" votes="36" />
+                <Precinct name="Reese Park" votes="23" />
+                <Precinct name="Thompson" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Agri-Center" votes="21" />
+                <Precinct name="Airport" votes="28" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="12" />
+                <Precinct name="Concord" votes="4" />
+                <Precinct name="GSW Conf Center" votes="26" />
+                <Precinct name="Leslie" votes="16" />
+                <Precinct name="Plains" votes="13" />
+                <Precinct name="Rec Dept" votes="37" />
+                <Precinct name="Reese Park" votes="27" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="Kwanza Hall" party="DEM" totalVotes="314">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Agri-Center" votes="5" />
+                <Precinct name="Airport" votes="3" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="5" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="5" />
+                <Precinct name="Leslie" votes="18" />
+                <Precinct name="Plains" votes="6" />
+                <Precinct name="Rec Dept" votes="22" />
+                <Precinct name="Reese Park" votes="17" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="81">
+                <Precinct name="Agri-Center" votes="2" />
+                <Precinct name="Airport" votes="12" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="3" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="14" />
+                <Precinct name="Leslie" votes="6" />
+                <Precinct name="Plains" votes="1" />
+                <Precinct name="Rec Dept" votes="21" />
+                <Precinct name="Reese Park" votes="19" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="150">
+                <Precinct name="Agri-Center" votes="19" />
+                <Precinct name="Airport" votes="12" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="11" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="12" />
+                <Precinct name="Leslie" votes="18" />
+                <Precinct name="Plains" votes="15" />
+                <Precinct name="Rec Dept" votes="30" />
+                <Precinct name="Reese Park" votes="26" />
+                <Precinct name="Thompson" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="2" />
+            <Precinct name="Leslie" votes="1" />
+            <Precinct name="Plains" votes="1" />
+            <Precinct name="Rec Dept" votes="2" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="0" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Dee Dawkins-Haigler" party="DEM" totalVotes="297">
+            <VoteType name="Absentee by Mail Votes" votes="75">
+                <Precinct name="Agri-Center" votes="5" />
+                <Precinct name="Airport" votes="5" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="7" />
+                <Precinct name="Leslie" votes="17" />
+                <Precinct name="Plains" votes="2" />
+                <Precinct name="Rec Dept" votes="25" />
+                <Precinct name="Reese Park" votes="10" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Agri-Center" votes="4" />
+                <Precinct name="Airport" votes="4" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="11" />
+                <Precinct name="Leslie" votes="7" />
+                <Precinct name="Plains" votes="3" />
+                <Precinct name="Rec Dept" votes="16" />
+                <Precinct name="Reese Park" votes="23" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="147">
+                <Precinct name="Agri-Center" votes="18" />
+                <Precinct name="Airport" votes="17" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="12" />
+                <Precinct name="Concord" votes="3" />
+                <Precinct name="GSW Conf Center" votes="4" />
+                <Precinct name="Leslie" votes="15" />
+                <Precinct name="Plains" votes="12" />
+                <Precinct name="Rec Dept" votes="37" />
+                <Precinct name="Reese Park" votes="24" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="82" text="Bee Nguyen" party="DEM" totalVotes="406">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Agri-Center" votes="14" />
+                <Precinct name="Airport" votes="2" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="4" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="6" />
+                <Precinct name="Leslie" votes="1" />
+                <Precinct name="Plains" votes="12" />
+                <Precinct name="Rec Dept" votes="16" />
+                <Precinct name="Reese Park" votes="24" />
+                <Precinct name="Thompson" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="132">
+                <Precinct name="Agri-Center" votes="11" />
+                <Precinct name="Airport" votes="19" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="5" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="27" />
+                <Precinct name="Leslie" votes="6" />
+                <Precinct name="Plains" votes="1" />
+                <Precinct name="Rec Dept" votes="41" />
+                <Precinct name="Reese Park" votes="19" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="192">
+                <Precinct name="Agri-Center" votes="22" />
+                <Precinct name="Airport" votes="23" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="12" />
+                <Precinct name="Concord" votes="1" />
+                <Precinct name="GSW Conf Center" votes="32" />
+                <Precinct name="Leslie" votes="21" />
+                <Precinct name="Plains" votes="16" />
+                <Precinct name="Rec Dept" votes="30" />
+                <Precinct name="Reese Park" votes="29" />
+                <Precinct name="Thompson" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="Agri-Center" votes="1" />
+            <Precinct name="Airport" votes="1" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="1" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="1" />
+            <Precinct name="Leslie" votes="1" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="3" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="0" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Raphael Baker" party="DEM" totalVotes="308">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="Agri-Center" votes="3" />
+                <Precinct name="Airport" votes="5" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="6" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="4" />
+                <Precinct name="Leslie" votes="17" />
+                <Precinct name="Plains" votes="6" />
+                <Precinct name="Rec Dept" votes="20" />
+                <Precinct name="Reese Park" votes="12" />
+                <Precinct name="Thompson" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="84">
+                <Precinct name="Agri-Center" votes="5" />
+                <Precinct name="Airport" votes="8" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="14" />
+                <Precinct name="Leslie" votes="7" />
+                <Precinct name="Plains" votes="4" />
+                <Precinct name="Rec Dept" votes="23" />
+                <Precinct name="Reese Park" votes="17" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="149">
+                <Precinct name="Agri-Center" votes="17" />
+                <Precinct name="Airport" votes="16" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="8" />
+                <Precinct name="Concord" votes="2" />
+                <Precinct name="GSW Conf Center" votes="13" />
+                <Precinct name="Leslie" votes="12" />
+                <Precinct name="Plains" votes="14" />
+                <Precinct name="Rec Dept" votes="35" />
+                <Precinct name="Reese Park" votes="23" />
+                <Precinct name="Thompson" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Janice Laws Robinson" party="DEM" totalVotes="393">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Agri-Center" votes="15" />
+                <Precinct name="Airport" votes="2" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="9" />
+                <Precinct name="Leslie" votes="1" />
+                <Precinct name="Plains" votes="8" />
+                <Precinct name="Rec Dept" votes="21" />
+                <Precinct name="Reese Park" votes="22" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="122">
+                <Precinct name="Agri-Center" votes="10" />
+                <Precinct name="Airport" votes="15" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="3" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="24" />
+                <Precinct name="Leslie" votes="6" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="34" />
+                <Precinct name="Reese Park" votes="25" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="189">
+                <Precinct name="Agri-Center" votes="23" />
+                <Precinct name="Airport" votes="23" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="15" />
+                <Precinct name="Concord" votes="2" />
+                <Precinct name="GSW Conf Center" votes="24" />
+                <Precinct name="Leslie" votes="24" />
+                <Precinct name="Plains" votes="15" />
+                <Precinct name="Rec Dept" votes="31" />
+                <Precinct name="Reese Park" votes="30" />
+                <Precinct name="Thompson" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Agri-Center" votes="2" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="1" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="1" />
+            <Precinct name="Leslie" votes="2" />
+            <Precinct name="Plains" votes="1" />
+            <Precinct name="Rec Dept" votes="5" />
+            <Precinct name="Reese Park" votes="1" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="0" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <Choice key="107" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="446">
+            <VoteType name="Absentee by Mail Votes" votes="97">
+                <Precinct name="Agri-Center" votes="9" />
+                <Precinct name="Airport" votes="7" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="4" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="8" />
+                <Precinct name="Leslie" votes="3" />
+                <Precinct name="Plains" votes="8" />
+                <Precinct name="Rec Dept" votes="30" />
+                <Precinct name="Reese Park" votes="25" />
+                <Precinct name="Thompson" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="133">
+                <Precinct name="Agri-Center" votes="12" />
+                <Precinct name="Airport" votes="14" />
+                <Precinct name="Andersonville" votes="1" />
+                <Precinct name="Browns Mill" votes="3" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="20" />
+                <Precinct name="Leslie" votes="8" />
+                <Precinct name="Plains" votes="4" />
+                <Precinct name="Rec Dept" votes="36" />
+                <Precinct name="Reese Park" votes="31" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="215">
+                <Precinct name="Agri-Center" votes="21" />
+                <Precinct name="Airport" votes="29" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="16" />
+                <Precinct name="Concord" votes="4" />
+                <Precinct name="GSW Conf Center" votes="24" />
+                <Precinct name="Leslie" votes="20" />
+                <Precinct name="Plains" votes="16" />
+                <Precinct name="Rec Dept" votes="48" />
+                <Precinct name="Reese Park" votes="31" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="109" text="Nicole Horn" party="DEM" totalVotes="250">
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Agri-Center" votes="10" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="5" />
+                <Precinct name="Leslie" votes="15" />
+                <Precinct name="Plains" votes="6" />
+                <Precinct name="Rec Dept" votes="11" />
+                <Precinct name="Reese Park" votes="9" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="72">
+                <Precinct name="Agri-Center" votes="3" />
+                <Precinct name="Airport" votes="9" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="18" />
+                <Precinct name="Leslie" votes="5" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="20" />
+                <Precinct name="Reese Park" votes="11" />
+                <Precinct name="Thompson" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="118">
+                <Precinct name="Agri-Center" votes="17" />
+                <Precinct name="Airport" votes="11" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="7" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="13" />
+                <Precinct name="Leslie" votes="15" />
+                <Precinct name="Plains" votes="12" />
+                <Precinct name="Rec Dept" votes="17" />
+                <Precinct name="Reese Park" votes="21" />
+                <Precinct name="Thompson" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="REP - US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="1" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Agri-Center" votes="0" />
+            <Precinct name="Airport" votes="0" />
+            <Precinct name="Andersonville" votes="0" />
+            <Precinct name="Browns Mill" votes="0" />
+            <Precinct name="Concord" votes="0" />
+            <Precinct name="GSW Conf Center" votes="0" />
+            <Precinct name="Leslie" votes="0" />
+            <Precinct name="Plains" votes="0" />
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Reese Park" votes="0" />
+            <Precinct name="Thompson" votes="0" />
+        </VoteType>
+        <Choice key="120" text="Jeremy Hunt" party="REP" totalVotes="734">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Agri-Center" votes="1" />
+                <Precinct name="Airport" votes="5" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="8" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="1" />
+                <Precinct name="Reese Park" votes="3" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="217">
+                <Precinct name="Agri-Center" votes="29" />
+                <Precinct name="Airport" votes="47" />
+                <Precinct name="Andersonville" votes="2" />
+                <Precinct name="Browns Mill" votes="15" />
+                <Precinct name="Concord" votes="1" />
+                <Precinct name="GSW Conf Center" votes="62" />
+                <Precinct name="Leslie" votes="15" />
+                <Precinct name="Plains" votes="8" />
+                <Precinct name="Rec Dept" votes="18" />
+                <Precinct name="Reese Park" votes="17" />
+                <Precinct name="Thompson" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="491">
+                <Precinct name="Agri-Center" votes="63" />
+                <Precinct name="Airport" votes="70" />
+                <Precinct name="Andersonville" votes="29" />
+                <Precinct name="Browns Mill" votes="42" />
+                <Precinct name="Concord" votes="44" />
+                <Precinct name="GSW Conf Center" votes="89" />
+                <Precinct name="Leslie" votes="46" />
+                <Precinct name="Plains" votes="48" />
+                <Precinct name="Rec Dept" votes="26" />
+                <Precinct name="Reese Park" votes="19" />
+                <Precinct name="Thompson" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="123" text="Chris West" party="REP" totalVotes="587">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Agri-Center" votes="6" />
+                <Precinct name="Airport" votes="3" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="2" />
+                <Precinct name="Concord" votes="1" />
+                <Precinct name="GSW Conf Center" votes="5" />
+                <Precinct name="Leslie" votes="1" />
+                <Precinct name="Plains" votes="6" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="3" />
+                <Precinct name="Thompson" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="197">
+                <Precinct name="Agri-Center" votes="36" />
+                <Precinct name="Airport" votes="30" />
+                <Precinct name="Andersonville" votes="4" />
+                <Precinct name="Browns Mill" votes="12" />
+                <Precinct name="Concord" votes="9" />
+                <Precinct name="GSW Conf Center" votes="32" />
+                <Precinct name="Leslie" votes="32" />
+                <Precinct name="Plains" votes="3" />
+                <Precinct name="Rec Dept" votes="15" />
+                <Precinct name="Reese Park" votes="20" />
+                <Precinct name="Thompson" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="362">
+                <Precinct name="Agri-Center" votes="47" />
+                <Precinct name="Airport" votes="23" />
+                <Precinct name="Andersonville" votes="22" />
+                <Precinct name="Browns Mill" votes="38" />
+                <Precinct name="Concord" votes="29" />
+                <Precinct name="GSW Conf Center" votes="56" />
+                <Precinct name="Leslie" votes="83" />
+                <Precinct name="Plains" votes="17" />
+                <Precinct name="Rec Dept" votes="13" />
+                <Precinct name="Reese Park" votes="20" />
+                <Precinct name="Thompson" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Agri-Center" votes="0" />
+                <Precinct name="Airport" votes="0" />
+                <Precinct name="Andersonville" votes="0" />
+                <Precinct name="Browns Mill" votes="0" />
+                <Precinct name="Concord" votes="0" />
+                <Precinct name="GSW Conf Center" votes="0" />
+                <Precinct name="Leslie" votes="0" />
+                <Precinct name="Plains" votes="0" />
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Reese Park" votes="0" />
+                <Precinct name="Thompson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

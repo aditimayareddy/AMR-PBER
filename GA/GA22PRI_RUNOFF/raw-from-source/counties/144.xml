@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/28/2022 3:16:21 PM EDT</Timestamp>
+    <ElectionName>June 21, 2022 - General Primary -Nonpartisan General Election Runoff</ElectionName>
+    <ElectionDate>6/21/2022</ElectionDate>
+    <Region>Union</Region>
+    <VoterTurnout totalVoters="19889" ballotsCast="363" voterTurnout="1.83">
+        <Precincts>
+            <Precinct name="Blairsville" totalVoters="2548" ballotsCast="48" voterTurnout="1.88" percentReporting="4" />
+            <Precinct name="Coosa" totalVoters="2337" ballotsCast="34" voterTurnout="1.45" percentReporting="4" />
+            <Precinct name="Choestoe" totalVoters="1373" ballotsCast="30" voterTurnout="2.18" percentReporting="4" />
+            <Precinct name="Jones Creek" totalVoters="1994" ballotsCast="47" voterTurnout="2.36" percentReporting="4" />
+            <Precinct name="Owltown" totalVoters="1515" ballotsCast="40" voterTurnout="2.64" percentReporting="4" />
+            <Precinct name="Ivy Log" totalVoters="2109" ballotsCast="23" voterTurnout="1.09" percentReporting="4" />
+            <Precinct name="Suches" totalVoters="609" ballotsCast="11" voterTurnout="1.81" percentReporting="4" />
+            <Precinct name="Trackrock" totalVoters="1131" ballotsCast="27" voterTurnout="2.39" percentReporting="4" />
+            <Precinct name="Dooley" totalVoters="1619" ballotsCast="32" voterTurnout="1.98" percentReporting="4" />
+            <Precinct name="Gumlog" totalVoters="2250" ballotsCast="31" voterTurnout="1.38" percentReporting="4" />
+            <Precinct name="Pat Colwell" totalVoters="2404" ballotsCast="40" voterTurnout="1.66" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="8" text="DEM - Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="2" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="1" />
+            <Precinct name="Pat Colwell" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="0" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="0" />
+            <Precinct name="Pat Colwell" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Charlie Bailey" party="DEM" totalVotes="297">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Blairsville" votes="13" />
+                <Precinct name="Coosa" votes="7" />
+                <Precinct name="Choestoe" votes="4" />
+                <Precinct name="Jones Creek" votes="3" />
+                <Precinct name="Owltown" votes="2" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="1" />
+                <Precinct name="Trackrock" votes="8" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="7" />
+                <Precinct name="Pat Colwell" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="132">
+                <Precinct name="Blairsville" votes="12" />
+                <Precinct name="Coosa" votes="14" />
+                <Precinct name="Choestoe" votes="13" />
+                <Precinct name="Jones Creek" votes="16" />
+                <Precinct name="Owltown" votes="20" />
+                <Precinct name="Ivy Log" votes="11" />
+                <Precinct name="Suches" votes="2" />
+                <Precinct name="Trackrock" votes="4" />
+                <Precinct name="Dooley" votes="9" />
+                <Precinct name="Gumlog" votes="13" />
+                <Precinct name="Pat Colwell" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="114">
+                <Precinct name="Blairsville" votes="12" />
+                <Precinct name="Coosa" votes="5" />
+                <Precinct name="Choestoe" votes="6" />
+                <Precinct name="Jones Creek" votes="23" />
+                <Precinct name="Owltown" votes="8" />
+                <Precinct name="Ivy Log" votes="9" />
+                <Precinct name="Suches" votes="5" />
+                <Precinct name="Trackrock" votes="14" />
+                <Precinct name="Dooley" votes="17" />
+                <Precinct name="Gumlog" votes="7" />
+                <Precinct name="Pat Colwell" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Kwanza Hall" party="DEM" totalVotes="61">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Blairsville" votes="6" />
+                <Precinct name="Coosa" votes="3" />
+                <Precinct name="Choestoe" votes="3" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="1" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="2" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="22">
+                <Precinct name="Blairsville" votes="2" />
+                <Precinct name="Coosa" votes="3" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="1" />
+                <Precinct name="Owltown" votes="4" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="4" />
+                <Precinct name="Gumlog" votes="1" />
+                <Precinct name="Pat Colwell" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Blairsville" votes="3" />
+                <Precinct name="Coosa" votes="2" />
+                <Precinct name="Choestoe" votes="2" />
+                <Precinct name="Jones Creek" votes="2" />
+                <Precinct name="Owltown" votes="5" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="3" />
+                <Precinct name="Trackrock" votes="1" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="0" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="DEM - Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Blairsville" votes="2" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="2" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="0" />
+            <Precinct name="Pat Colwell" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="0" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="0" />
+            <Precinct name="Pat Colwell" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Dee Dawkins-Haigler" party="DEM" totalVotes="42">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Blairsville" votes="2" />
+                <Precinct name="Coosa" votes="1" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="2" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="2" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Blairsville" votes="2" />
+                <Precinct name="Coosa" votes="3" />
+                <Precinct name="Choestoe" votes="0" />
+                <Precinct name="Jones Creek" votes="1" />
+                <Precinct name="Owltown" votes="2" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="2" />
+                <Precinct name="Dooley" votes="3" />
+                <Precinct name="Gumlog" votes="1" />
+                <Precinct name="Pat Colwell" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Blairsville" votes="4" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="2" />
+                <Precinct name="Owltown" votes="2" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="2" />
+                <Precinct name="Trackrock" votes="1" />
+                <Precinct name="Dooley" votes="2" />
+                <Precinct name="Gumlog" votes="2" />
+                <Precinct name="Pat Colwell" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="0" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Bee Nguyen" party="DEM" totalVotes="315">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Blairsville" votes="15" />
+                <Precinct name="Coosa" votes="9" />
+                <Precinct name="Choestoe" votes="6" />
+                <Precinct name="Jones Creek" votes="3" />
+                <Precinct name="Owltown" votes="3" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="1" />
+                <Precinct name="Trackrock" votes="8" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="8" />
+                <Precinct name="Pat Colwell" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="140">
+                <Precinct name="Blairsville" votes="12" />
+                <Precinct name="Coosa" votes="14" />
+                <Precinct name="Choestoe" votes="14" />
+                <Precinct name="Jones Creek" votes="16" />
+                <Precinct name="Owltown" votes="22" />
+                <Precinct name="Ivy Log" votes="12" />
+                <Precinct name="Suches" votes="2" />
+                <Precinct name="Trackrock" votes="2" />
+                <Precinct name="Dooley" votes="10" />
+                <Precinct name="Gumlog" votes="13" />
+                <Precinct name="Pat Colwell" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Blairsville" votes="11" />
+                <Precinct name="Coosa" votes="7" />
+                <Precinct name="Choestoe" votes="7" />
+                <Precinct name="Jones Creek" votes="23" />
+                <Precinct name="Owltown" votes="11" />
+                <Precinct name="Ivy Log" votes="8" />
+                <Precinct name="Suches" votes="6" />
+                <Precinct name="Trackrock" votes="14" />
+                <Precinct name="Dooley" votes="16" />
+                <Precinct name="Gumlog" votes="5" />
+                <Precinct name="Pat Colwell" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="DEM - Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Blairsville" votes="1" />
+            <Precinct name="Coosa" votes="1" />
+            <Precinct name="Choestoe" votes="1" />
+            <Precinct name="Jones Creek" votes="3" />
+            <Precinct name="Owltown" votes="3" />
+            <Precinct name="Ivy Log" votes="2" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="1" />
+            <Precinct name="Gumlog" votes="1" />
+            <Precinct name="Pat Colwell" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="0" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="0" />
+            <Precinct name="Pat Colwell" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Raphael Baker" party="DEM" totalVotes="110">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Blairsville" votes="6" />
+                <Precinct name="Coosa" votes="1" />
+                <Precinct name="Choestoe" votes="3" />
+                <Precinct name="Jones Creek" votes="3" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="2" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="53">
+                <Precinct name="Blairsville" votes="5" />
+                <Precinct name="Coosa" votes="5" />
+                <Precinct name="Choestoe" votes="5" />
+                <Precinct name="Jones Creek" votes="6" />
+                <Precinct name="Owltown" votes="12" />
+                <Precinct name="Ivy Log" votes="2" />
+                <Precinct name="Suches" votes="2" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="5" />
+                <Precinct name="Pat Colwell" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="Blairsville" votes="4" />
+                <Precinct name="Coosa" votes="3" />
+                <Precinct name="Choestoe" votes="2" />
+                <Precinct name="Jones Creek" votes="4" />
+                <Precinct name="Owltown" votes="5" />
+                <Precinct name="Ivy Log" votes="2" />
+                <Precinct name="Suches" votes="4" />
+                <Precinct name="Trackrock" votes="6" />
+                <Precinct name="Dooley" votes="5" />
+                <Precinct name="Gumlog" votes="3" />
+                <Precinct name="Pat Colwell" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="0" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Janice Laws Robinson" party="DEM" totalVotes="238">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Blairsville" votes="13" />
+                <Precinct name="Coosa" votes="9" />
+                <Precinct name="Choestoe" votes="4" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="2" />
+                <Precinct name="Ivy Log" votes="1" />
+                <Precinct name="Suches" votes="1" />
+                <Precinct name="Trackrock" votes="8" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="8" />
+                <Precinct name="Pat Colwell" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="95">
+                <Precinct name="Blairsville" votes="9" />
+                <Precinct name="Coosa" votes="11" />
+                <Precinct name="Choestoe" votes="8" />
+                <Precinct name="Jones Creek" votes="11" />
+                <Precinct name="Owltown" votes="11" />
+                <Precinct name="Ivy Log" votes="8" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="4" />
+                <Precinct name="Dooley" votes="12" />
+                <Precinct name="Gumlog" votes="8" />
+                <Precinct name="Pat Colwell" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="91">
+                <Precinct name="Blairsville" votes="10" />
+                <Precinct name="Coosa" votes="4" />
+                <Precinct name="Choestoe" votes="6" />
+                <Precinct name="Jones Creek" votes="20" />
+                <Precinct name="Owltown" votes="7" />
+                <Precinct name="Ivy Log" votes="7" />
+                <Precinct name="Suches" votes="4" />
+                <Precinct name="Trackrock" votes="9" />
+                <Precinct name="Dooley" votes="12" />
+                <Precinct name="Gumlog" votes="4" />
+                <Precinct name="Pat Colwell" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="DEM - Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="1" />
+            <Precinct name="Jones Creek" votes="2" />
+            <Precinct name="Owltown" votes="3" />
+            <Precinct name="Ivy Log" votes="1" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="1" />
+            <Precinct name="Gumlog" votes="2" />
+            <Precinct name="Pat Colwell" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blairsville" votes="0" />
+            <Precinct name="Coosa" votes="0" />
+            <Precinct name="Choestoe" votes="0" />
+            <Precinct name="Jones Creek" votes="0" />
+            <Precinct name="Owltown" votes="0" />
+            <Precinct name="Ivy Log" votes="0" />
+            <Precinct name="Suches" votes="0" />
+            <Precinct name="Trackrock" votes="0" />
+            <Precinct name="Dooley" votes="0" />
+            <Precinct name="Gumlog" votes="0" />
+            <Precinct name="Pat Colwell" votes="0" />
+        </VoteType>
+        <Choice key="77" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr." party="DEM" totalVotes="182">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Blairsville" votes="7" />
+                <Precinct name="Coosa" votes="7" />
+                <Precinct name="Choestoe" votes="4" />
+                <Precinct name="Jones Creek" votes="3" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="2" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="2" />
+                <Precinct name="Dooley" votes="1" />
+                <Precinct name="Gumlog" votes="6" />
+                <Precinct name="Pat Colwell" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="Blairsville" votes="6" />
+                <Precinct name="Coosa" votes="8" />
+                <Precinct name="Choestoe" votes="5" />
+                <Precinct name="Jones Creek" votes="8" />
+                <Precinct name="Owltown" votes="8" />
+                <Precinct name="Ivy Log" votes="2" />
+                <Precinct name="Suches" votes="2" />
+                <Precinct name="Trackrock" votes="2" />
+                <Precinct name="Dooley" votes="5" />
+                <Precinct name="Gumlog" votes="10" />
+                <Precinct name="Pat Colwell" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="78">
+                <Precinct name="Blairsville" votes="6" />
+                <Precinct name="Coosa" votes="5" />
+                <Precinct name="Choestoe" votes="3" />
+                <Precinct name="Jones Creek" votes="12" />
+                <Precinct name="Owltown" votes="9" />
+                <Precinct name="Ivy Log" votes="4" />
+                <Precinct name="Suches" votes="5" />
+                <Precinct name="Trackrock" votes="12" />
+                <Precinct name="Dooley" votes="12" />
+                <Precinct name="Gumlog" votes="3" />
+                <Precinct name="Pat Colwell" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="1" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="79" text="Nicole Horn" party="DEM" totalVotes="170">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Blairsville" votes="12" />
+                <Precinct name="Coosa" votes="3" />
+                <Precinct name="Choestoe" votes="3" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="2" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="1" />
+                <Precinct name="Trackrock" votes="6" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="4" />
+                <Precinct name="Pat Colwell" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="83">
+                <Precinct name="Blairsville" votes="8" />
+                <Precinct name="Coosa" votes="9" />
+                <Precinct name="Choestoe" votes="8" />
+                <Precinct name="Jones Creek" votes="9" />
+                <Precinct name="Owltown" votes="15" />
+                <Precinct name="Ivy Log" votes="9" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="2" />
+                <Precinct name="Dooley" votes="8" />
+                <Precinct name="Gumlog" votes="3" />
+                <Precinct name="Pat Colwell" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="55">
+                <Precinct name="Blairsville" votes="9" />
+                <Precinct name="Coosa" votes="2" />
+                <Precinct name="Choestoe" votes="5" />
+                <Precinct name="Jones Creek" votes="13" />
+                <Precinct name="Owltown" votes="3" />
+                <Precinct name="Ivy Log" votes="5" />
+                <Precinct name="Suches" votes="3" />
+                <Precinct name="Trackrock" votes="3" />
+                <Precinct name="Dooley" votes="5" />
+                <Precinct name="Gumlog" votes="3" />
+                <Precinct name="Pat Colwell" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blairsville" votes="0" />
+                <Precinct name="Coosa" votes="0" />
+                <Precinct name="Choestoe" votes="0" />
+                <Precinct name="Jones Creek" votes="0" />
+                <Precinct name="Owltown" votes="0" />
+                <Precinct name="Ivy Log" votes="0" />
+                <Precinct name="Suches" votes="0" />
+                <Precinct name="Trackrock" votes="0" />
+                <Precinct name="Dooley" votes="0" />
+                <Precinct name="Gumlog" votes="0" />
+                <Precinct name="Pat Colwell" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
