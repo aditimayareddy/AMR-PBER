@@ -4,7 +4,7 @@ Georgia 2022 Primary Election Precinct-Level Results
 09/13/23
 
 ## Sources
-The RDH retrieved 2022 precinct election precinct-level results from the Georgia Secretary of State [website] (https://results.enr.clarityelections.com/GA/113667/web.285569/#/access-to-races). The RDH navigated to each county's election results page and clicked "Detail XML", to get the results at the precinct level.
+Georgia Secretary of State
 
 ## Notes on Field Names (adapted from VEST):
 Columns reporting votes generally follow the pattern: 
@@ -14,11 +14,9 @@ The first character is G for a general election, P for a primary, S for a specia
 Characters 2 and 3 are the year of the election.*
 Characters 4-6 represent the office type (see list below).
 Character 7 represents the party of the candidate.
-Characters 8-10 are the first three letters of the candidate's last name.**
+Characters 8-10 are the first three letters of the candidate's last name.
 
 *To fit within the GIS 10 character limit for field names, the naming convention is slightly different for the State Legislature, Public Service Commissioners and US House of Representatives. All fields are listed below with definitions.
-
-** In instances where candidates in a given race have last names that start with the same three letters, the first letter of the last name, followed by the first two letters of the first name are used.
 
 Office Codes Used: 
 AGR - Commissioner of Agriculture
@@ -38,11 +36,7 @@ SSC - State Supreme Court
 COA - State Court of Appeals
 
 ## Fields:
-Field Name Description 
-UNIQUE_ID  Unique ID for each precinct 
-COUNTYFP   County FIP identifier                                            
-county     County Name                                                      
-precinct   Precinct Name
+Field Name Description                                                      
 P22USSDWAR Warnock, Raphael - US Senate - Dem                               
 P22USSDJOH Johnson-Shealey, Tamara - US Senate - Dem                        
 P22USSRWAL Walker, Herschel Junior - US Senate - Rep                        
@@ -60,7 +54,7 @@ P22GOVRWIL Williams, Tom - Governor - Rep
 P22LTGDHAL Hall, Kwanza - Lieutenant Governor - Dem                         
 P22LTGDBAI Bailey, Charlie - Lieutenant Governor - Dem                      
 P22LTGDSHA Shannon, Renitta - Lieutenant Governor - Dem                     
-P22LTGDBTY Brooks, Tyrone Jr - Lieutenant Governor - Dem                    
+P22LTGDBTY Jr, Tyrone Brooks - Lieutenant Governor - Dem                    
 P22LTGDALL Allen, Erick E - Lieutenant Governor - Dem                       
 P22LTGDJAC Jackson, Derrick L - Lieutenant Governor - Dem                   
 P22LTGDBTO Brown, Tony - Lieutenant Governor - Dem                          
@@ -93,9 +87,9 @@ P22INSDWIL Wilson, Matthew - Commissioner of Insurance - Dem
 P22INSRKIN King, John - Commissioner of Insurance - Rep                     
 P22INSRWIT Witt, Patrick - Commissioner of Insurance - Rep                  
 P22INSRCOW Cowart, Ben - Commissioner of Insurance - Rep                    
-P22LABDBOD Boddie, William Will Jr - Commissioner of Labor - Dem            
+P22LABDBOD Jr, William Will Boddie - Commissioner of Labor - Dem            
 P22LABDHOR Horn, Nicole - Commissioner of Labor - Dem                       
-P22LABDJAC Jackson, Lester G III - Commissioner of Labor - Dem              
+P22LABDJAC III, Lester G Jackson - Commissioner of Labor - Dem              
 P22LABDSUR Surrency, Nadia - Commissioner of Labor - Dem                    
 P22LABDDEA Dean, Thomas - Commissioner of Labor - Dem                       
 P22LABRTHO Thompson, Bruce - Commissioner of Labor - Rep                    
@@ -110,7 +104,7 @@ PPSC03DMOO Moore, Missy - Public Service Commissioner - District 3 - Dem
 PPSC03RJOH Johnson, Fitz - Public Service Commissioner - District 3 - Rep   
 P22SUPDSEA Searcy, Alisha Thomas - State School Superintendent - Dem        
 P22SUPDHOW Howard, Jaha V - State School Superintendent - Dem               
-P22SUPDMOR Morrow, James Jr - State School Superintendent - Dem             
+P22SUPDMOR Jr, James Morrow - State School Superintendent - Dem             
 P22SUPDHIT Hitchens, Currey - State School Superintendent - Dem             
 P22SUPRWOO Woods, Richard - State School Superintendent - Rep               
 P22SUPRBAR Barge, John D - State School Superintendent - Rep                
@@ -126,7 +120,7 @@ PCON01DGRI Griggs, Joyce Marie - US House - District 1 - Dem
 PCON01DHER Herring, Wade - US House - District 1 - Dem                      
 PCON01DMUN Munroe, Michelle L - US House - District 1 - Dem                 
 PCON02DBIS Bishop, Sanford - US House - District 2 - Dem                    
-PCON02DOHA O'Hara, Joe - US House - District 2 - Dem                         
+PCON02DOHA OHara, Joe - US House - District 2 - Dem                         
 PCON02RHUN Hunt, Jeremy - US House - District 2 - Rep                       
 PCON02RWES West, Chris - US House - District 2 - Rep                        
 PCON02RJOH Johnson, Wayne - US House - District 2 - Rep                     
@@ -136,7 +130,7 @@ PCON02RWHI Whitehead, Paul - US House - District 2 - Rep
 PCON03RFER Ferguson, Drew - US House - District 3 - Rep                     
 PCON03RCRA Craig, Jared - US House - District 3 - Rep                       
 PCON03DALM Almonord, Val - US House - District 3 - Dem                      
-PCON04DJOH Johnson, Henry C Hank Jr - US House - District 4 - Dem           
+PCON04DJOH Jr, Henry C Hank Johnson - US House - District 4 - Dem           
 PCON04RCHA Chavez, Jonathan - US House - District 4 - Rep                   
 PCON04RIVY Ivy, Surrea - US House - District 4 - Rep                        
 PCON05RZIM Zimm, Christian - US House - District 5 - Rep                    
@@ -249,15 +243,15 @@ PSU19DMOO  Moore, Michael Buckle - State Senate - District 19 - Dem
 PSU20RWAL  Walker, Larry - State Senate - District 20 - Rep                 
 PSU21RBEA  Beach, Brandon - State Senate - District 21 - Rep                
 PSU22RDAN  Danielson, Andrew - State Senate - District 22 - Rep             
-PSU22DJON  Jones, Harold V II - State Senate - District 22 - Dem            
+PSU22DJON  II, Harold V Jones - State Senate - District 22 - Dem            
 PSU23RBUR  Burns, Max - State Senate - District 23 - Rep                    
 PSU24RAND  Anderson, Lee - State Senate - District 24 - Rep                 
 PSU25DROD  Rodgers, Valerie - State Senate - District 25 - Dem              
 PSU25RWIL  Williams, Ricky Rick - State Senate - District 25 - Rep          
 PSU25RJEF  Jeffares, Rick - State Senate - District 25 - Rep                
-PSU25ROLI  Olinger, Leland Jake II - State Senate - District 25 - Rep       
+PSU25ROLI  II, Leland Jake Olinger - State Senate - District 25 - Rep       
 PSU25RSUL  Sullivan-Marzahl, Daniela - State Senate - District 25 - Rep     
-PSU26DLUC  Lucas, David E Sr - State Senate - District 26 - Dem             
+PSU26DLUC  Sr, David E Lucas - State Senate - District 26 - Dem             
 PSU27DBIN  Binion, Brent - State Senate - District 27 - Dem                 
 PSU27RDOL  Dolezal, Greg - State Senate - District 27 - Rep                 
 PSU28RBRA  Brass, Matt - State Senate - District 28 - Rep                   
@@ -276,7 +270,7 @@ PSU34DSEA  Seay, Valencia M - State Senate - District 34 - Dem
 PSU35DJAM  James, Donzella - State Senate - District 35 - Dem               
 PSU35DJON  Jones, Whitney Kenner - State Senate - District 35 - Dem         
 PSU35DGIL  Gilliam, Lula - State Senate - District 35 - Dem                 
-PSU35DGLA  Glanton, Mike Jr - State Senate - District 35 - Dem              
+PSU35DGLA  Jr, Mike Glanton - State Senate - District 35 - Dem              
 PSU36DORR  Orrock, Nan - State Senate - District 36 - Dem                   
 PSU36DSMI  Smith, Asa - State Senate - District 36 - Dem                    
 PSU36DSTE  Stell, Chase - State Senate - District 36 - Dem                  
@@ -300,7 +294,7 @@ PSU43RWIL  Williams, Melanie - State Senate - District 43 - Rep
 PSU43DAND  Anderson, Tonya P - State Senate - District 43 - Dem             
 PSU43DLES  Lester, Joe N - State Senate - District 43 - Dem                 
 PSU44DDAV  Davenport, Gail - State Senate - District 44 - Dem               
-PSU44DFLO  Flourney, Robert Jr - State Senate - District 44 - Dem           
+PSU44DFLO  Jr, Robert Flournoy - State Senate - District 44 - Dem           
 PSU45DJON  Jones, Matielyn - State Senate - District 45 - Dem               
 PSU45RDIX  Dixon, Clint - State Senate - District 45 - Rep                  
 PSU46DFER  Ferguson, Andrew - State Senate - District 46 - Dem              
@@ -308,7 +302,7 @@ PSU46RCOW  Cowsert, Bill - State Senate - District 46 - Rep
 PSU47RGIN  Ginn, Frank - State Senate - District 47 - Rep                   
 PSU47RHAR  Harvin, Ross - State Senate - District 47 - Rep                  
 PSU47RCHA  Chase, Charlie - State Senate - District 47 - Rep                
-PSU47DSCO  Scott, Conolus Jr - State Senate - District 47 - Dem             
+PSU47DSCO  Jr, Conolus Scott - State Senate - District 47 - Dem             
 PSU48RSTI  Still, Shawn - State Senate - District 48 - Rep                  
 PSU48RGRI  Grindlay, Kevin - State Senate - District 48 - Rep               
 PSU48DUDD  Uddin, Josh - State Senate - District 48 - Dem                   
@@ -336,7 +330,7 @@ PSL002RTAR Tarvin, Steve - State House - District 2 - Rep
 PSL002RCOL Coles, Jim - State House - District 2 - Rep                      
 PSL002RNOB Noblitt, Todd - State House - District 2 - Rep                   
 PSL003RHOR Horner, Mitchell - State House - District 3 - Rep                
-PSL003RWEL Weldon, Darrell Jr - State House - District 3 - Rep              
+PSL003RWEL Sr, Darrell Weldon - State House - District 3 - Rep              
 PSL004RCAR Carpenter, Kasey - State House - District 4 - Rep                
 PSL004RVOY Voyles, Nick - State House - District 4 - Rep                    
 PSL005RBAR Barton, Matt - State House - District 5 - Rep                    
@@ -381,7 +375,7 @@ PSL024RBAR Barrett, Carter - State House - District 24 - Rep
 PSL024RSOL Solly, Ed - State House - District 24 - Rep                      
 PSL025DMEY Meyer, Craig J - State House - District 25 - Dem                 
 PSL025RJON Jones, Todd - State House - District 25 - Rep                    
-PSL026RMCD Mcdonald, Lauren W III - State House - District 26 - Rep         
+PSL026RMCD III, Lauren W McDonald - State House - District 26 - Rep         
 PSL026DHEL Helms, Matthew J - State House - District 26 - Dem               
 PSL027RHAW Hawkins, Lee - State House - District 27 - Rep                   
 PSL028RCOX Cox, Brent - State House - District 28 - Rep                     
@@ -397,7 +391,7 @@ PSL030DFLO Floria, Kim - State House - District 30 - Dem
 PSL030RMCC McCollum, Derrick - State House - District 30 - Rep              
 PSL030RPIM Pimentel, Whitney - State House - District 30 - Rep              
 PSL030RSAN Sanders, Barry - State House - District 30 - Rep                 
-PSL031RDUN Dunahoo, Emory Jr - State House - District 31 - Rep              
+PSL031RDUN Jr, Emory Dunahoo - State House - District 31 - Rep              
 PSL031RCLE Clerici, Don - State House - District 31 - Rep                   
 PSL032RERW Erwin, Chris - State House - District 32 - Rep                   
 PSL033RPOW Powell, Alan - State House - District 33 - Rep                   
@@ -492,7 +486,7 @@ PSL068RMAT Mathis, Stoney - State House - District 68 - Rep
 PSL069DBAZ Bazemore, Debra - State House - District 69 - Dem                
 PSL069DJAC Jackson, Tyriq - State House - District 69 - Dem                 
 PSL069DBRO Brown, Cobie Lyrix - State House - District 69 - Dem             
-PSL070DAND Anderson, Calvin Louis Jr - State House - District 70 - Dem      
+PSL070DAND Jr, Calvin Louis Anderson - State House - District 70 - Dem      
 PSL070RSMI Smith, Lynn - State House - District 70 - Rep                    
 PSL070RNUN Nunez, Angel - State House - District 70 - Rep                   
 PSL071DOKA Okafor, Afoma Eguh - State House - District 71 - Dem             
@@ -522,7 +516,7 @@ PSL083RBER Bernard, Catherine - State House - District 83 - Rep
 PSL084DCRA Crawford, Omari - State House - District 84 - Dem                
 PSL084DRAE Raeford, Maurice - State House - District 84 - Dem               
 PSL085DDRE Drenner, Karla - State House - District 85 - Dem                 
-PSL085DONE O'Neil, Joscelyn C - State House - District 85 - Dem              
+PSL085DONE ONeil, Joscelyn C - State House - District 85 - Dem              
 PSL086DBAR Barnes, Imani - State House - District 86 - Dem                  
 PSL086DADA Adams, Jacqueline - State House - District 86 - Dem              
 PSL086DIVE Ivey, Marvis McDaniel - State House - District 86 - Dem          
@@ -630,7 +624,7 @@ PSL136RJEN Jenkins, David - State House - District 136 - Rep
 PSL136RMUR Murphy, Kenneth - State House - District 136 - Rep               
 PSL137RRIC Rickett, Justin - State House - District 137 - Rep               
 PSL137DBUC Buckner, Debbie G - State House - District 137 - Dem             
-PSL138RSMI Smith, Vance Jr - State House - District 138 - Rep               
+PSL138RSMI Jr, Vance Smith - State House - District 138 - Rep               
 PSL139RSMI Smith, Richard H - State House - District 139 - Rep              
 PSL140DREE Reese, Tremaine Teddy - State House - District 140 - Dem         
 PSL140DBAK Baker, Zeph - State House - District 140 - Dem                   
@@ -645,7 +639,7 @@ PSL146RBLA Blackmon, Shaw - State House - District 146 - Rep
 PSL146DDRI Driver, Courtney L - State House - District 146 - Dem            
 PSL147RBAL Ballard, Bethany - State House - District 147 - Rep              
 PSL147DPHI Phillips, Ariel - State House - District 147 - Dem               
-PSL148RWIL Williams, Noel Jr - State House - District 148 - Rep             
+PSL148RWIL Jr, Noel Williams - State House - District 148 - Rep             
 PSL149RMAT Mathis, Danny - State House - District 149 - Rep                 
 PSL149RPRU Pruitt, Robert - State House - District 149 - Rep                
 PSL150DBEN Bentley, Patty - State House - District 150 - Dem                
@@ -684,7 +678,7 @@ PSL169DBRO Brockington, Mickey - State House - District 169 - Dem
 PSL170RHOU Houston, Penny - State House - District 170 - Rep                
 PSL171RCAM Campbell, Joe - State House - District 171 - Rep                 
 PSL172RWAT Watson, Sam - State House - District 172 - Rep                   
-PSL173DJEN Jenkins, Keith L Sr - State House - District 173 - Dem           
+PSL173DJEN Sr, Keith L Jenkins - State House - District 173 - Dem           
 PSL173RTAY Taylor, Darlene - State House - District 173 - Rep               
 PSL174RCOR Corbett, John L - State House - District 174 - Rep               
 PSL175RLAH Lahood, John - State House - District 175 - Rep                  
@@ -697,7 +691,11 @@ PSL179RTOW Townsend, Rick - State House - District 179 - Rep
 PSL179RDUN Duncan, Bob - State House - District 179 - Rep                   
 PSL179RKIL Killgallon, John C - State House - District 179 - Rep            
 PSL180RSAI Sainz, Steven - State House - District 180 - Rep                 
-PSL180RSMI Smith, Cody - State House - District 180 - Rep                                                                      
+PSL180RSMI Smith, Cody - State House - District 180 - Rep                   
+UNIQUE_ID  Unique ID for each precinct                                      
+COUNTYFP   County FIP identifier                                            
+county     County Name                                                      
+precinct   Precinct Name                                                    
 
 ## Processing Steps
 Visit the RDH GitHub and the processing script for this code [here](https://github.com/nonpartisan-redistricting-datahub/pber_collection/tree/main/GA/2022)
