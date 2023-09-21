@@ -275,29 +275,154 @@ COA - State Court of Appeals
 ## Processing Steps
 Visit the RDH GitHub and the processing script for this code [here]({github_link})
 
-## Additional Notes
-Files were checked against separate statewide and countywide election result files also available from the Georgia Secretary of State. Results matched exactly except for differences below.
-
-Georgia Secretary of State summary files had no reported votes for the following contests:
-Cook County - G22COANBAR, G22COANMCF, G22COANPIP, G22SSSCNMCM, G22SSCNLAG, G22SSCNCOL, G22SSCNBRI
-Grady County - PCON02DBIS
-Mitchell County - PCON02DBIS
-Thomas County - PSL173RTAY, PSL173DSR
-In all instances where the SOS county-level file had no reported votes in a contest in a specific county, vote numbers from the precinct-level compiled dataset are presumed to be accurate and included in this dataset.
-
-Georgia Secretary of State summary files had no reported data for the following contest:
-Grady County - PCON02DOHA
-Mitchell County - PCON02DOHA
-In this instance, we believe this candidate received zero votes in these counties because votes for other candidates were reported at the precinct level in this contest.
-However, we are unable to confirm, since there is no reported data for this candidate, in these counties.
-
-Georgia Secretary of State summary files had equal vote total discrepancies in the following contests:
-Pickens County - 9 votes swapped between G22SSCNMCM and G22SSCNLAG contests
-Whitfield County - 16 votes swapped between G22SSCNMCM and G22SSCNLAG contests
-The vote discrepancies in Pickens and Whitfield county seem to indicate swapping of 9 and 16 votes in each county respectively. We are unable to determine whether this error originated at the precinct, or county level. Given the differences found in other contests in the Secretary of State's county-level file, we are unable to support it's accuracy. We have chosen to leave the precinct-level vote totals unaltered in these contests.
-
 Please direct questions related to processing this dataset to info@redistrictingdatahub.org.
 '''.format(github_link=github_link)
     
     full_readme = str(readme_p1)+str(readme_p2)+str(readme_p3)
     return full_readme
+
+def create_fips_col(csv_path, state_name_string, df, county_col_string):
+    fips_file = pd.read_csv(csv_path)
+    fips_file = fips_file[fips_file["State"] == state_name_string]
+    fips_file["FIPS County"] = fips_file["FIPS County"].astype(str)
+    fips_file["FIPS County"] = fips_file["FIPS County"].str.zfill(3)
+    fips_file['County Name'] = fips_file['County Name'].apply(lambda x: x.replace(' ', ''))
+    fips_file['County Name'] = fips_file['County Name'].apply(lambda x: str(x).lower())
+    fips_dict = dict(zip(fips_file['County Name'], fips_file['FIPS County']))
+    df['COUNTYFP'] = df[county_col_string].apply(lambda x: str(x).lower())
+    df['COUNTYFP'] = df['COUNTYFP'].map(fips_dict).fillna(df[county_col_string])
+    df['COUNTYFP'] = df['COUNTYFP'].astype(str)
+    df['COUNTYFP'] = df['COUNTYFP'].str.zfill(3)
+    return df
+
+#Function cleans candidate and contest strings, and combines into a pivot column
+def create_pivot_col(df, name_string, contest_string, pivot_string):
+    df[name_string] = df[name_string].apply(lambda x: str(x).strip())
+    df[contest_string] = df[contest_string].apply(lambda x: str(x).strip())
+    df[name_string] = df[name_string].apply(lambda x:' '.join(str(x).split())) # This removes extra spaces between first and last name
+    substrings_to_remove = ['.', "'", '"', ',', '(I)']
+    for substring in substrings_to_remove:
+        df[name_string] = df[name_string].apply(lambda x: x.replace(substring, ''))
+        df[contest_string] = df[contest_string].apply(lambda x: x.replace(substring, ''))
+    #Anomalies specific to this election
+    df[name_string] = df[name_string].apply(lambda x: x.replace('Deloach', 'DeLoach'))
+    df[name_string] = df[name_string].apply(lambda x: x.replace('Tabitha Johnson- Green', 'Tabitha Johnson-Green'))
+    df[name_string] = df[name_string].apply(lambda x: str(x).strip())
+    df[contest_string] = df[contest_string].apply(lambda x: str(x).strip())
+    df[pivot_string]= df[name_string]+ ' -:- ' + df[contest_string]
+    return df
+
+#functions to rename columns
+def get_election_type_year(race_string):
+    if any(word in race_string.lower() for word in ['court of appeals', 'supreme court']):
+         electype = "R"
+    else:
+        electype = "R"
+    if any(word in race_string.lower() for word in ['us house', 'state house', 'state senate', 'public service commissioner', 'psc']):
+        return electype
+    else:
+        return electype +"22"
+    
+def get_race(race_string):
+    race_string = race_string.lower()
+    if '/' in race_string:
+        race_string = race_string.split('/')[0]
+    race = ''
+    if "u.s. house" in race_string or 'us house' in race_string:
+        race = "CON"
+    elif "state house" in race_string:
+        race =  "SL"
+    elif "state senate" in race_string:
+        race = "SU"
+    elif "us senate" in race_string or "u.s senate" in race_string:
+        race = "USS"
+    elif "public service" in race_string:
+        race = "PSC"
+    elif "attorney general" in race_string:
+        race = "ATG"
+    elif "auditor general" in race_string:
+        race = "AUD"
+    elif "treasurer" in race_string:
+        race = "TRE"
+    elif "superintendent" in race_string:
+        race = "SUP"
+    elif "secretary of state" in race_string:
+        race = "SOS"
+    elif "lieutenant governor" in race_string or 'liutenant governor' in race_string:
+        race = "LTG"
+    elif "governor" in race_string:
+        race = "GOV"
+    elif "commissioner of labor" in race_string:
+        race = "LAB"
+    elif "commissioner of agriculture" in race_string:
+        race = "AGR"
+    elif "commissioner of insurance" in race_string:
+        race = "INS"
+    elif "state school superintendent" in race_string:
+        race = "SUP"
+    elif "public service commissioner" in race_string or 'psc' in race_string:
+        race = "PSC"
+    elif "supreme court" in race_string:
+        race = "SSC"
+    elif "court of appeals" in race_string:
+        race = "COA"
+    if any(word in race_string for word in ['us house', 'state senate', 'public service commissioner', 'psc']):
+        district = ''.join(filter(str.isdigit, race_string)).zfill(2)
+    elif 'state house' in race_string:
+        district = ''.join(filter(str.isdigit, race_string)).zfill(3)
+    else:
+        district = ''
+    return race + district
+
+def get_party(race_string): #order is D first, then R, to account for instances of 'house of REPresentatives'
+    if "dem" in race_string.lower():
+        return "D"
+    elif "rep" in race_string.lower():
+        return "R"
+    elif "supreme court" in race_string.lower() or "court of appeals" in race_string.lower():
+        return "N"
+    
+def get_name(name_string):
+    name_string = name_string.split("-:-")[0]
+    name_string = name_string.replace("'","")
+    name_string = name_string.replace('"','')
+    name_string = name_string.replace(',','')
+    name_string = name_string.strip()
+    if name_string.split(" ")[-1] in ['II', 'III', 'Jr', 'Jr.', 'Sr.', 'JR.', "JR", "IV", 'Jr', 'Sr']:
+            likely_last = name_string.split(" ")[-2]
+    else:
+        likely_last = name_string.split(" ")[-1]
+    return likely_last[:3].upper()
+
+def get_VEST(race_string):
+    electype = get_election_type_year(race_string)
+    contest = get_race(race_string)
+    party = get_party(race_string)
+    candidate = get_name(race_string)
+    vest_name = electype+contest+party+candidate
+    if len(vest_name) > 10:
+        print(vest_name)
+    return vest_name
+
+def create_column_rename_dicts(df, exclude_columns):
+    contest_columns = [i for i in df.columns if i not in exclude_columns]
+
+    contest_updates_dict = {}
+    contest_updates_reversed = {}
+    clean_dups = {}
+    new_names = []
+    
+    for val in contest_columns:
+        new_name = get_VEST(val)  # get_VEST
+        contest_updates_dict[val] = new_name
+        
+        if new_name not in new_names:
+            new_names.append(new_name)
+            contest_updates_reversed[new_name] = val
+        else:
+            print("Duplicate", new_name)
+            print(contest_updates_reversed[new_name])
+            print(val)
+            clean_dups[val] = contest_updates_reversed[new_name]
+    
+    return contest_updates_dict, contest_updates_reversed, clean_dups
